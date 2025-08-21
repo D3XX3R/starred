@@ -1,0 +1,19 @@
+name: update awesome-stars
+on:
+  schedule:
+  - cron: 0 6 * * *
+  workflow_dispatch:
+jobs:
+  awesome-stars:
+    name: update awesome-stars
+    runs-on: ubuntu-latest
+    container: ghcr.io/juev/starred:latest
+    steps:
+    - 
+      name: 🚀 Run Starred
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      # env:
+      #   GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      # run: starred --username juev --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'update stars'
+      run: starred --username d3xx3r --repository starred --sort --message 'update stars'
