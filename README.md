@@ -950,6 +950,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) – Free Modern URL Shortener.
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) – Usenet meta search
 - [tubededentifrice/streamdeck-crypto](https://github.com/tubededentifrice/streamdeck-crypto) – StreamDeck plugin for cryptocurrencies
+- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [unintended/download-organizer-chrome-extension](https://github.com/unintended/download-organizer-chrome-extension) – Chrome extesion that allows you to set custom download locations with a flexible regexp-based rules.
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [vercel/next.js](https://github.com/vercel/next.js) – The React Framework
@@ -1512,7 +1513,7 @@
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) – Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) – Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, native Discord overlay alternative for modded clients
-- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) – Production-ready Inference, Ingestion and Indexing built in Rust 🦀
+- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) – Highly Performant, Modular and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [StractOrg/stract](https://github.com/StractOrg/stract) – web search done right
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) – Most feature-complete Linux GUI power management solution.
 - [TheCactusVert/mpv-sponsorblock](https://github.com/TheCactusVert/mpv-sponsorblock) – MPV plugin that allow you to skip sponsors while watching YouTube videos
@@ -1646,7 +1647,7 @@
 - [mu-arch/skyfolder](https://github.com/mu-arch/skyfolder) – 🪂 SkyFolder shares your folders on the network!
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) – peer-2-peer that just works
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
-- [neevek/omnip](https://github.com/neevek/omnip) – An all-in-one proxy written in Rust.
+- [neevek/omnip](https://github.com/neevek/omnip) – An all in one proxy written in Rust.
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
@@ -1724,7 +1725,6 @@
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
-- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/OxidizeBot](https://github.com/udoprog/OxidizeBot) – High performance Twitch bot in Rust
