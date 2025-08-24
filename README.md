@@ -428,6 +428,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) – WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+- [mikeoliphant/neural-amp-modeler-lv2](https://github.com/mikeoliphant/neural-amp-modeler-lv2) – Neural Amp Modeler LV2 plugin
 - [misyltoad/dxup](https://github.com/misyltoad/dxup) – A d3d9 and d3d10 to d3d11 translation layer.
 - [momo5502/sogen](https://github.com/momo5502/sogen) – 🪅 Windows User Space Emulator 
 - [monero-project/monero](https://github.com/monero-project/monero) – Monero: the secure, private, untraceable cryptocurrency
@@ -447,6 +448,7 @@
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) – A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [rolandoislas/LightHost](https://github.com/rolandoislas/LightHost) – A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.
 - [royshil/obs-cleanstream](https://github.com/royshil/obs-cleanstream) – CleanStream is an OBS plugin that uses AI to clean live audio streams from unwanted words and utterances
+- [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) – Plugin for Neural Amp Modeler
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) – a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.
@@ -1278,7 +1280,7 @@
 - [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) – List of public proxies, and checked to some domain like Google, Facebook, Twitter
 - [Warths/Rocksmith-Scene-Switcher](https://github.com/Warths/Rocksmith-Scene-Switcher) – Rocksmith 2014 scene switcher for OBS
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
-- [Woahai321/list-sync](https://github.com/Woahai321/list-sync) – ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
+- [Woahai321/list-sync](https://github.com/Woahai321/list-sync) – ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [Woolverine94/biniou](https://github.com/Woolverine94/biniou) – a self-hosted webui for 30+ generative ai
 - [WorldObservationLog/AppleMusicDecrypt](https://github.com/WorldObservationLog/AppleMusicDecrypt) – Apple Music decryption tool, based on zhaarey/apple-music-alac-atmos-downloader
 - [Xientraa/The-Sims-Resource-Downloader](https://github.com/Xientraa/The-Sims-Resource-Downloader) – A Python tool to download items with ease from The Sims Resource.
