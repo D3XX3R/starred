@@ -326,6 +326,7 @@
 
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) – Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
 - [AIRLegend/aitrack](https://github.com/AIRLegend/aitrack) – 6DoF Head tracking software
+- [AidaDSP/AIDA-X](https://github.com/AidaDSP/AIDA-X) – AIDA-X, an Amp Model Player leveraging AI
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) – OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [Aitum/obs-aitum-multistream](https://github.com/Aitum/obs-aitum-multistream)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
@@ -336,6 +337,7 @@
 - [DaltonLens/DaltonLens](https://github.com/DaltonLens/DaltonLens) – Desktop utility to assist color blind people with different kind of real-time filters.
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) – Windows dll injector
 - [Denellyne/PCXSense](https://github.com/Denellyne/PCXSense) – Translates the inputs from the Dualsense into XInput making it compatible with any PC Game
+- [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
 - [GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) – Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
@@ -1114,6 +1116,7 @@
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) – Curated list of awesome things related to Deno
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) – A collection of awesome things regarding React ecosystem
+- [flathub/org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler](https://github.com/flathub/org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler)
 - [fromtheexchange/image2svg-awesome](https://github.com/fromtheexchange/image2svg-awesome) – All about image tracing and vectorization—the conversion of a raster image (jpg/png) to a vector image (svg).
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
@@ -1242,7 +1245,7 @@
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) – Notify if a selected plane has taken off or landed using ADS-B data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, Mastodon, and Telegram
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) – A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [KimberleyJensen/Mel-Band-Roformer-Vocal-Model](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model)
-- [KnifeXRage/Godot-Secure](https://github.com/KnifeXRage/Godot-Secure) – Godot Secure transforms your Godot engine into a fortress for game assets. By integrating Camellia-256 / AES-256 encryption with a unique security token system, this solution creates a cryptographically unique engine build that prevents generic decryption tools from accessing your game assets.
+- [KnifeXRage/Godot-Secure](https://github.com/KnifeXRage/Godot-Secure) – Godot Secure is a Simple Python Script That modify the Godot Source Code Automatically, to integrate Camellia-256 / AES-256 encryption with a unique security token system. This solution creates a cryptographically unique engine build that prevents generic decryption tools from accessing your game assets.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [L480/cloudflare-dyndns](https://github.com/L480/cloudflare-dyndns) – ☁️ Cloudflare DynDNS solution for AVM FRITZ!Box
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station)
@@ -1940,7 +1943,7 @@
 - [Zaarrg/DropBot](https://github.com/Zaarrg/DropBot) – Drop Bot. Automaticlly Farms every Drop available like Rust for ya and now also your Custom Channel's
 - [abdfnx/botway](https://github.com/abdfnx/botway) – 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart) – Control panel to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) – The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) – AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
