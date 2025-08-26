@@ -799,7 +799,7 @@
 - [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 1.21.5 using Fabric
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) – Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [ddxy/whispercat](https://github.com/ddxy/whispercat)
-- [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!  Customer Service: https://discord.gg/3RUjaRzdKv
+- [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!  Customer Service: https://www.breakblocks.com/discord
 - [etkmlm/CoreLauncher](https://github.com/etkmlm/CoreLauncher) – A modern and powerful launcher for Minecraft.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) – Decentralized P2P exchange platform built on Monero and Tor
 - [helge17/tuxguitar](https://github.com/helge17/tuxguitar) – Open source guitar tablature editor
@@ -1900,7 +1900,7 @@
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) – Puts Docker Containers to sleep and wakes them back up when they're needed
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [JMBeresford/retrom](https://github.com/JMBeresford/retrom) – A centralized game library/collection management service with a focus on emulation
-- [Jellify-Music/App](https://github.com/Jellify-Music/App) – A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
+- [Jellify-Music/App](https://github.com/Jellify-Music/App) – A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) – Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) – Download sheet music
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
