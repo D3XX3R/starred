@@ -307,6 +307,7 @@
 - [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) – Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) – Real-Debrid Client Proxy
 - [rscustom/rocksmith-custom-song-toolkit](https://github.com/rscustom/rocksmith-custom-song-toolkit) – Custom song toolkit for Rocksmith and Rocksmith 2014
+- [schneidermanuel/TwitchLeecher-Dx](https://github.com/schneidermanuel/TwitchLeecher-Dx) – Twitch Leecher DX - The Broadcast Downloader
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) – Easily edit and manage the hosts file for Windows
 - [sp0ok3r/Mercury](https://github.com/sp0ok3r/Mercury) – Mercury is a powerful tool for Steam users built on SteamKit2, offering advanced features for managing accounts, chats, and interactions.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
@@ -529,6 +530,7 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [BrisklyDev/brisk](https://github.com/BrisklyDev/brisk) – Ultra-fast, modern download manager for desktop 
+- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) – Fladder - A Simple Jellyfin frontend built on top of Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility) – An app to download patches and launch Jackbox games
 - [Kounex/obs_blade](https://github.com/Kounex/obs_blade) – Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream
@@ -2014,6 +2016,7 @@
 - [jakemiki/twitch-clip-queue](https://github.com/jakemiki/twitch-clip-queue) – A simple, setup free clip queue for all your Twitch clip queueing needs
 - [jaypyles/open-spots](https://github.com/jaypyles/open-spots) – Open Spots is a fork of Spots that is designed to help organizations deliver real-time building availability data to staff, employees, customers, or students.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) – Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) – JetKVM - Control any computer remotely
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) – Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
