@@ -593,7 +593,7 @@
 
 ## Gherkin
 
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) – Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers.
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) – Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 
 <div id="glsl"></div>
 
@@ -917,6 +917,7 @@
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) – An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [kokolihapihvi/RockSniffer](https://github.com/kokolihapihvi/RockSniffer) – RockSniffer application
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+- [l2xu/betterbahn](https://github.com/l2xu/betterbahn)
 - [lacymorrow/crossover](https://github.com/lacymorrow/crossover) – 🎯 A Crosshair Overlay for any screen. 
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) – End-To-End File & Message Encryption For Discord
 - [liamcottle/rustplus.js](https://github.com/liamcottle/rustplus.js) – Unofficial NodeJS library for controlling Smart Switches in the PC game Rust
@@ -1683,6 +1684,7 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) – Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [robotty/recent-messages2](https://github.com/robotty/recent-messages2) – Service to provide historical messages to Twitch chat clients
 - [robotty/twitch-irc-rs](https://github.com/robotty/twitch-irc-rs) – Twitch IRC library for the Rust programming language
@@ -1780,6 +1782,7 @@
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [debloper/xplex](https://github.com/debloper/xplex) – The renaissance will be multi-streamed LIVE—with xplex!
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -2149,6 +2152,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) – 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
 - [TarkovTracker/TarkovTracker](https://github.com/TarkovTracker/TarkovTracker) – TarkovTracker - a webapp for tracking and planning your progress in the game Escape From Tarkov.
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) – A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Zibbp/Radium](https://github.com/Zibbp/Radium) – Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) – Cross-platform GUI for Git. Built with Monaco Editor and Electron.
