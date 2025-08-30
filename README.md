@@ -241,7 +241,6 @@
 - [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) – One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [Saeryhz/SeaOfEase](https://github.com/Saeryhz/SeaOfEase) – Join the same Sea of Thieves server with your friends
 - [SaviorXTanren/mixer-mixitup](https://github.com/SaviorXTanren/mixer-mixitup) – Streaming bot application for handling chat, events, moderation, and other streamer assistance features
-- [SecHex/SecHex-Spoofy](https://github.com/SecHex/SecHex-Spoofy) – C# HWID Changer 🔑︎ Disk, Guid, Mac, Gpu, Pc-Name, Win-ID, EFI, SMBIOS Spoofing [Usermode]
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) – Smart PVR for newsgroup and bittorrent users.
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) – A modern spotnet client and index for your *arr apps.
 - [Squalr/Squalr](https://github.com/Squalr/Squalr) – Squalr Memory Editor - Game Hacking Tool Written in C#
@@ -917,7 +916,6 @@
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) – An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [kokolihapihvi/RockSniffer](https://github.com/kokolihapihvi/RockSniffer) – RockSniffer application
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-- [l2xu/betterbahn](https://github.com/l2xu/betterbahn)
 - [lacymorrow/crossover](https://github.com/lacymorrow/crossover) – 🎯 A Crosshair Overlay for any screen. 
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) – End-To-End File & Message Encryption For Discord
 - [liamcottle/rustplus.js](https://github.com/liamcottle/rustplus.js) – Unofficial NodeJS library for controlling Smart Switches in the PC game Rust
@@ -1099,6 +1097,7 @@
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) – Build and run Docker containers leveraging NVIDIA GPUs
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) – Combined repo for the RTX-Remix runtime and toolkit
+- [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) – A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
 - [PCJones/usenet-guide](https://github.com/PCJones/usenet-guide) – Ein deutscher Einsteiger-Guide für das Usenet
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) – This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
@@ -1288,7 +1287,7 @@
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) – ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [Woolverine94/biniou](https://github.com/Woolverine94/biniou) – a self-hosted webui for 30+ generative ai
-- [WorldObservationLog/AppleMusicDecrypt](https://github.com/WorldObservationLog/AppleMusicDecrypt) – Apple Music decryption tool, based on zhaarey/apple-music-alac-atmos-downloader
+- [WorldObservationLog/AppleMusicDecrypt](https://github.com/WorldObservationLog/AppleMusicDecrypt) – Apple Music decryption tool, inspired by zhaarey/apple-music-alac-atmos-downloader
 - [Xientraa/The-Sims-Resource-Downloader](https://github.com/Xientraa/The-Sims-Resource-Downloader) – A Python tool to download items with ease from The Sims Resource.
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
@@ -2029,6 +2028,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) – Xplorer, a customizable, modern file manager
 - [kmr-ankitt/szare](https://github.com/kmr-ankitt/szare) – Offline File Sharing application 
 - [krud-dev/ostara](https://github.com/krud-dev/ostara) – Ostara is a cross-platform desktop app for managing and monitoring Spring Boot applications using the Actuator API, providing comprehensive insights and effortless control.
+- [l2xu/betterbahn](https://github.com/l2xu/betterbahn)
 - [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
