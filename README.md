@@ -149,6 +149,7 @@
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) – Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) – Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 - [hfiref0x/DSEFix](https://github.com/hfiref0x/DSEFix) – Windows x64 Driver Signature Enforcement Overrider
+- [isjerryxiao/kmsvnc](https://github.com/isjerryxiao/kmsvnc) – A VNC server for DRM/KMS capable GNU/Linux devices
 - [jagt/clumsy](https://github.com/jagt/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [jmattaa/laser](https://github.com/jmattaa/laser) – basically `ls` but `lsr`, and configurable with lua!
 - [kila58/qemu-patched](https://github.com/kila58/qemu-patched) – QEMU patched to avoid detection from various anticheats such as Battleye/EAC
@@ -373,7 +374,7 @@
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
-- [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) – ASI Loader is the tool that loads custom libraries with the file extension .asi into any game process.
+- [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) – The Ultimate ASI Loader is a proxy DLL that loads custom .asi libraries into any game process.
 - [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) – Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) – SteamOS session compositing window manager
 - [ValveSoftware/steam-audio](https://github.com/ValveSoftware/steam-audio) – Steam Audio
@@ -635,7 +636,7 @@
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) – join public router. quickly.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) – A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) – Corrective lenses for curmudgeonly readars in your life
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
@@ -1935,6 +1936,7 @@
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) – Frontend For TextBin (Open Source Alternative to PasteBin)
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
 - [Vedinsoh/discord-auto-publisher](https://github.com/Vedinsoh/discord-auto-publisher) – Discord bot to automatically publish messages or news in your announcement channels!
