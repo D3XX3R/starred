@@ -648,6 +648,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) – CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [d6o/Gorganizer](https://github.com/d6o/Gorganizer) – Organize your folders into a beautiful classified folder structure with this perfect tool
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) – Tiny native Discord app
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [evan-sm/twitchpl](https://github.com/evan-sm/twitchpl) – ▶️🎵 Get m3u8 twitch playlist
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -708,6 +709,7 @@
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [taubyte/tau](https://github.com/taubyte/tau) – Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [tess1o/go-ecoflow-exporter](https://github.com/tess1o/go-ecoflow-exporter)
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) – Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) – Realtime BirdNET soundscape analyzer
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [traggo/server](https://github.com/traggo/server) – self-hosted tag-based time tracking
