@@ -872,7 +872,7 @@
 - [TarkovTracker/tarkovdata](https://github.com/TarkovTracker/tarkovdata) – Escape From Tarkov game data, contributed by the community, maintained by developers of community tools
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) – Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [Thann/play-with-mpv](https://github.com/Thann/play-with-mpv) – Chrome extension that allows you to play videos in webpages like youtube with MPV instead
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Upload/Up1](https://github.com/Upload/Up1) – Client-side encrypted image host web server
 - [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) – Nortix Mail - disposable email server with an easy setup
 - [ZiXyos/BlackJacku](https://github.com/ZiXyos/BlackJacku) – Just a BlackJack App To Learn MongoDb, Express, reactJs, NodeJs
@@ -1105,6 +1105,7 @@
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) – This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) – ShareX custom uploaders
+- [SteamAutoCracks/ManifestHub](https://github.com/SteamAutoCracks/ManifestHub) – Steam Depot Manifest Library
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) – A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [TwitchmodsDACH/Bannlisten](https://github.com/TwitchmodsDACH/Bannlisten)
 - [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
@@ -1943,7 +1944,7 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
 - [Vedinsoh/discord-auto-publisher](https://github.com/Vedinsoh/discord-auto-publisher) – Discord bot to automatically publish messages or news in your announcement channels!
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) – Vesktop is a custom Discord App aiming to give you better performance and improve linux support
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) – The cutest Discord client mod
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) – The cutest Discord modification
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) – An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) – Simple self-hosted music streaming server
 - [XDean/deno-create-react-app](https://github.com/XDean/deno-create-react-app) – Create React App with Deno
