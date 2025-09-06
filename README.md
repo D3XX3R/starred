@@ -626,6 +626,7 @@
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [Zhoros/SuperBin](https://github.com/Zhoros/SuperBin) – Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) – Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) – An automated e-mail OSINT tool
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
@@ -892,6 +893,7 @@
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler.  https://secrethitler.io
 - [cracker0dks/CaptchaSolver](https://github.com/cracker0dks/CaptchaSolver) – JDownload 2 Offline Captcha Solver
 - [cspi-git/ZeroDiscord](https://github.com/cspi-git/ZeroDiscord) – A collection of Discord hacks, exploits & tools that is completely made using NodeJS.
+- [debloper/xplex](https://github.com/debloper/xplex) – The renaissance will be multi-streamed LIVE—with xplex!
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) – RTSP Stream to WebBrowser
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) – AdNauseam: Fight back against advertising surveillance
@@ -1378,6 +1380,7 @@
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot) – 🏓 A bot that relays Twitch Chat and a Discord Channel between each other.
 - [n00mkrad/flowframes](https://github.com/n00mkrad/flowframes) – Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
+- [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) – DeDRM tools for ebooks
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
@@ -1787,7 +1790,6 @@
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
-- [debloper/xplex](https://github.com/debloper/xplex) – The renaissance will be multi-streamed LIVE—with xplex!
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [dockur/macos](https://github.com/dockur/macos) – macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) – Windows inside a Docker container.
@@ -1952,9 +1954,8 @@
 - [Zaarrg/DropBot](https://github.com/Zaarrg/DropBot) – Drop Bot. Automaticlly Farms every Drop available like Rust for ya and now also your Custom Channel's
 - [abdfnx/botway](https://github.com/abdfnx/botway) – 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart) – Control panel to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) – The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) – AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) – AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy
