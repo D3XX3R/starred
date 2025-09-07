@@ -960,7 +960,6 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) – Free Modern URL Shortener.
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) – Usenet meta search
 - [tubededentifrice/streamdeck-crypto](https://github.com/tubededentifrice/streamdeck-crypto) – StreamDeck plugin for cryptocurrencies
-- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [unintended/download-organizer-chrome-extension](https://github.com/unintended/download-organizer-chrome-extension) – Chrome extesion that allows you to set custom download locations with a flexible regexp-based rules.
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [vercel/next.js](https://github.com/vercel/next.js) – The React Framework
@@ -1740,6 +1739,7 @@
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
+- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/OxidizeBot](https://github.com/udoprog/OxidizeBot) – High performance Twitch bot in Rust
