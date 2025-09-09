@@ -735,6 +735,7 @@
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) – A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
+- [guibeira/wakezilla](https://github.com/guibeira/wakezilla) – A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖   
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
@@ -1261,7 +1262,7 @@
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse AI: Leverages Librosa for sonic analysis and AI-powered clustering to create smart, tempo and mood-based playlists within Jellyfin and Navidrome API
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI leverages Librosa and TensorFlow for sonic analysis, powering similar song discovery and smart playlists within Jellyfin and Navidrome API.
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
@@ -1678,7 +1679,7 @@
 - [paulkernfeld/glx](https://github.com/paulkernfeld/glx) – Analyzing the Green Line Extension with OpenStreetMap
 - [picoHz/taxy](https://github.com/picoHz/taxy) – A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust.
 - [plabayo/rama](https://github.com/plabayo/rama) – modular service framework to move and transform network packets
-- [pola-rs/polars](https://github.com/pola-rs/polars) – Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) – Extremely fast Query Engine for DataFrames, written in Rust
 - [polyphony-chat/symfonia](https://github.com/polyphony-chat/symfonia) – A Polyphony chat server, compatible with Spacebar and the Discord API.
 - [pr4k/locate](https://github.com/pr4k/locate) – A Recursive Search tool in Rust 
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
