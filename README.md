@@ -818,6 +818,7 @@
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) – A fork of NewPipe with SponsorBlock functionality.
 - [prometheusreengineering/essential](https://github.com/prometheusreengineering/essential) – The prometheus' patch for Essential Mod.
 - [questdb/questdb](https://github.com/questdb/questdb) – QuestDB is a high performance, open-source, time-series database
+- [rfresh2/ZenithProxy](https://github.com/rfresh2/ZenithProxy) – 2b2t minecraft proxy / bot
 - [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) – Library mod for masa's client-side Minecraft mods
 - [sakura-ryoko/syncmatica](https://github.com/sakura-ryoko/syncmatica) – Server-wide shared litematics.
 - [theonedev/onedev](https://github.com/theonedev/onedev) – Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -1313,7 +1314,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
@@ -1840,6 +1841,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [mugendi/x-files-search](https://github.com/mugendi/x-files-search) – Search files on your computer like a boss!
+- [ofkm/arcane](https://github.com/ofkm/arcane) – Modern Docker Management, Designed for Everyone
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [s0er3n/GeoBingo.io](https://github.com/s0er3n/GeoBingo.io) – a multiplayer street view bingo game
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) – Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -2063,7 +2065,6 @@
 - [nichtLehdev/DiscordBot](https://github.com/nichtLehdev/DiscordBot)
 - [noaione/mpv-js-scripts](https://github.com/noaione/mpv-js-scripts) – Some mpv scripts I created (made in JS)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
-- [ofkm/arcane](https://github.com/ofkm/arcane) – Modern Docker Management, Designed for Everyone
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) – Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) – Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
