@@ -163,6 +163,7 @@
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) – The “Quite OK Image Format” for fast, lossless image compression
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) – µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) – Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
+- [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
 - [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin) – ESP32 based module to control Daikin aircon units
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
@@ -1046,6 +1047,7 @@
 ## Makefile
 
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof) – Portspoof
+- [ediblerope/Discord-Capture-Limiter](https://github.com/ediblerope/Discord-Capture-Limiter) – A lightweight daemon that automatically manages multiple Discord audio capture streams in PipeWire, ensuring only the oldest stream remains active to prevent audio duplication issues.
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
 
@@ -1281,6 +1283,7 @@
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) – Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) – An elegant Linux app for the Elgato Stream Deck with support for plugins
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) – This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
+- [Stuw/shelly-plug-monitor](https://github.com/Stuw/shelly-plug-monitor) – Grafana+prometheus based power usage monitoring for Shelly Plug S
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) – Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) – PoC to record audio from a Bluetooth device
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) – Download Video or Audio from YouTube channels on a schedule via yt-dlp.
@@ -1476,6 +1479,7 @@
 - [ChecksumDev/lumen](https://github.com/ChecksumDev/lumen) – Lumen is an astronomically fast ShareX uploader written in Rust using the Actix Web framework
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) – A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [DavorMar/rustautogui](https://github.com/DavorMar/rustautogui) – Highly optimized GUI automation rust library for controlling the mouse and keyboard, with template matching support.
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
 - [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
 - [Desdaemon/tauri-dioxus](https://github.com/Desdaemon/tauri-dioxus) – Dioxus integration with Tauri on most major platforms
 - [Dillonb/nmuidi](https://github.com/Dillonb/nmuidi) – Deletes stuff, hopefully quickly
@@ -1536,7 +1540,7 @@
 - [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) – Simple, self-hostable filesharing application with builtin end-to-end encryption
 - [Tomyyy-1337/fileshare](https://github.com/Tomyyy-1337/fileshare) – A GUI Applikation to share Files in local Network or over the Internet. Written in Rust using Iced. 
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) – A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) – 3D City Builder without a grid
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) – A powerful (home) server admininistration tool written in Rust
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) – Set up a modern rust+react web app by running one command. 
@@ -1676,7 +1680,7 @@
 - [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) – Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.
+- [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) – Let Sonarr fetch episodes on demand for a show you are watching on Jellyfin/Emby/Plex.
 - [paulkernfeld/glx](https://github.com/paulkernfeld/glx) – Analyzing the Green Line Extension with OpenStreetMap
 - [picoHz/taxy](https://github.com/picoHz/taxy) – A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust.
 - [plabayo/rama](https://github.com/plabayo/rama) – modular service framework to move and transform network packets
@@ -1898,7 +1902,6 @@
 - [CraigChat/craig](https://github.com/CraigChat/craig) – Craig is a multi-track voice recorder for Discord.
 - [Crazeflex/BetterScreenShare](https://github.com/Crazeflex/BetterScreenShare) – Screenshare plugin for VC
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) – 🧡 Everything is RSSible
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
