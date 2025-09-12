@@ -84,7 +84,7 @@
 ## Assembly
 
 - [briansmith/ring](https://github.com/briansmith/ring) – An experiment.
-- [donno2048/snake](https://github.com/donno2048/snake) – A minimal snake in assembly 
+- [donno2048/snake](https://github.com/donno2048/snake) – A 56 bytes snake game in assembly 
 - [memorysafety/rav1d](https://github.com/memorysafety/rav1d) – An AV1 decoder in Rust.
 - [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
 
@@ -290,7 +290,7 @@
 - [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) – Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 - [lengran/OpenPrefirePrac](https://github.com/lengran/OpenPrefirePrac) – An open-source CounterStrikeSharp powered server-side practicing plugin for CS2. It provides multiple prefire practices on competitive maps and support multiplayer practicing simultaneously.
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) – Everything search plugin for PowerToys Run
-- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) – Driver Store Explorer [RAPR]
+- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) – Driver Store Explorer
 - [lowleveldesign/process-governor](https://github.com/lowleveldesign/process-governor) – This application allows you to put various limits on Windows processes.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) – UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) – SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
