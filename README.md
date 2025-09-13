@@ -2099,7 +2099,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [squirrelchat/squirrel](https://github.com/squirrelchat/squirrel) – WIP: Next-gen, open-source and enterprise-ready chat platform.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) – A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) – A Jellyfin client built with Expo
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) – A modern Jellyfin client built with Expo
 - [supabase/supabase](https://github.com/supabase/supabase) – The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
