@@ -1947,7 +1947,6 @@
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) – Frontend For TextBin (Open Source Alternative to PasteBin)
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
 - [Vedinsoh/discord-auto-publisher](https://github.com/Vedinsoh/discord-auto-publisher) – Discord bot to automatically publish messages or news in your announcement channels!
@@ -2164,6 +2163,7 @@
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) – 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
 - [TarkovTracker/TarkovTracker](https://github.com/TarkovTracker/TarkovTracker) – TarkovTracker - a webapp for tracking and planning your progress in the game Escape From Tarkov.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) – A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Zibbp/Radium](https://github.com/Zibbp/Radium) – Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) – Cross-platform GUI for Git. Built with Monaco Editor and Electron.
