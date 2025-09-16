@@ -736,7 +736,6 @@
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) – A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
-- [guibeira/wakezilla](https://github.com/guibeira/wakezilla) – A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖   
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
@@ -1609,6 +1608,7 @@
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) – High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 - [greyblake/nutype](https://github.com/greyblake/nutype) – Rust newtype with guarantees  🇺🇦 🦀
 - [griffi-gh/kubi](https://github.com/griffi-gh/kubi) – Multithreaded voxel engine with multiplayer networking based on wgpu (a.k.a another attempt at ripping off Minecraft)
+- [guibeira/wakezilla](https://github.com/guibeira/wakezilla) – A simple Wake-on-LAN & reverse proxy toolkit — wake, route, and control your machines from anywhere. 🦖   
 - [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) – A cross-platform serial monitor/plotter written entirely in rust.
 - [harlanc/xiu](https://github.com/harlanc/xiu) –  A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
 - [hartwork/rust-for-it](https://github.com/hartwork/rust-for-it) – :crab: Wait for one or more services (TCP ports) to be available before executing a command; Rust version of wait-for-it
@@ -1719,7 +1719,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) – Build & ship backends without writing any infrastructure files.
 - [sidit77/bluefang](https://github.com/sidit77/bluefang) – A experimental, very non-conformant, pure rust bluetooth stack
-- [skateco/skate](https://github.com/skateco/skate) – Low resource, no daemon, kubernetes manifest compatible mini-paas.
+- [skateco/skate](https://github.com/skateco/skate) – Low resource, no daemon, kubernetes manifest compatible container platform
 - [slint-ui/slint](https://github.com/slint-ui/slint) – Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) – AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
