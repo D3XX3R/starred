@@ -297,7 +297,7 @@
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) – Application designed to optimize and customize your Windows experience.
 - [mhwlng/streamdeck-elite](https://github.com/mhwlng/streamdeck-elite) – Elgato Stream Deck plugin for Elite Dangerous
 - [microsoft/CsWin32](https://github.com/microsoft/CsWin32) – A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [mikeoliphant/ChartPlayer](https://github.com/mikeoliphant/ChartPlayer) – Visual player for song charts synchronized to music recordings
 - [neatchee/nvidiaProfileInspectorForkAIO](https://github.com/neatchee/nvidiaProfileInspectorForkAIO) – An attempt to merge all work from forks of nvProfileInspector into a single release
 - [netchx/netch](https://github.com/netchx/netch) – A simple proxy client
