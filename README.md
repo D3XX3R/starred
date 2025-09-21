@@ -416,7 +416,7 @@
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) – KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) – KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [keklick1337/7zip-extended](https://github.com/keklick1337/7zip-extended) – A Patched Version of 7-Zip for Improved Mask Handling
 - [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) – Advanced VM detection library and tool
 - [koord-live/KoordASIO](https://github.com/koord-live/KoordASIO) – A user-friendly universal ASIO driver for use with any Windows installation. Supports WASAPI (shared and exclusive) and includes config GUI.
@@ -782,6 +782,7 @@
 - [FoundryMC/Veil](https://github.com/FoundryMC/Veil) – Upgrade your modding potential with cutting-edge rendering and game-engine features. Built for modders, by modders.
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) – A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [Greeenman999/LibrarianTradeFinder](https://github.com/Greeenman999/LibrarianTradeFinder) – A fabric mod that helps you find the enchantments you need from a Librarian Villager.
+- [Inkshriek/dndsheets](https://github.com/Inkshriek/dndsheets) – A mod to let you play D&D 5e in Minecraft.
 - [JacksonHoggard/raydream](https://github.com/JacksonHoggard/raydream) – 💡 Raytracer with GUI editor
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) – Fast, Automatic In-Game Seed Cracker for Minecraft.
 - [MCRcortex/nvidium](https://github.com/MCRcortex/nvidium) – Fast minecraft rendering backend for sodium (nvidia only)
@@ -1317,6 +1318,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – A lightweight tool to synchronize your watchlists and playlists across Plex, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
