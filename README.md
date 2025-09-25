@@ -420,7 +420,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) – KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [keklick1337/7zip-extended](https://github.com/keklick1337/7zip-extended) – A Patched Version of 7-Zip for Improved Mask Handling
 - [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) – Advanced VM detection library and tool
-- [koord-live/KoordASIO](https://github.com/koord-live/KoordASIO) – A user-friendly universal ASIO driver for use with any Windows installation. Supports WASAPI (shared and exclusive) and includes config GUI.
+- [kormix-io/KoordASIO](https://github.com/kormix-io/KoordASIO) – A user-friendly universal ASIO driver for use with any Windows installation. Supports WASAPI (shared and exclusive) and includes config GUI.
 - [kushview/element](https://github.com/kushview/element) – Element Audio Plugin Host
 - [landave/TeamSpeakHasher](https://github.com/landave/TeamSpeakHasher) – OpenCL-based tool to increase the security level of TeamSpeak identities
 - [leadedge/Spout2](https://github.com/leadedge/Spout2) – A video frame sharing system for Microsoft Windows
