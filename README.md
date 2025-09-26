@@ -1513,7 +1513,7 @@
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
 - [ParleSec/ZeroVault](https://github.com/ParleSec/ZeroVault) – Rust-based lightweight cryptographic cli designed for encrypting and verifying sensitive documents using modern, secure encryption primitives. The vault uses AES-256-GCM for symmetric encryption and Ed25519 for digital signatures.
-- [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten) – A modern Steam achievements mannager for Windows and Linux
+- [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten) – A modern Steam achievements manager for Windows and Linux
 - [PaulDance/cargo-liner](https://github.com/PaulDance/cargo-liner) – Cargo subcommand to install and update binary packages listed in configuration
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) – Synchronize games from other platforms into your Steam library
 - [PixelP4radise/house_simulator_rust](https://github.com/PixelP4radise/house_simulator_rust) – A Rust adaptation of a School Project meant to be done in C++ with ncurses
@@ -1550,7 +1550,6 @@
 - [abenz1267/walker](https://github.com/abenz1267/walker) – Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) – Find the password of protected ZIP files.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) – HTTP mocking library for Rust
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) – Stream VR games from your PC to your headset via Wi-Fi
 - [anglerud/interiris](https://github.com/anglerud/interiris) – Internet quality monitor
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
@@ -1620,6 +1619,7 @@
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [howardwu/wagyu](https://github.com/howardwu/wagyu) – A Rust library for generating cryptocurrency wallets
 - [http-rs/tide](https://github.com/http-rs/tide) – Fast and friendly HTTP server framework for async Rust
+- [httpmock/httpmock](https://github.com/httpmock/httpmock) – HTTP mocking library for Rust
 - [iByteABit256/Vivace](https://github.com/iByteABit256/Vivace) – Command line tool to download songs from Youtube
 - [iced-rs/iced](https://github.com/iced-rs/iced) – A cross-platform GUI library for Rust, inspired by Elm
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) – A bittorrent client in Rust
