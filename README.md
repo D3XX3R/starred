@@ -705,7 +705,7 @@
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [scribble-rs/scribble.rs](https://github.com/scribble-rs/scribble.rs) – The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) – A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
-- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) – A Qbittorent API with Debrid Support
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) – A Qbittorent Mock with Debrid Support
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
