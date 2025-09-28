@@ -829,6 +829,7 @@
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Access your entire server infrastructure from your local desktop
 - [xpple/SeedMapper](https://github.com/xpple/SeedMapper) – In-game Minecraft Fabric mod that allows you to do various things with the world seed.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – Browse media content with your own rules on Android TV
+- [zapek/Xeres](https://github.com/zapek/Xeres) – A Friend-to-Friend, decentralized and secure application for communication and sharing
 
 <div id="javascript"></div>
 
@@ -1319,7 +1320,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – A lightweight tool to synchronize your watchlists and playlists across Plex, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
@@ -1738,6 +1739,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) – A cross platform Mastodon Client written in Rust
 - [thewh1teagle/mc](https://github.com/thewh1teagle/mc) – Modern file copying
+- [timvisee/ffsend](https://github.com/timvisee/ffsend) – :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [timvisee/lazymc](https://github.com/timvisee/lazymc) – 💤 Put your Minecraft server to rest when idle.
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) – Ergonomic and modular web framework built with Tokio, Tower, and Hyper
