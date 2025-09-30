@@ -151,6 +151,7 @@
 - [hfiref0x/DSEFix](https://github.com/hfiref0x/DSEFix) – Windows x64 Driver Signature Enforcement Overrider
 - [isjerryxiao/kmsvnc](https://github.com/isjerryxiao/kmsvnc) – A VNC server for DRM/KMS capable GNU/Linux devices
 - [jagt/clumsy](https://github.com/jagt/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) – JetKVM - Control any computer remotely
 - [jmattaa/laser](https://github.com/jmattaa/laser) – basically `ls` but `lsr`, and configurable with lua!
 - [kila58/qemu-patched](https://github.com/kila58/qemu-patched) – QEMU patched to avoid detection from various anticheats such as Battleye/EAC
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
@@ -737,6 +738,7 @@
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) – A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
+- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
@@ -1267,7 +1269,7 @@
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI leverages Librosa and TensorFlow for sonic analysis, powering similar song discovery and smart playlists within Jellyfin and Navidrome API.
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to your self-hosted music library. Using powerful tools like Librosa and Tensorflow, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
@@ -1314,7 +1316,6 @@
 - [berarma/oversteer](https://github.com/berarma/oversteer) – Steering Wheel Manager for GNU/Linux
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
@@ -1342,7 +1343,6 @@
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) – SponsorBlock client for all YouTube TV clients.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) – Blender addons to make the bridge between Blender and geographic data
 - [dp247/StreamsToM3U8](https://github.com/dp247/StreamsToM3U8) – Converts live streams into an M3U8 file and basic EPG. Easily forked and setup for anyone to use!
-- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
 - [ente0/hashCrack](https://github.com/ente0/hashCrack) – Python-based Hashcat wrapper for easy decryption.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
@@ -1980,6 +1980,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
@@ -2036,7 +2037,6 @@
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) – Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) – JetKVM - Control any computer remotely
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) – Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) – A code snippet storage solution written in React & node.js
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) – The npm-style script runner for Deno
@@ -2055,7 +2055,7 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) – AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform.
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
-- [menloresearch/jan](https://github.com/menloresearch/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [meowabyte/VencordPlugins](https://github.com/meowabyte/VencordPlugins) – My plugins made for the cutest Discord client mod called "Vencord"
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
