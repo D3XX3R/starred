@@ -1484,7 +1484,7 @@
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) – A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [DavorMar/rustautogui](https://github.com/DavorMar/rustautogui) – Highly optimized GUI automation rust library for controlling the mouse and keyboard, with template matching support.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
-- [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
+- [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – moved to https://git.defelo.de/Defelo/sandkasten
 - [Desdaemon/tauri-dioxus](https://github.com/Desdaemon/tauri-dioxus) – Dioxus integration with Tauri on most major platforms
 - [Dillonb/nmuidi](https://github.com/Dillonb/nmuidi) – Deletes stuff, hopefully quickly
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Fullstack app framework for web, desktop, and mobile.
