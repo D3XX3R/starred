@@ -693,7 +693,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
-- [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC -> WebRTC Server that generates a CPU Usage report
+- [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
@@ -788,9 +788,11 @@
 - [Inkshriek/dndsheets](https://github.com/Inkshriek/dndsheets) – A mod to let you play D&D 5e in Minecraft.
 - [JacksonHoggard/raydream](https://github.com/JacksonHoggard/raydream) – 💡 Raytracer with GUI editor
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) – Fast, Automatic In-Game Seed Cracker for Minecraft.
+- [KiLABGaming/auton8](https://github.com/KiLABGaming/auton8) – n8n for Minecraft
 - [MCRcortex/nvidium](https://github.com/MCRcortex/nvidium) – Fast minecraft rendering backend for sodium (nvidia only)
 - [MCRcortex/voxy](https://github.com/MCRcortex/voxy) – An LoD rendering mod for minecraft
 - [MCRcortex/vulkanite](https://github.com/MCRcortex/vulkanite) – A minecraft mod designed to bring vulkan hardware raytracing to minecraft java edition
+- [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) – google maps for block game
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) – Based Minecraft utility mod.
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) – 1.21.8 Lightweight Minecraft server
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
@@ -853,7 +855,7 @@
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) – Open-source alternative of Discord desktop's app.asar
 - [Hakkin/twitchintegrity](https://github.com/Hakkin/twitchintegrity)
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) – Cloud replacement for vacuum robots enabling local-only operation
 - [InvoxiPlayGames/johnbox](https://github.com/InvoxiPlayGames/johnbox) – Jackbox Games Private Server Implementation
 - [ItsPi3141/discord-fake-avatar-decorations](https://github.com/ItsPi3141/discord-fake-avatar-decorations) – Create profile pictures with avatar decorations so you can use them in Discord without spending money
