@@ -1760,7 +1760,7 @@
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
-- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/OxidizeBot](https://github.com/udoprog/OxidizeBot) – High performance Twitch bot in Rust
@@ -2013,7 +2013,7 @@
 - [diogotr7/starchar](https://github.com/diogotr7/starchar) – Star Citizen Character Tool
 - [discordeno/discordeno](https://github.com/discordeno/discordeno) – Discord API library for Node and Deno
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) – A free and open-source community discussion platform.
-- [dubinc/dub](https://github.com/dubinc/dub) – The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) – The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) – dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
