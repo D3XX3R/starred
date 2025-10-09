@@ -343,7 +343,7 @@
 - [Denellyne/PCXSense](https://github.com/Denellyne/PCXSense) – Translates the inputs from the Dualsense into XInput making it compatible with any PC Game
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
-- [Emiliopg91/RogControlCenter](https://github.com/Emiliopg91/RogControlCenter)
+- [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
 - [GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) – Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
@@ -848,6 +848,7 @@
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) – Select which region you connect to in various Valve games
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere. 
 - [ChocoMeow/Vocard-Dashboard](https://github.com/ChocoMeow/Vocard-Dashboard) – Vocard Dashboard is a web-based user interface that allows users to control the Vocard music bot directly from their browser. With this dashboard, you can easily manage music playback, create playlists, and interact with the bot in a user-friendly way.
+- [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) – Datamining Discord changes from the JS files
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) – Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) – Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
