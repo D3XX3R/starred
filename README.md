@@ -1278,7 +1278,7 @@
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to your self-hosted music library. Using powerful tools like Librosa and Tensorflow, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to your self-hosted music library. Using powerful tools like Librosa and ONNX, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
@@ -1618,7 +1618,6 @@
 - [gamedig/rust-gamedig](https://github.com/gamedig/rust-gamedig) – Game Server Query Library.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – A cross-platform, safe, pure-Rust graphics API.
 - [google/forma](https://github.com/google/forma) – An efficient vector-graphics renderer
-- [graphform/swim-rust](https://github.com/graphform/swim-rust) – Self-contained distributed software platform for building stateful, massively real-time streaming applications in Rust.
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) – High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 - [greyblake/nutype](https://github.com/greyblake/nutype) – Rust newtype with guarantees  🇺🇦 🦀
 - [griffi-gh/kubi](https://github.com/griffi-gh/kubi) – Multithreaded voxel engine with multiplayer networking based on wgpu (a.k.a another attempt at ripping off Minecraft)
