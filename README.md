@@ -645,6 +645,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1255,7 +1256,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) – 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [FahrplanDatenGarten/FahrplanDatenGarten](https://github.com/FahrplanDatenGarten/FahrplanDatenGarten)
-- [Fajar-RahmadJaya/KeyTik](https://github.com/Fajar-RahmadJaya/KeyTik) – GUI-Based Keyboard Remapper with Profiles, Auto Clicker, Screen Clicker, Multiple Files Opener, AutoHotkey Script Manager and More.
+- [Fajar-RahmadJaya/KeyTik](https://github.com/Fajar-RahmadJaya/KeyTik) – A Powerful Multi-Profile Key Mapper, Clicker, Macro, and More.
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) – A simple and lightweight app for running Windows games using UMU-Launcher
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) – M3U Playlist for free TV channels
@@ -1330,7 +1331,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1805,6 +1805,7 @@
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
+- [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) – Toolbox of useful automated scripts for virtualization related stuff.
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
