@@ -795,7 +795,7 @@
 - [MCRcortex/vulkanite](https://github.com/MCRcortex/vulkanite) – A minecraft mod designed to bring vulkan hardware raytracing to minecraft java edition
 - [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) – google maps for block game
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) – Based Minecraft utility mod.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 1.21.8 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 1.21.10 Lightweight Minecraft server
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
@@ -1928,7 +1928,7 @@
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
-- [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) – Puts Docker Containers to sleep and wakes them back up when they're needed
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [JMBeresford/retrom](https://github.com/JMBeresford/retrom) – A centralized game library/collection management service with a focus on emulation
