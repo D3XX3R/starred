@@ -143,7 +143,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) – A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) – A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) – Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [free-audio/clap](https://github.com/free-audio/clap) – Audio Plugin API
 - [gurnec/HashCheck](https://github.com/gurnec/HashCheck) – HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
@@ -645,7 +645,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1011,6 +1010,7 @@
 ## Kotlin
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [acidicoala/Koalageddon2](https://github.com/acidicoala/Koalageddon2) – Legit DLC Unlocker for Steamworks, Epic Online Services, and Ubisoft Connect
@@ -1331,6 +1331,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1801,7 +1802,6 @@
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube from your terminal
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
-- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. 
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
