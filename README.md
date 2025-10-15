@@ -2096,6 +2096,7 @@
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
 - [rbrahul/deno_cron](https://github.com/rbrahul/deno_cron) – A cron Job scheduler for Deno that allows you to write human readable cron syntax with tons of flexibility
+- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) – The cross-platform desktop GUI for rclone & S3.
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [relagit/relagit](https://github.com/relagit/relagit) – The elegant solution to graphical version control.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) – 🎥      Make videos programmatically with React
