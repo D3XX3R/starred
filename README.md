@@ -1909,7 +1909,7 @@
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
 - [AndrusAsumets/supershy-client](https://github.com/AndrusAsumets/supershy-client) – DIY VPN with a rotating exit node.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn)
+- [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
 - [Budibase/budibase](https://github.com/Budibase/budibase) – Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
