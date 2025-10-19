@@ -1525,6 +1525,7 @@
 - [NOALBS/nginx-obs-automatic-low-bitrate-switching](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) – Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the ingest stats page.
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
+- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) – A fast, extensible, and powerful Minecraft launcher
 - [ParleSec/ZeroVault](https://github.com/ParleSec/ZeroVault) – Rust-based lightweight cryptographic cli designed for encrypting and verifying sensitive documents using modern, secure encryption primitives. The vault uses AES-256-GCM for symmetric encryption and Ed25519 for digital signatures.
 - [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten) – A modern Steam achievements manager for Windows and Linux
 - [PaulDance/cargo-liner](https://github.com/PaulDance/cargo-liner) – Cargo subcommand to install and update binary packages listed in configuration
