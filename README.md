@@ -959,7 +959,7 @@
 - [rogerantony-dev/affiliate-tracker](https://github.com/rogerantony-dev/affiliate-tracker)
 - [ryzetech/cider4obs](https://github.com/ryzetech/cider4obs) – Display what you're playing onstream! No complicated setup, no login, just OBS and a browser source!
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) – Encrypt and Decrypt files securely in your browser.
-- [spicetify/cli](https://github.com/spicetify/cli) – Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) – Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) – Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source. 
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) – VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) – A multi platform Twitch.tv browser for Streamlink
