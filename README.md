@@ -1482,7 +1482,7 @@
 - [0-don/clippy](https://github.com/0-don/clippy) – privacy focused clipboard manager with sync & encryption
 - [0xflux/Sanctum](https://github.com/0xflux/Sanctum) – Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above and beyond the capabilities of antivirus.  Built in Rust.
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) – An implementation of a socket.io client written in the Rust programming language.
-- [2bc4/twitch-hls-client](https://github.com/2bc4/twitch-hls-client) – Minimal CLI client for watching/recording Twitch streams
+- [2bc4/twitch-hls-client](https://github.com/2bc4/twitch-hls-client) – Minimal CLI client for watching Twitch streams
 - [AdriDevelopsThings/iceportal-rich-presence](https://github.com/AdriDevelopsThings/iceportal-rich-presence) – Show your current ride in discord via the ICE portal api
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) – Avoid Twitch ads by grabbing video playlists from Russia
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) – Distributed stream processing engine in Rust
