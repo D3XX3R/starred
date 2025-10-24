@@ -242,9 +242,7 @@
 - [RawAccelOfficial/rawaccel](https://github.com/RawAccelOfficial/rawaccel) – kernel mode mouse accel
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) – Book Manager and Automation (Sonarr for Ebooks)
 - [ResetXPDR/MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) – A simple utility for MSFS 2020 to automatically adjust key settings to improve performance and smoothness.
-- [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) – One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [Saeryhz/SeaOfEase](https://github.com/Saeryhz/SeaOfEase) – Join the same Sea of Thieves server with your friends
-- [SaviorXTanren/mixer-mixitup](https://github.com/SaviorXTanren/mixer-mixitup) – Streaming bot application for handling chat, events, moderation, and other streamer assistance features
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) – Smart PVR for newsgroup and bittorrent users.
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) – A modern spotnet client and index for your *arr apps.
 - [Squalr/Squalr](https://github.com/Squalr/Squalr) – Squalr Memory Editor - Game Hacking Tool Written in C#
@@ -318,6 +316,7 @@
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) – Swiftly configure a fresh Windows 10 installation with useful tweaks and privacy settings.
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) – Port of macOS Mojave Dynamic Desktop feature to Windows
 - [the-hideout/TarkovMonitor](https://github.com/the-hideout/TarkovMonitor) – Monitor Tarkov log files to help track progress, queues, and groups
+- [theimpactfulcompany/Rise-Media-Player](https://github.com/theimpactfulcompany/Rise-Media-Player) – One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) – The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) – VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) – GUI Tool To Remove Ads From Various Places Around Windows 11
@@ -645,7 +644,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -724,7 +722,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
-- [usememos/memos](https://github.com/usememos/memos) – A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -1124,6 +1122,7 @@
 - [PCJones/usenet-guide](https://github.com/PCJones/usenet-guide) – Ein deutscher Einsteiger-Guide für das Usenet
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) – This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
+- [SaviorXTanren/mixer-mixitup](https://github.com/SaviorXTanren/mixer-mixitup) – Streaming bot application for handling chat, events, moderation, and other streamer assistance features
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) – ShareX custom uploaders
 - [SteamAutoCracks/ManifestHub](https://github.com/SteamAutoCracks/ManifestHub) – Steam Depot Manifest Library
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) – A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
@@ -1332,6 +1331,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
