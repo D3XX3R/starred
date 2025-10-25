@@ -122,6 +122,7 @@
 
 ## C
 
+- [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse) – Kernel module for mouse acceleration on Linux!
 - [Bemjo/OBS-RTX-SuperResolution](https://github.com/Bemjo/OBS-RTX-SuperResolution) – An OBS plugin to enable nVidia RTX Video Super Resolution, Upscaling, and Artifact Reduction as a filter.
 - [Chimildic/obs-vlc-video-plugin](https://github.com/Chimildic/obs-vlc-video-plugin) – VLC plugin with Streamlink and hardware acceleration for OBS Studio
 - [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) – A fork of the DiskCryptor full disk encryption tool 
