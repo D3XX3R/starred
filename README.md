@@ -723,7 +723,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -1355,6 +1355,7 @@
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) – SponsorBlock client for all YouTube TV clients.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) – Blender addons to make the bridge between Blender and geographic data
 - [dp247/StreamsToM3U8](https://github.com/dp247/StreamsToM3U8) – Converts live streams into an M3U8 file and basic EPG. Easily forked and setup for anyone to use!
+- [dr87/Vonovox](https://github.com/dr87/Vonovox) – Realtime AI Voice Converter for NVIDIA GPUs
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
 - [ente0/hashCrack](https://github.com/ente0/hashCrack) – Python-based Hashcat wrapper for easy decryption.
@@ -1766,7 +1767,7 @@
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
-- [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/OxidizeBot](https://github.com/udoprog/OxidizeBot) – High performance Twitch bot in Rust
 - [uhwot/lbp_archive_dl](https://github.com/uhwot/lbp_archive_dl)
 - [unknownue/vulkan-tutorial-rust](https://github.com/unknownue/vulkan-tutorial-rust) – Following the vulkan tutorial(https://vulkan-tutorial.com/) using the Rust programming language.
@@ -2032,7 +2033,7 @@
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) – Update Deno Dependencies - update dependency urls to their latest published versions
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) – Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
 - [holtwick/briefing](https://github.com/holtwick/briefing) – 🔮 Secure direct video group chat
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) – Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) – Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [howardchung/watchparty](https://github.com/howardchung/watchparty) – Watch anything together in-sync with your friends
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) – Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) – 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
