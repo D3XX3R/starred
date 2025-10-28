@@ -723,7 +723,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -891,6 +891,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
 - [airbenich/obsOverlay](https://github.com/airbenich/obsOverlay) – A websocket based overlay software for showing lower-thirds in Open Broadcaster Studio via webview.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
+- [aletheialab/ZeroDiscord](https://github.com/aletheialab/ZeroDiscord) – A collection of Discord hacks, exploits & tools that is completely made using NodeJS.
 - [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus) – A NodeJS Discord Bot that uses the rustplus.js library to utilize the power of the Rust+ Companion App with additional Quality-of-Life features.
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) – Flexible usenet binary posting tool
 - [aplotor/expanse](https://github.com/aplotor/expanse) – selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits
@@ -902,7 +903,6 @@
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler.  https://secrethitler.io
 - [cracker0dks/CaptchaSolver](https://github.com/cracker0dks/CaptchaSolver) – JDownload 2 Offline Captcha Solver
-- [cspi-git/ZeroDiscord](https://github.com/cspi-git/ZeroDiscord) – A collection of Discord hacks, exploits & tools that is completely made using NodeJS.
 - [debloper/xplex](https://github.com/debloper/xplex) – The renaissance will be multi-streamed LIVE—with xplex!
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) – RTSP Stream to WebBrowser
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
@@ -1671,6 +1671,7 @@
 - [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [marhkb/pods](https://github.com/marhkb/pods) – Keep track of your podman containers
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) – Automatically discover and visually document network topology.
 - [mayocream/koharu](https://github.com/mayocream/koharu) – Automated manga translation tool with LLM, written in Rust.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) – ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
@@ -1933,7 +1934,7 @@
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
 - [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) – Puts Docker Containers to sleep and wakes them back up when they're needed
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [JMBeresford/retrom](https://github.com/JMBeresford/retrom) – A centralized game library/collection management service with a focus on emulation
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) – A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) – Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
@@ -2046,6 +2047,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) – Collection of publicly available IPTV channels from all over the world
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) – Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [jakemiki/twitch-clip-queue](https://github.com/jakemiki/twitch-clip-queue) – A simple, setup free clip queue for all your Twitch clip queueing needs
+- [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jaypyles/open-spots](https://github.com/jaypyles/open-spots) – Open Spots is a fork of Spots that is designed to help organizations deliver real-time building availability data to staff, employees, customers, or students.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
@@ -2067,7 +2069,6 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) – AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform.
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
-- [menloresearch/jan](https://github.com/menloresearch/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [meowabyte/VencordPlugins](https://github.com/meowabyte/VencordPlugins) – My plugins made for the cutest Discord client mod called "Vencord"
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
