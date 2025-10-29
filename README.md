@@ -229,7 +229,7 @@
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) – Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
 - [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP) – A Discord Rich Presence client for Apple Music's native Windows app.
-- [POW-Software/ByteSync](https://github.com/POW-Software/ByteSync) – On-demand, secure file sync & backup for up to 5 remote machines. ByteSync transfers only file differences, compresses data, encrypts end-to-end, and gives you full control over what and when to sync. Runs on Windows, Linux, and macOS.
+- [POW-Software/ByteSync](https://github.com/POW-Software/ByteSync) – ByteSync is a free and open-source tool for file synchronization, backup, and deduplication. It works locally or remotely, with no VPNs or firewall configuration required. Transfers only file differences, compresses data, encrypts end-to-end, and gives you full control over what and when to sync. Runs on Windows, Linux, and macOS.
 - [ParadoxLeon/CS2-Translator](https://github.com/ParadoxLeon/CS2-Translator) – Simple C# CS2 chat translator (FORK)
 - [Phalcode/gamevault-app](https://github.com/Phalcode/gamevault-app) – Frontend for the self-hosted gaming platform for drm-free games
 - [PhantomGamers/SFP](https://github.com/PhantomGamers/SFP) – This utility is designed to allow you to apply skins to the modern Steam client
