@@ -2083,6 +2083,7 @@
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
 - [ngneat/falso](https://github.com/ngneat/falso) – All the Fake Data for All Your Real Needs 🙂
 - [nichtLehdev/DiscordBot](https://github.com/nichtLehdev/DiscordBot)
+- [nicola02nb/betterTTS](https://github.com/nicola02nb/betterTTS)
 - [noaione/mpv-js-scripts](https://github.com/noaione/mpv-js-scripts) – Some mpv scripts I created (made in JS)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
