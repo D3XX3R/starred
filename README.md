@@ -244,6 +244,7 @@
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) – Book Manager and Automation (Sonarr for Ebooks)
 - [ResetXPDR/MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) – A simple utility for MSFS 2020 to automatically adjust key settings to improve performance and smoothness.
 - [Saeryhz/SeaOfEase](https://github.com/Saeryhz/SeaOfEase) – Join the same Sea of Thieves server with your friends
+- [SnapXL/SnapX](https://github.com/SnapXL/SnapX) – SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) – Smart PVR for newsgroup and bittorrent users.
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) – A modern spotnet client and index for your *arr apps.
 - [Squalr/Squalr](https://github.com/Squalr/Squalr) – Squalr Memory Editor - Game Hacking Tool Written in C#
@@ -251,6 +252,7 @@
 - [SteamAutoCracks/DepotDumper](https://github.com/SteamAutoCracks/DepotDumper) – Mass depot key dumper utilizing the SteamKit2 library
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) – SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
+- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity v2.x/v1.x and DxO products.
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) – Saves Discord chat logs to a file
@@ -1158,6 +1160,7 @@
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [scholablade/Deadobe](https://github.com/scholablade/Deadobe) – A free culture list of free software alternatives to Adobe products, MIRROR: https://codeberg.org/Scholablade/Deadobe
+- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sigvt/komet](https://github.com/sigvt/komet) – ☄️ Tweetdeck for YouTube Live Chat
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1824,7 +1827,7 @@
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) – SteamOS 3 (Holo) archiso configuration
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) – Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) – Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [jammsen/docker-collectd-fritzbox](https://github.com/jammsen/docker-collectd-fritzbox)
 - [jareware/docker-volume-backup](https://github.com/jareware/docker-volume-backup) – Utility container for periodically backing up Docker volumes
 - [ludwig-v/wireless-carplay-dongle-reverse-engineering](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) – CPlay2Air / Carlinkit Wireless Apple CarPlay Dongle reverse engineering
