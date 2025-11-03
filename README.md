@@ -1765,6 +1765,7 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) – A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tommoa/rs-process-memory](https://github.com/tommoa/rs-process-memory) – A rust library that allows you to read/write into the memory of other processes
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Frictionless private world wide file transfer, LocalSend alternative for the Internet,  Frictionless private FTP server desktop application 
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
