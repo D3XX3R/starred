@@ -1622,7 +1622,7 @@
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) – Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 - [floneum/floneum](https://github.com/floneum/floneum) – Instant, controllable, local pre-trained AI models in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
-- [fossable/goldboot](https://github.com/fossable/goldboot) – Immutable infrastructure for the desktop!
+- [fossable/goldboot](https://github.com/fossable/goldboot) – Build golden images with CI!
 - [gamedig/rust-gamedig](https://github.com/gamedig/rust-gamedig) – Game Server Query Library.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – A cross-platform, safe, pure-Rust graphics API.
 - [google/forma](https://github.com/google/forma) – An efficient vector-graphics renderer
@@ -1698,7 +1698,7 @@
 - [obhq/obliteration](https://github.com/obhq/obliteration) – Experimental free and open-source PlayStation 4 kernel
 - [ogham/exa](https://github.com/ogham/exa) – A modern replacement for ‘ls’.
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) – Unsafely fast hashing algorithm 📈
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [opensourcecheemsburgers/RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) – A rusty Youtube client.
 - [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
@@ -1765,7 +1765,7 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) – A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tommoa/rs-process-memory](https://github.com/tommoa/rs-process-memory) – A rust library that allows you to read/write into the memory of other processes
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Frictionless private world wide file transfer, LocalSend alternative for the Internet,  Frictionless private FTP server desktop application 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Frictionless private file transfer - Local and Global
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
@@ -1866,10 +1866,10 @@
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) – 🌀 What's really in your Discord Data package? 
 - [Xyphyn/photon](https://github.com/Xyphyn/photon) – A fediverse client
 - [chroxify/haptic](https://github.com/chroxify/haptic) – A new local-first, privacy-focused and open-source home for your markdown notes
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) – Modern Docker Management, Designed for Everyone
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [mugendi/x-files-search](https://github.com/mugendi/x-files-search) – Search files on your computer like a boss!
-- [ofkm/arcane](https://github.com/ofkm/arcane) – Modern Docker Management, Designed for Everyone
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [s0er3n/GeoBingo.io](https://github.com/s0er3n/GeoBingo.io) – a multiplayer street view bingo game
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) – Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -2029,7 +2029,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-based, multi-site remote access platform using WireGuard®
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
