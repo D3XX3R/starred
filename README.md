@@ -255,6 +255,7 @@
 - [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity v3.x/v2.x/v1.x and DxO products.
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) – Saves Discord chat logs to a file
 - [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) – Source 2 Viewer is a powerful tool that allows you to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) – Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
@@ -715,7 +716,7 @@
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
-- [taubyte/tau](https://github.com/taubyte/tau) – Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+- [taubyte/tau](https://github.com/taubyte/tau) – Fullstack Workspace for Humans & Machines
 - [tess1o/go-ecoflow-exporter](https://github.com/tess1o/go-ecoflow-exporter)
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) – Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) – Realtime BirdNET soundscape analyzer
@@ -1160,7 +1161,6 @@
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [scholablade/Deadobe](https://github.com/scholablade/Deadobe) – A free culture list of free software alternatives to Adobe products, MIRROR: https://codeberg.org/Scholablade/Deadobe
-- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sigvt/komet](https://github.com/sigvt/komet) – ☄️ Tweetdeck for YouTube Live Chat
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1189,7 +1189,7 @@
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) – ShareXen - Another ShareX Custom Uploader PHP Script
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) – Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) – Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own servers.
 - [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) – DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 - [elementor/elementor](https://github.com/elementor/elementor) – The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
@@ -1765,7 +1765,6 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) – A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tommoa/rs-process-memory](https://github.com/tommoa/rs-process-memory) – A rust library that allows you to read/write into the memory of other processes
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Frictionless private file transfer - Local and Global
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
@@ -1839,6 +1838,7 @@
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) – A docker sidecar container to forward all traffic to local docker host or any other host
 - [screetsec/Vegile](https://github.com/screetsec/Vegile) – This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) – ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in
+- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) – Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [sudo-kraken/podcheck](https://github.com/sudo-kraken/podcheck) – CLI tool to automate podman image updates. Selective, notifications, autoprune, no pre-pulling.
@@ -2128,6 +2128,7 @@
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Frictionless private file transfer - Local and Global
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tycrek/ass](https://github.com/tycrek/ass) – The simple self-hosted ShareX server
