@@ -648,6 +648,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1161,6 +1162,7 @@
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [scholablade/Deadobe](https://github.com/scholablade/Deadobe) – A free culture list of free software alternatives to Adobe products, MIRROR: https://codeberg.org/Scholablade/Deadobe
+- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sigvt/komet](https://github.com/sigvt/komet) – ☄️ Tweetdeck for YouTube Live Chat
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1336,7 +1338,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1674,7 +1675,7 @@
 - [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [marhkb/pods](https://github.com/marhkb/pods) – Keep track of your podman containers
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
-- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) – Automatically discover and visually document network topology.
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) – Automatically discover and visually document network infrastructure.
 - [mayocream/koharu](https://github.com/mayocream/koharu) – Automated manga translation tool with LLM, written in Rust.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) – ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
@@ -1838,7 +1839,6 @@
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) – A docker sidecar container to forward all traffic to local docker host or any other host
 - [screetsec/Vegile](https://github.com/screetsec/Vegile) – This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) – ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in
-- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) – Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [sudo-kraken/podcheck](https://github.com/sudo-kraken/podcheck) – CLI tool to automate podman image updates. Selective, notifications, autoprune, no pre-pulling.
