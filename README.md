@@ -41,6 +41,7 @@
 - [LUA](#lua)
 - [Logos](#logos)
 - [Makefile](#makefile)
+- [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -648,7 +649,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -912,7 +912,6 @@
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) – AdNauseam: Fight back against advertising surveillance
 - [discord-modifications/better-discord-plugins](https://github.com/discord-modifications/better-discord-plugins) – A collection of my BetterDiscord plugins.
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord API Documentation
 - [divout/mpv_reduce_stream_cache](https://github.com/divout/mpv_reduce_stream_cache) – Reduces MPV cache for streams by increasing playback speed.
 - [drakonkat/Crawfish](https://github.com/drakonkat/Crawfish) – Innovative torrent client with integrated search feature
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) – 🔀 Redirect social media platforms to their privacy respecting frontends
@@ -1036,13 +1035,13 @@
 - [Mm2PL/supibot-completion-plugin](https://github.com/Mm2PL/supibot-completion-plugin) – A Chatterino plugin
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) – Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [n0zhik/ModernX](https://github.com/n0zhik/ModernX) – (Working 02/24) A modern OSC UI replacement for MPV that retains the functionality of the default OSC.
 - [neil-lobo/chat-commands-plus](https://github.com/neil-lobo/chat-commands-plus) – Chatterino plugin to add various old chat commands
 - [ntop/ntopng](https://github.com/ntop/ntopng) – Web-based Traffic and Security Network Traffic Monitoring
 - [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) – Service eggs for the pterodactyl panel
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) – mpv script to skip sponsored segments of YouTube videos
 - [po5/thumbfast](https://github.com/po5/thumbfast) – High-performance on-the-fly thumbnailer script for mpv
 - [ratwithacompiler/OBS-multitrack-stream](https://github.com/ratwithacompiler/OBS-multitrack-stream) – Use a different audio track on Twitch for VODs and streams.
-- [sibeliius/ModernX](https://github.com/sibeliius/ModernX) – (Working 02/24) A modern OSC UI replacement for MPV that retains the functionality of the default OSC.
 - [stax76/mpv-scripts](https://github.com/stax76/mpv-scripts) – Script collection for the mpv media player.
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) – Feature-rich minimalist proximity-based UI for MPV player.
 
@@ -1062,6 +1061,12 @@
 - [ediblerope/Discord-Capture-Limiter](https://github.com/ediblerope/Discord-Capture-Limiter) – A lightweight daemon that automatically manages multiple Discord audio capture streams in PipeWire, ensuring only the oldest stream remains active to prevent audio duplication issues.
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
+
+<div id="mdx"></div>
+
+## Mdx
+
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord API Documentation
 
 <div id="nim"></div>
 
@@ -1169,6 +1174,7 @@
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) – Curated list of awesome open-source applications made with Node.js
 - [starcitizen-lug/patches](https://github.com/starcitizen-lug/patches) – Patches created by the community for wine and other Linux packages
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) – A curated list of awesome mpv resources.
+- [tycrek/ass](https://github.com/tycrek/ass) – The simple self-hosted ShareX server
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
@@ -1338,6 +1344,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1748,7 +1755,7 @@
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) – AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sorairolake/abcrypt](https://github.com/sorairolake/abcrypt) – A simple, modern and secure file encryption tool, file format and Rust library
-- [sorairolake/qrtool](https://github.com/sorairolake/qrtool) – An utility for encoding or decoding QR code
+- [sorairolake/qrtool](https://github.com/sorairolake/qrtool) – A command-line utility for encoding and decoding QR code
 - [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) – A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 - [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server) – Stalwart SMTP Server
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) – All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
@@ -2109,7 +2116,7 @@
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [relagit/relagit](https://github.com/relagit/relagit) – The elegant solution to graphical version control.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) – 🎥      Make videos programmatically with React
-- [remvze/pswd](https://github.com/remvze/pswd) – 🔑 | Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) – 🔑 • Simple secure password generator.
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) – A lightweight Discord client mod focused on simplicity and performance.
 - [ropali/dockyard](https://github.com/ropali/dockyard) – A fast & beautiful Docker GUI client
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
@@ -2131,7 +2138,6 @@
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Frictionless private file transfer - Local and Global
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
-- [tycrek/ass](https://github.com/tycrek/ass) – The simple self-hosted ShareX server
 - [un/inbox](https://github.com/un/inbox) – Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) – The simplest deployment platform made for self-hosters.
 - [unsearchapp/unsearch](https://github.com/unsearchapp/unsearch) – Unsearch is an open-source, cross-browser manager for browsing activity.
