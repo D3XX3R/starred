@@ -129,6 +129,7 @@
 - [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) – A fork of the DiskCryptor full disk encryption tool 
 - [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7) – Unreal Engine SDK Generator
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) – BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+- [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) – Optimise Linux system performance on demand
 - [FiniteSingularity/obs-advanced-masks](https://github.com/FiniteSingularity/obs-advanced-masks) – Advanced Masking Plugin for OBS
 - [Fluepke/Fluepdot](https://github.com/Fluepke/Fluepdot) – Project for controlling Annax flipdot panels used by the Berliner Verkehrsbetriebe
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
@@ -253,7 +254,7 @@
 - [SteamAutoCracks/DepotDumper](https://github.com/SteamAutoCracks/DepotDumper) – Mass depot key dumper utilizing the SteamKit2 library
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) – SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
-- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity v3.x/v2.x/v1.x and DxO products.
+- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity v3.x/v2.x/v1.x products.
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
@@ -1197,7 +1198,7 @@
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) – ShareXen - Another ShareX Custom Uploader PHP Script
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) – Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) – Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) – DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 - [elementor/elementor](https://github.com/elementor/elementor) – The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
@@ -1516,7 +1517,6 @@
 - [Dreaming-Codes/discord-source](https://github.com/Dreaming-Codes/discord-source) – Buy discord source to stream discord webcams and streams to obs now!
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) – Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
-- [FokshaWasTaken/rust-nitro-sniper](https://github.com/FokshaWasTaken/rust-nitro-sniper) – Fast and powerful Discord Nitro sniper written in Rust.
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) – A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -1630,6 +1630,7 @@
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) – Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 - [floneum/floneum](https://github.com/floneum/floneum) – Instant, controllable, local pre-trained AI models in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
+- [fokshadev/rust-nitro-sniper](https://github.com/fokshadev/rust-nitro-sniper) – Fast and powerful Discord Nitro sniper written in Rust.
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Build golden images with CI!
 - [gamedig/rust-gamedig](https://github.com/gamedig/rust-gamedig) – Game Server Query Library.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – A cross-platform, safe, pure-Rust graphics API.
@@ -2135,7 +2136,7 @@
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Frictionless private file transfer - Local and Global
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Share files and directories anywhere - Local or Internet
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [un/inbox](https://github.com/un/inbox) – Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
