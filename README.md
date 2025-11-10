@@ -249,7 +249,7 @@
 - [SnapXL/SnapX](https://github.com/SnapXL/SnapX) – SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) – Smart PVR for newsgroup and bittorrent users.
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) – A modern spotnet client and index for your *arr apps.
-- [Squalr/Squalr](https://github.com/Squalr/Squalr) – Squalr Memory Editor - Game Hacking Tool Written in C#
+- [Squalr/Squalr-Sharp](https://github.com/Squalr/Squalr-Sharp) – Squalr Memory Editor - Game Hacking Tool Written in C#
 - [SteamAutoCracks/DepotDownloaderMod](https://github.com/SteamAutoCracks/DepotDownloaderMod) – Steam depot downloader utilizing the SteamKit2 library with depot key and manifest support.
 - [SteamAutoCracks/DepotDumper](https://github.com/SteamAutoCracks/DepotDumper) – Mass depot key dumper utilizing the SteamKit2 library
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
@@ -453,7 +453,7 @@
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) – CEF-based OBS Studio browser plugin
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) – Head tracking software for MS Windows, Linux, and Apple OSX
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) – OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
-- [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
 - [phandasm/waveform](https://github.com/phandasm/waveform) – Audio spectral analysis plugin for OBS
 - [praydog/UEVR](https://github.com/praydog/UEVR) – Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [qTox/qTox](https://github.com/qTox/qTox) – qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
@@ -1188,7 +1188,7 @@
 
 ## PHP
 
-- [Cybrarist/Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) – Track products pricing across multi ecommerce stores such as amazon,ebay,walmart, target and many more.
+- [Cybrarist/Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) – A Multi-User Selfhosted price tracker for Amazon, Aliexpress, ebay and many more along with custom stores.  Get notified when price matches one or more criterias set by the user
 - [Empornium/Luminance](https://github.com/Empornium/Luminance)
 - [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo) – A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you complete control over your data while providing a seamless experience for both senders and recipients.
 - [Leantime/leantime](https://github.com/Leantime/leantime) – Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
@@ -1346,7 +1346,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
@@ -1631,7 +1631,7 @@
 - [floneum/floneum](https://github.com/floneum/floneum) – Instant, controllable, local pre-trained AI models in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [fokshadev/rust-nitro-sniper](https://github.com/fokshadev/rust-nitro-sniper) – Fast and powerful Discord Nitro sniper written in Rust.
-- [fossable/goldboot](https://github.com/fossable/goldboot) – Build golden images with CI!
+- [fossable/goldboot](https://github.com/fossable/goldboot) – Build golden images with CI
 - [gamedig/rust-gamedig](https://github.com/gamedig/rust-gamedig) – Game Server Query Library.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – A cross-platform, safe, pure-Rust graphics API.
 - [google/forma](https://github.com/google/forma) – An efficient vector-graphics renderer
@@ -2136,7 +2136,7 @@
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Share files and directories anywhere - Local or Internet
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Share files and directories anywhere - Local or Public Internet
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [un/inbox](https://github.com/un/inbox) – Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
