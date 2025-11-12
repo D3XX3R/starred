@@ -110,7 +110,7 @@
 - [Iridium-IO/SiriShortcuts](https://github.com/Iridium-IO/SiriShortcuts) – Scripts to control Windows PC over SSH
 - [catppuccin/chatterino2](https://github.com/catppuccin/chatterino2) – 💬 Soothing pastel theme for Chatterino 2
 - [illsk1lls/ZipRipper](https://github.com/illsk1lls/ZipRipper) – A CMD script to crack password protected ZIP, RAR, 7z and PDF files, using JohnTheRipper.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 <div id="brighterscript"></div>
 
@@ -650,7 +650,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1315,6 +1314,7 @@
 - [Stuw/shelly-plug-monitor](https://github.com/Stuw/shelly-plug-monitor) – Grafana+prometheus based power usage monitoring for Shelly Plug S
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) – Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) – PoC to record audio from a Bluetooth device
+- [ThatCuteOne/nrc-prism-wrapper](https://github.com/ThatCuteOne/nrc-prism-wrapper) – A Wrapper for Norisk Client to be used in other launchers(prism,multimc,modrinth)
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) – Download Video or Audio from YouTube channels on a schedule via yt-dlp.
 - [Tiger14n/RVC-GUI](https://github.com/Tiger14n/RVC-GUI) – Just a fork of RVC for easy audio file voice conversion locally
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) – A simple script that will watch a stream for you and earn the channel points.
@@ -1346,6 +1346,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
