@@ -169,7 +169,7 @@
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) – µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) – Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
 - [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
-- [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin) – ESP32 based module to control Daikin aircon units
+- [revk/ESP32-Faikout](https://github.com/revk/ESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
@@ -922,6 +922,7 @@
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
+- [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) – Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [hieyou1/twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) – DVD Screensaver style "Starting Soon" or [for IRL streamers] "Stream Down" screen.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
@@ -1484,6 +1485,7 @@
 ## Ruby
 
 - [Freika/dawarich](https://github.com/Freika/dawarich) – Self-hostable alternative to Google Timeline (Google Location History)
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) – Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [huginn/huginn](https://github.com/huginn/huginn) – Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) – Your self-hosted, globally interconnected microblogging community
@@ -2072,6 +2074,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) – Xplorer, a customizable, modern file manager
 - [kmr-ankitt/szare](https://github.com/kmr-ankitt/szare) – Offline File Sharing application 
 - [krud-dev/ostara](https://github.com/krud-dev/ostara) – Ostara is a cross-platform desktop app for managing and monitoring Spring Boot applications using the Actuator API, providing comprehensive insights and effortless control.
+- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) – Kurrier is a modern, self-hosted webmail that integrates with all the major ESP's.
 - [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
