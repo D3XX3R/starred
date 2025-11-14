@@ -300,7 +300,7 @@
 - [lowleveldesign/process-governor](https://github.com/lowleveldesign/process-governor) – This application allows you to put various limits on Windows processes.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) – UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) – SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) – Application designed to optimize and customize your Windows experience.
+- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) – Application designed to optimize, customize and enhance your Windows experience.
 - [mhwlng/streamdeck-elite](https://github.com/mhwlng/streamdeck-elite) – Elgato Stream Deck plugin for Elite Dangerous
 - [microsoft/CsWin32](https://github.com/microsoft/CsWin32) – A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
@@ -349,6 +349,7 @@
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
+- [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
 - [GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) – Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
@@ -406,7 +407,7 @@
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) – A WiFi mapping companion app for Valetudo
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
-- [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats. 
+- [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats, OCR, and basic editing. 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functionality)
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) – Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
@@ -2140,7 +2141,7 @@
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Share files and directories anywhere - Local or Public Internet
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Share files and directories anywhere - Local or Global
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [un/inbox](https://github.com/un/inbox) – Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
