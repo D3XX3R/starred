@@ -1525,7 +1525,7 @@
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) – A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-- [Gravitalia/Autha](https://github.com/Gravitalia/Autha) – Account broker built on-top of ActivityPub
+- [Gravitalia/Autha](https://github.com/Gravitalia/Autha) – Account broker for federation built on-top of ActivityPub
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/nullnet-firewall](https://github.com/GyulyVGC/nullnet-firewall) – Rust-based firewall for network drivers
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -1599,6 +1599,7 @@
 - [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
+- [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) – Deep learning in Rust, with shape checked tensors and neural networks
 - [chriamue/openrailwaymap-exporter](https://github.com/chriamue/openrailwaymap-exporter) – OpenRailwayMap Exporter is a Rust project that downloads railway data from the OpenRailwayMap API
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
@@ -1607,7 +1608,6 @@
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
 - [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) – Cross platform Rust library to read a password in the terminal (Linux, BSD, MacOS, Windows, WASM).
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) – Visualize Ownership and Lifetimes in Rust
-- [coreylowman/dfdx](https://github.com/coreylowman/dfdx) – Deep learning in Rust, with shape checked tensors and neural networks
 - [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) – Rust executable packager, bundler and updater.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
 - [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
@@ -1982,7 +1982,6 @@
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
-- [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) – Frontend For TextBin (Open Source Alternative to PasteBin)
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
