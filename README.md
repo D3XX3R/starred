@@ -651,6 +651,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1349,7 +1350,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1447,7 +1447,7 @@
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
-- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's unofficial terminal UI app - The ultimate weapon against brainrot
+- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's terminal UI app - The ultimate weapon against brainrot
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
 - [tanersb/TwitchRecover](https://github.com/tanersb/TwitchRecover)
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
@@ -1557,6 +1557,7 @@
 - [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
 - [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) –  (Alpha Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols. 
+- [Scarjit/ts3-sec-cuda-rs](https://github.com/Scarjit/ts3-sec-cuda-rs) – A optionally CUDA accelerated Teamspeak3 Security Level bruteforcer.
 - [Schachte/space-monitor-rs](https://github.com/Schachte/space-monitor-rs) – A Rust crate for subscribing and retrieving the current active space on Mac OS X
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) – SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
