@@ -41,7 +41,6 @@
 - [LUA](#lua)
 - [Logos](#logos)
 - [Makefile](#makefile)
-- [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -651,7 +650,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -915,6 +913,7 @@
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) – AdNauseam: Fight back against advertising surveillance
 - [discord-modifications/better-discord-plugins](https://github.com/discord-modifications/better-discord-plugins) – A collection of my BetterDiscord plugins.
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord API Documentation
 - [divout/mpv_reduce_stream_cache](https://github.com/divout/mpv_reduce_stream_cache) – Reduces MPV cache for streams by increasing playback speed.
 - [drakonkat/Crawfish](https://github.com/drakonkat/Crawfish) – Innovative torrent client with integrated search feature
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) – 🔀 Redirect social media platforms to their privacy respecting frontends
@@ -1066,12 +1065,6 @@
 - [ediblerope/Discord-Capture-Limiter](https://github.com/ediblerope/Discord-Capture-Limiter) – A lightweight daemon that automatically manages multiple Discord audio capture streams in PipeWire, ensuring only the oldest stream remains active to prevent audio duplication issues.
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
-
-<div id="mdx"></div>
-
-## Mdx
-
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord API Documentation
 
 <div id="nim"></div>
 
@@ -1350,6 +1343,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1734,7 +1728,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) – Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) – An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [robotty/recent-messages2](https://github.com/robotty/recent-messages2) – Service to provide historical messages to Twitch chat clients
 - [robotty/twitch-irc-rs](https://github.com/robotty/twitch-irc-rs) – Twitch IRC library for the Rust programming language
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
@@ -2133,6 +2127,7 @@
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) – Watch streaming media with friends.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
+- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – A Vencord plugin that bypasses Discord's 8MB file size limit by automatically splitting large files during upload and merging them back together upon download.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
