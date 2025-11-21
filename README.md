@@ -416,7 +416,6 @@
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) – Fast and minimalist 3D viewer.
 - [fholger/openvr_fsr](https://github.com/fholger/openvr_fsr) – Add Image Upscaling via AMD FidelityFX SuperResolution or NVIDIA Image Scaling to SteamVR games
 - [fluffyanvil/Rocksmith-Diy-Realtone-Cable](https://github.com/fluffyanvil/Rocksmith-Diy-Realtone-Cable) – diy realtone cable
-- [fn2006/PollyMC](https://github.com/fn2006/PollyMC) – DRM-free Prism Launcher fork with support for custom auth servers.
 - [google/lyra](https://github.com/google/lyra) – A Very Low-Bitrate Codec for Speech Compression
 - [gottagofaster236/RewardsTheater](https://github.com/gottagofaster236/RewardsTheater) – An OBS plugin that lets your viewers redeem videos or sounds on stream via Twitch Channel Points.
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) – LAN Party VPN - Run VPN on top of Discord. No installation required.
@@ -1366,7 +1365,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) – Blender addons to make the bridge between Blender and geographic data
 - [dp247/StreamsToM3U8](https://github.com/dp247/StreamsToM3U8) – Converts live streams into an M3U8 file and basic EPG. Easily forked and setup for anyone to use!
 - [dr87/Vonovox](https://github.com/dr87/Vonovox) – Realtime AI Voice Converter for NVIDIA GPUs
-- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
+- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps App and data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
 - [ente0/hashCrack](https://github.com/ente0/hashCrack) – Python-based Hashcat wrapper for easy decryption.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
