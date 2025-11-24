@@ -1440,7 +1440,6 @@
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
-- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's terminal UI app - The ultimate weapon against brainrot
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
 - [tanersb/TwitchRecover](https://github.com/tanersb/TwitchRecover)
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
@@ -2135,6 +2134,7 @@
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) – A modern Jellyfin client built with Expo
 - [supabase/supabase](https://github.com/supabase/supabase) – The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
+- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's terminal UI app - The ultimate weapon against brainrot
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
