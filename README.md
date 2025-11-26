@@ -1794,7 +1794,7 @@
 - [w4/rgit](https://github.com/w4/rgit) – 🏯 blazingly fast web frontend for git repositories
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
-- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – Solana Arbitrage Bot with grpc, shred stream, zeroslot, offline signing, 
+- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – Solana Arbitrage Bot
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
@@ -1872,7 +1872,7 @@
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) – 🌀 What's really in your Discord Data package? 
-- [Xyphyn/photon](https://github.com/Xyphyn/photon) – A fediverse client
+- [Xyphyn/photon](https://github.com/Xyphyn/photon) – A faster, prettier, and nicer fediverse client
 - [chroxify/haptic](https://github.com/chroxify/haptic) – A new local-first, privacy-focused and open-source home for your markdown notes
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) – Modern Docker Management, Designed for Everyone
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
@@ -2117,7 +2117,7 @@
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [relagit/relagit](https://github.com/relagit/relagit) – The elegant solution to graphical version control.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) – 🎥      Make videos programmatically with React
-- [remvze/pswd](https://github.com/remvze/pswd) – 🔑 • Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) – 🔑 Simple secure password generator.
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) – A lightweight Discord client mod focused on simplicity and performance.
 - [ropali/dockyard](https://github.com/ropali/dockyard) – A fast & beautiful Docker GUI client
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
