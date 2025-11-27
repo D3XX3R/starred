@@ -203,6 +203,7 @@
 - [Duinrahaic/dOSC](https://github.com/Duinrahaic/dOSC) – dOSC is a dynamic OSC app sharing platform with the goal of allowing users to create, run, and distribute apps that can be configured to interact with avatars in VRChat.
 - [EDCD/EDDI](https://github.com/EDCD/EDDI) – Companion application for Elite Dangerous
 - [FACS01-01/FACS_Utilities](https://github.com/FACS01-01/FACS_Utilities) – Tools to help you edit and repair Unity/VRChat projects
+- [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) – s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 - [Facepunch/sbox-tabletennis-vr](https://github.com/Facepunch/sbox-tabletennis-vr) – 🏓 Facepunch presents Table Tennis VR
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) – EarTrumpet - Volume Control for Windows
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) – :mag: Quick file search & app launcher for Windows with community-made plugins
@@ -649,7 +650,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1344,6 +1344,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1400,6 +1401,7 @@
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
 - [lingfo/lingfo](https://github.com/lingfo/lingfo) – Foreign function interface for any language
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
+- [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
 - [makalin/Bitwave](https://github.com/makalin/Bitwave) – Bitwave is a high-fidelity, developer-friendly, future-proof audio format designed for modern sound experiences — including spatial audio, dynamic tempo adjustment, and multi-track support.
 - [manucabral/acc-discord-rpc](https://github.com/manucabral/acc-discord-rpc) – Assetto Corsa Competizione Discord Rich Presence Client
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) – ElevenClock: Customize Windows 11 taskbar clock
@@ -1849,6 +1851,7 @@
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) – ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) – Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
+- [staerk-ha-addons/addon-technitium-dns](https://github.com/staerk-ha-addons/addon-technitium-dns) – 🏠 Modern DNS server add-on for Home Assistant with DoH, DoT, and DoQ support. Features secure forwarding, local zones, and seamless integration.
 - [sudo-kraken/podcheck](https://github.com/sudo-kraken/podcheck) – CLI tool to automate podman image updates. Selective, notifications, autoprune, no pre-pulling.
 - [theNizo/linux_rocksmith](https://github.com/theNizo/linux_rocksmith) – Guides to get Rocksmith 2014 running on Linux
 - [thecmdrunner/quick-vm](https://github.com/thecmdrunner/quick-vm) – Setup a Stealth Windows VM on any Linux system using Qemu/KVM. 
@@ -1940,7 +1943,6 @@
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – A cross platform SimConnect client library for Node.JS
 - [Fredolx/gpu-faker](https://github.com/Fredolx/gpu-faker) – Fake your GPU to access GPU-locked apps and games!
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
-- [Giingu/Enhanced-TTVDropBot](https://github.com/Giingu/Enhanced-TTVDropBot) – Enhanced Twitch Drop Bot. Automaticlly Farms every Twitch Drop, Point & Subscription available like Rust for you and use custom channels
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
@@ -2154,7 +2156,7 @@
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) – Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) – xBrowserSync browser extensions / mobile app
-- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) – TTV LOL PRO removes most livestream ads from Twitch. This is free, don't expect it to be perfect.
+- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) – TTV LOL PRO removes most livestream ads from Twitch.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) – A Desktop App for YouTube Music
 - [zephraOSS/Apple-Music-RPC](https://github.com/zephraOSS/Apple-Music-RPC) – Discord RPC for Apple Music and iTunes with easy-to-use interface and setup
 - [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) – Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
