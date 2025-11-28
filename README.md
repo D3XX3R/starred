@@ -276,6 +276,7 @@
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) – Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. 
 - [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) – 👀👮🐢🔥Performs a privacy & security check of Windows 10 
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) – Windows tray utility / filesystem watcher / launcher for Syncthing
+- [coezbek/Switcheroo](https://github.com/coezbek/Switcheroo) – Alt+Tab Replacement for Windows
 - [dantman/elite-vr-cockpit](https://github.com/dantman/elite-vr-cockpit) – A SteamVR Overlay providing a virtual throttle and joystick and holographic buttons for ship functions, with custom integration into Elite Dangerous
 - [dexyfex/CodeWalker](https://github.com/dexyfex/CodeWalker)
 - [dichternebel/voice-channel-grabber](https://github.com/dichternebel/voice-channel-grabber) – Sync your StreamKit Browser Source in OBS with your current voice channel from your Discord client.
@@ -1345,7 +1346,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
