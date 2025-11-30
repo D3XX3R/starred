@@ -426,6 +426,7 @@
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
+- [kashithecomfy/ComfyEngine](https://github.com/kashithecomfy/ComfyEngine) – ComfyEngine is a memory exploration toolkit built for people who need to monitor, patch, and script a running process.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) – KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [keklick1337/7zip-extended](https://github.com/keklick1337/7zip-extended) – A Patched Version of 7-Zip for Improved Mask Handling
 - [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) – Advanced VM detection library and tool
@@ -1441,6 +1442,7 @@
 - [socius-org/RedditHarbor](https://github.com/socius-org/RedditHarbor) – Ethical, legal, and effortless extraction of Reddit data in your database
 - [soylent/offstream](https://github.com/soylent/offstream) – Personal twitch stream recorder
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Discord bot with automated RSS feed posting and pinboard-map functionalities. Working on more
+- [sparklost/endcord](https://github.com/sparklost/endcord) – Feature rich Discord TUI client.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
