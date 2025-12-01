@@ -551,6 +551,7 @@
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
 - [canopas/group-track-flutter](https://github.com/canopas/group-track-flutter) – Grouptrack - An open-source real-time location tracking app for groups, created with Flutter & Firebase.
+- [commetchat/commet](https://github.com/commetchat/commet) – Your space to connect
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) – Stack Wallet, a multicoin, cryptocurrency wallet
 - [ente-io/ente](https://github.com/ente-io/ente) – 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -902,6 +903,7 @@
 - [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus) – A NodeJS Discord Bot that uses the rustplus.js library to utilize the power of the Rust+ Companion App with additional Quality-of-Life features.
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) – Flexible usenet binary posting tool
 - [aplotor/expanse](https://github.com/aplotor/expanse) – selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
@@ -1003,6 +1005,7 @@
 
 ## Jupyter Notebook
 
+- [ArtInLines/Studium](https://github.com/ArtInLines/Studium) – University Lecture Notes and material
 - [mozilla/TTS](https://github.com/mozilla/TTS) – :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
 - [suno-ai/bark](https://github.com/suno-ai/bark) – 🔊 Text-Prompted Generative Audio Model
@@ -1401,6 +1404,7 @@
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
 - [joaovitoriasilva/endurain](https://github.com/joaovitoriasilva/endurain) – Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
+- [jvoisin/mat2](https://github.com/jvoisin/mat2) –   mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several file manager extensions.
 - [lingfo/lingfo](https://github.com/lingfo/lingfo) – Foreign function interface for any language
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
