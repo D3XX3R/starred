@@ -806,7 +806,7 @@
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod which allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -857,6 +857,7 @@
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere. 
 - [ChocoMeow/Vocard-Dashboard](https://github.com/ChocoMeow/Vocard-Dashboard) – Vocard Dashboard is a web-based user interface that allows users to control the Vocard music bot directly from their browser. With this dashboard, you can easily manage music playback, create playlists, and interact with the bot in a user-friendly way.
 - [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
+- [Darkdragon14/ha-access-control-manager](https://github.com/Darkdragon14/ha-access-control-manager) – "Access Control Manager" provides a centralized interface for managing user permissions and access rights within Home Assistant. It allows administrators to create, assign, and customize roles, ensuring secure and streamlined control over who can interact with specific devices, automations, and dashboards in the smart home ecosystem.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) – Datamining Discord changes from the JS files
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) – Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) – Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
@@ -1333,7 +1334,7 @@
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
-- [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission & qBittorrent)
+- [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) – Linux/OSX/FreeBSD resource monitor
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
@@ -1452,6 +1453,7 @@
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
 - [tanersb/TwitchRecover](https://github.com/tanersb/TwitchRecover)
+- [tolwi/hassio-ecoflow-cloud](https://github.com/tolwi/hassio-ecoflow-cloud) – EcoFlow Cloud Integration for Home Assistant
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) – Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) – An advanced memory forensics framework
@@ -1765,6 +1767,7 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sorairolake/abcrypt](https://github.com/sorairolake/abcrypt) – A simple, modern and secure file encryption tool, file format and Rust library
 - [sorairolake/qrtool](https://github.com/sorairolake/qrtool) – A command-line utility for encoding and decoding QR code
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) – A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 - [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server) – Stalwart SMTP Server
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) – All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
@@ -1952,6 +1955,7 @@
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
+- [Hypfer/lovelace-valetudo-map-card](https://github.com/Hypfer/lovelace-valetudo-map-card) – Display the map from a valetudo-enabled robot in a home assistant dashboard card.
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
 - [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) – Puts Docker Containers to sleep and wakes them back up when they're needed
@@ -2138,7 +2142,6 @@
 - [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – A Vencord plugin that bypasses Discord's 8MB file size limit by automatically splitting large files during upload and merging them back together upon download.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [squirrelchat/squirrel](https://github.com/squirrelchat/squirrel) – WIP: Next-gen, open-source and enterprise-ready chat platform.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) – A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) – A modern Jellyfin client built with Expo
