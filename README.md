@@ -160,6 +160,7 @@
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [landave/TSIdentityTool](https://github.com/landave/TSIdentityTool) – Tool to read out various information about TeamSpeak identities
 - [ledoge/dwm_lut](https://github.com/ledoge/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
+- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) – A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) – Hiding kernel-driver for x86/x64.
 - [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
@@ -553,7 +554,7 @@
 - [canopas/group-track-flutter](https://github.com/canopas/group-track-flutter) – Grouptrack - An open-source real-time location tracking app for groups, created with Flutter & Firebase.
 - [commetchat/commet](https://github.com/commetchat/commet) – Your space to connect
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) – Stack Wallet, a multicoin, cryptocurrency wallet
-- [ente-io/ente](https://github.com/ente-io/ente) – 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) – 🔥 End-to-end encrypted cloud for everything.
 - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) – Private, cross-platform package tracking app
@@ -807,7 +808,6 @@
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod which allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -1989,6 +1989,7 @@
 - [ShufflePerson/Discord_CDN](https://github.com/ShufflePerson/Discord_CDN) – Bypasses the new Discord Expiry time on download links. 
 - [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins) – Shelter plugins, some of them Dorion related
 - [SpyglassMC/Spyglass](https://github.com/SpyglassMC/Spyglass) – Development tools for vanilla Minecraft: Java Edition data pack developers.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
