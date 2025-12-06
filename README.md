@@ -865,7 +865,6 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) – Open-source alternative of Discord desktop's app.asar
 - [Hakkin/twitchintegrity](https://github.com/Hakkin/twitchintegrity)
-- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) – Cloud replacement for vacuum robots enabling local-only operation
 - [InvoxiPlayGames/johnbox](https://github.com/InvoxiPlayGames/johnbox) – Jackbox Games Private Server Implementation
@@ -1687,7 +1686,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
 - [linebender/druid](https://github.com/linebender/druid) – A data-first Rust-native UI design toolkit. 
 - [liveask/liveask](https://github.com/liveask/liveask) – A one-stop solution for moderating discussions and Q&As.
-- [louis-e/arnis](https://github.com/louis-e/arnis) – Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [louis-e/arnis](https://github.com/louis-e/arnis) – Generate any location from the real world in Minecraft with a high level of detail.
 - [lsk569937453/Spire](https://github.com/lsk569937453/Spire) – The High Performance Proxy/Load Balancer
 - [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep) – Search through all your files
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) – A FUSE filesystem for your Google calendar
@@ -1954,6 +1953,7 @@
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – A cross platform SimConnect client library for Node.JS
 - [Fredolx/gpu-faker](https://github.com/Fredolx/gpu-faker) – Fake your GPU to access GPU-locked apps and games!
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
+- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
 - [Hypfer/lovelace-valetudo-map-card](https://github.com/Hypfer/lovelace-valetudo-map-card) – Display the map from a valetudo-enabled robot in a home assistant dashboard card.
