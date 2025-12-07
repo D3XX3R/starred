@@ -172,6 +172,7 @@
 - [revk/ESP32-Faikout](https://github.com/revk/ESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
+- [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree DKMS for ntfsplus kernel driver module
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) – A simple, very experimental TPM sniffer for LPC bus
@@ -208,6 +209,7 @@
 - [Facepunch/sbox-tabletennis-vr](https://github.com/Facepunch/sbox-tabletennis-vr) – 🏓 Facepunch presents Table Tennis VR
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) – EarTrumpet - Volume Control for Windows
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) – :mag: Quick file search & app launcher for Windows with community-made plugins
+- [Hypfer/valetudo-tray-companion](https://github.com/Hypfer/valetudo-tray-companion) – Valetudo Companion App for the Windows Tray
 - [Jack-Myth/SteamDepotDownloader-GUI](https://github.com/Jack-Myth/SteamDepotDownloader-GUI) – A useful tool with GUI to download depot from steam.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) – API Support for your favorite torrent trackers
 - [Jamedjo/RSTabExplorer](https://github.com/Jamedjo/RSTabExplorer) – RockSmith Tab Explorer
@@ -1530,7 +1532,7 @@
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) – A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [Gravitalia/Autha](https://github.com/Gravitalia/Autha) – Account broker for federation built on-top of ActivityPub
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/nullnet-firewall](https://github.com/GyulyVGC/nullnet-firewall) – Rust-based firewall for network drivers
@@ -1558,6 +1560,7 @@
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.10.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
 - [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
