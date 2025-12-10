@@ -42,7 +42,6 @@
 - [Logos](#logos)
 - [Makefile](#makefile)
 - [Nim](#nim)
-- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Openscad](#openscad)
@@ -479,7 +478,6 @@
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) – A video processing framework with simplicity in mind
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) – Noise suppression plugin based on Xiph's RNNoise
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) – Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
@@ -639,6 +637,7 @@
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) – an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [Trugamr/wol](https://github.com/Trugamr/wol) – 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) – Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
+- [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) – [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [Zhoros/SuperBin](https://github.com/Zhoros/SuperBin) – Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) – Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
@@ -657,7 +656,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -759,6 +757,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) – Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
 - [transmitic/transmitic](https://github.com/transmitic/transmitic) – Encrypted, peer to peer, file transfer program :: https://discord.gg/tRT3J6T :: https://www.reddit.com/r/transmitic/ :: https://twitter.com/transmitic
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) – Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 <div id="haskell"></div>
 
@@ -990,6 +989,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) – The React Framework
 - [vercel/pkg](https://github.com/vercel/pkg) – Package your Node.js project into an executable
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) – Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
+- [viewermetrics/viewermetrics](https://github.com/viewermetrics/viewermetrics)
 - [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage) – DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) – ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) – Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
@@ -1083,12 +1083,6 @@
 - [OpenAsar/capybara](https://github.com/OpenAsar/capybara) – Minimal replacement for Squirrel's Update.exe
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) – CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 
-<div id="nix"></div>
-
-## Nix
-
-- [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
-
 <div id="objective-c"></div>
 
 ## Objective-C
@@ -1132,6 +1126,7 @@
 - [HerXayah/road-to-ryujinx-without-switch](https://github.com/HerXayah/road-to-ryujinx-without-switch) – This Repo explains how to install the Ryujninx Switch Emulator without a Switch 
 - [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter)
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) – Collection of decent Community-made GRUB themes. Contributions welcome!
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) – 💡Limiting personal data leaks on the internet
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) – A list of GOG Galaxy 2.0 integrations and upcoming features
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
@@ -1357,6 +1352,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1542,8 +1538,10 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [IamSanjid/sturdy-spoon](https://github.com/IamSanjid/sturdy-spoon) – A lightweight web server that enables synchronized video watching, inspired by https://syncplay.pl/.
 - [IncredibleDevHQ/agent-panel](https://github.com/IncredibleDevHQ/agent-panel) – AI gateway and observability server written in Rust. Designed to help optimize multi-agent workflows. 
+- [IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds) – True coop multiplayer mod for Noita.
 - [Jupiee/rawst](https://github.com/Jupiee/rawst) – Rawst is cli downloader, written in rust
 - [KMJ-007/lazygh](https://github.com/KMJ-007/lazygh) – A Terminal User Interface (TUI) application for managing multiple GitHub accounts easily
+- [Kesomannen/gale](https://github.com/Kesomannen/gale) – A modern mod manager for Thunderstore
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A link aggregator and forum for the fediverse
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) – 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
