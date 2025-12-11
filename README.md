@@ -1561,7 +1561,7 @@
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.10.
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.11.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
 - [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
@@ -1607,7 +1607,7 @@
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
-- [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
+- [cfal/shoes](https://github.com/cfal/shoes) – A high-performance multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) – Deep learning in Rust, with shape checked tensors and neural networks
@@ -1698,7 +1698,6 @@
 - [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [marhkb/pods](https://github.com/marhkb/pods) – Keep track of your podman containers
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
-- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) – Automatically discover and visually document network infrastructure.
 - [mayocream/koharu](https://github.com/mayocream/koharu) – AI-powered manga translator, written in Rust.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) – ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
@@ -1716,6 +1715,7 @@
 - [neevek/omnip](https://github.com/neevek/omnip) – An all in one proxy written in Rust.
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
+- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) – Automatically discover and visually document network infrastructure.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
