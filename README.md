@@ -735,7 +735,6 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -1171,7 +1170,6 @@
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [scholablade/Deadobe](https://github.com/scholablade/Deadobe) – A free culture list of free software alternatives to Adobe products, MIRROR: https://codeberg.org/Scholablade/Deadobe
-- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sigvt/komet](https://github.com/sigvt/komet) – ☄️ Tweetdeck for YouTube Live Chat
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) – 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1270,6 +1268,7 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) – Dark Web OSINT Tool
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [DimmaDont/all-slain-gui](https://github.com/DimmaDont/all-slain-gui) – Star Citizen Game Log Overlay
+- [ESJavadex/ezviz-ha-addon](https://github.com/ESJavadex/ezviz-ha-addon) – Reversed Engineering Cloud Ezviz conection Home Assistant addon. Tested on HP2
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [EiS94/db_info](https://github.com/EiS94/db_info) – Home Assistant Integration to get live data for Deutsche Bahn
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) – 支持更多游戏规则，让SSTap成为真正的“网游加速器”
@@ -1864,6 +1863,7 @@
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) – A docker sidecar container to forward all traffic to local docker host or any other host
 - [screetsec/Vegile](https://github.com/screetsec/Vegile) – This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) – ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in
+- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) – Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [staerk-ha-addons/addon-technitium-dns](https://github.com/staerk-ha-addons/addon-technitium-dns) – 🏠 Modern DNS server add-on for Home Assistant with DoH, DoT, and DoQ support. Features secure forwarding, local zones, and seamless integration.
@@ -2055,12 +2055,13 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-based VPN and proxy for remote access to anything anywhere
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) – OCR & Document Extraction using vision models
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) – 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) – A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) – Update Deno Dependencies - update dependency urls to their latest published versions
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) – Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
 - [holtwick/briefing](https://github.com/holtwick/briefing) – 🔮 Secure direct video group chat
@@ -2164,6 +2165,7 @@
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) – The simplest deployment platform made for self-hosters.
 - [unsearchapp/unsearch](https://github.com/unsearchapp/unsearch) – Unsearch is an open-source, cross-browser manager for browsing activity.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) – 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [uwu/shelter](https://github.com/uwu/shelter) – an attempt to prepare for the worst
 - [vatger/atciss](https://github.com/vatger/atciss) – Virtual Air Traffic Control Information Support System 
 - [veovera/enhanced-rtmp](https://github.com/veovera/enhanced-rtmp) – This industry-sanctioned project introduces significant enhancements to the RTMP and FLV specifications, outlining advanced features aimed at revitalizing and modernizing the RTMP solution.
