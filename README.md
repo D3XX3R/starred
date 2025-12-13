@@ -1376,6 +1376,7 @@
 - [dr87/Vonovox](https://github.com/dr87/Vonovox) – Realtime AI Voice Converter for NVIDIA GPUs
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps App and data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) – Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [ente0/hashCrack](https://github.com/ente0/hashCrack) – Python-based Hashcat wrapper for easy decryption.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
 - [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) – A lightweight, open-source network monitor for Windows that displays live upload/download speeds directly on the Taskbar with a native look and feel.
@@ -1404,7 +1405,6 @@
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
-- [joaovitoriasilva/endurain](https://github.com/joaovitoriasilva/endurain) – Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) –   mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several file manager extensions.
 - [lingfo/lingfo](https://github.com/lingfo/lingfo) – Foreign function interface for any language
