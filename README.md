@@ -599,7 +599,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) – Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!
 - [RodZill4/material-maker](https://github.com/RodZill4/material-maker) – A procedural textures authoring and 3D model painting tool based on the Godot game engine
 - [V-Sekai/v-sekai-game](https://github.com/V-Sekai/v-sekai-game) – Open-source VR socials
-- [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) – The minimalistic video editor
+- [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) – The minimalistic video editor made with Godot.
 - [arthiee4/RiotSwitcher](https://github.com/arthiee4/RiotSwitcher) – Riot Switcher is a multi-account launcher for Riot Games (starting with League of Legends), allowing users to manage multiple accounts easily.
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) – Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
@@ -2055,7 +2055,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
