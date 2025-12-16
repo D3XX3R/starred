@@ -481,7 +481,6 @@
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 <div id="css"></div>
@@ -693,7 +692,7 @@
 - [kekskurse/go-mail-admin](https://github.com/kekskurse/go-mail-admin) – HTTP-Interface with a small GUI for a Mailserver
 - [klauspost/ryzen-master-vbs-patch](https://github.com/klauspost/ryzen-master-vbs-patch) – AMD Ryzen Master Hyper-V VBS patcher
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) – Kubernetes IN Docker - local clusters for testing Kubernetes
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -998,6 +997,7 @@
 - [yellowsink/shelter-plugins](https://github.com/yellowsink/shelter-plugins) – plugins for uwu/shelter
 - [yeonholee50/NyxHub](https://github.com/yeonholee50/NyxHub) – Secure Web File Sharing Application
 - [yofukashino/BetterDiscordPlugins](https://github.com/yofukashino/BetterDiscordPlugins) – Just me trying
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 
 <div id="jinja"></div>
 
@@ -1281,6 +1281,7 @@
 - [GetWVKeys/getwvkeys](https://github.com/GetWVKeys/getwvkeys) – Official repository for getwvkeys.cc
 - [H3rz3n/davinci-helper](https://github.com/H3rz3n/davinci-helper) – The best DaVinci Resolve companion app on Linux
 - [Hancapo/Inzoider](https://github.com/Hancapo/Inzoider)
+- [Houston4444/RaySession](https://github.com/Houston4444/RaySession) – Session manager for linux musical programs
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) – A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [JAB-dev/mpv-frame-interpolation](https://github.com/JAB-dev/mpv-frame-interpolation) – Vapoursynth script for decent fps interpolation 
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) – Bulk Gallery Downloader for Cyberdrop.me and Other Sites
@@ -1746,6 +1747,7 @@
 - [robotty/recent-messages2](https://github.com/robotty/recent-messages2) – Service to provide historical messages to Twitch chat clients
 - [robotty/twitch-irc-rs](https://github.com/robotty/twitch-irc-rs) – Twitch IRC library for the Rust programming language
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
+- [ruffsl/CtrlAssist](https://github.com/ruffsl/CtrlAssist) – Controller Assist for gaming on Linux
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [rust-lang/book](https://github.com/rust-lang/book) – The Rust Programming Language
 - [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
@@ -1759,7 +1761,7 @@
 - [saltukalakus/PixelLock](https://github.com/saltukalakus/PixelLock) – Military-grade security for storing your files
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Clean network diagrams. One-time setup, zero upkeep.
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
