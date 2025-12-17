@@ -134,7 +134,6 @@
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for the Godot Engine expanding its capabilities with cutting-edge technologies. 
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
-- [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) – Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
@@ -383,6 +382,7 @@
 - [SpecialKO/SpecialK](https://github.com/SpecialKO/SpecialK) – Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything.
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
+- [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium.
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
@@ -1327,6 +1327,7 @@
 - [Tribler/tribler](https://github.com/Tribler/tribler) – Privacy enhanced BitTorrent client with P2P content discovery
 - [Unidata/MetPy](https://github.com/Unidata/MetPy) – MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
 - [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) – List of public proxies, and checked to some domain like Google, Facebook, Twitter
+- [Vortitron/energy-sensor-generator](https://github.com/Vortitron/energy-sensor-generator) – Add kWh sensors to HA
 - [Warths/Rocksmith-Scene-Switcher](https://github.com/Warths/Rocksmith-Scene-Switcher) – Rocksmith 2014 scene switcher for OBS
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) – ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
@@ -1413,6 +1414,7 @@
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
 - [makalin/Bitwave](https://github.com/makalin/Bitwave) – Bitwave is a high-fidelity, developer-friendly, future-proof audio format designed for modern sound experiences — including spatial audio, dynamic tempo adjustment, and multi-track support.
 - [manucabral/acc-discord-rpc](https://github.com/manucabral/acc-discord-rpc) – Assetto Corsa Competizione Discord Rich Presence Client
+- [marq24/ha-tibber-pulse-local](https://github.com/marq24/ha-tibber-pulse-local) – Local/LAN Tibber Pulse IR/Bridge Integration for Home Assistant. My Tibber invitation Link: https://invite.tibber.com/6o0kqvzf (Code: six, oscar, zero, kilo, quebec, victor, zulu, foxtrot)
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) – ElevenClock: Customize Windows 11 taskbar clock
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) – A modern selfhosted media management system for your media library
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) – OnionSearch is a script that scrapes urls on different .onion search engines. 
@@ -1796,7 +1798,7 @@
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
-- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command.
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/OxidizeBot](https://github.com/udoprog/OxidizeBot) – High performance Twitch bot in Rust
@@ -2073,7 +2075,7 @@
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) – Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) – 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
-- [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – An easy-to-use performance tracker for FACEIT CS2 players.
+- [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
@@ -2093,7 +2095,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) – Xplorer, a customizable, modern file manager
 - [kmr-ankitt/szare](https://github.com/kmr-ankitt/szare) – Offline File Sharing application 
 - [krud-dev/ostara](https://github.com/krud-dev/ostara) – Ostara is a cross-platform desktop app for managing and monitoring Spring Boot applications using the Actuator API, providing comprehensive insights and effortless control.
-- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) – Kurrier is a modern, self-hosted unified email, calendar, and contacts platform.
+- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) – Kurrier is a modern, self-hosted workspace for email, calendar, contacts and storage.
 - [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
