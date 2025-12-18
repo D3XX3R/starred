@@ -415,7 +415,7 @@
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functionality)
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) – Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) – Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
-- [drk1wi/portspoof](https://github.com/drk1wi/portspoof) – Portspoof
+- [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) – Portspoof
 - [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) – HTTP(S) download manager that uses input/output completion ports (IOCP).
 - [exeldro/obs-source-profiler](https://github.com/exeldro/obs-source-profiler)
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) – Fast and minimalist 3D viewer.
@@ -821,7 +821,7 @@
 - [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 1.21.5 using Fabric
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) – Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [ddxy/whispercat](https://github.com/ddxy/whispercat)
-- [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!  Customer Service: https://www.breakblocks.com/discord
+- [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Customer Service: https://www.breakblocks.com/discord
 - [etkmlm/CoreLauncher](https://github.com/etkmlm/CoreLauncher) – A modern and powerful launcher for Minecraft.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) – Decentralized P2P exchange platform built on Monero and Tor
 - [headlesshq/headlessmc](https://github.com/headlesshq/headlessmc) – Minecraft on the command line
