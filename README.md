@@ -170,7 +170,7 @@
 - [revk/ESP32-Faikout](https://github.com/revk/ESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
-- [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree DKMS for ntfsplus kernel driver module
+- [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) – A simple, very experimental TPM sniffer for LPC bus
@@ -1729,6 +1729,7 @@
 - [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [orhun/tuitar](https://github.com/orhun/tuitar) – A portable guitar training tool & DIY kit 🎛️🎸
 - [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) – Let Sonarr fetch episodes on demand for a show you are watching on Jellyfin/Emby/Plex.
 - [paulkernfeld/glx](https://github.com/paulkernfeld/glx) – Analyzing the Green Line Extension with OpenStreetMap
 - [picoHz/taxy](https://github.com/picoHz/taxy) – A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust.
