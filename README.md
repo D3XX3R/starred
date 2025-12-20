@@ -805,7 +805,7 @@
 - [MCRcortex/vulkanite](https://github.com/MCRcortex/vulkanite) – A minecraft mod designed to bring vulkan hardware raytracing to minecraft java edition
 - [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) – google maps for block game
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) – Based Minecraft utility mod.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 1.21.10 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 1.21.11 Lightweight Minecraft server
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
