@@ -656,6 +656,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -924,7 +925,7 @@
 - [divout/mpv_reduce_stream_cache](https://github.com/divout/mpv_reduce_stream_cache) – Reduces MPV cache for streams by increasing playback speed.
 - [drakonkat/Crawfish](https://github.com/drakonkat/Crawfish) – Innovative torrent client with integrated search feature
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) – 🔀 Redirect social media platforms to their privacy respecting frontends
-- [edoderg/edoStereo](https://github.com/edoderg/edoStereo) – BetterDiscord Stereo Plugin, better discord stereo plugin
+- [edo44/edoStereo](https://github.com/edo44/edoStereo) – BetterDiscord Stereo Plugin, better discord stereo plugin
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) – Your gateway to a world of public APIs.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) – :cloud: Sync your bookmarks privately across browsers and devices
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
@@ -1353,7 +1354,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
