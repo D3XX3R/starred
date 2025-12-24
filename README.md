@@ -406,6 +406,7 @@
 - [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) – Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) – Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [beaterblank/tpipe](https://github.com/beaterblank/tpipe) – Audio Transparency tool for Unix-based systems that use JACK audio engine.
 - [blizzard4591/openMittsu](https://github.com/blizzard4591/openMittsu) – An open source implementation and desktop client of the Threema Messenger App.
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) – A WiFi mapping companion app for Valetudo
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
@@ -468,7 +469,6 @@
 - [royshil/obs-cleanstream](https://github.com/royshil/obs-cleanstream) – CleanStream is an OBS plugin that uses AI to clean live audio streams from unwanted words and utterances
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) – Plugin for Neural Amp Modeler
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
-- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) – a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) – Better font rendering for Windows.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) – Source code for SonoBus, a real-time network audio streaming collaboration tool.
@@ -656,7 +656,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1318,6 +1317,7 @@
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) – This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [Stuw/shelly-plug-monitor](https://github.com/Stuw/shelly-plug-monitor) – Grafana+prometheus based power usage monitoring for Shelly Plug S
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) – Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
+- [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) – Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) – PoC to record audio from a Bluetooth device
 - [ThatCuteOne/nrc-prism-wrapper](https://github.com/ThatCuteOne/nrc-prism-wrapper) – A Wrapper for Norisk Client to be used in other launchers(prism,multimc,modrinth)
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) – Download Video or Audio from YouTube channels on a schedule via yt-dlp.
@@ -1354,6 +1354,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1446,6 +1447,7 @@
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) – SABnzbd - The automated Usenet download tool
 - [saharmor/voice-lab](https://github.com/saharmor/voice-lab) – Testing and evaluation framework for voice agents 
 - [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) – Solve Google reCAPTCHA in less than 5 seconds! 🚀
+- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) – Hunt down social media accounts by username across social networks
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -1477,6 +1479,7 @@
 
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
+- [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
 - [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde) – MacOS Sequoia theme for KDE Plasma
 
 <div id="rich-text-format"></div>
@@ -1676,6 +1679,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
 - [jacob-pro/solar-screen-brightness](https://github.com/jacob-pro/solar-screen-brightness) – Automatically adjust monitor / screen brightness at night using sunrise/sunset times
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) – A fast & light weight Discord Client made with love using the Rust programming language.
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [jlpatter/oxidized_git](https://github.com/jlpatter/oxidized_git) – A Git GUI written in Rust!
 - [joamag/boytacean](https://github.com/joamag/boytacean) – A GB emulator that is written in Rust 🦀!
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
@@ -1724,7 +1728,6 @@
 - [obhq/obliteration](https://github.com/obhq/obliteration) – Experimental free and open-source PlayStation 4 kernel
 - [ogham/exa](https://github.com/ogham/exa) – A modern replacement for ‘ls’.
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) – Unsafely fast hashing algorithm 📈
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [opensourcecheemsburgers/RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) – A rusty Youtube client.
 - [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
@@ -1869,7 +1872,6 @@
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) – A docker sidecar container to forward all traffic to local docker host or any other host
 - [screetsec/Vegile](https://github.com/screetsec/Vegile) – This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) – ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in
-- [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) – Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [staerk-ha-addons/addon-technitium-dns](https://github.com/staerk-ha-addons/addon-technitium-dns) – 🏠 Modern DNS server add-on for Home Assistant with DoH, DoT, and DoQ support. Features secure forwarding, local zones, and seamless integration.
@@ -2110,6 +2112,7 @@
 - [meowabyte/VencordPlugins](https://github.com/meowabyte/VencordPlugins) – My plugins made for the cutest Discord client mod called "Vencord"
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
+- [mohyware/packet-meter](https://github.com/mohyware/packet-meter) – Cross-platform network traffic monitoring system that can be self-hosted easily.
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) – 💬 Chat with anyone on any website.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) – The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [mozzius/graysky](https://github.com/mozzius/graysky) – a bluesky client for ios and android
@@ -2128,6 +2131,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) – Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) – Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
 - [osuplace/templateManager](https://github.com/osuplace/templateManager) – Template manager for various canvas games
 - [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) – A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
@@ -2155,6 +2159,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
 - [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – A Vencord plugin that bypasses Discord's 8MB file size limit by automatically splitting large files during upload and merging them back together upon download.
+- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
 - [squirrelchat/squirrel](https://github.com/squirrelchat/squirrel) – WIP: Next-gen, open-source and enterprise-ready chat platform.
@@ -2198,6 +2203,7 @@
 
 ## Vala
 
+- [cassidyjames/butler](https://github.com/cassidyjames/butler) – Home Assistant companion app for Linux
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) – System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) – All your games in one place
 
