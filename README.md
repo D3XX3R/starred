@@ -810,6 +810,7 @@
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod which allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -1256,10 +1257,12 @@
 - [2bc4/streamlink-ttvlol](https://github.com/2bc4/streamlink-ttvlol) – Streamlink Twitch plugin modified to work with the TTV.LOL API
 - [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
+- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
 - [Axorax/keylock](https://github.com/Axorax/keylock) – Lock your keys with ease
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) – Krawl is a lightweight cloud native deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) – RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
 - [Captain-FLAM/KaraFan](https://github.com/Captain-FLAM/KaraFan) – The BEST music separation model with help of A.I. ... to my ears ! 👂👂
 - [ChocoMeow/Vocard](https://github.com/ChocoMeow/Vocard) – Vocard is a simple music bot. It leads to a comfortable experience which is user-friendly, It supports Youtube, Soundcloud, Spotify, Twitch and more!
@@ -1364,6 +1367,7 @@
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) – Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) – 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) – Py2/py3 script that can download macOS components direct from Apple
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) – Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) – A rigorous IoT scanner based on Shodan.io
 - [dalinicus/homeassistant-acinfinity](https://github.com/dalinicus/homeassistant-acinfinity) – AC Infinity integration for Home Assistant for UIS based controllers
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) – DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
@@ -1613,7 +1617,7 @@
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
-- [cfal/shoes](https://github.com/cfal/shoes) – A high-performance multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
+- [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) – Deep learning in Rust, with shape checked tensors and neural networks
@@ -1858,6 +1862,7 @@
 - [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker) – Factorio headless server in a Docker container
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) – Free & Open source macOS Cursors.
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) – SteamOS 3 (Holo) archiso configuration
+- [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) – Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [ih8d8/archstrap](https://github.com/ih8d8/archstrap) – Scripts to automate my encrypted Arch Linux setup
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
@@ -2001,7 +2006,6 @@
 - [ShufflePerson/Discord_CDN](https://github.com/ShufflePerson/Discord_CDN) – Bypasses the new Discord Expiry time on download links. 
 - [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins) – Shelter plugins, some of them Dorion related
 - [SpyglassMC/Spyglass](https://github.com/SpyglassMC/Spyglass) – Development tools for vanilla Minecraft: Java Edition data pack developers.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
@@ -2077,6 +2081,7 @@
 - [howardchung/watchparty](https://github.com/howardchung/watchparty) – Watch anything together in-sync with your friends
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) – Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) – 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
+- [idaho/hassio-trash-card](https://github.com/idaho/hassio-trash-card) – TrashCard - indicates what type of trash will be picked up next based on your calendar entries 🗑️
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
 - [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
