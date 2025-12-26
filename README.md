@@ -2078,7 +2078,7 @@
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) – Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
 - [holtwick/briefing](https://github.com/holtwick/briefing) – 🔮 Secure direct video group chat
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) – Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [howardchung/watchparty](https://github.com/howardchung/watchparty) – Watch anything together in-sync with your friends
+- [howardchung/watchparty](https://github.com/howardchung/watchparty) – WatchParty: Watch anything together in-sync with your friends
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) – Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) – 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [idaho/hassio-trash-card](https://github.com/idaho/hassio-trash-card) – TrashCard - indicates what type of trash will be picked up next based on your calendar entries 🗑️
@@ -2108,7 +2108,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
 - [louislam/dockge](https://github.com/louislam/dockge) – A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [makeplane/plane](https://github.com/makeplane/plane) – 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) – 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [manyuanrong/deno-deamon](https://github.com/manyuanrong/deno-deamon) – Make the Deno program run in the background
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) – AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
