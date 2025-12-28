@@ -124,7 +124,7 @@
 - [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse) – Kernel module for mouse acceleration on Linux!
 - [Bemjo/OBS-RTX-SuperResolution](https://github.com/Bemjo/OBS-RTX-SuperResolution) – An OBS plugin to enable nVidia RTX Video Super Resolution, Upscaling, and Artifact Reduction as a filter.
 - [Chimildic/obs-vlc-video-plugin](https://github.com/Chimildic/obs-vlc-video-plugin) – VLC plugin with Streamlink and hardware acceleration for OBS Studio
-- [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) – A fork of the DiskCryptor full disk encryption tool 
+- [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) – DiskCryptor full disk encryption tool 
 - [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7) – Unreal Engine SDK Generator
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) – BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) – Optimise Linux system performance on demand
@@ -134,6 +134,7 @@
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for the Godot Engine expanding its capabilities with cutting-edge technologies. 
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
+- [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) – Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
@@ -162,6 +163,7 @@
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) – Hiding kernel-driver for x86/x64.
 - [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
+- [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) – Software-Defined GPS Signal Simulator
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) – Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) – The “Quite OK Image Format” for fast, lossless image compression
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) – µStreamer - Lightweight and fast MJPEG-HTTP streamer
@@ -350,6 +352,7 @@
 - [Denellyne/PCXSense](https://github.com/Denellyne/PCXSense) – Translates the inputs from the Dualsense into XInput making it compatible with any PC Game
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
+- [DwayneM20/Steam-Log-Collector](https://github.com/DwayneM20/Steam-Log-Collector) – Steam Log Collector is a cross-platform desktop application for collecting and managing log files from Steam games. The project provides both a command-line interface (CLI) and a graphical user interface (GUI) to help users locate, view, and organize game log files for troubleshooting purposes.
 - [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
@@ -1323,6 +1326,7 @@
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) – Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) – PoC to record audio from a Bluetooth device
 - [ThatCuteOne/nrc-prism-wrapper](https://github.com/ThatCuteOne/nrc-prism-wrapper) – A Wrapper for Norisk Client to be used in other launchers(prism,multimc,modrinth)
+- [TheEnbyperor/zuegli](https://github.com/TheEnbyperor/zuegli) – Zügli - train tickets to wallet passes 
 - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) – Download Video or Audio from YouTube channels on a schedule via yt-dlp.
 - [Tiger14n/RVC-GUI](https://github.com/Tiger14n/RVC-GUI) – Just a fork of RVC for easy audio file voice conversion locally
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) – A simple script that will watch a stream for you and earn the channel points.
@@ -1403,6 +1407,7 @@
 - [gridhead/expedite](https://github.com/gridhead/expedite) – Simple encrypted file transfer service for humans
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) – real time face swap and one-click video deepfake with only a single image
 - [hacs/integration](https://github.com/hacs/integration) – HACS gives you a powerful UI to handle downloads of all your custom needs.
+- [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
 - [home-assistant/core](https://github.com/home-assistant/core) – :house_with_garden: Open source home automation that puts local control and privacy first.
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) – Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) – CLI tool for downloading videos from Twitch.
@@ -1712,6 +1717,7 @@
 - [mayocream/koharu](https://github.com/mayocream/koharu) – AI-powered manga translator, written in Rust.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) – ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
+- [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) – Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) – Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) – Home of OpenVMM and OpenHCL
