@@ -124,7 +124,7 @@
 - [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse) – Kernel module for mouse acceleration on Linux!
 - [Bemjo/OBS-RTX-SuperResolution](https://github.com/Bemjo/OBS-RTX-SuperResolution) – An OBS plugin to enable nVidia RTX Video Super Resolution, Upscaling, and Artifact Reduction as a filter.
 - [Chimildic/obs-vlc-video-plugin](https://github.com/Chimildic/obs-vlc-video-plugin) – VLC plugin with Streamlink and hardware acceleration for OBS Studio
-- [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) – DiskCryptor full disk encryption tool 
+- [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) – DiskCryptor Open Source full disk encryption tool 
 - [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7) – Unreal Engine SDK Generator
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) – BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) – Optimise Linux system performance on demand
@@ -171,6 +171,7 @@
 - [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
 - [revk/ESP32-Faikout](https://github.com/revk/ESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
+- [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
@@ -352,7 +353,7 @@
 - [Denellyne/PCXSense](https://github.com/Denellyne/PCXSense) – Translates the inputs from the Dualsense into XInput making it compatible with any PC Game
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
-- [DwayneM20/Steam-Log-Collector](https://github.com/DwayneM20/Steam-Log-Collector) – Steam Log Collector is a cross-platform desktop application for collecting and managing log files from Steam games. The project provides both a command-line interface (CLI) and a graphical user interface (GUI) to help users locate, view, and organize game log files for troubleshooting purposes.
+- [DwayneM20/Steam-Log-Collector](https://github.com/DwayneM20/Steam-Log-Collector) – Cross-platform desktop application for collecting and managing log files from Steam games. Provides both a command-line interface (CLI) and a graphical user interface (GUI) to help users locate, view, and organize game log files for troubleshooting purposes.
 - [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
@@ -1040,6 +1041,7 @@
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) – AirPods liberated from Apple's ecosystem.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+- [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
 - [siketyan/intellij-rustowl](https://github.com/siketyan/intellij-rustowl) – Visualize ownerships and lifetimes in Rust on IntelliJ IDEs.
 - [twireapp/Twire](https://github.com/twireapp/Twire) – Twire is an alternative and open source Twitch client for Android
 
@@ -1458,6 +1460,7 @@
 - [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) – Solve Google reCAPTCHA in less than 5 seconds! 🚀
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) – An open Apple AirDrop implementation written in Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) – Hunt down social media accounts by username across social networks
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [socius-org/RedditHarbor](https://github.com/socius-org/RedditHarbor) – Ethical, legal, and effortless extraction of Reddit data in your database
