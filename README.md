@@ -741,6 +741,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -1335,7 +1336,7 @@
 - [Tiger14n/RVC-GUI](https://github.com/Tiger14n/RVC-GUI) – Just a fork of RVC for easy audio file voice conversion locally
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) – A simple script that will watch a stream for you and earn the channel points.
 - [TomSchimansky/GuitarTuner](https://github.com/TomSchimansky/GuitarTuner) – Guitar tuner program made with Python, Tkinter and PyAudio.
-- [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux. No cloud, no macOS required.
+- [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 - [Tribler/tribler](https://github.com/Tribler/tribler) – Privacy enhanced BitTorrent client with P2P content discovery
 - [Unidata/MetPy](https://github.com/Unidata/MetPy) – MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
 - [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) – List of public proxies, and checked to some domain like Google, Facebook, Twitter
@@ -1892,7 +1893,6 @@
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) – Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [staerk-ha-addons/addon-technitium-dns](https://github.com/staerk-ha-addons/addon-technitium-dns) – 🏠 Modern DNS server add-on for Home Assistant with DoH, DoT, and DoQ support. Features secure forwarding, local zones, and seamless integration.
 - [sudo-kraken/podcheck](https://github.com/sudo-kraken/podcheck) – CLI tool to automate podman image updates. Selective, notifications, autoprune, no pre-pulling.
-- [theNizo/linux_rocksmith](https://github.com/theNizo/linux_rocksmith) – Guides to get Rocksmith 2014 running on Linux
 - [thecmdrunner/quick-vm](https://github.com/thecmdrunner/quick-vm) – Setup a Stealth Windows VM on any Linux system using Qemu/KVM. 
 - [tprasadtp/protonvpn-docker](https://github.com/tprasadtp/protonvpn-docker) – ProtonVPN  Wireguard Docker Image. Supports ARMv8 (64-bit ) and x86 (64-Bit). 
 - [trimstray/multitor](https://github.com/trimstray/multitor) – Create multiple TOR instances with a load-balancing.
@@ -2194,7 +2194,6 @@
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) – The simplest deployment platform made for self-hosters.
 - [unsearchapp/unsearch](https://github.com/unsearchapp/unsearch) – Unsearch is an open-source, cross-browser manager for browsing activity.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) – 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [uwu/shelter](https://github.com/uwu/shelter) – an attempt to prepare for the worst
 - [vatger/atciss](https://github.com/vatger/atciss) – Virtual Air Traffic Control Information Support System 
 - [veovera/enhanced-rtmp](https://github.com/veovera/enhanced-rtmp) – This industry-sanctioned project introduces significant enhancements to the RTMP and FLV specifications, outlining advanced features aimed at revitalizing and modernizing the RTMP solution.
