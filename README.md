@@ -93,6 +93,7 @@
 ## Astro
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
+- [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 
 <div id="autoit"></div>
 
@@ -1336,7 +1337,6 @@
 - [Tiger14n/RVC-GUI](https://github.com/Tiger14n/RVC-GUI) – Just a fork of RVC for easy audio file voice conversion locally
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) – A simple script that will watch a stream for you and earn the channel points.
 - [TomSchimansky/GuitarTuner](https://github.com/TomSchimansky/GuitarTuner) – Guitar tuner program made with Python, Tkinter and PyAudio.
-- [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 - [Tribler/tribler](https://github.com/Tribler/tribler) – Privacy enhanced BitTorrent client with P2P content discovery
 - [Unidata/MetPy](https://github.com/Unidata/MetPy) – MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
 - [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) – List of public proxies, and checked to some domain like Google, Facebook, Twitter
@@ -1420,6 +1420,7 @@
 - [jarredou/MVSEP-MDX23-Colab_v2](https://github.com/jarredou/MVSEP-MDX23-Colab_v2) – Colab adaptation of MVSep Model for MDX23 music separation contest
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
+- [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) – Unofficial ParcelApp integration with Home Assistant
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) –   mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several file manager extensions.
