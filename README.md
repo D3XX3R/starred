@@ -39,6 +39,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LUA](#lua)
+- [Liquid](#liquid)
 - [Logos](#logos)
 - [Makefile](#makefile)
 - [Nim](#nim)
@@ -93,7 +94,6 @@
 ## Astro
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
-- [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 
 <div id="autoit"></div>
 
@@ -230,6 +230,7 @@
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) – Looks and smells like Sonarr but made for music.
 - [LittleBigRefresh/Refresh](https://github.com/LittleBigRefresh/Refresh) – A second-generation custom server for LittleBigPlanet that focuses on quality of life features and improving user experience.
 - [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) – Lightweight console for Minecraft chat and automated scripts
+- [Maikboarder/Playerr](https://github.com/Maikboarder/Playerr) – Self-hosted game library manager and PVR inspired by Radarr and Sonarr. Automate your collection with intelligent scanning and rich metadata
 - [Masquerade64/SuperSteamPacker](https://github.com/Masquerade64/SuperSteamPacker) – Packing tool for Steam games.
 - [MatthewInch/UI24RBridge](https://github.com/MatthewInch/UI24RBridge) – Bridge between the UI24R and a MIDI controller
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) – Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
@@ -1070,6 +1071,12 @@
 - [stax76/mpv-scripts](https://github.com/stax76/mpv-scripts) – Script collection for the mpv media player.
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) – Feature-rich minimalist proximity-based UI for MPV player.
 
+<div id="liquid"></div>
+
+## Liquid
+
+- [starcitizen-lug/knowledge-base](https://github.com/starcitizen-lug/knowledge-base) – Wiki containing installation instructions, performance tips, and solutions to common problems
+
 <div id="logos"></div>
 
 ## Logos
@@ -1355,6 +1362,7 @@
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) – Linux/OSX/FreeBSD resource monitor
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
+- [asroxy/proton_proxy](https://github.com/asroxy/proton_proxy) – A simple python language proxy for ProtonMail Bridge allowing remote access to the bridge for web applications running on another server
 - [aviiciii/audiobook-downloader](https://github.com/aviiciii/audiobook-downloader) – Download Audiobooks with Metadata from Streamers
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) – Writes data from fritzbox to influxdb
 - [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder) – Find possible locations of shadows around the world
@@ -1468,7 +1476,6 @@
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) – An open Apple AirDrop implementation written in Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) – Hunt down social media accounts by username across social networks
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-- [socius-org/RedditHarbor](https://github.com/socius-org/RedditHarbor) – Ethical, legal, and effortless extraction of Reddit data in your database
 - [soylent/offstream](https://github.com/soylent/offstream) – Personal twitch stream recorder
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Discord bot with automated RSS feed posting and pinboard-map functionalities. Working on more
 - [sparklost/endcord](https://github.com/sparklost/endcord) – Feature rich Discord TUI client.
@@ -1850,7 +1857,6 @@
 - [DiscordStyles/Slate](https://github.com/DiscordStyles/Slate) – An optimized, consistent, and functional theme for @discord based on GitHub's design language.
 - [SlippingGittys-Discord-Themes/surCord](https://github.com/SlippingGittys-Discord-Themes/surCord) – A Discord Theme inspired by macOS & Human Interface Guidelines.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) – 🦊 Firefox user CSS theme looks similar to Chrome
-- [starcitizen-lug/knowledge-base](https://github.com/starcitizen-lug/knowledge-base) – Wiki containing installation instructions, performance tips, and solutions to common problems
 
 <div id="shell"></div>
 
@@ -1866,6 +1872,7 @@
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
 - [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) – Toolbox of useful automated scripts for virtualization related stuff.
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
@@ -1977,6 +1984,7 @@
 - [CraigChat/craig](https://github.com/CraigChat/craig) – Craig is a multi-track voice recorder for Discord.
 - [Crazeflex/BetterScreenShare](https://github.com/Crazeflex/BetterScreenShare) – Screenshare plugin for VC
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) – 🧡 Everything is RSSible
+- [Doezer/Questarr](https://github.com/Doezer/Questarr) – Video games manager for -arr users
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
@@ -2182,6 +2190,7 @@
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
+- [socius-org/RedditHarbor](https://github.com/socius-org/RedditHarbor) – Ethical, legal, and effortless extraction of Reddit data in your database
 - [squirrelchat/squirrel](https://github.com/squirrelchat/squirrel) – WIP: Next-gen, open-source and enterprise-ready chat platform.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) – A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) – A modern Jellyfin client built with Expo
