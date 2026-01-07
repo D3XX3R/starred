@@ -125,7 +125,7 @@
 - [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse) – Kernel module for mouse acceleration on Linux!
 - [Bemjo/OBS-RTX-SuperResolution](https://github.com/Bemjo/OBS-RTX-SuperResolution) – An OBS plugin to enable nVidia RTX Video Super Resolution, Upscaling, and Artifact Reduction as a filter.
 - [Chimildic/obs-vlc-video-plugin](https://github.com/Chimildic/obs-vlc-video-plugin) – VLC plugin with Streamlink and hardware acceleration for OBS Studio
-- [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) – DiskCryptor Open Source full disk encryption tool 
+- [DiskCryptor/DiskCryptor](https://github.com/DiskCryptor/DiskCryptor) – DiskCryptor Open Source full disk encryption tool 
 - [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7) – Unreal Engine SDK Generator
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) – BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) – Optimise Linux system performance on demand
@@ -434,6 +434,7 @@
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) – LAN Party VPN - Run VPN on top of Discord. No installation required.
 - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) – Portable Executable reversing tool with a friendly GUI 
 - [hexabits/nifskope](https://github.com/hexabits/nifskope)
+- [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) – BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
@@ -558,7 +559,6 @@
 - [MjKey/Mods-Manager-MR](https://github.com/MjKey/Mods-Manager-MR) – Mods Manager for Marvel Rivals
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
-- [canopas/group-track-flutter](https://github.com/canopas/group-track-flutter) – Grouptrack - An open-source real-time location tracking app for groups, created with Flutter & Firebase.
 - [commetchat/commet](https://github.com/commetchat/commet) – Your space to connect
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) – Stack Wallet, a multicoin, cryptocurrency wallet
 - [ente-io/ente](https://github.com/ente-io/ente) – 🔥 End-to-end encrypted cloud for everything.
@@ -1285,6 +1285,7 @@
 - [Captain-FLAM/KaraFan](https://github.com/Captain-FLAM/KaraFan) – The BEST music separation model with help of A.I. ... to my ears ! 👂👂
 - [ChocoMeow/Vocard](https://github.com/ChocoMeow/Vocard) – Vocard is a simple music bot. It leads to a comfortable experience which is user-friendly, It supports Youtube, Soundcloud, Spotify, Twitch and more!
 - [Chris-GW/pixel](https://github.com/Chris-GW/pixel)
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) – Dark Web OSINT Tool
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
@@ -1382,7 +1383,6 @@
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [commaai/openpilot](https://github.com/commaai/openpilot) – openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) – Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) – 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1547,6 +1547,7 @@
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
 - [BeechatNetworkSystemsLtd/rns-vpn-rs](https://github.com/BeechatNetworkSystemsLtd/rns-vpn-rs) – VPN over Reticulum mesh network
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) – bloop is a fast code search engine written in Rust.
+- [Browsers-software/browsers](https://github.com/Browsers-software/browsers) – Open the right browser at the right time
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) – A datetime library for Rust that encourages you to jump into the pit of success.
 - [CCBlueX/LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher) – The official Minecraft launcher for LiquidBounce
 - [Canleskis/ephemeris-explorer](https://github.com/Canleskis/ephemeris-explorer) – A simulator of gravitationally bound systems.
@@ -1821,7 +1822,7 @@
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) – :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [timvisee/lazymc](https://github.com/timvisee/lazymc) – 💤 Put your Minecraft server to rest when idle.
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) – Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) – HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) – A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tommoa/rs-process-memory](https://github.com/tommoa/rs-process-memory) – A rust library that allows you to read/write into the memory of other processes
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
