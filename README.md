@@ -71,6 +71,7 @@
 - [Visual Basic .Net](#visual-basic-.net)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
+- [Yara](#yara)
 - [Zig](#zig)
 
 
@@ -133,7 +134,7 @@
 - [Fluepke/Fluepdot](https://github.com/Fluepke/Fluepdot) – Project for controlling Annax flipdot panels used by the Berliner Verkehrsbetriebe
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
-- [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for the Godot Engine expanding its capabilities with cutting-edge technologies. 
+- [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
@@ -159,6 +160,7 @@
 - [jmattaa/laser](https://github.com/jmattaa/laser) – basically `ls` but `lsr`, and configurable with lua!
 - [kila58/qemu-patched](https://github.com/kila58/qemu-patched) – QEMU patched to avoid detection from various anticheats such as Battleye/EAC
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+- [kolunmi/bazaar](https://github.com/kolunmi/bazaar) – New App Store for GNOME
 - [landave/TSIdentityTool](https://github.com/landave/TSIdentityTool) – Tool to read out various information about TeamSpeak identities
 - [ledoge/dwm_lut](https://github.com/ledoge/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) – A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
@@ -667,6 +669,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -947,7 +950,6 @@
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) – Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [hieyou1/twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) – DVD Screensaver style "Starting Soon" or [for IRL streamers] "Stream Down" screen.
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) – Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) – Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
 - [ioj4/shelter-plugins](https://github.com/ioj4/shelter-plugins) – My plugins for uwu/shelter
@@ -1382,7 +1384,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1443,6 +1444,7 @@
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
 - [makalin/Bitwave](https://github.com/makalin/Bitwave) – Bitwave is a high-fidelity, developer-friendly, future-proof audio format designed for modern sound experiences — including spatial audio, dynamic tempo adjustment, and multi-track support.
+- [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) – Home Assistant integration framework for (garbage collection) schedules
 - [manucabral/acc-discord-rpc](https://github.com/manucabral/acc-discord-rpc) – Assetto Corsa Competizione Discord Rich Presence Client
 - [markaggar/Water-Monitor](https://github.com/markaggar/Water-Monitor) – Home Assistant Integration that leverages an existing water flow sensor for tracking water usage sessions and detecting potential leaks.
 - [marq24/ha-tibber-pulse-local](https://github.com/marq24/ha-tibber-pulse-local) – Local/LAN Tibber Pulse IR/Bridge Integration for Home Assistant. My Tibber invitation Link: https://invite.tibber.com/6o0kqvzf (Code: six, oscar, zero, kilo, quebec, victor, zulu, foxtrot)
@@ -1644,7 +1646,7 @@
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
-- [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
+- [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) – Deep learning in Rust, with shape checked tensors and neural networks
@@ -1997,6 +1999,7 @@
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – A cross platform SimConnect client library for Node.JS
+- [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
 - [Fredolx/gpu-faker](https://github.com/Fredolx/gpu-faker) – Fake your GPU to access GPU-locked apps and games!
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
@@ -2217,6 +2220,7 @@
 - [uwu/shelter](https://github.com/uwu/shelter) – an attempt to prepare for the worst
 - [vatger/atciss](https://github.com/vatger/atciss) – Virtual Air Traffic Control Information Support System 
 - [veovera/enhanced-rtmp](https://github.com/veovera/enhanced-rtmp) – This industry-sanctioned project introduces significant enhancements to the RTMP and FLV specifications, outlining advanced features aimed at revitalizing and modernizing the RTMP solution.
+- [victorigualada/lovelace-solar-card](https://github.com/victorigualada/lovelace-solar-card) – Clean, compact solar dashboard card for HomeAssistant
 - [vlacour97/alldebrid-watcher](https://github.com/vlacour97/alldebrid-watcher) – Automatic downloader for alldebrid
 - [warrenday/local-storage-inspector](https://github.com/warrenday/local-storage-inspector) – Chrome extension to easily interact with the localStorage API.
 - [wexond/browser-base](https://github.com/wexond/browser-base) – Modern and feature-rich web browser base based on Electron
@@ -2281,6 +2285,12 @@
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) – Utility for mass-downloading LRC synced lyrics for your offline music library.
+
+<div id="yara"></div>
+
+## Yara
+
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 
 <div id="zig"></div>
 
