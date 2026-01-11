@@ -761,13 +761,13 @@
 
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) – Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [FlashSkyNews/pixel](https://github.com/FlashSkyNews/pixel) – Amtsprache ist Deutsch
-- [Flomp/wanderer](https://github.com/Flomp/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) – A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) – Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
 - [transmitic/transmitic](https://github.com/transmitic/transmitic) – Encrypted, peer to peer, file transfer program :: https://discord.gg/tRT3J6T :: https://www.reddit.com/r/transmitic/ :: https://twitter.com/transmitic
@@ -1740,7 +1740,7 @@
 - [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [marhkb/pods](https://github.com/marhkb/pods) – Keep track of your podman containers
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
-- [mayocream/koharu](https://github.com/mayocream/koharu) – AI-powered manga translator, written in Rust.
+- [mayocream/koharu](https://github.com/mayocream/koharu) – ML-powered manga translator, written in Rust.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) – ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) – Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
