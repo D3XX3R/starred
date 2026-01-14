@@ -277,7 +277,6 @@
 - [aamiaa/Data-Package-Tool](https://github.com/aamiaa/Data-Package-Tool) – A tool for browsing messages, servers, and dms of a Discord data package
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [alexwiese/LiveLogViewer](https://github.com/alexwiese/LiveLogViewer) – Live Log Viewer
-- [alterNERDtive/bindED](https://github.com/alterNERDtive/bindED) – This VoiceAttack plugin reads keybindings in Elite:Dangerous and stores them as VoiceAttack variables. 
 - [andyvorld/LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) – A tray app used to track battery levels of wireless Logitech mouse.
 - [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 - [bietiekay/irl-obs-switcher](https://github.com/bietiekay/irl-obs-switcher) – SRT and RTMP IRL (in-real-life) Stream Switcher Tool for OBS - switches scenes automatically for you when you connect/disconnect
@@ -1884,7 +1883,7 @@
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
-- [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) – Toolbox of useful automated scripts for virtualization related stuff.
+- [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) – Toolbox of automated scripts for linux virtualization
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
