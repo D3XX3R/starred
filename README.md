@@ -23,6 +23,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
+- [Fluent](#fluent)
 - [Game Maker Language](#game-maker-language)
 - [Gdscript](#gdscript)
 - [Gherkin](#gherkin)
@@ -299,6 +300,7 @@
 - [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) – LibVLC-based media player for the Universal Windows Platform
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) – .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [insomniachi/FluentFin](https://github.com/insomniachi/FluentFin)
+- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) – Automatically detect and skip intro/credit sequences in Jellyfin
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System - Server Backend & API
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)
 - [lauralex/dwm_lut](https://github.com/lauralex/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
@@ -437,7 +439,6 @@
 - [hexabits/nifskope](https://github.com/hexabits/nifskope)
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) – BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
-- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
 - [kashithecomfy/ComfyEngine](https://github.com/kashithecomfy/ComfyEngine) – ComfyEngine is a memory exploration toolkit built for people who need to monitor, patch, and script a running process.
@@ -594,6 +595,12 @@
 ## Erlang
 
 - [silviucpp/ezstd](https://github.com/silviucpp/ezstd) – Zstd binding for Erlang
+
+<div id="fluent"></div>
+
+## Fluent
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 
 <div id="game-maker-language"></div>
 
@@ -1014,7 +1021,6 @@
 - [yellowsink/shelter-plugins](https://github.com/yellowsink/shelter-plugins) – plugins for uwu/shelter
 - [yeonholee50/NyxHub](https://github.com/yeonholee50/NyxHub) – Secure Web File Sharing Application
 - [yofukashino/BetterDiscordPlugins](https://github.com/yofukashino/BetterDiscordPlugins) – Just me trying
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 
 <div id="jinja"></div>
 
@@ -1580,6 +1586,7 @@
 - [IncredibleDevHQ/agent-panel](https://github.com/IncredibleDevHQ/agent-panel) – AI gateway and observability server written in Rust. Designed to help optimize multi-agent workflows. 
 - [IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds) – True coop multiplayer mod for Noita.
 - [Jupiee/rawst](https://github.com/Jupiee/rawst) – Rawst is cli downloader, written in rust
+- [JustRadical/jellyfin-rpc](https://github.com/JustRadical/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [KMJ-007/lazygh](https://github.com/KMJ-007/lazygh) – A Terminal User Interface (TUI) application for managing multiple GitHub accounts easily
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) – A modern mod manager for Thunderstore
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
@@ -1604,7 +1611,6 @@
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
 - [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.11.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
-- [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
 - [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) –  (Alpha Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols. 
 - [Scarjit/ts3-sec-cuda-rs](https://github.com/Scarjit/ts3-sec-cuda-rs) – A optionally CUDA accelerated Teamspeak3 Security Level bruteforcer.
@@ -1897,6 +1903,7 @@
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) – Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [ih8d8/archstrap](https://github.com/ih8d8/archstrap) – Scripts to automate my encrypted Arch Linux setup
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) – Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [jammsen/docker-collectd-fritzbox](https://github.com/jammsen/docker-collectd-fritzbox)
@@ -2073,7 +2080,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A bitsocial client with a old.reddit UI
+- [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A bitsocial client with an old.reddit UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
