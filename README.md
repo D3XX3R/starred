@@ -23,7 +23,6 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
-- [Fluent](#fluent)
 - [Game Maker Language](#game-maker-language)
 - [Gdscript](#gdscript)
 - [Gherkin](#gherkin)
@@ -221,6 +220,7 @@
 - [Jamedjo/RSTabExplorer](https://github.com/Jamedjo/RSTabExplorer) – RockSmith Tab Explorer
 - [James-LG/AutoCursorLock](https://github.com/James-LG/AutoCursorLock) – Locks cursor to specified windows while in focus. Good for games that don't properly lock the cursor.
 - [JaredWestley/HWIDSpoofer](https://github.com/JaredWestley/HWIDSpoofer) – Simple GUI C# HWID spoofer
+- [Jarex985/SCStreamDeck](https://github.com/Jarex985/SCStreamDeck)
 - [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) – Desktop implementation of Steam's mobile authenticator app
 - [JocysCom/FocusLogger](https://github.com/JocysCom/FocusLogger) – Find out which process or program is taking the window focus. In-game controls could temporary stop responding if other program steals the focus.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) – C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
@@ -596,12 +596,6 @@
 
 - [silviucpp/ezstd](https://github.com/silviucpp/ezstd) – Zstd binding for Erlang
 
-<div id="fluent"></div>
-
-## Fluent
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
-
 <div id="game-maker-language"></div>
 
 ## Game Maker Language
@@ -655,7 +649,7 @@
 - [Trugamr/wol](https://github.com/Trugamr/wol) – 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) – Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) – [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Zhoros/SuperBin](https://github.com/Zhoros/SuperBin) – Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) – Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Modern, open source, self-hosted customer support desk. Single binary app.
@@ -1021,6 +1015,7 @@
 - [yellowsink/shelter-plugins](https://github.com/yellowsink/shelter-plugins) – plugins for uwu/shelter
 - [yeonholee50/NyxHub](https://github.com/yeonholee50/NyxHub) – Secure Web File Sharing Application
 - [yofukashino/BetterDiscordPlugins](https://github.com/yofukashino/BetterDiscordPlugins) – Just me trying
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 
 <div id="jinja"></div>
 
@@ -1049,6 +1044,7 @@
 ## Kotlin
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
+- [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -2199,6 +2195,7 @@
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) – A lightweight Discord client mod focused on simplicity and performance.
 - [ropali/dockyard](https://github.com/ropali/dockyard) – A fast & beautiful Docker GUI client
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
+- [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr)
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) – Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [saalikmubeen/talkhouse](https://github.com/saalikmubeen/talkhouse) – WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) – Watch streaming media with friends.
