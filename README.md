@@ -242,7 +242,7 @@
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
 - [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP) – A Discord Rich Presence client for Apple Music's native Windows app.
 - [POW-Software/ByteSync](https://github.com/POW-Software/ByteSync) – ByteSync is a free and open-source tool for file synchronization, backup, and deduplication. It works locally or remotely, with no VPNs or firewall configuration required. Transfers only file differences, compresses data, encrypts end-to-end, and gives you full control over what and when to sync. Runs on Windows, Linux, and macOS.
-- [ParadoxLeon/CS2-Translator](https://github.com/ParadoxLeon/CS2-Translator) – Simple C# CS2 chat translator (FORK)
+- [ParadoxLeon/CS2-Translator](https://github.com/ParadoxLeon/CS2-Translator) – Simple C# CS2 chat translator
 - [Phalcode/gamevault-app](https://github.com/Phalcode/gamevault-app) – Frontend for the self-hosted gaming platform for drm-free games
 - [PhantomGamers/SFP](https://github.com/PhantomGamers/SFP) – This utility is designed to allow you to apply skins to the modern Steam client
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) – PixiEditor is a Universal Editor for all your 2D needs
@@ -484,6 +484,7 @@
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) – Better font rendering for Windows.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) – Source code for SonoBus, a real-time network audio streaming collaboration tool.
 - [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) – Play local wireless supported games online
+- [steveseguin/ninja-plugin](https://github.com/steveseguin/ninja-plugin)
 - [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) – Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) – An alternative Discord client with voice support made with C++ and GTK 3
@@ -1011,6 +1012,7 @@
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) – ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) – Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 - [xan105/Achievement-Watcher](https://github.com/xan105/Achievement-Watcher) – A sexy achievement file parser with real-time notification, automatic screenshot and playtime tracking. View every achievements earned on your PC whether it's coming from Steam, a Steam emulator, and more.
+- [xeonchen/fxqrl](https://github.com/xeonchen/fxqrl) – FxQRL is a Firefox add-on that turns your URLs into QR code images without network connection.
 - [yatsukiko/Discord-Adblock](https://github.com/yatsukiko/Discord-Adblock) – Discord adblock
 - [yellowsink/shelter-plugins](https://github.com/yellowsink/shelter-plugins) – plugins for uwu/shelter
 - [yeonholee50/NyxHub](https://github.com/yeonholee50/NyxHub) – Secure Web File Sharing Application
@@ -1514,6 +1516,7 @@
 
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
+- [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
 - [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde) – MacOS Sequoia theme for KDE Plasma
 
@@ -1885,7 +1888,7 @@
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
-- [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) – Toolbox of automated scripts for linux virtualization
+- [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) – Toolbox of automated linux virtualization setup scripts for advanced malware analysis
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
@@ -2076,7 +2079,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A bitsocial client with an old.reddit UI
+- [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A Bitsocial client with an old.reddit UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
