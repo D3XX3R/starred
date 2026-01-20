@@ -565,7 +565,7 @@
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
 - [commetchat/commet](https://github.com/commetchat/commet) – Your space to connect
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) – Stack Wallet, a multicoin, cryptocurrency wallet
-- [ente-io/ente](https://github.com/ente-io/ente) – 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) – 💚 End-to-end encrypted cloud for everything.
 - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) – Private, cross-platform package tracking app
@@ -1504,6 +1504,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) – リアルタイムボイスチェンジャー Realtime Voice Changer
 - [wayneclub/Subtitle-Downloader](https://github.com/wayneclub/Subtitle-Downloader) – Auto download subtitles from streaming services, such as Apple TV+, CatchPlay, Crunchyroll, Disney+, FridayVideo, HBO GO Asia, iQIYI, iTunes, KKTV, LINE TV, meWATCH, MyVideo, NowE, NowPlayer, Viki, Viu, WeTV, YouTube, and etc.
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) – Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
+- [x89/Crypto_Future_Trading_Bot](https://github.com/x89/Crypto_Future_Trading_Bot) – AI Crypto Future Trading Bot
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) – Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) – Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [yani-/windows-nfs-manager](https://github.com/yani-/windows-nfs-manager) – A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.
@@ -1861,7 +1862,6 @@
 - [w4/rgit](https://github.com/w4/rgit) – 🏯 blazingly fast web frontend for git repositories
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
-- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – Solana Arbitrage Bot
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
