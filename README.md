@@ -56,7 +56,6 @@
 - [Python](#python)
 - [Qml](#qml)
 - [Rich Text Format](#rich-text-format)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -71,7 +70,6 @@
 - [Visual Basic .Net](#visual-basic-.net)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
-- [Yara](#yara)
 - [Zig](#zig)
 
 
@@ -347,7 +345,6 @@
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) – Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
 - [AIRLegend/aitrack](https://github.com/AIRLegend/aitrack) – 6DoF Head tracking software
 - [AidaDSP/AIDA-X](https://github.com/AidaDSP/AIDA-X) – AIDA-X, an Amp Model Player leveraging AI
-- [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) – OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [Aitum/obs-aitum-multistream](https://github.com/Aitum/obs-aitum-multistream)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [Alia5/GlosSI](https://github.com/Alia5/GlosSI) – Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
@@ -383,6 +380,7 @@
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) – Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
 - [Off-World-Live/obs-spout2-plugin](https://github.com/Off-World-Live/obs-spout2-plugin) – A Plugin for OBS Studio to enable Spout2 (https://github.com/leadedge/Spout2) input / output
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) – Classic Shell Reborn.
+- [OvenMediaLabs/OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) – OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) – Lossless Scaling Frame Generation on Linux
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) – A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [Priton-CE/opentrack-StarCitizen](https://github.com/Priton-CE/opentrack-StarCitizen) – Head tracking software for fixes with Star Citizen on Linux.
@@ -951,6 +949,7 @@
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) – Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [hieyou1/twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) – DVD Screensaver style "Starting Soon" or [for IRL streamers] "Stream Down" screen.
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) – Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) – Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
 - [ioj4/shelter-plugins](https://github.com/ioj4/shelter-plugins) – My plugins for uwu/shelter
@@ -1047,7 +1046,6 @@
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
 - [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
-- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [acidicoala/Koalageddon2](https://github.com/acidicoala/Koalageddon2) – Legit DLC Unlocker for Steamworks, Epic Online Services, and Ubisoft Connect
@@ -1458,7 +1456,7 @@
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/toutatis](https://github.com/megadose/toutatis) – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) – Universal memory layer for AI Agents
-- [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) – A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
+- [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) – A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot) – 🏓 A bot that relays Twitch Chat and a Discord Channel between each other.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) – Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher,PS Plus, Glyph, VKPlay & HoYoPlay, Waydroid and Games on SD Card.
@@ -1527,12 +1525,6 @@
 
 - [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler) – Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.
 
-<div id="roff"></div>
-
-## Roff
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
-
 <div id="ruby"></div>
 
 ## Ruby
@@ -1590,7 +1582,7 @@
 - [KMJ-007/lazygh](https://github.com/KMJ-007/lazygh) – A Terminal User Interface (TUI) application for managing multiple GitHub accounts easily
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) – A modern mod manager for Thunderstore
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A decentralised discussion platform for communities.
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) – 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) – A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Majora320/steamid-ng](https://github.com/Majora320/steamid-ng) – An easy-to-use steamid type with functions to parse and render steam2 and steam3 IDs.
@@ -1885,6 +1877,7 @@
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. 
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
@@ -1912,6 +1905,7 @@
 - [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from ASCII characters with randomized parameters
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) – PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) – Script to set up bbctl automatically for sh-imessage bridge
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) – A docker sidecar container to forward all traffic to local docker host or any other host
 - [screetsec/Vegile](https://github.com/screetsec/Vegile) – This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) – ADSB-Ultrafeeder is an all-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in
@@ -2293,12 +2287,6 @@
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) – Utility for mass-downloading LRC synced lyrics for your offline music library.
-
-<div id="yara"></div>
-
-## Yara
-
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 
 <div id="zig"></div>
 
