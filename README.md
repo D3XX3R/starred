@@ -134,6 +134,7 @@
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
+- [SiloCityLabs/esp32-airtap](https://github.com/SiloCityLabs/esp32-airtap) – Compilation of AC Infinity Vent custom pcbs
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -680,6 +681,7 @@
 - [d6o/Gorganizer](https://github.com/d6o/Gorganizer) – Organize your folders into a beautiful classified folder structure with this perfect tool
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) – Tiny native Discord app
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
+- [dwot/isley](https://github.com/dwot/isley) – Self-Hosted Cannabis Grow Journal with sensor tracking for AC Infinity Controllers and Ecowitt Soil Sensors
 - [evan-sm/twitchpl](https://github.com/evan-sm/twitchpl) – ▶️🎵 Get m3u8 twitch playlist
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [folbricht/routedns](https://github.com/folbricht/routedns) – DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
@@ -712,7 +714,7 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
 - [minekube/gate](https://github.com/minekube/gate) – High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) – :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) – :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
@@ -1169,6 +1171,7 @@
 - [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
 - [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) – YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [Yimura/GTAV-Classes](https://github.com/Yimura/GTAV-Classes)
+- [alexjamesbilodeau/linux](https://github.com/alexjamesbilodeau/linux) – Shareable visual assets for the Linux community.
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) – A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/ & https://alloc8or.re/gta5/nativedb/enhanced/
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
@@ -2147,7 +2150,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) – 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [manyuanrong/deno-deamon](https://github.com/manyuanrong/deno-deamon) – Make the Deno program run in the background
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) – AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) – open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform.
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
