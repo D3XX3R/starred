@@ -656,6 +656,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) – An automated e-mail OSINT tool
+- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) – Modern rules-based URL launcher ready to replace your default browser.
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -931,7 +932,7 @@
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) – Browser extension that automatically fills out cookie popups based on your preferences
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
-- [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler.  https://secrethitler.io
+- [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler, originally developed in early fall 2016.  https://secrethitler.io
 - [cracker0dks/CaptchaSolver](https://github.com/cracker0dks/CaptchaSolver) – JDownload 2 Offline Captcha Solver
 - [debloper/xplex](https://github.com/debloper/xplex) – The renaissance will be multi-streamed LIVE—with xplex!
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) – RTSP Stream to WebBrowser
@@ -1969,6 +1970,7 @@
 - [khcrysalis/Feather](https://github.com/khcrysalis/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [lo-cafe/winston](https://github.com/lo-cafe/winston) – A beautiful and native Reddit client for iOS
 - [mani-sh-reddy/Lunar](https://github.com/mani-sh-reddy/Lunar) – Lunar is an iOS app that serves as a client for Lemmy & Kbin, the open-source federated alternatives to Reddit
+- [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) – A SwiftUI based macOS GUI for rsync.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) – Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [wozniakpawel/PairPods](https://github.com/wozniakpawel/PairPods) – Free and open source app to share audio on macOS
 - [yattee/yattee](https://github.com/yattee/yattee) – Privacy oriented video player for iOS, tvOS and macOS
@@ -2013,8 +2015,9 @@
 - [Hypfer/lovelace-valetudo-map-card](https://github.com/Hypfer/lovelace-valetudo-map-card) – Display the map from a valetudo-enabled robot in a home assistant dashboard card.
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
 - [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Its2Factor/vc-voiceChannelLogger](https://github.com/Its2Factor/vc-voiceChannelLogger) – Vencord VoiceChannelLogger userplugin
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) – Puts Docker Containers to sleep and wakes them back up when they're needed
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered answering engine.
 - [JMBeresford/retrom](https://github.com/JMBeresford/retrom) – A centralized game library/collection management service with a focus on emulation
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) – A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) – Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
@@ -2028,6 +2031,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) – :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) – An automatic livestream recorder
+- [MrTopQ/customStream-Vencord](https://github.com/MrTopQ/customStream-Vencord) – Vencord plugin that replaces steam preview
 - [Nerwyn/custom-card-features](https://github.com/Nerwyn/custom-card-features) – Home Assistant custom features for tile cards and more. Call any action using buttons, dropdowns, inputs, selectors, sliders, spinboxes, and toggles.
 - [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) – 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
 - [NurMarvin/discord-proxy](https://github.com/NurMarvin/discord-proxy) – Locally proxies a specific Discord build on your local machine
@@ -2048,6 +2052,7 @@
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
+- [TetraSsky/CleanCord](https://github.com/TetraSsky/CleanCord) – Allows you to hide certain servers/folders in your server list with right-click option and manage mentions handling with various settings
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
@@ -2075,6 +2080,8 @@
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) – A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
+- [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
+- [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A Bitsocial client with an old.reddit UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
