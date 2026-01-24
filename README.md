@@ -61,6 +61,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Surrealql](#surrealql)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -402,7 +403,6 @@
 - [ValveSoftware/steam-audio](https://github.com/ValveSoftware/steam-audio) – Steam Audio
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango) – The world's first Xbox One compatibility layer for Windows.
 - [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) – Virtual amiibo (amiibo emulation) system for Nintendo Switch
 - [Zielon/PBRVulkan](https://github.com/Zielon/PBRVulkan) – Vulkan Real-time Path Tracer Engine
 - [abdularis/LAN-Share](https://github.com/abdularis/LAN-Share) – Cross platform LAN File transfer application built with Qt C++ framework
@@ -528,6 +528,7 @@
 
 - [Andersama/obs-asio](https://github.com/Andersama/obs-asio) – ASIO plugin for OBS-Studio
 - [EZ64cool/obs-hadowplay](https://github.com/EZ64cool/obs-hadowplay)
+- [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango) – The world's first Xbox One compatibility layer for Windows.
 - [derrod/obs-roi-ui](https://github.com/derrod/obs-roi-ui) – A plugin for encoding nerds.
 
 <div id="crystal"></div>
@@ -719,7 +720,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
@@ -1318,7 +1319,7 @@
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) – A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [JAB-dev/mpv-frame-interpolation](https://github.com/JAB-dev/mpv-frame-interpolation) – Vapoursynth script for decent fps interpolation 
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) – Bulk Gallery Downloader for Cyberdrop.me and Other Sites
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) – Notify if a selected plane has taken off or landed using ADS-B data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, Mastodon, and Telegram
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) – Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output to Twitter, Discord, Mastodon, and Telegram.
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) – A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [KimberleyJensen/Mel-Band-Roformer-Vocal-Model](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model)
 - [KnifeXRage/Godot-Secure](https://github.com/KnifeXRage/Godot-Secure) – Godot Secure is a Simple Python Script That modify the Godot Source Code Automatically, to integrate Camellia-256 / AES-256 encryption with a unique security token system. This solution creates a cryptographically unique engine build that prevents generic decryption tools from accessing your game assets.
@@ -1727,6 +1728,7 @@
 - [kade-robertson/uggo](https://github.com/kade-robertson/uggo) – TUI app to pull builds from u.gg
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+- [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust. Formerly known as PlumeImpactor.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) – 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -1932,6 +1934,12 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 
+<div id="surrealql"></div>
+
+## Surrealql
+
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+
 <div id="svelte"></div>
 
 ## Svelte
@@ -2082,7 +2090,6 @@
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A Bitsocial client with an old.reddit UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
