@@ -1694,6 +1694,7 @@
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Build golden images with CI
 - [gamedig/rust-gamedig](https://github.com/gamedig/rust-gamedig) – Game Server Query Library.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – A cross-platform, safe, pure-Rust graphics API.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) – The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [google/forma](https://github.com/google/forma) – An efficient vector-graphics renderer
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) – High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 - [greyblake/nutype](https://github.com/greyblake/nutype) – Rust newtype with guarantees  🇺🇦 🦀
@@ -2178,6 +2179,7 @@
 - [nab138/iloader](https://github.com/nab138/iloader) – User friendly sideloader
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
 - [necdetsanli/do-not-ghost-me](https://github.com/necdetsanli/do-not-ghost-me) – Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.
+- [neosubhamoy/neodlp](https://github.com/neosubhamoy/neodlp) – Cross-platform Video/Audio Downloader Desktop App with Modern UI and Browser Integration
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [netbirdio/dashboard](https://github.com/netbirdio/dashboard) – NetBird Management Service Web UI Panel
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
