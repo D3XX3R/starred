@@ -71,6 +71,7 @@
 - [Visual Basic .Net](#visual-basic-.net)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
+- [Yara](#yara)
 - [Zig](#zig)
 
 
@@ -393,7 +394,7 @@
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium.
-- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
@@ -403,6 +404,7 @@
 - [ValveSoftware/steam-audio](https://github.com/ValveSoftware/steam-audio) – Steam Audio
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango) – The world's first Xbox One compatibility layer for Windows.
 - [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) – Virtual amiibo (amiibo emulation) system for Nintendo Switch
 - [Zielon/PBRVulkan](https://github.com/Zielon/PBRVulkan) – Vulkan Real-time Path Tracer Engine
 - [abdularis/LAN-Share](https://github.com/abdularis/LAN-Share) – Cross platform LAN File transfer application built with Qt C++ framework
@@ -528,7 +530,6 @@
 
 - [Andersama/obs-asio](https://github.com/Andersama/obs-asio) – ASIO plugin for OBS-Studio
 - [EZ64cool/obs-hadowplay](https://github.com/EZ64cool/obs-hadowplay)
-- [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango) – The world's first Xbox One compatibility layer for Windows.
 - [derrod/obs-roi-ui](https://github.com/derrod/obs-roi-ui) – A plugin for encoding nerds.
 
 <div id="crystal"></div>
@@ -572,6 +573,7 @@
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) – ⚗️  a privacy centric matrix client 
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) – An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) – A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
+- [warreth/OpenlibExtended](https://github.com/warreth/OpenlibExtended) – An Open source app to download and read books from shadow library (Anna’s Archive)
 
 <div id="dockerfile"></div>
 
@@ -657,7 +659,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) – An automated e-mail OSINT tool
-- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) – Modern rules-based URL launcher ready to replace your default browser.
+- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) – Modern rules-based browser launcher and link redirector ready to replace your default browser.
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -953,7 +955,6 @@
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) – Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [hieyou1/twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) – DVD Screensaver style "Starting Soon" or [for IRL streamers] "Stream Down" screen.
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) – Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) – Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
 - [ioj4/shelter-plugins](https://github.com/ioj4/shelter-plugins) – My plugins for uwu/shelter
@@ -1888,7 +1889,7 @@
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
-- [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) – Toolbox of automated linux virtualization setup scripts for advanced malware analysis
+- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Toolbox of automated linux virtualization setup scripts for advanced malware analysis
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
@@ -2306,6 +2307,12 @@
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) – Utility for mass-downloading LRC synced lyrics for your offline music library.
+
+<div id="yara"></div>
+
+## Yara
+
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 
 <div id="zig"></div>
 
