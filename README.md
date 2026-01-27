@@ -61,7 +61,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Starlark](#starlark)
-- [Surrealql](#surrealql)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -722,7 +721,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
@@ -1936,12 +1935,6 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 
-<div id="surrealql"></div>
-
-## Surrealql
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
 <div id="svelte"></div>
 
 ## Svelte
@@ -2092,6 +2085,7 @@
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A Bitsocial client with an old.reddit UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -2180,7 +2174,7 @@
 - [nab138/iloader](https://github.com/nab138/iloader) – User friendly sideloader
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
 - [necdetsanli/do-not-ghost-me](https://github.com/necdetsanli/do-not-ghost-me) – Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.
-- [neosubhamoy/neodlp](https://github.com/neosubhamoy/neodlp) – Cross-platform Video/Audio Downloader Desktop App with Modern UI and Browser Integration
+- [neosubhamoy/neodlp](https://github.com/neosubhamoy/neodlp) – Cross-platform Video/Audio Downloader Desktop App based on YT-DLP with Modern UI and Browser Integration
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [netbirdio/dashboard](https://github.com/netbirdio/dashboard) – NetBird Management Service Web UI Panel
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
@@ -2306,6 +2300,7 @@
 - [jamiepine/cache-monkey](https://github.com/jamiepine/cache-monkey) – Convert, browse and clear cached images and files. Images you see online are never deleted immediately, unless you delete them of course.  Most desktop apps have a cache directory, not all provide the tools to clear it. CacheMonkey not only lets you purge cache files, but browse and filter through them too.
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
+- [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) – Utility for mass-downloading LRC synced lyrics for your offline music library.
 
 <div id="yara"></div>
