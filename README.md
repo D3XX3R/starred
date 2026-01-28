@@ -375,6 +375,7 @@
 - [MajorPainTheCactus/AutoHDR-ReShade](https://github.com/MajorPainTheCactus/AutoHDR-ReShade) – AutoHDR addon and effect for ReShade
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) – Tray application and Dolphin/Plasma integration for Syncthing
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) – Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                           
+- [NVIDIA-RTX/RTXNTC](https://github.com/NVIDIA-RTX/RTXNTC) – NVIDIA Neural Texture Compression SDK
 - [NegInfinity/ProjectExodus](https://github.com/NegInfinity/ProjectExodus) – Project Exodus - Unity to Unreal scene/project transfer tool.
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [Noeli14/MCppServer](https://github.com/Noeli14/MCppServer) – Fast and super efficient Minecraft Server written in C++
@@ -458,8 +459,10 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) – WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+- [mikeoliphant/Stompbox](https://github.com/mikeoliphant/Stompbox) – Guitar amplification and effects pedalboard simulation
 - [mikeoliphant/neural-amp-modeler-lv2](https://github.com/mikeoliphant/neural-amp-modeler-lv2) – Neural Amp Modeler LV2 plugin
 - [misyltoad/dxup](https://github.com/misyltoad/dxup) – A d3d9 and d3d10 to d3d11 translation layer.
+- [mod-audio/mod-desktop](https://github.com/mod-audio/mod-desktop) – MOD Audio for the desktop
 - [momo5502/sogen](https://github.com/momo5502/sogen) – 🪅 Windows User Space Emulator 
 - [monero-project/monero](https://github.com/monero-project/monero) – Monero: the secure, private, untraceable cryptocurrency
 - [mongoose-os-apps/shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit) – Apple HomeKit firmware for Shelly's
@@ -1521,6 +1524,7 @@
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
+- [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
 - [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde) – MacOS Sequoia theme for KDE Plasma
 
@@ -1632,6 +1636,7 @@
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) – 3D City Builder without a grid
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) – A powerful (home) server admininistration tool written in Rust
+- [Wuild/pttkey](https://github.com/Wuild/pttkey) – pttkey is a lightweight Push‑To‑Talk helper for PipeWire. It listens to a chosen keyboard or mouse button via evdev and mutes/unmutes the default mic (or sets volume levels) while the key is held. Optional on/off sounds use system audio.
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) – Set up a modern rust+react web app by running one command. 
 - [aatxe/irc](https://github.com/aatxe/irc) – the irc crate – usable, async IRC for Rust
 - [abenz1267/walker](https://github.com/abenz1267/walker) – Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
@@ -1759,7 +1764,7 @@
 - [moonrepo/moon](https://github.com/moonrepo/moon) – A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mu-arch/skyfolder](https://github.com/mu-arch/skyfolder) – 🪂 SkyFolder shares your folders on the network!
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) – peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) – IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neevek/omnip](https://github.com/neevek/omnip) – An all in one proxy written in Rust.
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
