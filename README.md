@@ -264,7 +264,7 @@
 - [SteamAutoCracks/DepotDumper](https://github.com/SteamAutoCracks/DepotDumper) – Mass depot key dumper utilizing the SteamKit2 library
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) – SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
-- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity v3.x/v2.x/v1.x products.
+- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity v3.x/v2.x products.
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
@@ -1597,6 +1597,7 @@
 - [Majora320/steamid-ng](https://github.com/Majora320/steamid-ng) – An easy-to-use steamid type with functions to parse and render steam2 and steam3 IDs.
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) – A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
+- [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) – Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features 
 - [NOALBS/nginx-obs-automatic-low-bitrate-switching](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) – Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the ingest stats page.
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
@@ -1893,7 +1894,7 @@
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
-- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Toolbox of automated linux virtualization setup scripts for advanced malware analysis
+- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts for malware analysis. The VM knows. Isolation is a suggestion. Behavior changes after observation are intentional. Logs omit what matters. If something escapes, it didn’t start here.
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
