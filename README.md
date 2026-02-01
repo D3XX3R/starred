@@ -1848,7 +1848,7 @@
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
-- [trumank/uesave-rs](https://github.com/trumank/uesave-rs) – Rust library and CLI to read and write Unreal Engine save files
+- [trumank/uesave](https://github.com/trumank/uesave) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command.
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
