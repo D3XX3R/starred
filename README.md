@@ -724,7 +724,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
@@ -774,6 +774,7 @@
 - [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
+- [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – 🎮⌛Downgrade Steam games to older versions with ease using DepotDownloader
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
@@ -1503,6 +1504,7 @@
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
 - [tanersb/TwitchRecover](https://github.com/tanersb/TwitchRecover)
 - [timmaurice/bergfex](https://github.com/timmaurice/bergfex) – This custom integration for Home Assistant fetches snow reports and ski resort data directly from Bergfex.
+- [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) – A Linux compatible UI for the Elgato Stream Deck.
 - [tolwi/hassio-ecoflow-cloud](https://github.com/tolwi/hassio-ecoflow-cloud) – EcoFlow Cloud Integration for Home Assistant
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) – Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
@@ -1735,7 +1737,7 @@
 - [kade-robertson/uggo](https://github.com/kade-robertson/uggo) – TUI app to pull builds from u.gg
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust. Formerly known as PlumeImpactor.
+- [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) – WIP feature rich iOS/tvOS sideloading application written in Rust.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) – 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -1760,7 +1762,6 @@
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) – Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) – Home of OpenVMM and OpenHCL
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) – Rust for Windows
-- [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – 🎮⌛Downgrade Steam games to older versions with ease using DepotDownloader
 - [monroeclinton/mwm](https://github.com/monroeclinton/mwm) – My Window Manager
 - [moonrepo/moon](https://github.com/moonrepo/moon) – A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
