@@ -638,7 +638,7 @@
 
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application
 - [DevHatRo/zero-trust-proxy](https://github.com/DevHatRo/zero-trust-proxy) – Zero Trust Reverse proxy over mTLS
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
