@@ -70,7 +70,6 @@
 - [Visual Basic .Net](#visual-basic-.net)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
-- [Yara](#yara)
 - [Zig](#zig)
 
 
@@ -957,6 +956,7 @@
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) – Just an Opensourced locally hosted Money Management and Expense Splitting Service
 - [hieyou1/twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) – DVD Screensaver style "Starting Soon" or [for IRL streamers] "Stream Down" screen.
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) – Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) – Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
 - [ioj4/shelter-plugins](https://github.com/ioj4/shelter-plugins) – My plugins for uwu/shelter
@@ -2310,12 +2310,6 @@
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) – Utility for mass-downloading LRC synced lyrics for your offline music library.
-
-<div id="yara"></div>
-
-## Yara
-
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 
 <div id="zig"></div>
 
