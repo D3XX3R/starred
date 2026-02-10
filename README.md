@@ -392,7 +392,7 @@
 - [SpecialKO/SpecialK](https://github.com/SpecialKO/SpecialK) – Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything.
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
-- [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium.
+- [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
@@ -674,6 +674,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -712,7 +713,7 @@
 - [kekskurse/go-mail-admin](https://github.com/kekskurse/go-mail-admin) – HTTP-Interface with a small GUI for a Mailserver
 - [klauspost/ryzen-master-vbs-patch](https://github.com/klauspost/ryzen-master-vbs-patch) – AMD Ryzen Master Hyper-V VBS patcher
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) – Kubernetes IN Docker - local clusters for testing Kubernetes
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -1393,7 +1394,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1432,6 +1432,7 @@
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) – The authentication glue you need.
+- [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
 - [gottagofaster236/Twitch-Channel-Points-Miner](https://github.com/gottagofaster236/Twitch-Channel-Points-Miner) – A simple script that will watch a stream for you and get the channel points
 - [gptme/gptme](https://github.com/gptme/gptme) – Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [gridhead/expedite](https://github.com/gridhead/expedite) – Simple encrypted file transfer service for humans
