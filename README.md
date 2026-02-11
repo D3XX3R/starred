@@ -42,6 +42,7 @@
 - [Liquid](#liquid)
 - [Logos](#logos)
 - [Makefile](#makefile)
+- [Mdx](#mdx)
 - [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -674,7 +675,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -944,7 +944,6 @@
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) – AdNauseam: Fight back against advertising surveillance
 - [discord-modifications/better-discord-plugins](https://github.com/discord-modifications/better-discord-plugins) – A collection of my BetterDiscord plugins.
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord API Documentation
 - [divout/mpv_reduce_stream_cache](https://github.com/divout/mpv_reduce_stream_cache) – Reduces MPV cache for streams by increasing playback speed.
 - [drakonkat/Crawfish](https://github.com/drakonkat/Crawfish) – Innovative torrent client with integrated search feature
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) – 🔀 Redirect social media platforms to their privacy respecting frontends
@@ -1108,6 +1107,12 @@
 - [ediblerope/Discord-Capture-Limiter](https://github.com/ediblerope/Discord-Capture-Limiter) – A lightweight daemon that automatically manages multiple Discord audio capture streams in PipeWire, ensuring only the oldest stream remains active to prevent audio duplication issues.
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
+
+<div id="mdx"></div>
+
+## Mdx
+
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord API Documentation
 
 <div id="nim"></div>
 
@@ -1394,6 +1399,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1448,6 +1454,7 @@
 - [jarredou/MVSEP-MDX23-Colab_v2](https://github.com/jarredou/MVSEP-MDX23-Colab_v2) – Colab adaptation of MVSep Model for MDX23 music separation contest
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
+- [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat) – A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 - [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) – Unofficial ParcelApp integration with Home Assistant
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
@@ -1514,7 +1521,6 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) – リアルタイムボイスチェンジャー Realtime Voice Changer
 - [wayneclub/Subtitle-Downloader](https://github.com/wayneclub/Subtitle-Downloader) – Auto download subtitles from streaming services, such as Apple TV+, CatchPlay, Crunchyroll, Disney+, FridayVideo, HBO GO Asia, iQIYI, iTunes, KKTV, LINE TV, meWATCH, MyVideo, NowE, NowPlayer, Viki, Viu, WeTV, YouTube, and etc.
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) – Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
-- [x89/Crypto_Future_Trading_Bot](https://github.com/x89/Crypto_Future_Trading_Bot) – AI Crypto Future Trading Bot
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) – Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) – Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [yani-/windows-nfs-manager](https://github.com/yani-/windows-nfs-manager) – A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.
@@ -1870,6 +1876,7 @@
 - [w4/rgit](https://github.com/w4/rgit) – 🏯 blazingly fast web frontend for git repositories
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
+- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – https://t.me/githubx89 Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
@@ -2040,6 +2047,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's private API, known as InnerTube.
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) – Matterbridge plugin manager for Matter
 - [Luligu/matterbridge-shelly](https://github.com/Luligu/matterbridge-shelly) – Matterbridge shelly plugin
+- [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – A SpaceBar Client written in TS HTML and CSS
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) – :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) – An automatic livestream recorder
