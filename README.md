@@ -85,7 +85,7 @@
 ## Assembly
 
 - [briansmith/ring](https://github.com/briansmith/ring) – An experiment.
-- [donno2048/snake](https://github.com/donno2048/snake) – A 54 bytes snake game in assembly 
+- [donno2048/snake](https://github.com/donno2048/snake) – A 54 bytes snake game in x86 assembly 
 - [memorysafety/rav1d](https://github.com/memorysafety/rav1d) – An AV1 decoder in Rust.
 - [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
 
@@ -1294,6 +1294,7 @@
 
 - [152334H/DL-Art-School](https://github.com/152334H/DL-Art-School) – TorToiSe fine-tuning with DLAS
 - [2bc4/streamlink-ttvlol](https://github.com/2bc4/streamlink-ttvlol) – Streamlink Twitch plugin modified to work with the TTV.LOL API
+- [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) – Home Assistant integration to detect washer cycles from smart plug power, match programs, and estimate time remaining
 - [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
@@ -1761,6 +1762,7 @@
 - [magnesium-uploader/magnesium-oxide](https://github.com/magnesium-uploader/magnesium-oxide) – A blazingly fast, privacy-first ShareX uploader coded in Rust (using actix web) which utilizes the AES256-GCM-SIV encryption standard to securely store uploaded content.
 - [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [marhkb/pods](https://github.com/marhkb/pods) – Keep track of your podman containers
+- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) – Official successor to conduwuit
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
 - [mayocream/koharu](https://github.com/mayocream/koharu) – ML-powered manga translator, written in Rust.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) – ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
@@ -2114,6 +2116,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) – Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) – Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) – Yet another matrix client
 - [cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game](https://github.com/cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game) – A Technical Analysis Algorithmic Trading Game
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) – 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [codeoverflow-org/nodecg-io](https://github.com/codeoverflow-org/nodecg-io) – A NodeCG-bundle which implements Social Media API's in the NodeCG framework
