@@ -240,7 +240,7 @@
 - [Nexam/NexHud](https://github.com/Nexam/NexHud) – Enhanced VR Hud for Elite: Dangerous
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) – Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
-- [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP) – A Discord Rich Presence client for Apple Music's native Windows app.
+- [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP) – A Discord Rich Presence client for Apple Music's native Windows app. Also supports Last.FM scrobbling.
 - [POW-Software/ByteSync](https://github.com/POW-Software/ByteSync) – ByteSync is a free and open-source tool for file synchronization, backup, and deduplication. It works locally or remotely, with no VPNs or firewall configuration required. Transfers only file differences, compresses data, encrypts end-to-end, and gives you full control over what and when to sync. Runs on Windows, Linux, and macOS.
 - [ParadoxLeon/CS2-Translator](https://github.com/ParadoxLeon/CS2-Translator) – Simple C# CS2 chat translator
 - [Phalcode/gamevault-app](https://github.com/Phalcode/gamevault-app) – Frontend for the self-hosted gaming platform for drm-free games
@@ -570,6 +570,7 @@
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) – Stack Wallet, a multicoin, cryptocurrency wallet
 - [ente-io/ente](https://github.com/ente-io/ente) – 💚 End-to-end encrypted cloud for everything.
 - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) – The cutest instant messenger in the [matrix]
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) – Private, cross-platform package tracking app
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) – ⚗️  a privacy centric matrix client 
@@ -718,13 +719,14 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
+- [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
 - [minekube/gate](https://github.com/minekube/gate) – High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
@@ -1381,6 +1383,7 @@
 - [WorldObservationLog/AppleMusicDecrypt](https://github.com/WorldObservationLog/AppleMusicDecrypt) – Apple Music decryption tool, inspired by zhaarey/apple-music-alac-atmos-downloader
 - [Xientraa/The-Sims-Resource-Downloader](https://github.com/Xientraa/The-Sims-Resource-Downloader) – A Python tool to download items with ease from The Sims Resource.
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
+- [ZackGphom/GLORP](https://github.com/ZackGphom/GLORP) – Optimized Pixel-Art to SVG converter with Greedy Meshing.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
 - [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
@@ -1396,6 +1399,7 @@
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
@@ -1750,7 +1754,6 @@
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) – 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) – 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
 - [linebender/druid](https://github.com/linebender/druid) – A data-first Rust-native UI design toolkit. 
@@ -2025,6 +2028,7 @@
 - [Doezer/Questarr](https://github.com/Doezer/Questarr) – Video games manager for -arr users
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
+- [Enovale/cinny-electron](https://github.com/Enovale/cinny-electron)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – A cross platform SimConnect client library for Node.JS
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
@@ -2192,7 +2196,6 @@
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) – The repo for https://stream.new
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nab138/iloader](https://github.com/nab138/iloader) – User friendly sideloader
-- [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
 - [necdetsanli/do-not-ghost-me](https://github.com/necdetsanli/do-not-ghost-me) – Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.
 - [neosubhamoy/neodlp](https://github.com/neosubhamoy/neodlp) – Cross-platform Video/Audio Downloader Desktop App based on YT-DLP with Modern UI and Browser Integration
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
