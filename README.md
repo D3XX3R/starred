@@ -269,6 +269,7 @@
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) – Saves Discord chat logs to a file
+- [Valour-Software/Valour](https://github.com/Valour-Software/Valour) – Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 - [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) – Source 2 Viewer is a powerful tool that allows you to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) – Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr)
@@ -440,6 +441,7 @@
 - [hexabits/nifskope](https://github.com/hexabits/nifskope)
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) – BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
 - [kashithecomfy/ComfyEngine](https://github.com/kashithecomfy/ComfyEngine) – ComfyEngine is a memory exploration toolkit built for people who need to monitor, patch, and script a running process.
@@ -504,6 +506,7 @@
 
 - [FritzAndFriends/StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit) – A .NET Standard library, template, and tools for building extensions to the Elgato Stream Deck
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) – Sun Valley + MDL2 Theme for Firefox
+- [MakD/zombie-release](https://github.com/MakD/zombie-release) – A theme for Jellyfin 10.9.x combining the best from the Public Themes
 - [Mirobit/bitcoin-node-manager](https://github.com/Mirobit/bitcoin-node-manager) – :bar_chart: Lightweight dashboard and control system for bitcoin nodes
 - [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) – Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) – An opinionated set of configurations for firefox.
@@ -1121,7 +1124,6 @@
 ## Nim
 
 - [OpenAsar/capybara](https://github.com/OpenAsar/capybara) – Minimal replacement for Squirrel's Update.exe
-- [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) – CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 
 <div id="objective-c"></div>
 
@@ -1771,6 +1773,7 @@
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) – Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) – CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) – Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) – Home of OpenVMM and OpenHCL
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) – Rust for Windows
@@ -1922,7 +1925,6 @@
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) – Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [ih8d8/archstrap](https://github.com/ih8d8/archstrap) – Scripts to automate my encrypted Arch Linux setup
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
-- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) – Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [jammsen/docker-collectd-fritzbox](https://github.com/jammsen/docker-collectd-fritzbox)
@@ -2119,6 +2121,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) – Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) – Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+- [chuunibian/delta](https://github.com/chuunibian/delta) – Disk space analyzer with historical tracking.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) – Yet another matrix client
 - [cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game](https://github.com/cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game) – A Technical Analysis Algorithmic Trading Game
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) – 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
