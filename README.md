@@ -1188,7 +1188,7 @@
 - [Yimura/GTAV-Classes](https://github.com/Yimura/GTAV-Classes)
 - [alexjamesbilodeau/linux](https://github.com/alexjamesbilodeau/linux) – Shareable visual assets for the Linux community.
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) – A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/ & https://alloc8or.re/gta5/nativedb/enhanced/
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
 - [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) – a collection about Windows 11
@@ -1476,6 +1476,7 @@
 - [markaggar/Water-Monitor](https://github.com/markaggar/Water-Monitor) – Home Assistant Integration that leverages an existing water flow sensor for tracking water usage sessions and detecting potential leaks.
 - [marq24/ha-tibber-pulse-local](https://github.com/marq24/ha-tibber-pulse-local) – Local/LAN Tibber Pulse IR/Bridge Integration for Home Assistant. My Tibber invitation Link: https://invite.tibber.com/6o0kqvzf (Code: six, oscar, zero, kilo, quebec, victor, zulu, foxtrot)
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) – ElevenClock: Customize Windows 11 taskbar clock
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) – A modern selfhosted media management system for your media library
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) – OnionSearch is a script that scrapes urls on different .onion search engines. 
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
