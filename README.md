@@ -679,6 +679,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1406,7 +1407,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1682,6 +1682,7 @@
 - [chriamue/openrailwaymap-exporter](https://github.com/chriamue/openrailwaymap-exporter) – OpenRailwayMap Exporter is a Rust project that downloads railway data from the OpenRailwayMap API
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
+- [claration/Impactor](https://github.com/claration/Impactor) – WIP feature rich iOS/tvOS sideloading application written in Rust.
 - [classx/dark-matter](https://github.com/classx/dark-matter) – Dark matter - simple vault CLI utility with GPG encryption
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
@@ -1753,7 +1754,6 @@
 - [kade-robertson/uggo](https://github.com/kade-robertson/uggo) – TUI app to pull builds from u.gg
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-- [khcrysalis/Impactor](https://github.com/khcrysalis/Impactor) – WIP feature rich iOS/tvOS sideloading application written in Rust.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) – 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -1991,11 +1991,11 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) – A virtual monitor for screen sharing
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) – A Custom Client for iPhone, iPad, and Mac
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) – A fully native Discord client for macOS built 100% in Swift!
+- [claration/Feather](https://github.com/claration/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [eerimoq/moblin](https://github.com/eerimoq/moblin) – Moblin, a free iOS app for IRL streaming.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [itoolio/ishare](https://github.com/itoolio/ishare) – experience the clean and unbloated screen capture utility for macOS
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) – An open source approach to locally record and enable searching everything you view on your Mac.
-- [khcrysalis/Feather](https://github.com/khcrysalis/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [lo-cafe/winston](https://github.com/lo-cafe/winston) – A beautiful and native Reddit client for iOS
 - [mani-sh-reddy/Lunar](https://github.com/mani-sh-reddy/Lunar) – Lunar is an iOS app that serves as a client for Lemmy & Kbin, the open-source federated alternatives to Reddit
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) – A SwiftUI based macOS GUI for rsync.
@@ -2019,7 +2019,7 @@
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) – Browser watcher for ActivityWatch
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
 - [Budibase/budibase](https://github.com/Budibase/budibase) – Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
