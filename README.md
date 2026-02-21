@@ -132,6 +132,7 @@
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) – Optimise Linux system performance on demand
 - [FiniteSingularity/obs-advanced-masks](https://github.com/FiniteSingularity/obs-advanced-masks) – Advanced Masking Plugin for OBS
 - [Fluepke/Fluepdot](https://github.com/Fluepke/Fluepdot) – Project for controlling Annax flipdot panels used by the Berliner Verkehrsbetriebe
+- [GrandBIRDLizard/X3Dctl](https://github.com/GrandBIRDLizard/X3Dctl) – X3Dctl is a lightweight Linux CLI utility for AMD X3D processors that enables deterministic mode control, CCD-aware process affinity, and predictable workload isolation.
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
@@ -175,6 +176,7 @@
 - [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
 - [revk/ESP32-Faikout](https://github.com/revk/ESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
+- [scanmem/scanmem](https://github.com/scanmem/scanmem) – memory scanner for Linux
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
@@ -679,7 +681,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -781,6 +782,7 @@
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
+- [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) – A verified tool that works on any potato computer that will let you bypass discord verification
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) – Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
 - [transmitic/transmitic](https://github.com/transmitic/transmitic) – Encrypted, peer to peer, file transfer program :: https://discord.gg/tRT3J6T :: https://www.reddit.com/r/transmitic/ :: https://twitter.com/transmitic
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) – Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -1407,6 +1409,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1918,6 +1921,7 @@
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [dockur/macos](https://github.com/dockur/macos) – MacOS inside a Docker container.
@@ -2022,7 +2026,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
-- [Budibase/budibase](https://github.com/Budibase/budibase) – Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [Budibase/budibase](https://github.com/Budibase/budibase) – Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) – SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) – Minimalistic web app designed for sending private and secure notes.
@@ -2211,6 +2215,7 @@
 - [nichtLehdev/DiscordBot](https://github.com/nichtLehdev/DiscordBot)
 - [nicola02nb/betterTTS](https://github.com/nicola02nb/betterTTS)
 - [noaione/mpv-js-scripts](https://github.com/noaione/mpv-js-scripts) – Some mpv scripts I created (made in JS)
+- [noambergauz/dreame-vacuum-map-card](https://github.com/noambergauz/dreame-vacuum-map-card) – Dreame Vacuum Map Card for Home Assistant Integration
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) – Omnivore is a complete, open source read-it-later solution for people who like reading.
