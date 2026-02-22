@@ -258,6 +258,7 @@
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) – Book Manager and Automation (Sonarr for Ebooks)
 - [ResetXPDR/MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) – A simple utility for MSFS 2020 to automatically adjust key settings to improve performance and smoothness.
 - [Saeryhz/SeaOfEase](https://github.com/Saeryhz/SeaOfEase) – Join the same Sea of Thieves server with your friends
+- [ShareX/XerahS](https://github.com/ShareX/XerahS) – XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows, macOS, and Linux with consistent accessible design.
 - [SnapXL/SnapX](https://github.com/SnapXL/SnapX) – SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multiple supported destinations—all with ease. ShareX fork
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) – Smart PVR for newsgroup and bittorrent users.
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) – A modern spotnet client and index for your *arr apps.
@@ -349,6 +350,7 @@
 
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) – Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
 - [AIRLegend/aitrack](https://github.com/AIRLegend/aitrack) – 6DoF Head tracking software
+- [AceSLS/SLSsteam](https://github.com/AceSLS/SLSsteam)
 - [AidaDSP/AIDA-X](https://github.com/AidaDSP/AIDA-X) – AIDA-X, an Amp Model Player leveraging AI
 - [Aitum/obs-aitum-multistream](https://github.com/Aitum/obs-aitum-multistream)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
@@ -368,6 +370,7 @@
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) – PS4 & PS5 emulator
 - [JohnCiubuc/StreamLinkerino](https://github.com/JohnCiubuc/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino
+- [KA4I/Koalageddon](https://github.com/KA4I/Koalageddon) – Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [Leystryku/Nikyuria](https://github.com/Leystryku/Nikyuria) – Last cheat I made, used to work for most source games ( including CSGO )
@@ -491,7 +494,7 @@
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) – Better font rendering for Windows.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) – Source code for SonoBus, a real-time network audio streaming collaboration tool.
 - [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) – Play local wireless supported games online
-- [steveseguin/ninja-plugin](https://github.com/steveseguin/ninja-plugin)
+- [steveseguin/ninja-obs-plugin](https://github.com/steveseguin/ninja-obs-plugin) – Native OBS Studio plugin for VDO.Ninja, with WebRTC publishing and ingest paths integrated directly into OBS workflows.
 - [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) – Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) – An alternative Discord client with voice support made with C++ and GTK 3
@@ -944,6 +947,7 @@
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) – Browser extension that automatically fills out cookie popups based on your preferences
+- [civilblur/youlag](https://github.com/civilblur/youlag) – Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler, originally developed in early fall 2016.  https://secrethitler.io
 - [cracker0dks/CaptchaSolver](https://github.com/cracker0dks/CaptchaSolver) – JDownload 2 Offline Captcha Solver
@@ -1195,6 +1199,7 @@
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
 - [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) – a collection about Windows 11
+- [bram-atmire/GDPR-Claim-Templates](https://github.com/bram-atmire/GDPR-Claim-Templates) – Consumer templates to exercise GDPR rights.
 - [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) – 📝 The curated list of awesome things related to Minecraft.
 - [buschwacker/VTOL-VR-Kneeboard](https://github.com/buschwacker/VTOL-VR-Kneeboard) – Why keep all those RWR symbols, brevity codes, and aviation jargon in your head when you could have it on your knee?
 - [coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview) – Overview of alternative YouTube Clients and Frontends
@@ -1239,6 +1244,7 @@
 - [Cybrarist/Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) – A Multi-User Selfhosted price tracker for Amazon, Aliexpress, ebay and many more along with custom stores.  Get notified when price matches one or more criterias set by the user
 - [Empornium/Luminance](https://github.com/Empornium/Luminance)
 - [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo) – A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you complete control over your data while providing a seamless experience for both senders and recipients.
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) – A free, self-hostable news aggregator…
 - [Leantime/leantime](https://github.com/Leantime/leantime) – Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) – LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) – A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -1322,6 +1328,7 @@
 - [ESJavadex/ezviz-ha-addon](https://github.com/ESJavadex/ezviz-ha-addon) – Reversed Engineering Cloud Ezviz conection Home Assistant addon. Tested on HP2
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [EiS94/db_info](https://github.com/EiS94/db_info) – Home Assistant Integration to get live data for Deutsche Bahn
+- [Exaphis/mutube](https://github.com/Exaphis/mutube) – Remove ads and add SponsorBlock on Apple TV.
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) – 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [FahrplanDatenGarten/FahrplanDatenGarten](https://github.com/FahrplanDatenGarten/FahrplanDatenGarten)
 - [Fajar-RahmadJaya/KeyTik](https://github.com/Fajar-RahmadJaya/KeyTik) – A Powerful Multi-Profile Key Mapper, Clicker, Macro, and More.
@@ -2294,6 +2301,7 @@
 ## Vala
 
 - [cassidyjames/butler](https://github.com/cassidyjames/butler) – Home Assistant companion app for Linux
+- [kem-a/AppManager](https://github.com/kem-a/AppManager) – MacOS style AppImage installer and management application
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) – System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) – All your games in one place
 
