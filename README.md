@@ -648,6 +648,7 @@
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [DevHatRo/zero-trust-proxy](https://github.com/DevHatRo/zero-trust-proxy) – Zero Trust Reverse proxy over mTLS
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
@@ -2289,6 +2290,7 @@
 - [zephraOSS/Apple-Music-RPC](https://github.com/zephraOSS/Apple-Music-RPC) – Discord RPC for Apple Music and iTunes with easy-to-use interface and setup
 - [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) – Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) – A portable and vast media library solution.
+- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) – Jellyfin Custom Integration for Home Assistant
 
 <div id="vbscript"></div>
 
