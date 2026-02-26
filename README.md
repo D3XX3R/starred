@@ -247,6 +247,7 @@
 - [ParadoxLeon/CS2-Translator](https://github.com/ParadoxLeon/CS2-Translator) – Simple C# CS2 chat translator
 - [Phalcode/gamevault-app](https://github.com/Phalcode/gamevault-app) – Frontend for the self-hosted gaming platform for drm-free games
 - [PhantomGamers/SFP](https://github.com/PhantomGamers/SFP) – This utility is designed to allow you to apply skins to the modern Steam client
+- [PinchToDebug/EverythingQuickSearch](https://github.com/PinchToDebug/EverythingQuickSearch)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) – PixiEditor is a Universal Editor for all your 2D needs
 - [PlagueVRC/Proteccted-Avatar-Pedistal](https://github.com/PlagueVRC/Proteccted-Avatar-Pedistal) – Proteccted avatar pedestal is a prefab for automatically decrypting avatars using Kanna Protecc through an avatar pedestal. 
 - [Poggicek/Font-Manager-CS2](https://github.com/Poggicek/Font-Manager-CS2) – Simply the best tool for CS:GO Font Management. Fixed for CS2
@@ -434,6 +435,7 @@
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) – Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) – Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) – Portspoof
+- [emsesp/EMS-ESP32](https://github.com/emsesp/EMS-ESP32) – ESP32 firmware to read and control EMS and Heatronic compatible equipment such as boilers, thermostats, solar modules, and heat pumps
 - [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) – HTTP(S) download manager that uses input/output completion ports (IOCP).
 - [exeldro/obs-source-profiler](https://github.com/exeldro/obs-source-profiler)
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) – Fast and minimalist 3D viewer.
@@ -1184,6 +1186,7 @@
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) – Combined repo for the RTX-Remix runtime and toolkit
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) – A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
 - [PCJones/usenet-guide](https://github.com/PCJones/usenet-guide) – Ein deutscher Einsteiger-Guide für das Usenet
+- [Purp1eDuck2008/Liquid-GRUB](https://github.com/Purp1eDuck2008/Liquid-GRUB) – Liquid Glass GRUB
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) – This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
 - [SaviorXTanren/mixer-mixitup](https://github.com/SaviorXTanren/mixer-mixitup) – Streaming bot application for handling chat, events, moderation, and other streamer assistance features
@@ -1203,6 +1206,7 @@
 - [bram-atmire/GDPR-Claim-Templates](https://github.com/bram-atmire/GDPR-Claim-Templates) – Consumer templates to exercise GDPR rights.
 - [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) – 📝 The curated list of awesome things related to Minecraft.
 - [buschwacker/VTOL-VR-Kneeboard](https://github.com/buschwacker/VTOL-VR-Kneeboard) – Why keep all those RWR symbols, brevity codes, and aviation jargon in your head when you could have it on your knee?
+- [catppuccin/grub](https://github.com/catppuccin/grub) – 🌕 Soothing pastel theme for Grub2 & Ventoy
 - [coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview) – Overview of alternative YouTube Clients and Frontends
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) – Curated list of awesome things related to Deno
@@ -1229,6 +1233,7 @@
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) – Curated list of awesome open-source applications made with Node.js
 - [starcitizen-lug/patches](https://github.com/starcitizen-lug/patches) – Patches created by the community for wine and other Linux packages
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) – A curated list of awesome mpv resources.
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tycrek/ass](https://github.com/tycrek/ass) – The simple self-hosted ShareX server
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
@@ -1963,6 +1968,7 @@
 - [trimstray/multitor](https://github.com/trimstray/multitor) – Create multiple TOR instances with a load-balancing.
 - [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) – Rust Memory Container Cheat-sheet
 - [vic1707/wiws](https://github.com/vic1707/wiws) – A container that encapsulate a Wireguard server to go through a WebSocketTunnel.
+- [vinceliuice/Elegant-grub2-themes](https://github.com/vinceliuice/Elegant-grub2-themes) – Elegant grub2 themes for all linux systems
 - [walterl/proton-privoxy](https://github.com/walterl/proton-privoxy) – Privoxy over ProtonVPN in Docker
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) –  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) – Container for DaVinci Resolve installation and runtime dependencies on Linux
@@ -2157,6 +2163,7 @@
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
