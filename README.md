@@ -1544,6 +1544,7 @@
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) – An advanced memory forensics framework
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) – リアルタイムボイスチェンジャー Realtime Voice Changer
 - [wayneclub/Subtitle-Downloader](https://github.com/wayneclub/Subtitle-Downloader) – Auto download subtitles from streaming services, such as Apple TV+, CatchPlay, Crunchyroll, Disney+, FridayVideo, HBO GO Asia, iQIYI, iTunes, KKTV, LINE TV, meWATCH, MyVideo, NowE, NowPlayer, Viki, Viu, WeTV, YouTube, and etc.
+- [werthdavid/homeassistant-fritzmesh](https://github.com/werthdavid/homeassistant-fritzmesh) – Home Assistant custom component for visualizing FRITZ! Mesh Topology
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) – Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) – Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) – Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
