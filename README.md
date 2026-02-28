@@ -175,6 +175,7 @@
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) – Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
 - [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
 - [revk/ESP32-Faikout](https://github.com/revk/ESP32-Faikout) – ESP32 based module to control Daikin aircon units
+- [ripxorip/PWAR](https://github.com/ripxorip/PWAR) – PWAR: PipeWire ASIO Relay — a zero-drift, real-time audio bridge
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [scanmem/scanmem](https://github.com/scanmem/scanmem) – memory scanner for Linux
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -827,6 +828,7 @@
 - [BuildTheEarth/terraplusplus](https://github.com/BuildTheEarth/terraplusplus) – A feature-rich fork of Terra121 focusing on performance.
 - [Coderx-Gamer/ui-utils](https://github.com/Coderx-Gamer/ui-utils) – Plugin debugging mod (fabric.)
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) – The modern Java bytecode editor
+- [Earthcomputer/EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) – Cracking the XP seed in Minecraft and choosing your enchantments
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) – Android open source calendar
 - [FoundryMC/Veil](https://github.com/FoundryMC/Veil) – Upgrade your modding potential with cutting-edge rendering and game-engine features. Built for modders, by modders.
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) – A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
@@ -1076,6 +1078,7 @@
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) – AirPods liberated from Apple's ecosystem.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) – A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
 - [siketyan/intellij-rustowl](https://github.com/siketyan/intellij-rustowl) – Visualize ownerships and lifetimes in Rust on IntelliJ IDEs.
