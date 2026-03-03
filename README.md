@@ -1070,6 +1070,7 @@
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
 - [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) – A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [acidicoala/Koalageddon2](https://github.com/acidicoala/Koalageddon2) – Legit DLC Unlocker for Steamworks, Epic Online Services, and Ubisoft Connect
@@ -1078,7 +1079,6 @@
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) – AirPods liberated from Apple's ecosystem.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) – A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
 - [siketyan/intellij-rustowl](https://github.com/siketyan/intellij-rustowl) – Visualize ownerships and lifetimes in Rust on IntelliJ IDEs.
@@ -1360,6 +1360,7 @@
 - [L480/cloudflare-dyndns](https://github.com/L480/cloudflare-dyndns) – ☁️ Cloudflare DynDNS solution for AVM FRITZ!Box
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) – A Grub Theme in the style of Minecraft!
+- [M4TH1EU/HA-EasyComputerManager](https://github.com/M4TH1EU/HA-EasyComputerManager) – An easy to use HomeAssistant integration to control (dualboot) computers.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) – Insular email distribution - mail server as Docker images
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
@@ -1577,7 +1578,7 @@
 ## Ruby
 
 - [Freika/dawarich](https://github.com/Freika/dawarich) – Your favorite self-hostable alternative to Google Timeline (Google Location History)
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) – Super simple group chat, without a subscription
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) – Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [huginn/huginn](https://github.com/huginn/huginn) – Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) – Your self-hosted, globally interconnected microblogging community
@@ -1692,6 +1693,7 @@
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) – 📦 shippable application packaging
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) – 🤖 The Modern Port Scanner 🤖
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [bjn7/passkeyd](https://github.com/bjn7/passkeyd) – An Opinionated WebAuthn Authenticator Backed by a TPM
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) – An operating system designed for hosting containers
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
