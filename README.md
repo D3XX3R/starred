@@ -275,7 +275,7 @@
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) – Saves Discord chat logs to a file
 - [Valour-Software/Valour](https://github.com/Valour-Software/Valour) – Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
-- [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) – Source 2 Viewer is a powerful tool that allows you to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
+- [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) – Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) – Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr)
 - [WindowsGSM/WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) – 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
@@ -855,7 +855,7 @@
 - [adryd325/sneaky](https://github.com/adryd325/sneaky) – Anonymise your server from scanners like Copenheimer and ServerSeeker.  With options to disable logging spam logins and rate limit new connections.
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) – A decentralized bitcoin exchange network
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) – google maps for block game
-- [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 1.21.5 using Fabric
+- [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 1.21.11 using Fabric
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) – Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [ddxy/whispercat](https://github.com/ddxy/whispercat)
 - [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Customer Service: https://www.breakblocks.com/discord
