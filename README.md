@@ -677,6 +677,7 @@
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) – An automated e-mail OSINT tool
 - [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) – Modern rules-based browser launcher and link redirector ready to replace your default browser.
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
@@ -688,6 +689,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -981,6 +983,7 @@
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) – Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) – An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) – Power Delete Suite for Reddit
+- [jianyu-li/yet-another-media-player](https://github.com/jianyu-li/yet-another-media-player) – YAMP is a Home Assistant media card for controlling multiple entities with highly customizable actions and ui elements
 - [josephrcox/easy-reddit-downloader](https://github.com/josephrcox/easy-reddit-downloader) – Simple headless Reddit post downloader
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) – An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [kokolihapihvi/RockSniffer](https://github.com/kokolihapihvi/RockSniffer) – RockSniffer application
@@ -988,6 +991,7 @@
 - [lacymorrow/crossover](https://github.com/lacymorrow/crossover) – 🎯 A Crosshair Overlay for any screen. 
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) – End-To-End File & Message Encryption For Discord
 - [liamcottle/rustplus.js](https://github.com/liamcottle/rustplus.js) – Unofficial NodeJS library for controlling Smart Switches in the PC game Rust
+- [lklynet/aurral](https://github.com/lklynet/aurral) – Artist Discovery and Request Manager for Lidarr
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy self-hosted monitoring tool
 - [lovell/sharp](https://github.com/lovell/sharp) – High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1115,7 +1119,7 @@
 
 ## Logos
 
-- [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) – YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.
+- [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) – ⚠️ DEPRECATED — rewrite in progress. For now please use YTLite with tweaks by @dayanch96 instead.
 - [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) – uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) – uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
@@ -1426,7 +1430,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1488,6 +1491,7 @@
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) –   mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several file manager extensions.
 - [klacol/smgw-theben-conexa](https://github.com/klacol/smgw-theben-conexa) – API-Client für das Theben Conexa Smart Meter Gateway (SMGW)
+- [kukuxx/HA-NotifyHelper](https://github.com/kukuxx/HA-NotifyHelper) – Home Assistant custom integration for notification./Home Assistant 通知助手整合
 - [lingfo/lingfo](https://github.com/lingfo/lingfo) – Foreign function interface for any language
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
@@ -1675,7 +1679,7 @@
 - [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) – Simple, self-hostable filesharing application with builtin end-to-end encryption
 - [Tomyyy-1337/fileshare](https://github.com/Tomyyy-1337/fileshare) – A GUI Applikation to share Files in local Network or over the Internet. Written in Rust using Iced. 
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) – A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) – 3D City Builder without a grid
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) – A powerful (home) server admininistration tool written in Rust
 - [Wuild/pttkey](https://github.com/Wuild/pttkey) – pttkey is a lightweight Push‑To‑Talk helper for PipeWire. It listens to a chosen keyboard or mouse button via evdev and mutes/unmutes the default mic (or sets volume levels) while the key is held. Optional on/off sounds use system audio.
@@ -1856,7 +1860,7 @@
 - [saltukalakus/PixelLock](https://github.com/saltukalakus/PixelLock) – Military-grade security for storing your files
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Clean network diagrams. One-time setup, zero upkeep.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network documentation that updates itself
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
@@ -2109,7 +2113,7 @@
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
-- [TetraSsky/CleanCord](https://github.com/TetraSsky/CleanCord) – Allows you to hide certain servers/folders in your server list with right-click option and manage mentions handling with various settings
+- [TetraSsky/CleanCord](https://github.com/TetraSsky/CleanCord) – Allows you to hide servers/folders in your server list with right-click option and manage mentions handling with various settings
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
