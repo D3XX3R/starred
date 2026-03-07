@@ -46,7 +46,6 @@
 - [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
-- [Openscad](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -689,7 +688,6 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -728,7 +726,7 @@
 - [kekskurse/go-mail-admin](https://github.com/kekskurse/go-mail-admin) – HTTP-Interface with a small GUI for a Mailserver
 - [klauspost/ryzen-master-vbs-patch](https://github.com/klauspost/ryzen-master-vbs-patch) – AMD Ryzen Master Hyper-V VBS patcher
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) – Kubernetes IN Docker - local clusters for testing Kubernetes
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human operators via dashboard.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -772,7 +770,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
-- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) – An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -1157,12 +1155,6 @@
 
 - [KhronosGroup/MoltenVK](https://github.com/KhronosGroup/MoltenVK) – MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.
 
-<div id="openscad"></div>
-
-## Openscad
-
-- [revk/ESP32-Remote](https://github.com/revk/ESP32-Remote) – Faikin Remote (code and PCB)
-
 <div id="others"></div>
 
 ## Others
@@ -1430,6 +1422,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -2145,7 +2138,7 @@
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A Bitsocial client with an old.reddit UI
+- [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A Bitsocial app with an old.reddit UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -2257,6 +2250,7 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – free, open-source file scanner
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
