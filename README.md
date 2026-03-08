@@ -203,7 +203,7 @@
 - [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) – C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 - [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) – Unity / XNA game patcher and plugin framework
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) – 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-- [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful tool for managing networks and troubleshoot network problems!
+- [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful open-source tool for managing networks and troubleshooting network problems!
 - [CigarLounge/sbox-TTT](https://github.com/CigarLounge/sbox-TTT) – TTT is a mafia-esque multiplayer game created using s&box
 - [Dean2k/SARS](https://github.com/Dean2k/SARS) – Cleaned SARS project
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
@@ -673,6 +673,7 @@
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Modern, open source, self-hosted customer support desk. Single binary app.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
+- [akiver/cs-demo-analyzer](https://github.com/akiver/cs-demo-analyzer) – Analyze and extract data from Counter-Strike demos.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) – An automated e-mail OSINT tool
 - [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) – Modern rules-based browser launcher and link redirector ready to replace your default browser.
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
@@ -1489,6 +1490,7 @@
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
 - [makalin/Bitwave](https://github.com/makalin/Bitwave) – Bitwave is a high-fidelity, developer-friendly, future-proof audio format designed for modern sound experiences — including spatial audio, dynamic tempo adjustment, and multi-track support.
+- [mampfes/hacs_dwd_pollenflug](https://github.com/mampfes/hacs_dwd_pollenflug) – Adds pollen forecasts from DWD to Home Assistant.
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) – Home Assistant integration framework for (garbage collection) schedules
 - [manucabral/acc-discord-rpc](https://github.com/manucabral/acc-discord-rpc) – Assetto Corsa Competizione Discord Rich Presence Client
 - [markaggar/Water-Monitor](https://github.com/markaggar/Water-Monitor) – Home Assistant Integration that leverages an existing water flow sensor for tracking water usage sessions and detecting potential leaks.
@@ -1656,6 +1658,7 @@
 - [Scarjit/ts3-sec-cuda-rs](https://github.com/Scarjit/ts3-sec-cuda-rs) – A optionally CUDA accelerated Teamspeak3 Security Level bruteforcer.
 - [Schachte/space-monitor-rs](https://github.com/Schachte/space-monitor-rs) – A Rust crate for subscribing and retrieving the current active space on Mac OS X
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
+- [SeaDve/Mousai](https://github.com/SeaDve/Mousai) – Identify songs in seconds
 - [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) – SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
 - [Shadowner/Infrarust](https://github.com/Shadowner/Infrarust) – High-Performance Minecraft Reverse Proxy in Rust
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) – Suck the InTernet
@@ -1679,6 +1682,7 @@
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) – Set up a modern rust+react web app by running one command. 
 - [aatxe/irc](https://github.com/aatxe/irc) – the irc crate – usable, async IRC for Rust
 - [abenz1267/walker](https://github.com/abenz1267/walker) – Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
+- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) – A Beautiful Private and Secure Desktop Investment Tracking Application
 - [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) – Find the password of protected ZIP files.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) – Stream VR games from your PC to your headset via Wi-Fi
@@ -2126,7 +2130,6 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy
-- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) – A Beautiful Private and Secure Desktop Investment Tracking Application
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
