@@ -462,6 +462,7 @@
 - [leadedge/Spout2](https://github.com/leadedge/Spout2) – A video frame sharing system for Microsoft Windows
 - [lifting-bits/remill](https://github.com/lifting-bits/remill) – Library for lifting machine code to LLVM bitcode
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) – Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+- [marco-calautti/DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) – Delta Patcher is a GUI software that is able to create and apply xdelta patches.
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) – Feed reader (podcast player and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) – Cyberpunk 2077 tweaks, hacks and scripting framework
 - [mbruel/ngPost](https://github.com/mbruel/ngPost) – Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT designed to be as fast as possible and offer all the main features to post data easily and safely. Releases for Linux, Windows and MacOS are available.
@@ -2272,7 +2273,7 @@
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) – Watch streaming media with friends.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
-- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – A Vencord plugin that bypasses Discord's 8MB file size limit by automatically splitting large files during upload and merging them back together upon download.
+- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – A Vencord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
