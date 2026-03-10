@@ -173,7 +173,6 @@
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) – µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) – Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
 - [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
-- [revk/ESP32-Faikout](https://github.com/revk/ESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [ripxorip/PWAR](https://github.com/ripxorip/PWAR) – PWAR: PipeWire ASIO Relay — a zero-drift, real-time audio bridge
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [scanmem/scanmem](https://github.com/scanmem/scanmem) – memory scanner for Linux
@@ -897,7 +896,6 @@
 - [BeepIsla/CSGO-Overwatch-Bot](https://github.com/BeepIsla/CSGO-Overwatch-Bot) – Automatically solve CSGO Overwatch cases
 - [BeepIsla/csgo-nametag-tool](https://github.com/BeepIsla/csgo-nametag-tool) – Bypass client side restrictions for name tags
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) – Select which region you connect to in various Valve games
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere. 
 - [ChocoMeow/Vocard-Dashboard](https://github.com/ChocoMeow/Vocard-Dashboard) – Vocard Dashboard is a web-based user interface that allows users to control the Vocard music bot directly from their browser. With this dashboard, you can easily manage music playback, create playlists, and interact with the bot in a user-friendly way.
 - [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
 - [Darkdragon14/ha-access-control-manager](https://github.com/Darkdragon14/ha-access-control-manager) – "Access Control Manager" provides a centralized interface for managing user permissions and access rights within Home Assistant. It allows administrators to create, assign, and customize roles, ensuring secure and streamlined control over who can interact with specific devices, automations, and dashboards in the smart home ecosystem.
@@ -984,6 +982,7 @@
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) – An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) – Power Delete Suite for Reddit
 - [jianyu-li/yet-another-media-player](https://github.com/jianyu-li/yet-another-media-player) – YAMP is a Home Assistant media card for controlling multiple entities with highly customizable actions and ui elements
+- [joelacus/RedditEnhancer](https://github.com/joelacus/RedditEnhancer) – A browser extension to tweak the user interface on Reddit
 - [josephrcox/easy-reddit-downloader](https://github.com/josephrcox/easy-reddit-downloader) – Simple headless Reddit post downloader
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) – An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [kokolihapihvi/RockSniffer](https://github.com/kokolihapihvi/RockSniffer) – RockSniffer application
@@ -1018,6 +1017,7 @@
 - [rogerantony-dev/affiliate-tracker](https://github.com/rogerantony-dev/affiliate-tracker)
 - [ryzetech/cider4obs](https://github.com/ryzetech/cider4obs) – Display what you're playing onstream! No complicated setup, no login, just OBS and a browser source!
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) – Encrypt and Decrypt files securely in your browser.
+- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – [Renew] A Vencord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) – Application/browser chooser
 - [spicetify/cli](https://github.com/spicetify/cli) – Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) – Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source. 
@@ -1136,7 +1136,7 @@
 
 ## Mdx
 
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord API Documentation
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord Developer Docs
 
 <div id="nim"></div>
 
@@ -1229,6 +1229,7 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [revk/xESP32-Faikout](https://github.com/revk/xESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [scholablade/Deadobe](https://github.com/scholablade/Deadobe) – A free culture list of free software alternatives to Adobe products, MIRROR: https://codeberg.org/Scholablade/Deadobe
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sigvt/komet](https://github.com/sigvt/komet) – ☄️ Tweetdeck for YouTube Live Chat
@@ -1933,6 +1934,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube from your terminal
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
@@ -2075,7 +2077,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [Its2Factor/vc-voiceChannelLogger](https://github.com/Its2Factor/vc-voiceChannelLogger) – Vencord VoiceChannelLogger userplugin
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) – Puts Docker Containers to sleep and wakes them back up when they're needed
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) – Perplexica is an AI-powered answering engine.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) – Vane is an AI-powered answering engine.
 - [JMBeresford/retrom](https://github.com/JMBeresford/retrom) – A centralized game library/collection management service with a focus on emulation
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) – A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) – Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
@@ -2142,7 +2144,7 @@
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [bitsocialhq/seedit](https://github.com/bitsocialhq/seedit) – A Bitsocial app with an old.reddit UI
+- [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A Bitsocial app with an old.reddit UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -2273,7 +2275,6 @@
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) – Watch streaming media with friends.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
-- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – A Vencord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
