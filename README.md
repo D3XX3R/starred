@@ -206,6 +206,7 @@
 - [CigarLounge/sbox-TTT](https://github.com/CigarLounge/sbox-TTT) – TTT is a mafia-esque multiplayer game created using s&box
 - [Dean2k/SARS](https://github.com/Dean2k/SARS) – Cleaned SARS project
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) – UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [DmitriySalnikov/OBSNotifier](https://github.com/DmitriySalnikov/OBSNotifier) – Simple program for displaying notifications from OBS on your desktop.
 - [Drommedhar/DlssUpdater](https://github.com/Drommedhar/DlssUpdater) – DlssUpdater is a tool to conveniently configure all 3 instances of DLSS libraries (Upscaling, Ray Reconstruction, Frame Generation) used by your games.
 - [Duinrahaic/dOSC](https://github.com/Duinrahaic/dOSC) – dOSC is a dynamic OSC app sharing platform with the goal of allowing users to create, run, and distribute apps that can be configured to interact with avatars in VRChat.
@@ -314,7 +315,6 @@
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) – Everything search plugin for PowerToys Run
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) – Driver Store Explorer
 - [lowleveldesign/process-governor](https://github.com/lowleveldesign/process-governor) – This application allows you to put various limits on Windows processes.
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) – UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) – SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) – Application designed to optimize, customize and enhance your Windows experience.
 - [mhwlng/streamdeck-elite](https://github.com/mhwlng/streamdeck-elite) – Elgato Stream Deck plugin for Elite Dangerous
@@ -439,6 +439,7 @@
 - [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) – HTTP(S) download manager that uses input/output completion ports (IOCP).
 - [exeldro/obs-source-profiler](https://github.com/exeldro/obs-source-profiler)
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) – Fast and minimalist 3D viewer.
+- [falkTX/Carla](https://github.com/falkTX/Carla) – Audio plugin host
 - [fholger/openvr_fsr](https://github.com/fholger/openvr_fsr) – Add Image Upscaling via AMD FidelityFX SuperResolution or NVIDIA Image Scaling to SteamVR games
 - [fluffyanvil/Rocksmith-Diy-Realtone-Cable](https://github.com/fluffyanvil/Rocksmith-Diy-Realtone-Cable) – diy realtone cable
 - [google/lyra](https://github.com/google/lyra) – A Very Low-Bitrate Codec for Speech Compression
@@ -1184,7 +1185,6 @@
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) – Collection of decent Community-made GRUB themes. Contributions welcome!
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) – 💡Limiting personal data leaks on the internet
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) – A list of GOG Galaxy 2.0 integrations and upcoming features
-- [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) – Build and run Docker containers leveraging NVIDIA GPUs
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) – Combined repo for the RTX-Remix runtime and toolkit
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) – A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
@@ -1709,7 +1709,7 @@
 - [chriamue/openrailwaymap-exporter](https://github.com/chriamue/openrailwaymap-exporter) – OpenRailwayMap Exporter is a Rust project that downloads railway data from the OpenRailwayMap API
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
-- [claration/Impactor](https://github.com/claration/Impactor) – WIP feature rich iOS/tvOS sideloading application written in Rust.
+- [claration/Impactor](https://github.com/claration/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust.
 - [classx/dark-matter](https://github.com/classx/dark-matter) – Dark matter - simple vault CLI utility with GPG encryption
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
@@ -1940,6 +1940,7 @@
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube and other services freely. 
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
+- [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
 - [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts for advanced malware analysis.
