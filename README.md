@@ -656,6 +656,7 @@
 - [DevHatRo/zero-trust-proxy](https://github.com/DevHatRo/zero-trust-proxy) – Zero Trust Reverse proxy over mTLS
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
+- [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) – A broadcast, in a box. 
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) – A very small, very simple, yet very secure encryption tool.
 - [Jguer/yay](https://github.com/Jguer/yay) – Yet another Yogurt - An AUR Helper written in Go
 - [Mawthuq-Software/Wireguard-Manager-and-API](https://github.com/Mawthuq-Software/Wireguard-Manager-and-API) – A Wireguard VPN Server Manager and API to add and remove clients
@@ -690,6 +691,7 @@
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -1216,6 +1218,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) – A collection of awesome things regarding React ecosystem
 - [flathub/org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler](https://github.com/flathub/org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler)
 - [fromtheexchange/image2svg-awesome](https://github.com/fromtheexchange/image2svg-awesome) – All about image tracing and vectorization—the conversion of a raster image (jpg/png) to a vector image (svg).
+- [gazorby/awesome-fish](https://github.com/gazorby/awesome-fish) – A curated list of packages, prompts, and resources for the fish shell.
 - [iKarwan/YTKillerPlus](https://github.com/iKarwan/YTKillerPlus) – a whole new YouTube Experience
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
@@ -1425,7 +1428,6 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1938,6 +1940,7 @@
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
+- [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube and other services freely. 
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
@@ -1954,6 +1957,7 @@
 - [dockur/macos](https://github.com/dockur/macos) – MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) – Windows inside a Docker container.
 - [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker) – Factorio headless server in a Docker container
+- [franciscolourenco/done](https://github.com/franciscolourenco/done) – A fish-shell package to automatically receive notifications when long processes finish.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) – Free & Open source macOS Cursors.
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) – SteamOS 3 (Holo) archiso configuration
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) – Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
@@ -1963,6 +1967,9 @@
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) – Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [jammsen/docker-collectd-fritzbox](https://github.com/jammsen/docker-collectd-fritzbox)
 - [jareware/docker-volume-backup](https://github.com/jareware/docker-volume-backup) – Utility container for periodically backing up Docker volumes
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) – A plugin manager for Fish
+- [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) – Fish shell tool for managing Python virtual environments
+- [laughedelic/pisces](https://github.com/laughedelic/pisces) – ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
 - [ludwig-v/wireless-carplay-dongle-reverse-engineering](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) – CPlay2Air / Carlinkit Wireless Apple CarPlay Dongle reverse engineering
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from ASCII characters with randomized parameters
