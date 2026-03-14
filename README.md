@@ -795,6 +795,7 @@
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) – A verified tool that works on any potato computer that will let you bypass discord verification
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) – Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
 - [transmitic/transmitic](https://github.com/transmitic/transmitic) – Encrypted, peer to peer, file transfer program :: https://discord.gg/tRT3J6T :: https://www.reddit.com/r/transmitic/ :: https://twitter.com/transmitic
+- [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) – Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 <div id="haskell"></div>
@@ -1557,6 +1558,8 @@
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) – Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) – Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [yani-/windows-nfs-manager](https://github.com/yani-/windows-nfs-manager) – A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.
+- [ycharfi09/OptiClone](https://github.com/ycharfi09/OptiClone) – Clone any voice locally for free from 10s of speech using LuxTTS!
+- [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) – A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
 - [yum-food/TaSTT](https://github.com/yum-food/TaSTT) – A free self-hosted STT for VRChat
 
