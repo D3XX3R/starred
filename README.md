@@ -185,7 +185,6 @@
 - [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) – Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [univrsal/dvds3](https://github.com/univrsal/dvds3) – Will it hit the corner?
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) – Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 - [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) – Resizable BAR for (almost) any UEFI system
 
@@ -503,6 +502,7 @@
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) – An alternative Discord client with voice support made with C++ and GTK 3
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) – A video processing framework with simplicity in mind
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) – Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) – Noise suppression plugin based on Xiph's RNNoise
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
@@ -576,7 +576,6 @@
 - [Kounex/obs_blade](https://github.com/Kounex/obs_blade) – Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) – Suspend games and applications.
 - [MjKey/Mods-Manager-MR](https://github.com/MjKey/Mods-Manager-MR) – Mods Manager for Marvel Rivals
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
 - [commetchat/commet](https://github.com/commetchat/commet) – Your space to connect
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) – Stack Wallet, a multicoin, cryptocurrency wallet
@@ -816,6 +815,7 @@
 
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) – A general-purpose window upscaler for Windows 10/11.
 - [JakobPCoder/ReshadeMotionEstimation](https://github.com/JakobPCoder/ReshadeMotionEstimation) – Optical Flow for games in realtime
+- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real‑time AI upscaler for any application window on GNU/Linux.
 - [clshortfuse/renodx](https://github.com/clshortfuse/renodx) – Renovation Engine for DirectX Games
 - [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders) – A collection of post-processing shaders written for ReShade.
 - [martymcmodding/METEOR](https://github.com/martymcmodding/METEOR) – Marty's Extra Effects for ReShade
@@ -1079,6 +1079,7 @@
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
 - [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) – A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [acidicoala/Koalageddon2](https://github.com/acidicoala/Koalageddon2) – Legit DLC Unlocker for Steamworks, Epic Online Services, and Ubisoft Connect
@@ -1779,7 +1780,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [jlpatter/oxidized_git](https://github.com/jlpatter/oxidized_git) – A Git GUI written in Rust!
 - [joamag/boytacean](https://github.com/joamag/boytacean) – A GB emulator that is written in Rust 🦀!
-- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [jonaylor89/sherlock-rs](https://github.com/jonaylor89/sherlock-rs) – Hunt down social media accounts by username across social networks
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) – An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [jwodder/demagnetize-rs](https://github.com/jwodder/demagnetize-rs) – Convert magnet links to .torrent files
@@ -2068,6 +2069,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) – Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) – SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
+- [CoffeSiberian/truck-tools](https://github.com/CoffeSiberian/truck-tools) – Edit your saves game in Euro Truck Simulator 2 and American Truck Simulator with this simple Desktop App
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) – Minimalistic web app designed for sending private and secure notes.
 - [CraigChat/craig](https://github.com/CraigChat/craig) – Craig is a multi-track voice recorder for Discord.
 - [Crazeflex/BetterScreenShare](https://github.com/Crazeflex/BetterScreenShare) – Screenshare plugin for VC
