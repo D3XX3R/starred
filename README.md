@@ -848,6 +848,7 @@
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) – Based Minecraft utility mod.
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) – 1.21.11 Lightweight Minecraft server
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
+- [NythicalNorm/VoxelSpaceProgram](https://github.com/NythicalNorm/VoxelSpaceProgram) – A Minecraft space mod with realistic orbital mechanics in a truly big solar system.
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
@@ -1020,7 +1021,7 @@
 - [rogerantony-dev/affiliate-tracker](https://github.com/rogerantony-dev/affiliate-tracker)
 - [ryzetech/cider4obs](https://github.com/ryzetech/cider4obs) – Display what you're playing onstream! No complicated setup, no login, just OBS and a browser source!
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) – Encrypt and Decrypt files securely in your browser.
-- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – [Renew] A Vencord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
+- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – [Renew] A Vencord/Equicord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) – Application/browser chooser
 - [spicetify/cli](https://github.com/spicetify/cli) – Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) – Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source. 
@@ -1612,6 +1613,7 @@
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) – Open the right browser at the right time
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) – A datetime library for Rust that encourages you to jump into the pit of success.
 - [CCBlueX/LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher) – The official Minecraft launcher for LiquidBounce
+- [CLARATION/Impactor](https://github.com/CLARATION/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust.
 - [Canleskis/ephemeris-explorer](https://github.com/Canleskis/ephemeris-explorer) – A simulator of gravitationally bound systems.
 - [ChecksumDev/lumen](https://github.com/ChecksumDev/lumen) – Lumen is an astronomically fast ShareX uploader written in Rust using the Actix Web framework
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) – A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
@@ -1715,7 +1717,6 @@
 - [chriamue/openrailwaymap-exporter](https://github.com/chriamue/openrailwaymap-exporter) – OpenRailwayMap Exporter is a Rust project that downloads railway data from the OpenRailwayMap API
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
-- [claration/Impactor](https://github.com/claration/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust.
 - [classx/dark-matter](https://github.com/classx/dark-matter) – Dark matter - simple vault CLI utility with GPG encryption
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
@@ -1735,7 +1736,6 @@
 - [edutra/ssh_manager](https://github.com/edutra/ssh_manager) – A lightweight and efficient CLI tool to streamline SSH connection management, featuring commands to add, list, edit, delete, and open SSH connections. Includes support for running remote scripts and executing commands from URLs.
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [enginestein/Cryptode](https://github.com/enginestein/Cryptode) – A cryptography framework written in pure rust
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) – Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [extism/extism](https://github.com/extism/extism) – The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
@@ -2026,6 +2026,7 @@
 
 ## Swift
 
+- [CLARATION/Feather](https://github.com/CLARATION/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
@@ -2035,7 +2036,6 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) – A virtual monitor for screen sharing
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) – A Custom Client for iPhone, iPad, and Mac
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) – A fully native Discord client for macOS built 100% in Swift!
-- [claration/Feather](https://github.com/claration/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [eerimoq/moblin](https://github.com/eerimoq/moblin) – Moblin, a free iOS app for IRL streaming.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [itoolio/ishare](https://github.com/itoolio/ishare) – experience the clean and unbloated screen capture utility for macOS
@@ -2189,7 +2189,7 @@
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
