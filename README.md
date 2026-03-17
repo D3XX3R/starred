@@ -1085,6 +1085,7 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [acidicoala/Koalageddon2](https://github.com/acidicoala/Koalageddon2) – Legit DLC Unlocker for Steamworks, Epic Online Services, and Ubisoft Connect
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) –  Unofficial Tandoor client for Android, iOS and Desktop devices
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) – A feature-rich weather app with good visualizations and more than 50 sources.
 - [cbruegg/packetloss-watchdog](https://github.com/cbruegg/packetloss-watchdog) – A workaround for the Vodafone Station's packet loss issue
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) – AirPods liberated from Apple's ecosystem.
@@ -2270,7 +2271,7 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – free, open-source file scanner
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – In-process file upload security for Node.js
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
