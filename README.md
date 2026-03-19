@@ -2082,6 +2082,7 @@
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Enovale/cinny-electron](https://github.com/Enovale/cinny-electron)
+- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – A Standalone chat overlay for Twitch, Kick, YouTube and other streaming platforms
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – A cross platform SimConnect client library for Node.JS
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
@@ -2366,7 +2367,6 @@
 
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) – A browser extension for automating your browser by connecting blocks
 - [Durss/Twitchat](https://github.com/Durss/Twitchat) – Full featured Twitch chat alternative to fill gaps from the official one.
-- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – A Standalone chat overlay for Twitch, Kick, YouTube and other streaming platforms
 - [EpicnessTwo/StreamLurker](https://github.com/EpicnessTwo/StreamLurker) – A Lurk Client for Twitch
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) – 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
