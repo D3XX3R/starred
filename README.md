@@ -267,7 +267,7 @@
 - [SteamAutoCracks/DepotDumper](https://github.com/SteamAutoCracks/DepotDumper) – Mass depot key dumper utilizing the SteamKit2 library
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) – SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
-- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity v3.x/v2.x products.
+- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity products.
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
@@ -1954,7 +1954,7 @@
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
-- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts for advanced malware analysis.
+- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
@@ -2070,7 +2070,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
-- [Budibase/budibase](https://github.com/Budibase/budibase) – Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) – AI agents that run your operations. Model agnostic.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) – SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [CoffeSiberian/truck-tools](https://github.com/CoffeSiberian/truck-tools) – Edit your saves game in Euro Truck Simulator 2 and American Truck Simulator with this simple Desktop App
@@ -2113,7 +2113,7 @@
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) – An automatic livestream recorder
 - [MrTopQ/customStream-Vencord](https://github.com/MrTopQ/customStream-Vencord) – Vencord plugin that replaces steam preview
 - [Nerwyn/custom-card-features](https://github.com/Nerwyn/custom-card-features) – Home Assistant custom features for tile cards and more. Call any action using buttons, dropdowns, inputs, selectors, sliders, spinboxes, and toggles.
-- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) – 🎵 Discord Rich Presence Client for the macOS Apple Music app and iTunes
+- [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) – 🎵 Discord Rich Presence Client (profile status) for the macOS Apple Music app
 - [NurMarvin/discord-proxy](https://github.com/NurMarvin/discord-proxy) – Locally proxies a specific Discord build on your local machine
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) – Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) – Open Cyber Threat Intelligence Platform
@@ -2275,7 +2275,7 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – In-process file upload security for Node.js
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – file upload scanner for Node.js
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
