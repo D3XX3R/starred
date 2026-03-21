@@ -135,6 +135,7 @@
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
+- [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
 - [SiloCityLabs/esp32-airtap](https://github.com/SiloCityLabs/esp32-airtap) – Compilation of AC Infinity Vent custom pcbs
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
@@ -968,6 +969,7 @@
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) – AdNauseam: Fight back against advertising surveillance
 - [discord-modifications/better-discord-plugins](https://github.com/discord-modifications/better-discord-plugins) – A collection of my BetterDiscord plugins.
 - [divout/mpv_reduce_stream_cache](https://github.com/divout/mpv_reduce_stream_cache) – Reduces MPV cache for streams by increasing playback speed.
+- [djdevil/person-tracker-card](https://github.com/djdevil/person-tracker-card) – Advanced person tracking card for Home Assistant with visual editor
 - [drakonkat/Crawfish](https://github.com/drakonkat/Crawfish) – Innovative torrent client with integrated search feature
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) – 🔀 Redirect social media platforms to their privacy respecting frontends
 - [edo44/edoStereo](https://github.com/edo44/edoStereo) – BetterDiscord Stereo Plugin, better discord stereo plugin
@@ -1373,7 +1375,6 @@
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
-- [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
 - [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) – A fully featured, powerful async Python library for the Twitch API and EventSub.
@@ -2082,7 +2083,7 @@
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Enovale/cinny-electron](https://github.com/Enovale/cinny-electron)
-- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – A Standalone chat overlay for Twitch, Kick, YouTube and other streaming platforms
+- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – Transparent chat overlay for streamers. Twitch, YouTube, and Kick in one window.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – A cross platform SimConnect client library for Node.JS
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
