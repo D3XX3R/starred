@@ -234,7 +234,7 @@
 - [LeoKle/Euroscope-SIM-Generator](https://github.com/LeoKle/Euroscope-SIM-Generator) – A Euroscope SIM Generator
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) – Looks and smells like Sonarr but made for music.
 - [LittleBigRefresh/Refresh](https://github.com/LittleBigRefresh/Refresh) – A second-generation custom server for LittleBigPlanet that focuses on quality of life features and improving user experience.
-- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) – Lightweight console for Minecraft chat and automated scripts
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) – Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 1.21.11.
 - [Maikboarder/Playerr](https://github.com/Maikboarder/Playerr) – Self-hosted game library manager and PVR inspired by Radarr and Sonarr. Automate your collection with intelligent scanning and rich metadata
 - [Masquerade64/SuperSteamPacker](https://github.com/Masquerade64/SuperSteamPacker) – Packing tool for Steam games.
 - [MatthewInch/UI24RBridge](https://github.com/MatthewInch/UI24RBridge) – Bridge between the UI24R and a MIDI controller
@@ -1377,7 +1377,6 @@
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
-- [PythonistaGuild/TwitchIO](https://github.com/PythonistaGuild/TwitchIO) – A fully featured, powerful async Python library for the Twitch API and EventSub.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) – Easily train a good VC model with voice data <= 10 mins!
 - [RaccoonTamer/Reddit-Crawler](https://github.com/RaccoonTamer/Reddit-Crawler) – Reddit Media Downloader is a Python application designed to simplify the process of downloading images and GIFs from Reddit. It allows users to specify a subreddit and number of posts to fetch, then automatically retrieves and downloads all available media files.  The app features built-in cache logic, which remembers previously downloaded posts to
@@ -1402,6 +1401,7 @@
 - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) – A simple script that will watch a stream for you and earn the channel points.
 - [TomSchimansky/GuitarTuner](https://github.com/TomSchimansky/GuitarTuner) – Guitar tuner program made with Python, Tkinter and PyAudio.
 - [Tribler/tribler](https://github.com/Tribler/tribler) – Privacy enhanced BitTorrent client with P2P content discovery
+- [TwitchIO/TwitchIO](https://github.com/TwitchIO/TwitchIO) – A fully featured, powerful async Python library for the Twitch API and EventSub.
 - [Unidata/MetPy](https://github.com/Unidata/MetPy) – MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
 - [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) – List of public proxies, and checked to some domain like Google, Facebook, Twitter
 - [Vortitron/energy-sensor-generator](https://github.com/Vortitron/energy-sensor-generator) – Add kWh sensors to HA
@@ -2066,6 +2066,7 @@
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) – :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [66HEX/horizon](https://github.com/66HEX/horizon) – A modern, desktop-based code editor built with Tauri, React, and TypeScript. This application provides a powerful and customizable coding environment with integrated terminal support and file system management.
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) – Browser watcher for ActivityWatch
+- [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) – Free Windows, Mac and Linux cleaner, scanner, and more.
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -2276,7 +2277,7 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – file upload scanner for Node.js
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – free, open-source file scanner
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
@@ -2287,6 +2288,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) – 🎥      Make videos programmatically with React
 - [remvze/pswd](https://github.com/remvze/pswd) – 🔑 Simple secure password generator.
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) – A lightweight Discord client mod focused on simplicity and performance.
+- [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [ropali/dockyard](https://github.com/ropali/dockyard) – A fast & beautiful Docker GUI client
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr)
