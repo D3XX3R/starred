@@ -234,7 +234,7 @@
 - [LeoKle/Euroscope-SIM-Generator](https://github.com/LeoKle/Euroscope-SIM-Generator) – A Euroscope SIM Generator
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) – Looks and smells like Sonarr but made for music.
 - [LittleBigRefresh/Refresh](https://github.com/LittleBigRefresh/Refresh) – A second-generation custom server for LittleBigPlanet that focuses on quality of life features and improving user experience.
-- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) – Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 1.21.11.
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) – Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.1
 - [Maikboarder/Playerr](https://github.com/Maikboarder/Playerr) – Self-hosted game library manager and PVR inspired by Radarr and Sonarr. Automate your collection with intelligent scanning and rich metadata
 - [Masquerade64/SuperSteamPacker](https://github.com/Masquerade64/SuperSteamPacker) – Packing tool for Steam games.
 - [MatthewInch/UI24RBridge](https://github.com/MatthewInch/UI24RBridge) – Bridge between the UI24R and a MIDI controller
@@ -738,7 +738,7 @@
 - [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
 - [minekube/gate](https://github.com/minekube/gate) – High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) – :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
@@ -1516,6 +1516,7 @@
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot) – 🏓 A bot that relays Twitch Chat and a Discord Channel between each other.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) – Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher,PS Plus, Glyph, VKPlay & HoYoPlay, Waydroid and Games on SD Card.
+- [mrks1469/PacHub](https://github.com/mrks1469/PacHub) – GTK4 + libadwaita Front End for Pacman/AUR
 - [n00mkrad/flowframes](https://github.com/n00mkrad/flowframes) – Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) – DeDRM tools for ebooks
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
@@ -2277,7 +2278,7 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – free, open-source file scanner
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – free, open-source file scanner for upload forms in website and apps
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
