@@ -145,6 +145,7 @@
 - [arcbtc/bitcoinVend](https://github.com/arcbtc/bitcoinVend) – Offline bitcoin vending machine
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) – Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [baresip/baresip](https://github.com/baresip/baresip) – Baresip is a modular SIP User-Agent with audio and video support
+- [bazaar-org/bazaar](https://github.com/bazaar-org/bazaar) – New App Store for GNOME
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
@@ -161,7 +162,6 @@
 - [jmattaa/laser](https://github.com/jmattaa/laser) – basically `ls` but `lsr`, and configurable with lua!
 - [kila58/qemu-patched](https://github.com/kila58/qemu-patched) – QEMU patched to avoid detection from various anticheats such as Battleye/EAC
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-- [kolunmi/bazaar](https://github.com/kolunmi/bazaar) – New App Store for GNOME
 - [landave/TSIdentityTool](https://github.com/landave/TSIdentityTool) – Tool to read out various information about TeamSpeak identities
 - [ledoge/dwm_lut](https://github.com/ledoge/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) – A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
@@ -1175,6 +1175,7 @@
 - [AndrusAsumets/supershy-client](https://github.com/AndrusAsumets/supershy-client) – DIY VPN with a rotating exit node.
 - [AutumnFloof/HL-Modding-Guide](https://github.com/AutumnFloof/HL-Modding-Guide)
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) – A collection of awesome web crawler,spider in different languages
+- [CachyOS/proton-cachyos](https://github.com/CachyOS/proton-cachyos) – Compatibility tool for Steam Play based on Wine and additional components
 - [D3SOX/vencord-userplugins](https://github.com/D3SOX/vencord-userplugins) – 🔌 My userplugins for Vencord. See if there's something you like :)
 - [DekoDX/Pipewire-DX-Utils](https://github.com/DekoDX/Pipewire-DX-Utils) – Pipewire filter chains providing personalized 7.1.4 virtual surround for headphones, stereo Convolution equalization, and system-wide noise cancellation.
 - [DestinationHome/Destination-Home-Online](https://github.com/DestinationHome/Destination-Home-Online) – Welcome to the official guide on how users can play back on PlayStation®Home online on the original PLAYSTATION®3 & RPCS3.
@@ -1465,6 +1466,7 @@
 - [evangelosmeklis/peepdb](https://github.com/evangelosmeklis/peepdb) – CLI tool and python library to inspect databases fast.
 - [f0e/csgo-rank-reveal](https://github.com/f0e/csgo-rank-reveal) – Super simple CS:GO rank revealer utilising the -netconport launch option
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) – Industry leading face manipulation platform
+- [firstof9/ha-gasbuddy](https://github.com/firstof9/ha-gasbuddy) – Component to integrate with GasBuddy fuel price tracker.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) – SOTA Open Source TTS
 - [flathub-infra/vorarbeiter](https://github.com/flathub-infra/vorarbeiter) – Build orchestrator
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
@@ -1959,6 +1961,7 @@
 - [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
@@ -2002,6 +2005,7 @@
 - [walterl/proton-privoxy](https://github.com/walterl/proton-privoxy) – Privoxy over ProtonVPN in Docker
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) –  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) – Container for DaVinci Resolve installation and runtime dependencies on Linux
+- [zsasz0/vfioSwitcher](https://github.com/zsasz0/vfioSwitcher)
 
 <div id="starlark"></div>
 
