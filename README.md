@@ -413,6 +413,7 @@
 - [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango) – The world's first Xbox One compatibility layer for Windows.
 - [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) – Virtual amiibo (amiibo emulation) system for Nintendo Switch
 - [Zielon/PBRVulkan](https://github.com/Zielon/PBRVulkan) – Vulkan Real-time Path Tracer Engine
+- [aarnt/octopi](https://github.com/aarnt/octopi) – A powerful Pacman (Package Manager) front end using Qt libs
 - [abdularis/LAN-Share](https://github.com/abdularis/LAN-Share) – Cross platform LAN File transfer application built with Qt C++ framework
 - [acidicoala/Koalageddon](https://github.com/acidicoala/Koalageddon) – Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)
 - [acidicoala/Koaloader](https://github.com/acidicoala/Koaloader) – A collection of DLLs that use search order hijacking to automatically inject specified DLLs.
@@ -1415,6 +1416,7 @@
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
 - [ZackGphom/GLORP](https://github.com/ZackGphom/GLORP) – Optimized Pixel-Art to SVG converter with Greedy Meshing.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
+- [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
 - [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
@@ -1701,6 +1703,7 @@
 - [abenz1267/walker](https://github.com/abenz1267/walker) – Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) – A Beautiful Private and Secure Desktop Investment Tracking Application
 - [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) – Find the password of protected ZIP files.
+- [ahmoodio/aurora](https://github.com/ahmoodio/aurora) – Wayland-first GUI for Pacman, AUR, and Flatpak with queue, logs, and AppStream metadata.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) – Stream VR games from your PC to your headset via Wi-Fi
 - [anglerud/interiris](https://github.com/anglerud/interiris) – Internet quality monitor
@@ -1873,7 +1876,7 @@
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network documentation that updates itself
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – run agents that work for you in the background based on what you do
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
