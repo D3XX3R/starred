@@ -148,6 +148,7 @@
 - [bazaar-org/bazaar](https://github.com/bazaar-org/bazaar) – New App Store for GNOME
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) – A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) – Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -977,6 +978,7 @@
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) – Your gateway to a world of public APIs.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) – :cloud: Sync your bookmarks privately across browsers and devices
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
+- [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1018,7 +1020,6 @@
 - [padloc/padloc](https://github.com/padloc/padloc) – A modern, open source password manager for individuals and teams.
 - [phiilu/mailman](https://github.com/phiilu/mailman) – Mailman is a GUI to help you manage your email accounts stored in a MySQL/MariaDB database.
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
-- [planet-nine-app/sessionless](https://github.com/planet-nine-app/sessionless) – A repo for the sessionless protocol
 - [positive-intentions/chat](https://github.com/positive-intentions/chat) – Decentralized chat
 - [raghavyuva/LucaMail](https://github.com/raghavyuva/LucaMail) – An Awesome cross platform, simple, os friendly Email Client for desktop
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) – A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
@@ -1083,7 +1084,7 @@
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
 - [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) – A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) – 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -1670,7 +1671,7 @@
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.11.
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
 - [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) –  (Alpha Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols. 
@@ -1706,6 +1707,7 @@
 - [ahmoodio/aurora](https://github.com/ahmoodio/aurora) – Wayland-first GUI for Pacman, AUR, and Flatpak with queue, logs, and AppStream metadata.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) – Stream VR games from your PC to your headset via Wi-Fi
+- [am-will/limux](https://github.com/am-will/limux) – GPU-accelerated terminal multiplexer for Linux
 - [anglerud/interiris](https://github.com/anglerud/interiris) – Internet quality monitor
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [arthurprs/quick-cache](https://github.com/arthurprs/quick-cache) – Lightweight and high performance concurrent cache
@@ -1875,7 +1877,7 @@
 - [saltukalakus/PixelLock](https://github.com/saltukalakus/PixelLock) – Military-grade security for storing your files
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network documentation that updates itself
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network documentation that updates itself.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – run agents that work for you in the background based on what you do
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
