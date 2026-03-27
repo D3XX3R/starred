@@ -745,7 +745,6 @@
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -1154,6 +1153,7 @@
 ## Nim
 
 - [OpenAsar/capybara](https://github.com/OpenAsar/capybara) – Minimal replacement for Squirrel's Update.exe
+- [zqqw/pakku](https://github.com/zqqw/pakku) – Pacman wrapper with AUR support
 
 <div id="objective-c"></div>
 
@@ -1477,7 +1477,6 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) – The authentication glue you need.
 - [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
 - [gottagofaster236/Twitch-Channel-Points-Miner](https://github.com/gottagofaster236/Twitch-Channel-Points-Miner) – A simple script that will watch a stream for you and get the channel points
 - [gptme/gptme](https://github.com/gptme/gptme) – Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
@@ -1527,6 +1526,7 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
+- [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) – VMware Workstation macOS 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
@@ -2215,6 +2215,7 @@
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) – OCR & Document Extraction using vision models
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) – 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) – The authentication glue you need.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) – A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) – Update Deno Dependencies - update dependency urls to their latest published versions
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) – Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
