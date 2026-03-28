@@ -718,7 +718,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [hashicorp/vault](https://github.com/hashicorp/vault) – A tool for secrets management, encryption as a service, and privileged access management
-- [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring with historical data, docker stats, and alerts.
 - [home-assistant/os-agent](https://github.com/home-assistant/os-agent) – Daemon allowing to control OS features through D-Bus
 - [iebb/F1WebViewer-SelfHosted](https://github.com/iebb/F1WebViewer-SelfHosted) – Self-hosted reverse-proxy for F1 web viewer.
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
@@ -1463,7 +1463,6 @@
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) – Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
-- [ente0/hashCrack](https://github.com/ente0/hashCrack) – Python-based Hashcat wrapper for easy decryption.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
 - [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) – A lightweight, open-source network monitor for Windows that displays live upload/download speeds directly on the Taskbar with a native look and feel.
 - [evangelosmeklis/peepdb](https://github.com/evangelosmeklis/peepdb) – CLI tool and python library to inspect databases fast.
@@ -2288,7 +2287,7 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – free, open-source file scanner for upload forms in website and apps
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – Open-source file upload security for Node.js. Scan files before storage to detect malware, MIME spoofing, and risky archives.
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
