@@ -1335,7 +1335,6 @@
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
-- [Axorax/keylock](https://github.com/Axorax/keylock) – Lock your keys with ease
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) – Krawl is a customizable lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) – RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
 - [Captain-FLAM/KaraFan](https://github.com/Captain-FLAM/KaraFan) – The BEST music separation model with help of A.I. ... to my ears ! 👂👂
@@ -1476,6 +1475,7 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) – The authentication glue you need.
 - [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
 - [gottagofaster236/Twitch-Channel-Points-Miner](https://github.com/gottagofaster236/Twitch-Channel-Points-Miner) – A simple script that will watch a stream for you and get the channel points
 - [gptme/gptme](https://github.com/gptme/gptme) – Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
@@ -1550,7 +1550,6 @@
 - [soylent/offstream](https://github.com/soylent/offstream) – Personal twitch stream recorder
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Discord bot with automated RSS feed posting and pinboard-map functionalities. Working on more
 - [sparklost/endcord](https://github.com/sparklost/endcord) – Feature rich Discord TUI client.
-- [sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation](https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation) – Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
@@ -1940,7 +1939,6 @@
 
 ## SCSS
 
-- [Axorax/nanabox](https://github.com/Axorax/nanabox) – No login, fast and free file uploading
 - [DiscordStyles/Slate](https://github.com/DiscordStyles/Slate) – An optimized, consistent, and functional theme for @discord based on GitHub's design language.
 - [SlippingGittys-Discord-Themes/surCord](https://github.com/SlippingGittys-Discord-Themes/surCord) – A Discord Theme inspired by macOS & Human Interface Guidelines.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) – 🦊 Firefox user CSS theme looks similar to Chrome
@@ -2214,7 +2212,6 @@
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) – OCR & Document Extraction using vision models
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) – 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) – The authentication glue you need.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) – A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) – Update Deno Dependencies - update dependency urls to their latest published versions
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) – Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
