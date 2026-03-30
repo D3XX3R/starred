@@ -1196,6 +1196,7 @@
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) – Collection of decent Community-made GRUB themes. Contributions welcome!
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) – 💡Limiting personal data leaks on the internet
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) – A list of GOG Galaxy 2.0 integrations and upcoming features
+- [MrKraken/StarStrings](https://github.com/MrKraken/StarStrings) – MrKraken's string replacements to add blueprint pools to contracts
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) – Build and run Docker containers leveraging NVIDIA GPUs
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) – Combined repo for the RTX-Remix runtime and toolkit
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) – A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
@@ -1452,7 +1453,6 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) – Deepfakes Software For All
 - [deezer/spleeter](https://github.com/deezer/spleeter) – Deezer source separation library including pretrained models.
-- [derrod/legendary](https://github.com/derrod/legendary) – Legendary - A free and open-source replacement for the Epic Games Launcher
 - [dfrnoch/discord-sniper](https://github.com/dfrnoch/discord-sniper) – 🔰 Discord Nitro & Giveaway sniper! Made with Python
 - [diegovelilla/reddit-nemesis](https://github.com/diegovelilla/reddit-nemesis) – Reddit-Nemesis is a Reddit bot that disagrees to any post, sparking debate and keeping conversations lively.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) – SponsorBlock client for all YouTube TV clients.
@@ -1499,6 +1499,7 @@
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) –   mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several file manager extensions.
 - [klacol/smgw-theben-conexa](https://github.com/klacol/smgw-theben-conexa) – API-Client für das Theben Conexa Smart Meter Gateway (SMGW)
 - [kukuxx/HA-NotifyHelper](https://github.com/kukuxx/HA-NotifyHelper) – Home Assistant custom integration for notification./Home Assistant 通知助手整合
+- [legendary-gl/legendary](https://github.com/legendary-gl/legendary) – Legendary - A free and open-source replacement for the Epic Games Launcher
 - [lingfo/lingfo](https://github.com/lingfo/lingfo) – Foreign function interface for any language
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
@@ -2224,6 +2225,7 @@
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
 - [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
+- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – VoiceFlow brings the power of OpenAI's Whisper directly to your Windows machine. It runs entirely on your hardware, ensuring your voice data never leaves your device. Designed for privacy, speed, and reliability.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) – Checks which public gateways are online or not
