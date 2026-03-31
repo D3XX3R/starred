@@ -496,7 +496,7 @@
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) – A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [royshil/obs-cleanstream](https://github.com/royshil/obs-cleanstream) – CleanStream is an OBS plugin that uses AI to clean live audio streams from unwanted words and utterances
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) – Plugin for Neural Amp Modeler
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) – a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) – Better font rendering for Windows.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) – Source code for SonoBus, a real-time network audio streaming collaboration tool.
@@ -745,6 +745,7 @@
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -805,6 +806,7 @@
 ## Haskell
 
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [yannick-cw/korb](https://github.com/yannick-cw/korb) – REWE delivery CLI
 
 <div id="haxe"></div>
 
@@ -909,7 +911,6 @@
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) – Datamining Discord changes from the JS files
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) – Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) – Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) – An Open Source YouTube app for privacy
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) – Open-source alternative of Discord desktop's app.asar
 - [Hakkin/twitchintegrity](https://github.com/Hakkin/twitchintegrity)
@@ -1368,7 +1369,6 @@
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) – A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [KimberleyJensen/Mel-Band-Roformer-Vocal-Model](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model)
 - [KnifeXRage/Godot-Secure](https://github.com/KnifeXRage/Godot-Secure) – Godot Secure is a Simple Python Script That modify the Godot Source Code Automatically, to integrate Camellia-256 / AES-256 encryption with a unique security token system. This solution creates a cryptographically unique engine build that prevents generic decryption tools from accessing your game assets.
-- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [L480/cloudflare-dyndns](https://github.com/L480/cloudflare-dyndns) – ☁️ Cloudflare DynDNS solution for AVM FRITZ!Box
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) – A Grub Theme in the style of Minecraft!
@@ -1526,7 +1526,6 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
-- [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) – VMware Workstation macOS 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
@@ -2163,7 +2162,7 @@
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui starter. Pick your framework and start building — Vite, Next.js, React Router, Astro, TanStack Start.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
 - [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) – Spotify Car Thing UI Web App Dump
@@ -2380,6 +2379,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) – A browser extension for automating your browser by connecting blocks
 - [Durss/Twitchat](https://github.com/Durss/Twitchat) – Full featured Twitch chat alternative to fill gaps from the official one.
 - [EpicnessTwo/StreamLurker](https://github.com/EpicnessTwo/StreamLurker) – A Lurk Client for Twitch
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) – An Open Source YouTube app for privacy
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) – 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
 - [TarkovTracker/TarkovTracker](https://github.com/TarkovTracker/TarkovTracker) – TarkovTracker - a webapp for tracking and planning your progress in the game Escape From Tarkov.
