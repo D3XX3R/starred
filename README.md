@@ -308,6 +308,7 @@
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) – .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [insomniachi/FluentFin](https://github.com/insomniachi/FluentFin)
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) – Automatically detect and skip intro/credit sequences in Jellyfin
+- [jasperdevs/yoink](https://github.com/jasperdevs/yoink) – Free, open-source screenshot tool. Capture, annotate, and share with a single hotkey.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System - Server Backend & API
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)
 - [lauralex/dwm_lut](https://github.com/lauralex/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
@@ -965,6 +966,7 @@
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler, originally developed in early fall 2016.  https://secrethitler.io
 - [cracker0dks/CaptchaSolver](https://github.com/cracker0dks/CaptchaSolver) – JDownload 2 Offline Captcha Solver
+- [dane-9/Streamline-Workshop-Downloader](https://github.com/dane-9/Streamline-Workshop-Downloader) – Streamline - A Modern Steam Workshop Downloader
 - [debloper/xplex](https://github.com/debloper/xplex) – The renaissance will be multi-streamed LIVE—with xplex!
 - [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) – RTSP Stream to WebBrowser
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
@@ -1140,7 +1142,6 @@
 
 - [ediblerope/Discord-Capture-Limiter](https://github.com/ediblerope/Discord-Capture-Limiter) – A lightweight daemon that automatically manages multiple Discord audio capture streams in PipeWire, ensuring only the oldest stream remains active to prevent audio duplication issues.
 - [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
 
 <div id="mdx"></div>
@@ -1254,6 +1255,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tycrek/ass](https://github.com/tycrek/ass) – The simple self-hosted ShareX server
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) – Warp is the agentic development environment, built for coding with multiple AI agents.
 - [zencq/NomNom](https://github.com/zencq/NomNom) – NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
