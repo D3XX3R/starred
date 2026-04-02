@@ -159,7 +159,6 @@
 - [hfiref0x/DSEFix](https://github.com/hfiref0x/DSEFix) – Windows x64 Driver Signature Enforcement Overrider
 - [isjerryxiao/kmsvnc](https://github.com/isjerryxiao/kmsvnc) – A VNC server for DRM/KMS capable GNU/Linux devices
 - [jagt/clumsy](https://github.com/jagt/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) – JetKVM - Control any computer remotely
 - [jmattaa/laser](https://github.com/jmattaa/laser) – basically `ls` but `lsr`, and configurable with lua!
 - [kila58/qemu-patched](https://github.com/kila58/qemu-patched) – QEMU patched to avoid detection from various anticheats such as Battleye/EAC
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
@@ -1352,6 +1351,7 @@
 - [ESJavadex/ezviz-ha-addon](https://github.com/ESJavadex/ezviz-ha-addon) – Reversed Engineering Cloud Ezviz conection Home Assistant addon. Tested on HP2
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [EiS94/db_info](https://github.com/EiS94/db_info) – Home Assistant Integration to get live data for Deutsche Bahn
+- [EloneMusk/schugaa](https://github.com/EloneMusk/schugaa) – Schugaa is a lightweight, native macOS menu bar application that displays real-time glucose levels from your Freestyle Libre sensor. It sits quietly in your menu bar, providing quick access to your current glucose reading, trend arrows, and a historical data graph.
 - [Exaphis/mutube](https://github.com/Exaphis/mutube) – Remove ads and add SponsorBlock on Apple TV.
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) – 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [FahrplanDatenGarten/FahrplanDatenGarten](https://github.com/FahrplanDatenGarten/FahrplanDatenGarten)
@@ -1877,7 +1877,7 @@
 - [saltukalakus/PixelLock](https://github.com/saltukalakus/PixelLock) – Military-grade security for storing your files
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network documentation that updates itself.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – run agents that work for you in the background based on what you do
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
@@ -2238,6 +2238,7 @@
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) – Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) – JetKVM - Control any computer remotely
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) – A code snippet storage solution written in React & node.js
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) – The npm-style script runner for Deno
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) – Blocks all Twitter Blue verified users on twitter.com
@@ -2283,6 +2284,7 @@
 - [osuplace/templateManager](https://github.com/osuplace/templateManager) – Template manager for various canvas games
 - [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) – A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
 - [paprikka/butter](https://github.com/paprikka/butter) – A browser extension removing sponsored content from Youtube
+- [patrickkfkan/reddit-dl](https://github.com/patrickkfkan/reddit-dl) – Reddit downloader
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) – Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
