@@ -23,6 +23,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
+- [Fluent](#fluent)
 - [Game Maker Language](#game-maker-language)
 - [Gdscript](#gdscript)
 - [Gherkin](#gherkin)
@@ -617,6 +618,12 @@
 
 - [silviucpp/ezstd](https://github.com/silviucpp/ezstd) – Zstd binding for Erlang
 
+<div id="fluent"></div>
+
+## Fluent
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
+
 <div id="game-maker-language"></div>
 
 ## Game Maker Language
@@ -732,7 +739,7 @@
 - [kekskurse/go-mail-admin](https://github.com/kekskurse/go-mail-admin) – HTTP-Interface with a small GUI for a Mailserver
 - [klauspost/ryzen-master-vbs-patch](https://github.com/klauspost/ryzen-master-vbs-patch) – AMD Ryzen Master Hyper-V VBS patcher
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) – Kubernetes IN Docker - local clusters for testing Kubernetes
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human operators via dashboard.
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -792,6 +799,7 @@
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
+- [kmille/freetar](https://github.com/kmille/freetar) – freetar  - an alternative frontend to ultimate-guitar.com
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
@@ -1852,7 +1860,6 @@
 - [pr4k/locate](https://github.com/pr4k/locate) – A Recursive Search tool in Rust 
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – QUIC-based VPN
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -2081,7 +2088,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
-- [Budibase/budibase](https://github.com/Budibase/budibase) – AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) – AI agents, automations and apps that run your operations. Model agnostic.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) – SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [CoffeSiberian/truck-tools](https://github.com/CoffeSiberian/truck-tools) – Edit your saves game in Euro Truck Simulator 2 and American Truck Simulator with this simple Desktop App
@@ -2120,6 +2127,7 @@
 - [Luligu/matterbridge-shelly](https://github.com/Luligu/matterbridge-shelly) – Matterbridge shelly plugin
 - [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – A SpaceBar Client written in TS HTML and CSS
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
+- [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) – :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) – An automatic livestream recorder
 - [MrTopQ/customStream-Vencord](https://github.com/MrTopQ/customStream-Vencord) – Vencord plugin that replaces steam preview
