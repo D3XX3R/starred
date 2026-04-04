@@ -265,8 +265,6 @@
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) – Smart PVR for newsgroup and bittorrent users.
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) – A modern spotnet client and index for your *arr apps.
 - [Squalr/Squalr-Sharp](https://github.com/Squalr/Squalr-Sharp) – Squalr Memory Editor - Game Hacking Tool Written in C#
-- [SteamAutoCracks/DepotDownloaderMod](https://github.com/SteamAutoCracks/DepotDownloaderMod) – Steam depot downloader utilizing the SteamKit2 library with depot key and manifest support.
-- [SteamAutoCracks/DepotDumper](https://github.com/SteamAutoCracks/DepotDumper) – Mass depot key dumper utilizing the SteamKit2 library
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) – SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity products.
@@ -400,7 +398,6 @@
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) – Chat client for https://twitch.tv
 - [SpecialKO/SpecialK](https://github.com/SpecialKO/SpecialK) – Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything.
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
-- [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
@@ -1215,7 +1212,6 @@
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
 - [SaviorXTanren/mixer-mixitup](https://github.com/SaviorXTanren/mixer-mixitup) – Streaming bot application for handling chat, events, moderation, and other streamer assistance features
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) – ShareX custom uploaders
-- [SteamAutoCracks/ManifestHub](https://github.com/SteamAutoCracks/ManifestHub) – Steam Depot Manifest Library
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) – A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [TwitchmodsDACH/Bannlisten](https://github.com/TwitchmodsDACH/Bannlisten)
 - [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
@@ -1281,6 +1277,7 @@
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) – LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) – A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Traewelling/traewelling](https://github.com/Traewelling/traewelling) – Free check-in service to log your public transit journeys
+- [Wruczek/ts-website](https://github.com/Wruczek/ts-website) – A website for your TeamSpeak 3 server
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) – ShareXen - Another ShareX Custom Uploader PHP Script
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) – Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) – Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
@@ -1679,7 +1676,7 @@
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.1.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
 - [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) –  (Alpha Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols. 
