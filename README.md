@@ -802,6 +802,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) – A verified tool that works on any potato computer that will let you bypass discord verification
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) – Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
+- [stban1983/notesme](https://github.com/stban1983/notesme) – A lightweight, secure, and self-hosted note-taking application with end-to-end encryption, built with FastAPI and Vanilla JS.
 - [transmitic/transmitic](https://github.com/transmitic/transmitic) – Encrypted, peer to peer, file transfer program :: https://discord.gg/tRT3J6T :: https://www.reddit.com/r/transmitic/ :: https://twitter.com/transmitic
 - [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) – Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -1882,7 +1883,7 @@
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Run agents that work for you based on what you do. AI finally knows what you are doing
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
@@ -2077,7 +2078,6 @@
 
 - [0010aor/FlashNotes](https://github.com/0010aor/FlashNotes)
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) – :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
-- [66HEX/horizon](https://github.com/66HEX/horizon) – A modern, desktop-based code editor built with Tauri, React, and TypeScript. This application provides a powerful and customizable coding environment with integrated terminal support and file system management.
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) – Browser watcher for ActivityWatch
 - [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) – Free Windows, Mac and Linux cleaner, scanner, and more.
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
