@@ -576,6 +576,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility) – An app to download patches and launch Jackbox games
 - [Kounex/obs_blade](https://github.com/Kounex/obs_blade) – Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – An open-source Hacker News client built with Flutter.
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) – Suspend games and applications.
 - [MjKey/Mods-Manager-MR](https://github.com/MjKey/Mods-Manager-MR) – Mods Manager for Marvel Rivals
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
@@ -1013,7 +1014,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) – Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app 
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) – mailcow: dockerized - 🐮 + 🐋 = 💕
-- [marioparaschiv/nitro-sniper](https://github.com/marioparaschiv/nitro-sniper) – 🔫 A lightweight, fast and efficient discord nitro sniper, giveaway sniper & invite sniper. 
+- [marioparaschiv/nitro-sniper](https://github.com/marioparaschiv/nitro-sniper) – 🔫 Lightweight, fast Discord Nitro, giveaway, and invite sniper.
 - [markrai/fontcompare](https://github.com/markrai/fontcompare) – an easy way to dynamically compare locally hosted fonts
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) – Node.js Simple WHIP Server library (based on the Janus WebRTC Server)
 - [memory-stack/Memory-Stack](https://github.com/memory-stack/Memory-Stack) – 📜 Memory stack is a developer oriented journaling social platform. 
@@ -2307,7 +2308,7 @@
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) – A lightweight Discord client mod focused on simplicity and performance.
 - [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [ropali/dockyard](https://github.com/ropali/dockyard) – A fast & beautiful Docker GUI client
-- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr)
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) – Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [saalikmubeen/talkhouse](https://github.com/saalikmubeen/talkhouse) – WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
@@ -2324,7 +2325,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) – The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) – Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
-- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's terminal UI app - The ultimate weapon against brainrot
+- [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's CLI and TUI client -- The ultimate weapon against brainrot
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
