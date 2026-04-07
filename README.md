@@ -572,7 +572,7 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [BrisklyDev/brisk](https://github.com/BrisklyDev/brisk) – Ultra-fast, modern download manager for desktop 
-- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) – Fladder - A Simple Jellyfin frontend built on top of Flutter.
+- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) – Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility) – An app to download patches and launch Jackbox games
 - [Kounex/obs_blade](https://github.com/Kounex/obs_blade) – Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream
@@ -1298,6 +1298,7 @@
 
 ## Pascal
 
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) – Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) – Double Commander is a free cross platform open source file manager with two panels side by side.
 
 <div id="pawn"></div>
@@ -1960,6 +1961,7 @@
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube from your terminal
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
+- [ChrisGamer5013/AMD-Ghost-Enviroment](https://github.com/ChrisGamer5013/AMD-Ghost-Enviroment) – Allows AMD GPU's to run CUDA* only software
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
