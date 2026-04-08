@@ -2060,6 +2060,7 @@
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) – A fully native Discord client for macOS built 100% in Swift!
 - [eerimoq/moblin](https://github.com/eerimoq/moblin) – Moblin, a free iOS app for IRL streaming.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
+- [ilmakio/PassStore](https://github.com/ilmakio/PassStore) – A local-first secret manager for developers, built natively for macOS.
 - [itoolio/ishare](https://github.com/itoolio/ishare) – experience the clean and unbloated screen capture utility for macOS
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) – An open source approach to locally record and enable searching everything you view on your Mac.
 - [lo-cafe/winston](https://github.com/lo-cafe/winston) – A beautiful and native Reddit client for iOS
