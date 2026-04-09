@@ -912,6 +912,7 @@
 - [BeepIsla/CSGO-Overwatch-Bot](https://github.com/BeepIsla/CSGO-Overwatch-Bot) – Automatically solve CSGO Overwatch cases
 - [BeepIsla/csgo-nametag-tool](https://github.com/BeepIsla/csgo-nametag-tool) – Bypass client side restrictions for name tags
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) – Select which region you connect to in various Valve games
+- [BeltaKoda/StarMeld](https://github.com/BeltaKoda/StarMeld) – Cross-platform Star Citizen localization merge tool — combine category-specific language packs into a single global.ini
 - [ChocoMeow/Vocard-Dashboard](https://github.com/ChocoMeow/Vocard-Dashboard) – Vocard Dashboard is a web-based user interface that allows users to control the Vocard music bot directly from their browser. With this dashboard, you can easily manage music playback, create playlists, and interact with the bot in a user-friendly way.
 - [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
 - [Darkdragon14/ha-access-control-manager](https://github.com/Darkdragon14/ha-access-control-manager) – "Access Control Manager" provides a centralized interface for managing user permissions and access rights within Home Assistant. It allows administrators to create, assign, and customize roles, ensuring secure and streamlined control over who can interact with specific devices, automations, and dashboards in the smart home ecosystem.
@@ -948,7 +949,7 @@
 - [TarkovTracker/tarkovdata](https://github.com/TarkovTracker/tarkovdata) – Escape From Tarkov game data, contributed by the community, maintained by developers of community tools
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) – Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [Thann/play-with-mpv](https://github.com/Thann/play-with-mpv) – Chrome extension that allows you to play videos in webpages like youtube with MPV instead
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Upload/Up1](https://github.com/Upload/Up1) – Client-side encrypted image host web server
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) – One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 - [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) – Nortix Mail - disposable email server with an easy setup
@@ -1346,7 +1347,7 @@
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
-- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) – Krawl is a customizable lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) – Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) – RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
 - [Captain-FLAM/KaraFan](https://github.com/Captain-FLAM/KaraFan) – The BEST music separation model with help of A.I. ... to my ears ! 👂👂
 - [ChocoMeow/Vocard](https://github.com/ChocoMeow/Vocard) – Vocard is a simple music bot. It leads to a comfortable experience which is user-friendly, It supports Youtube, Soundcloud, Spotify, Twitch and more!
@@ -1387,7 +1388,7 @@
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs sonic analysis on your audio files locally, allowing you to curate the perfect playlist for any mood or occasion without relying on external APIs.
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -1472,6 +1473,7 @@
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) – Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
+- [ente0/hashCrack](https://github.com/ente0/hashCrack) – Python-based Hashcat wrapper for easy decryption.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
 - [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) – A lightweight, open-source network monitor for Windows that displays live upload/download speeds directly on the Taskbar with a native look and feel.
 - [evangelosmeklis/peepdb](https://github.com/evangelosmeklis/peepdb) – CLI tool and python library to inspect databases fast.
@@ -1861,7 +1863,7 @@
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – QUIC-based VPN
+- [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
