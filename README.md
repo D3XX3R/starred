@@ -126,7 +126,6 @@
 - [Bemjo/OBS-RTX-SuperResolution](https://github.com/Bemjo/OBS-RTX-SuperResolution) – An OBS plugin to enable nVidia RTX Video Super Resolution, Upscaling, and Artifact Reduction as a filter.
 - [Chimildic/obs-vlc-video-plugin](https://github.com/Chimildic/obs-vlc-video-plugin) – VLC plugin with Streamlink and hardware acceleration for OBS Studio
 - [DiskCryptor/DiskCryptor](https://github.com/DiskCryptor/DiskCryptor) – DiskCryptor Open Source full disk encryption tool 
-- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7) – Unreal Engine SDK Generator
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) – BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) – Optimise Linux system performance on demand
@@ -363,6 +362,7 @@
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) – Windows dll injector
 - [Denellyne/PCXSense](https://github.com/Denellyne/PCXSense) – Translates the inputs from the Dualsense into XInput making it compatible with any PC Game
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [DwayneM20/Steam-Log-Collector](https://github.com/DwayneM20/Steam-Log-Collector) – Cross-platform desktop application for collecting and managing log files from Steam games. Provides both a command-line interface (CLI) and a graphical user interface (GUI) to help users locate, view, and organize game log files for troubleshooting purposes.
 - [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -463,7 +463,7 @@
 - [lifting-bits/remill](https://github.com/lifting-bits/remill) – Library for lifting machine code to LLVM bitcode
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) – Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [marco-calautti/DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) – Delta Patcher is a GUI software that is able to create and apply xdelta patches.
-- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) – Feed reader (podcast player and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
+- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) – Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) – Cyberpunk 2077 tweaks, hacks and scripting framework
 - [mbruel/ngPost](https://github.com/mbruel/ngPost) – Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT designed to be as fast as possible and offer all the main features to post data easily and safely. Releases for Linux, Windows and MacOS are available.
 - [mdias/rs_asio](https://github.com/mdias/rs_asio) – ASIO for Rocksmith 2014
@@ -607,7 +607,7 @@
 
 ## Elixir
 
-- [plausible/analytics](https://github.com/plausible/analytics) – Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) – Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) – Web application that indexes all popular torrent sites, and saves it to the local database.
 
 <div id="erlang"></div>
@@ -785,7 +785,6 @@
 - [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
-- [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 
 <div id="html"></div>
 
@@ -1845,6 +1844,7 @@
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
+- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) – Open Source components of Little Snitch for Linux
 - [obhq/obliteration](https://github.com/obhq/obliteration) – Experimental free and open-source PlayStation 4 kernel
 - [ogham/exa](https://github.com/ogham/exa) – A modern replacement for ‘ls’.
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) – Unsafely fast hashing algorithm 📈
@@ -1944,6 +1944,7 @@
 - [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – https://t.me/githubx89 Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
+- [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
 
 <div id="scss"></div>
