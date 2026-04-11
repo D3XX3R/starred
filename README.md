@@ -739,6 +739,7 @@
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) – Kubernetes IN Docker - local clusters for testing Kubernetes
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+- [lucas-jacques/ikto](https://github.com/lucas-jacques/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
@@ -782,7 +783,6 @@
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
 - [usememos/memos](https://github.com/usememos/memos) – Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [valyentdev/ikto](https://github.com/valyentdev/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 
@@ -1964,7 +1964,6 @@
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube from your terminal
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
-- [ChrisGamer5013/AMD-Ghost-Enviroment](https://github.com/ChrisGamer5013/AMD-Ghost-Enviroment) – Allows AMD GPU's to run CUDA* only software
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
@@ -1975,6 +1974,7 @@
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
 - [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Allows AMD GPU's to run CUDA* only software
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
@@ -2087,6 +2087,7 @@
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) – :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) – Browser watcher for ActivityWatch
 - [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) – Free Windows, Mac and Linux cleaner, scanner, and more.
+- [Aetherall/tobiifree](https://github.com/Aetherall/tobiifree) – Tobii Eye Tracker 5 For Linux and Web
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
