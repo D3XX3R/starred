@@ -1008,6 +1008,7 @@
 - [lacymorrow/crossover](https://github.com/lacymorrow/crossover) – 🎯 A Crosshair Overlay for any screen. 
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) – End-To-End File & Message Encryption For Discord
 - [liamcottle/rustplus.js](https://github.com/liamcottle/rustplus.js) – Unofficial NodeJS library for controlling Smart Switches in the PC game Rust
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [lklynet/aurral](https://github.com/lklynet/aurral) – Artist Discovery and Request Manager for Lidarr
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy self-hosted monitoring tool
 - [lovell/sharp](https://github.com/lovell/sharp) – High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -1028,6 +1029,7 @@
 - [padloc/padloc](https://github.com/padloc/padloc) – A modern, open source password manager for individuals and teams.
 - [phiilu/mailman](https://github.com/phiilu/mailman) – Mailman is a GUI to help you manage your email accounts stored in a MySQL/MariaDB database.
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – Minimal Node.js wrapper around ClamAV — scan any file and get Clean, Malicious, or ScanError. Handles installation and database updates automatically.
 - [positive-intentions/chat](https://github.com/positive-intentions/chat) – Decentralized chat
 - [raghavyuva/LucaMail](https://github.com/raghavyuva/LucaMail) – An Awesome cross platform, simple, os friendly Email Client for desktop
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) – A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
@@ -1116,6 +1118,7 @@
 - [IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS) – Home of MineOS and it's software for OpenComputers mod
 - [MikaylaFischler/cc-mek-scada](https://github.com/MikaylaFischler/cc-mek-scada) – Configurable ComputerCraft SCADA system for multi-reactor control of Mekanism fission reactors with a GUI, automatic safety features, waste processing control, and more! Please be sure to take a look at the Wiki tab, this project has lots of docs!
 - [Mm2PL/supibot-completion-plugin](https://github.com/Mm2PL/supibot-completion-plugin) – A Chatterino plugin
+- [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) – Multiplayer mod for BeamNG.drive
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) – Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [n0zhik/ModernX](https://github.com/n0zhik/ModernX) – (Working 02/24) A modern OSC UI replacement for MPV that retains the functionality of the default OSC.
@@ -1196,7 +1199,6 @@
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) – Let's make an annoyance free, better open internet, altogether!
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) – Combustion engine simulation game that generates realistic audio.
 - [ErcinDedeoglu/proxies](https://github.com/ErcinDedeoglu/proxies) – 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a seamless, secure browsing experience. Get started with our PROXY list today!
-- [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) – Your all-in-one tweak for WhatsApp Messenger!
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [HerXayah/road-to-ryujinx-without-switch](https://github.com/HerXayah/road-to-ryujinx-without-switch) – This Repo explains how to install the Ryujninx Switch Emulator without a Switch 
 - [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter)
@@ -1287,7 +1289,6 @@
 - [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) – DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 - [elementor/elementor](https://github.com/elementor/elementor) – The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) – An Application dashboard and launcher
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) – Open source alternative frontend for TikTok made using PHP
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) – ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!
@@ -1346,6 +1347,7 @@
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
+- [Axorax/keylock](https://github.com/Axorax/keylock) – Lock your keys with ease
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) – Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) – RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
 - [Captain-FLAM/KaraFan](https://github.com/Captain-FLAM/KaraFan) – The BEST music separation model with help of A.I. ... to my ears ! 👂👂
@@ -1680,7 +1682,7 @@
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.1.
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.1.2.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
 - [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) –  (Alpha Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols. 
@@ -1700,7 +1702,6 @@
 - [StractOrg/stract](https://github.com/StractOrg/stract) – web search done right
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) – Most feature-complete Linux GUI power management solution.
 - [TheCactusVert/mpv-sponsorblock](https://github.com/TheCactusVert/mpv-sponsorblock) – MPV plugin that allow you to skip sponsors while watching YouTube videos
-- [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) – Multiplayer mod for BeamNG.drive
 - [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) – Simple, self-hostable filesharing application with builtin end-to-end encryption
 - [Tomyyy-1337/fileshare](https://github.com/Tomyyy-1337/fileshare) – A GUI Applikation to share Files in local Network or over the Internet. Written in Rust using Iced. 
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) – A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
@@ -1809,6 +1810,7 @@
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
+- [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) – 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
@@ -1951,6 +1953,7 @@
 
 ## SCSS
 
+- [Axorax/nanabox](https://github.com/Axorax/nanabox) – No login, fast and free file uploading
 - [DiscordStyles/Slate](https://github.com/DiscordStyles/Slate) – An optimized, consistent, and functional theme for @discord based on GitHub's design language.
 - [SlippingGittys-Discord-Themes/surCord](https://github.com/SlippingGittys-Discord-Themes/surCord) – A Discord Theme inspired by macOS & Human Interface Guidelines.
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) – 🦊 Firefox user CSS theme looks similar to Chrome
@@ -2197,7 +2200,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) – Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) – Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [chuunibian/delta](https://github.com/chuunibian/delta) – Disk space analyzer with historical tracking.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) – Yet another matrix client
 - [cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game](https://github.com/cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game) – A Technical Analysis Algorithmic Trading Game
@@ -2302,7 +2305,6 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – Open-source file upload security for Node.js. Scan files before storage to detect malware, MIME spoofing, and risky archives.
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
@@ -2379,7 +2381,7 @@
 ## Visual Basic .Net
 
 - [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) – The connected place for Windows system administration
-- [FN-FAL113/cs2-server-picker](https://github.com/FN-FAL113/cs2-server-picker) – A portable and lightweight server picker windows app for Counter Strike 2 or even Deadlock! 
+- [FN-FAL113/cs2-server-picker](https://github.com/FN-FAL113/cs2-server-picker) – A portable and lightweight server picker windows app for Counter Strike 2 or even Deadlock! (Legacy)
 - [UHAXM1/Quantum](https://github.com/UHAXM1/Quantum)
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) – 🎞 Video encoding GUI for Windows.
 
@@ -2410,6 +2412,7 @@
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) – A delightful Firefly III companion web app for effortless transaction tracking
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) – 📖 All your articles in one place. Beautiful.
 - [jamiepine/cache-monkey](https://github.com/jamiepine/cache-monkey) – Convert, browse and clear cached images and files. Images you see online are never deleted immediately, unless you delete them of course.  Most desktop apps have a cache directory, not all provide the tools to clear it. CacheMonkey not only lets you purge cache files, but browse and filter through them too.
+- [markterence/discord-quest-completer](https://github.com/markterence/discord-quest-completer) – A Windows desktop application to complete quests on Discord without installing the full actual games. 
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
