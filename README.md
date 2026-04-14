@@ -591,6 +591,7 @@
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) – An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) – A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
 - [warreth/OpenlibExtended](https://github.com/warreth/OpenlibExtended) – An Open source app to download and read books from shadow library (Anna’s Archive)
+- [wyyadd/LaLa](https://github.com/wyyadd/LaLa) – LaLa Trainers Launcher
 
 <div id="dockerfile"></div>
 
@@ -913,6 +914,7 @@
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) – Select which region you connect to in various Valve games
 - [BeltaKoda/StarMeld](https://github.com/BeltaKoda/StarMeld) – Cross-platform Star Citizen localization merge tool — combine category-specific language packs into a single global.ini
 - [ChocoMeow/Vocard-Dashboard](https://github.com/ChocoMeow/Vocard-Dashboard) – Vocard Dashboard is a web-based user interface that allows users to control the Vocard music bot directly from their browser. With this dashboard, you can easily manage music playback, create playlists, and interact with the bot in a user-friendly way.
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) – Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
 - [Darkdragon14/ha-access-control-manager](https://github.com/Darkdragon14/ha-access-control-manager) – "Access Control Manager" provides a centralized interface for managing user permissions and access rights within Home Assistant. It allows administrators to create, assign, and customize roles, ensuring secure and streamlined control over who can interact with specific devices, automations, and dashboards in the smart home ecosystem.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) – Datamining Discord changes from the JS files
@@ -1199,6 +1201,7 @@
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) – Let's make an annoyance free, better open internet, altogether!
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) – Combustion engine simulation game that generates realistic audio.
 - [ErcinDedeoglu/proxies](https://github.com/ErcinDedeoglu/proxies) – 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a seamless, secure browsing experience. Get started with our PROXY list today!
+- [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) – Your all-in-one tweak for WhatsApp Messenger!
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [HerXayah/road-to-ryujinx-without-switch](https://github.com/HerXayah/road-to-ryujinx-without-switch) – This Repo explains how to install the Ryujninx Switch Emulator without a Switch 
 - [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter)
@@ -1211,6 +1214,7 @@
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) – Combined repo for the RTX-Remix runtime and toolkit
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) – A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
 - [PCJones/usenet-guide](https://github.com/PCJones/usenet-guide) – Ein deutscher Einsteiger-Guide für das Usenet
+- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) – Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
 - [Purp1eDuck2008/Liquid-GRUB](https://github.com/Purp1eDuck2008/Liquid-GRUB) – Liquid Glass GRUB
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) – This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
@@ -1375,6 +1379,7 @@
 - [Hancapo/Inzoider](https://github.com/Hancapo/Inzoider)
 - [Houston4444/RaySession](https://github.com/Houston4444/RaySession) – Session manager for linux musical programs
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) – A simple, high-quality voice conversion tool focused on ease of use and performance.
+- [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) – An ReShade manager for linux.
 - [JAB-dev/mpv-frame-interpolation](https://github.com/JAB-dev/mpv-frame-interpolation) – Vapoursynth script for decent fps interpolation 
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) – Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) – Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
@@ -1401,6 +1406,7 @@
 - [RyanCheddar/discord-voice-message-transcriber](https://github.com/RyanCheddar/discord-voice-message-transcriber) – Discord.py bot that auto-transcribes voice messages using OpenAI Whisper
 - [SameSalamander5710/DynamicFPSLimiter](https://github.com/SameSalamander5710/DynamicFPSLimiter) – A GUI app to assess GPU/CPU usage and dynamically alter FPS limits via RTSS
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) – ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
+- [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Star Citizen companion toolbox - Cargo Loader, Trade Hub, Mission Database, DPS Calculator, Mining Loadout, Market Finder
 - [SergeyKalutsky/vsc](https://github.com/SergeyKalutsky/vsc) – Real time video recording censor 
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) – Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) – An elegant Linux app for the Elgato Stream Deck with support for plugins
@@ -1843,6 +1849,7 @@
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
+- [niri-wm/niri](https://github.com/niri-wm/niri) – A scrollable-tiling Wayland compositor.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
@@ -1965,7 +1972,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube from your terminal
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere, any way you like it. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
@@ -2133,6 +2140,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's private API, known as InnerTube.
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) – Matterbridge plugin manager for Matter
 - [Luligu/matterbridge-shelly](https://github.com/Luligu/matterbridge-shelly) – Matterbridge shelly plugin
+- [Makin-Things/weather-radar-card](https://github.com/Makin-Things/weather-radar-card) – A rain radar card using the tiled images from RainViewer
 - [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – A SpaceBar Client written in TS HTML and CSS
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
 - [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab
@@ -2224,7 +2232,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and reverse proxy for remote access
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
@@ -2305,6 +2313,7 @@
 - [pbzweihander/peace-eye](https://github.com/pbzweihander/peace-eye) – Desktop AWACS/GCI simulator for Tacview and DCS World
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) – Build a beautiful Home Assistant dashboard easily
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
@@ -2338,6 +2347,7 @@
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+- [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) – An advanced calendar card for Home Assistant Lovelace.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [un/inbox](https://github.com/un/inbox) – Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
