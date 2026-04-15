@@ -31,7 +31,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [Haxe](#haxe)
 - [Hlsl](#hlsl)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -425,10 +424,12 @@
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) – Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [beaterblank/tpipe](https://github.com/beaterblank/tpipe) – Audio Transparency tool for Unix-based systems that use JACK audio engine.
+- [benapetr/TuxManager](https://github.com/benapetr/TuxManager) – It's like Windows Task Manager, but for GNU/Linux
 - [blizzard4591/openMittsu](https://github.com/blizzard4591/openMittsu) – An open source implementation and desktop client of the Threema Messenger App.
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) – A WiFi mapping companion app for Valetudo
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
+- [dekomote/vermouth](https://github.com/dekomote/vermouth) – A no-frills Proton and Wine app/game launcher for KDE
 - [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats, OCR, and basic editing. 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functionality)
@@ -669,6 +670,7 @@
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) – A very small, very simple, yet very secure encryption tool.
 - [Jguer/yay](https://github.com/Jguer/yay) – Yet another Yogurt - An AUR Helper written in Go
 - [Mawthuq-Software/Wireguard-Manager-and-API](https://github.com/Mawthuq-Software/Wireguard-Manager-and-API) – A Wireguard VPN Server Manager and API to add and remove clients
+- [RemakeCode/sentinel](https://github.com/RemakeCode/sentinel) – Sentinel  - An achievement watcher for Linux
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) – ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) – 🏎️ TUI for F1TV
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) – Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
@@ -714,7 +716,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [dwot/isley](https://github.com/dwot/isley) – Self-Hosted Cannabis Grow Journal with sensor tracking for AC Infinity Controllers and Ecowitt Soil Sensors
 - [evan-sm/twitchpl](https://github.com/evan-sm/twitchpl) – ▶️🎵 Get m3u8 twitch playlist
-- [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [folbricht/routedns](https://github.com/folbricht/routedns) – DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [gempir/justlog](https://github.com/gempir/justlog) – twitch logging platform
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) – Modern Docker Management, Designed for Everyone
@@ -814,12 +816,6 @@
 
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [yannick-cw/korb](https://github.com/yannick-cw/korb) – REWE delivery CLI
-
-<div id="haxe"></div>
-
-## Haxe
-
-- [mc-build/mcb](https://github.com/mc-build/mcb) – in dev mcb standalone project
 
 <div id="hlsl"></div>
 
@@ -1987,6 +1983,8 @@
 - [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Allows AMD GPU's to run CUDA only software
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
+- [alexheretic/aurto](https://github.com/alexheretic/aurto) – Arch Linux AUR tool for managing an auto-updating local 'aurto' package repository
+- [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
@@ -2102,6 +2100,7 @@
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
+- [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) – An Auto-clicker with a few advanced features and generally better performance than popular alternatives.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
 - [Budibase/budibase](https://github.com/Budibase/budibase) – AI agents, automations and apps that run your operations. Model agnostic.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
@@ -2278,6 +2277,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) – 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [manyuanrong/deno-deamon](https://github.com/manyuanrong/deno-deamon) – Make the Deno program run in the background
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mc-build/mcb](https://github.com/mc-build/mcb) – in dev mcb standalone project
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform.
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
