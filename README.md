@@ -680,7 +680,6 @@
 - [Trugamr/wol](https://github.com/Trugamr/wol) – 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) – Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) – [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Zhoros/SuperBin](https://github.com/Zhoros/SuperBin) – Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) – Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Modern, open source, self-hosted customer support desk. Single binary app.
@@ -729,6 +728,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring with historical data, docker stats, and alerts.
 - [home-assistant/os-agent](https://github.com/home-assistant/os-agent) – Daemon allowing to control OS features through D-Bus
 - [iebb/F1WebViewer-SelfHosted](https://github.com/iebb/F1WebViewer-SelfHosted) – Self-hosted reverse-proxy for F1 web viewer.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 - [jdoiro3/dagit](https://github.com/jdoiro3/dagit) – DaGit to learn Git Internals
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -1476,7 +1476,7 @@
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) – Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
-- [ente0/hashCrack](https://github.com/ente0/hashCrack) – Python-based Hashcat wrapper for easy decryption.
+- [ente0/hashCrack](https://github.com/ente0/hashCrack) – Interactive Python CLI that wraps Hashcat with guided menus for wordlist, rule-based, brute-force, and hybrid attacks. Supporting 300+ hash types including WPA2, NTLM, bcrypt, ZIP, and more.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
 - [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) – A lightweight, open-source network monitor for Windows that displays live upload/download speeds directly on the Taskbar with a native look and feel.
 - [evangelosmeklis/peepdb](https://github.com/evangelosmeklis/peepdb) – CLI tool and python library to inspect databases fast.
@@ -1565,6 +1565,7 @@
 - [soylent/offstream](https://github.com/soylent/offstream) – Personal twitch stream recorder
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Discord bot with automated RSS feed posting and pinboard-map functionalities. Working on more
 - [sparklost/endcord](https://github.com/sparklost/endcord) – Feature rich Discord TUI client.
+- [sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-](https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-) – Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
