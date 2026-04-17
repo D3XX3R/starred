@@ -682,7 +682,7 @@
 - [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) – [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
 - [Zhoros/SuperBin](https://github.com/Zhoros/SuperBin) – Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) – Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Modern, open source, self-hosted customer support desk. Single binary app.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Modern, open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
 - [akiver/cs-demo-analyzer](https://github.com/akiver/cs-demo-analyzer) – Analyze and extract data from Counter-Strike demos.
@@ -929,6 +929,7 @@
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) – Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [Mitrajit/Sharenetic](https://github.com/Mitrajit/Sharenetic) – A peer to peer file sharing web app that leverages webRTC to get blazing fast speeds.
 - [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) – Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
+- [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A sunlight intensity visualiser for your House using Home Assistant. The integration includes a Lovelace card that visualizes real‑time sunlight on a 2.5D house (roof/wall intensity, shadows, and solar power) in a single HACS install.
 - [OpenTransitHub/Trainboard-App](https://github.com/OpenTransitHub/Trainboard-App) – Clean Departure Board mainly for DB Trains running on JavaScript
 - [PlaceDE-Official/place-overlay](https://github.com/PlaceDE-Official/place-overlay)
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
