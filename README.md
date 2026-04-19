@@ -304,7 +304,7 @@
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) – .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [insomniachi/FluentFin](https://github.com/insomniachi/FluentFin)
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) – Automatically detect and skip intro/credit sequences in Jellyfin
-- [jasperdevs/odd-snap](https://github.com/jasperdevs/odd-snap) – Free, open-source screenshot tool. Capture, annotate, and share with a single hotkey.
+- [jasperdevs/odd-snap](https://github.com/jasperdevs/odd-snap) – Your new favorite, free, and open source screenshot tool
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System - Server Backend & API
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)
 - [lauralex/dwm_lut](https://github.com/lauralex/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
@@ -801,7 +801,6 @@
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [kmille/freetar](https://github.com/kmille/freetar) – freetar  - an alternative frontend to ultimate-guitar.com
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) – A verified tool that works on any potato computer that will let you bypass discord verification
 - [r-follador/CubeTrek](https://github.com/r-follador/CubeTrek) – Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.
@@ -2050,6 +2049,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [mugendi/x-files-search](https://github.com/mugendi/x-files-search) – Search files on your computer like a boss!
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [s0er3n/GeoBingo.io](https://github.com/s0er3n/GeoBingo.io) – a multiplayer street view bingo game
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) – Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -2233,7 +2233,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access.
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
