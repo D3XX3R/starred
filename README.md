@@ -373,6 +373,7 @@
 - [KA4I/Koalageddon](https://github.com/KA4I/Koalageddon) – Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
+- [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) – Library for reducing tail latency in RAM reads
 - [Leystryku/Nikyuria](https://github.com/Leystryku/Nikyuria) – Last cheat I made, used to work for most source games ( including CSGO )
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) – The Librum client application
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) – Self-hosted game stream host for Moonlight.
@@ -1345,6 +1346,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
+- [Allexio/nomm](https://github.com/Allexio/nomm) – Native Open Mod Manager
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
 - [Axorax/keylock](https://github.com/Axorax/keylock) – Lock your keys with ease
@@ -1409,6 +1411,7 @@
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) – This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [Stuw/shelly-plug-monitor](https://github.com/Stuw/shelly-plug-monitor) – Grafana+prometheus based power usage monitoring for Shelly Plug S
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) – Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
+- [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware) – Firmware for the Nintendo Switch
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) – Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) – PoC to record audio from a Bluetooth device
 - [ThatCuteOne/nrc-prism-wrapper](https://github.com/ThatCuteOne/nrc-prism-wrapper) – A Wrapper for Norisk Client to be used in other launchers(prism,multimc,modrinth)
@@ -1693,7 +1696,7 @@
 - [Schachte/space-monitor-rs](https://github.com/Schachte/space-monitor-rs) – A Rust crate for subscribing and retrieving the current active space on Mac OS X
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [SeaDve/Mousai](https://github.com/SeaDve/Mousai) – Identify songs in seconds
-- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) – SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
+- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) – SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.
 - [Shadowner/Infrarust](https://github.com/Shadowner/Infrarust) – High-Performance Minecraft Reverse Proxy in Rust
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) – Suck the InTernet
 - [Skxxtz/sherlock](https://github.com/Skxxtz/sherlock) – A versatile application/command launcher for wayland. Built with rust and gtk4
@@ -1825,7 +1828,7 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) – A FUSE filesystem for your Google calendar
 - [magnesium-uploader/magnesium-oxide](https://github.com/magnesium-uploader/magnesium-oxide) – A blazingly fast, privacy-first ShareX uploader coded in Rust (using actix web) which utilizes the AES256-GCM-SIV encryption standard to securely store uploaded content.
 - [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
-- [marhkb/pods](https://github.com/marhkb/pods) – Keep track of your podman containers
+- [marhkb/pods](https://github.com/marhkb/pods) – Manage your containers
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) – Official successor to conduwuit
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
 - [mayocream/koharu](https://github.com/mayocream/koharu) – ML-powered manga translator, written in Rust.
@@ -2102,7 +2105,7 @@
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
-- [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) – An Auto-clicker with a few advanced features and generally better performance than popular alternatives.
+- [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) – An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
 - [Budibase/budibase](https://github.com/Budibase/budibase) – AI agents, automations and apps that run your operations. Model agnostic.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
