@@ -602,6 +602,7 @@
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) – 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static rust binaries
 - [jagrit007/homeserver](https://github.com/jagrit007/homeserver) – My home-server application configs
+- [jammsen/docker-collectd-fritzbox](https://github.com/jammsen/docker-collectd-fritzbox)
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
 - [thyrlian/AirPdfPrinter](https://github.com/thyrlian/AirPdfPrinter) – Virtual PDF AirPrint printer
 - [wanjohiryan/Arc3dia](https://github.com/wanjohiryan/Arc3dia) – Self-Hosted Stadia: Play with your friends online from any device and at any time
@@ -1452,7 +1453,7 @@
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
@@ -1597,6 +1598,7 @@
 
 ## Qml
 
+- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) – A cozy collection of sddm-themes & quickshell lockscreen setups.
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
@@ -1679,7 +1681,7 @@
 - [NOALBS/nginx-obs-automatic-low-bitrate-switching](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) – Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the ingest stats page.
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
-- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) – A fast, extensible, and powerful Minecraft launcher
+- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) – The supercharged Minecraft launcher
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) – A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [ParleSec/ZeroVault](https://github.com/ParleSec/ZeroVault) – Rust-based lightweight cryptographic cli designed for encrypting and verifying sensitive documents using modern, secure encryption primitives. The vault uses AES-256-GCM for symmetric encryption and Ed25519 for digital signatures.
 - [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten) – A modern Steam achievements manager for Windows and Linux
@@ -2005,7 +2007,6 @@
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) – Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-- [jammsen/docker-collectd-fritzbox](https://github.com/jammsen/docker-collectd-fritzbox)
 - [jareware/docker-volume-backup](https://github.com/jareware/docker-volume-backup) – Utility container for periodically backing up Docker volumes
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) – A plugin manager for Fish
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) – Fish shell tool for managing Python virtual environments
