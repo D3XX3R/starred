@@ -2242,7 +2242,7 @@
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) – OCR & Document Extraction using vision models
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) – 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) – 📨 The ultimate agentic social media scheduling tool 🤖
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) – A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) – Update Deno Dependencies - update dependency urls to their latest published versions
 - [hivenapp/hiven.js](https://github.com/hivenapp/hiven.js) – Project on hold until Hiven API v1.0 is moved from alpha to stable | Framework for creating bots on Hiven
