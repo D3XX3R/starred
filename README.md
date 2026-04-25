@@ -121,6 +121,7 @@
 
 ## C
 
+- [0e4ef622/wine-discord-ipc-bridge](https://github.com/0e4ef622/wine-discord-ipc-bridge) – Enable games running under wine to use Discord Rich Presence
 - [AndyFilter/YeetMouse](https://github.com/AndyFilter/YeetMouse) – Kernel module for mouse acceleration on Linux!
 - [Bemjo/OBS-RTX-SuperResolution](https://github.com/Bemjo/OBS-RTX-SuperResolution) – An OBS plugin to enable nVidia RTX Video Super Resolution, Upscaling, and Artifact Reduction as a filter.
 - [Chimildic/obs-vlc-video-plugin](https://github.com/Chimildic/obs-vlc-video-plugin) – VLC plugin with Streamlink and hardware acceleration for OBS Studio
@@ -539,7 +540,7 @@
 ## Clojure
 
 - [8ta4/accent](https://github.com/8ta4/accent)
-- [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
+- [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [penpot/penpot](https://github.com/penpot/penpot) – Penpot: The open-source design tool for design and code collaboration
 
 <div id="cmake"></div>
@@ -1094,7 +1095,6 @@
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
 - [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
-- [Datenflieger/TrackView](https://github.com/Datenflieger/TrackView) – TrackView is a Cactus addon that adds a clean media preview to your game
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) – 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
