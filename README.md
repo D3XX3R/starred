@@ -1302,6 +1302,7 @@
 
 ## Pascal
 
+- [UniXBRO/Cheat-Engine-Linux-Linked](https://github.com/UniXBRO/Cheat-Engine-Linux-Linked) – CELL is a Linux-first, Proton-aware build of the freely-available [Cheat Engine](https://github.com/cheat-engine/cheat-engine) source code, focused on running the full inspect / scan / debug / autoassembler-injection workflow against native Linux processes and Steam games launched through Proton, on a Fedora x86_64 host.
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) – Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) – Double Commander is a free cross platform open source file manager with two panels side by side.
 
@@ -1823,6 +1824,7 @@
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) – 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
 - [linebender/druid](https://github.com/linebender/druid) – A data-first Rust-native UI design toolkit. 
 - [liveask/liveask](https://github.com/liveask/liveask) – A one-stop solution for moderating discussions and Q&As.
@@ -2278,7 +2280,6 @@
 - [krud-dev/ostara](https://github.com/krud-dev/ostara) – Ostara is a cross-platform desktop app for managing and monitoring Spring Boot applications using the Actuator API, providing comprehensive insights and effortless control.
 - [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) – Kurrier is a modern, self-hosted workspace for email, calendar, contacts and storage.
 - [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
-- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
 - [louislam/dockge](https://github.com/louislam/dockge) – A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
