@@ -435,6 +435,7 @@
 - [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats, OCR, and basic editing. 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functionality)
+- [dheerajshenoy/lektra](https://github.com/dheerajshenoy/lektra) – High-performance document and image viewer that prioritizes screen space and control.
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) – Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [dragonflylee/switchfin](https://github.com/dragonflylee/switchfin) – Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) – Portspoof
@@ -1030,7 +1031,7 @@
 - [padloc/padloc](https://github.com/padloc/padloc) – A modern, open source password manager for individuals and teams.
 - [phiilu/mailman](https://github.com/phiilu/mailman) – Mailman is a GUI to help you manage your email accounts stored in a MySQL/MariaDB database.
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
-- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – Minimal Node.js wrapper around ClamAV — scan any file and get Clean, Malicious, or ScanError. Handles installation and database updates automatically.
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
 - [positive-intentions/chat](https://github.com/positive-intentions/chat) – Decentralized chat
 - [raghavyuva/LucaMail](https://github.com/raghavyuva/LucaMail) – An Awesome cross platform, simple, os friendly Email Client for desktop
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) – A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
@@ -1142,7 +1143,7 @@
 
 ## Logos
 
-- [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) – ⚠️ DEPRECATED — rewrite in progress. For now please use YTLite with tweaks by @dayanch96 instead.
+- [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) – ⚠️ DEPRECATED — DEAD for now as YTPlus is now paid.
 - [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) – uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) – uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
@@ -1324,7 +1325,6 @@
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) – Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) – A command-line installer for Windows.
-- [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Allows AMD GPU's to run CUDA only software
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) – ☑️🌠 Remove Bloatwares from Windows 10
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) – Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -1635,6 +1635,7 @@
 - [0xflux/Sanctum](https://github.com/0xflux/Sanctum) – Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above and beyond the capabilities of antivirus.  Built in Rust.
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) – An implementation of a socket.io client written in the Rust programming language.
 - [2bc4/twitch-hls-client](https://github.com/2bc4/twitch-hls-client) – Minimal CLI client for watching Twitch streams
+- [2e3s/aw-watcher-media-player](https://github.com/2e3s/aw-watcher-media-player) – Watcher of system's currently playing media for ActivityWatch
 - [AdriDevelopsThings/iceportal-rich-presence](https://github.com/AdriDevelopsThings/iceportal-rich-presence) – Show your current ride in discord via the ICE portal api
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) – Avoid Twitch ads by grabbing video playlists from Russia
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) – Distributed stream processing engine in Rust
@@ -1718,6 +1719,7 @@
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) – A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) – 3D City Builder without a grid
+- [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Allows AMD GPU's to run CUDA only software
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) – A powerful (home) server admininistration tool written in Rust
 - [Wuild/pttkey](https://github.com/Wuild/pttkey) – pttkey is a lightweight Push‑To‑Talk helper for PipeWire. It listens to a chosen keyboard or mouse button via evdev and mutes/unmutes the default mic (or sets volume levels) while the key is held. Optional on/off sounds use system audio.
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) – Set up a modern rust+react web app by running one command. 
@@ -1905,6 +1907,7 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Run agents that work for you based on what you do. AI finally knows what you are doing
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
+- [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) – Copy Bluetooth link keys from Windows to Linux
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) – Build & ship backends without writing any infrastructure files.
