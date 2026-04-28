@@ -466,6 +466,7 @@
 - [leadedge/Spout2](https://github.com/leadedge/Spout2) – A video frame sharing system for Microsoft Windows
 - [lifting-bits/remill](https://github.com/lifting-bits/remill) – Library for lifting machine code to LLVM bitcode
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) – Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+- [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) – Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
 - [marco-calautti/DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) – Delta Patcher is a GUI software that is able to create and apply xdelta patches.
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) – Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) – Cyberpunk 2077 tweaks, hacks and scripting framework
@@ -1268,7 +1269,7 @@
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) – Warp is an agentic development environment, born out of the terminal.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) – Warp is an agentic development environment, born out of the terminal.
 - [zencq/NomNom](https://github.com/zencq/NomNom) – NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) – A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
@@ -1303,7 +1304,6 @@
 
 ## Pascal
 
-- [UniXBRO/Cheat-Engine-Linux-Linked](https://github.com/UniXBRO/Cheat-Engine-Linux-Linked) – CELL is a Linux-first, Proton-aware build of the freely-available [Cheat Engine](https://github.com/cheat-engine/cheat-engine) source code, focused on running the full inspect / scan / debug / autoassembler-injection workflow against native Linux processes and Steam games launched through Proton, on a Fedora x86_64 host.
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) – Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) – Double Commander is a free cross platform open source file manager with two panels side by side.
 
@@ -1348,9 +1348,12 @@
 - [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) – Home Assistant integration to detect washer cycles from smart plug power, match programs, and estimate time remaining
 - [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Allexio/nomm](https://github.com/Allexio/nomm) – Native Open Mod Manager
+- [Alwinator/aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) – An Activity Watch watcher which monitors whether you have set your height-adjustable table to sitting or standing.
+- [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) – An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
 - [Axorax/keylock](https://github.com/Axorax/keylock) – Lock your keys with ease
@@ -1636,6 +1639,7 @@
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) – An implementation of a socket.io client written in the Rust programming language.
 - [2bc4/twitch-hls-client](https://github.com/2bc4/twitch-hls-client) – Minimal CLI client for watching Twitch streams
 - [2e3s/aw-watcher-media-player](https://github.com/2e3s/aw-watcher-media-player) – Watcher of system's currently playing media for ActivityWatch
+- [2e3s/awatcher](https://github.com/2e3s/awatcher) – Activity and idle watchers
 - [AdriDevelopsThings/iceportal-rich-presence](https://github.com/AdriDevelopsThings/iceportal-rich-presence) – Show your current ride in discord via the ICE portal api
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) – Avoid Twitch ads by grabbing video playlists from Russia
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) – Distributed stream processing engine in Rust
@@ -1904,7 +1908,7 @@
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
 - [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) – Copy Bluetooth link keys from Windows to Linux
@@ -2238,6 +2242,7 @@
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) – A free and open-source community discussion platform.
 - [dubinc/dub](https://github.com/dubinc/dub) – The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) – dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
+- [efzynx/truckers-tool-linux](https://github.com/efzynx/truckers-tool-linux) – Trucker Tool Linux | TTL
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
