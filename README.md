@@ -657,6 +657,7 @@
 ## Glsl
 
 - [Oncorporation/obs-shaderfilter](https://github.com/Oncorporation/obs-shaderfilter) – OBS Studio filter for applying an arbitrary shader to a source.
+- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real‑time AI upscaler for any application window on GNU/Linux.
 - [iwalton3/default-shader-pack](https://github.com/iwalton3/default-shader-pack) – Preconfigured set of MPV shaders and configurations for MPV Shim media clients.
 - [yuna0x0/sbox-MToon](https://github.com/yuna0x0/sbox-MToon) – Toon Shader with Global Illumination. Ported to s&box (Source 2).
 
@@ -827,7 +828,6 @@
 
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) – A general-purpose window upscaler for Windows 10/11.
 - [JakobPCoder/ReshadeMotionEstimation](https://github.com/JakobPCoder/ReshadeMotionEstimation) – Optical Flow for games in realtime
-- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real‑time AI upscaler for any application window on GNU/Linux.
 - [clshortfuse/renodx](https://github.com/clshortfuse/renodx) – Renovation Engine for DirectX Games
 - [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders) – A collection of post-processing shaders written for ReShade.
 - [martymcmodding/METEOR](https://github.com/martymcmodding/METEOR) – Marty's Extra Effects for ReShade
@@ -1269,7 +1269,6 @@
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) – Warp is an agentic development environment, born out of the terminal.
 - [zencq/NomNom](https://github.com/zencq/NomNom) – NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) – A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
@@ -1960,6 +1959,7 @@
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) – Safe and rich Rust wrapper around the Vulkan API
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) – GUI app for managing Docker/Podman
 - [w4/rgit](https://github.com/w4/rgit) – 🏯 blazingly fast web frontend for git repositories
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) – Warp is an agentic development environment, born out of the terminal.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
@@ -2249,7 +2249,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
@@ -2267,7 +2267,7 @@
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
 - [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
-- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – VoiceFlow brings the power of OpenAI's Whisper directly to your Windows machine. It runs entirely on your hardware, ensuring your voice data never leaves your device. Designed for privacy, speed, and reliability.
+- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Open-source voice dictation for Windows and Linux. Hold a hotkey, talk, and the transcript shows up at your cursor. Runs offline with Whisper.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) – Checks which public gateways are online or not
