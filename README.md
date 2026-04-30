@@ -1484,7 +1484,7 @@
 - [dr87/Vonovox](https://github.com/dr87/Vonovox) – Realtime AI Voice Converter for NVIDIA GPUs
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
-- [endurain-project/endurain](https://github.com/endurain-project/endurain) – Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) – ⚠️ Moved to Codeberg - see link bellow
 - [ente0/hashCrack](https://github.com/ente0/hashCrack) – Interactive Python CLI that wraps Hashcat with guided menus for wordlist, rule-based, brute-force, and hybrid attacks. Supporting 300+ hash types including WPA2, NTLM, bcrypt, ZIP, and more.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
 - [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) – A lightweight, open-source network monitor for Windows that displays live upload/download speeds directly on the Taskbar with a native look and feel.
