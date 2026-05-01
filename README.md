@@ -264,6 +264,8 @@
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) – Smart PVR for newsgroup and bittorrent users.
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) – A modern spotnet client and index for your *arr apps.
 - [Squalr/Squalr-Sharp](https://github.com/Squalr/Squalr-Sharp) – Squalr Memory Editor - Game Hacking Tool Written in C#
+- [SteamAutoCracks/DepotDownloaderMod](https://github.com/SteamAutoCracks/DepotDownloaderMod) – Steam depot downloader utilizing the SteamKit2 library with depot key and manifest support.
+- [SteamAutoCracks/DepotDumper](https://github.com/SteamAutoCracks/DepotDumper) – Mass depot key dumper utilizing the SteamKit2 library
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) – SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity products.
@@ -399,6 +401,7 @@
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) – Chat client for https://twitch.tv
 - [SpecialKO/SpecialK](https://github.com/SpecialKO/SpecialK) – Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything.
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
+- [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
@@ -657,7 +660,6 @@
 ## Glsl
 
 - [Oncorporation/obs-shaderfilter](https://github.com/Oncorporation/obs-shaderfilter) – OBS Studio filter for applying an arbitrary shader to a source.
-- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real‑time AI upscaler for any application window on GNU/Linux.
 - [iwalton3/default-shader-pack](https://github.com/iwalton3/default-shader-pack) – Preconfigured set of MPV shaders and configurations for MPV Shim media clients.
 - [yuna0x0/sbox-MToon](https://github.com/yuna0x0/sbox-MToon) – Toon Shader with Global Illumination. Ported to s&box (Source 2).
 
@@ -828,6 +830,7 @@
 
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) – A general-purpose window upscaler for Windows 10/11.
 - [JakobPCoder/ReshadeMotionEstimation](https://github.com/JakobPCoder/ReshadeMotionEstimation) – Optical Flow for games in realtime
+- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real‑time AI upscaler for any application window on GNU/Linux.
 - [clshortfuse/renodx](https://github.com/clshortfuse/renodx) – Renovation Engine for DirectX Games
 - [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders) – A collection of post-processing shaders written for ReShade.
 - [martymcmodding/METEOR](https://github.com/martymcmodding/METEOR) – Marty's Extra Effects for ReShade
@@ -1221,6 +1224,7 @@
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
 - [SaviorXTanren/mixer-mixitup](https://github.com/SaviorXTanren/mixer-mixitup) – Streaming bot application for handling chat, events, moderation, and other streamer assistance features
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) – ShareX custom uploaders
+- [SteamAutoCracks/ManifestHub](https://github.com/SteamAutoCracks/ManifestHub) – Steam Depot Manifest Library
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) – A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [TwitchmodsDACH/Bannlisten](https://github.com/TwitchmodsDACH/Bannlisten)
 - [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
@@ -1410,7 +1414,7 @@
 - [RyanCheddar/discord-voice-message-transcriber](https://github.com/RyanCheddar/discord-voice-message-transcriber) – Discord.py bot that auto-transcribes voice messages using OpenAI Whisper
 - [SameSalamander5710/DynamicFPSLimiter](https://github.com/SameSalamander5710/DynamicFPSLimiter) – A GUI app to assess GPU/CPU usage and dynamically alter FPS limits via RTSS
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) – ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
-- [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Star Citizen companion toolbox - Cargo Loader, Trade Hub, Mission Database, DPS Calculator, Mining Loadout, Market Finder
+- [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Lightweight desktop overlay suite for Star Citizen — 9 tools always on top, one hotkey away. DPS Calculator, Cargo Loader, Mission Database, Mining Loadout, Market Finder, Trade Hub, Craft Database, Battle Buddy, and Mining Signals (powered by SC_OCR — a CNN-based HUD reader purpose-built for the SC scanner panel).
 - [SergeyKalutsky/vsc](https://github.com/SergeyKalutsky/vsc) – Real time video recording censor 
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) – Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) – An elegant Linux app for the Elgato Stream Deck with support for plugins
@@ -2002,7 +2006,7 @@
 - [alexheretic/aurto](https://github.com/alexheretic/aurto) – Arch Linux AUR tool for managing an auto-updating local 'aurto' package repository
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [boudywho/easy-spicetify-arch](https://github.com/boudywho/easy-spicetify-arch) – A shell script that automatically installs and setups Spicetify for you
+- [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
