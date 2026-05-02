@@ -1459,7 +1459,7 @@
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
