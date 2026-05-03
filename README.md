@@ -843,7 +843,7 @@
 
 - [19MisterX98/SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX)
 - [6eero/NewPass](https://github.com/6eero/NewPass) – 🔐 NewPass is a free and open source password manager which will allow you to generate and store your passwords securely, saving them locally and encrypting them on your phone's memory
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) – Android (f/w 2.1+) on screen keyboard for multiple languages.
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) – Android on screen keyboard for multiple languages and NO internet access
 - [BuildTheEarth/terraplusplus](https://github.com/BuildTheEarth/terraplusplus) – A feature-rich fork of Terra121 focusing on performance.
 - [Coderx-Gamer/ui-utils](https://github.com/Coderx-Gamer/ui-utils) – Plugin debugging mod (fabric.)
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) – The modern Java bytecode editor
@@ -868,7 +868,7 @@
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
-- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod which allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
+- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod that allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) – Database Subsetting and Relational Data Browsing Tool.
 - [Wynnventory/WynnVentory_Mod](https://github.com/Wynnventory/WynnVentory_Mod)
@@ -2207,7 +2207,7 @@
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui starter. Pick your framework and start building — Vite, Next.js, React Router, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) – "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
