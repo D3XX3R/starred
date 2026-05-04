@@ -778,7 +778,7 @@
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [scribble-rs/scribble.rs](https://github.com/scribble-rs/scribble.rs) – The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) – A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
-- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) – A Qbittorent Mock with Debrid Support
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) – Media gateway for Debrid & Usenet.
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
@@ -936,7 +936,7 @@
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) – Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [Mitrajit/Sharenetic](https://github.com/Mitrajit/Sharenetic) – A peer to peer file sharing web app that leverages webRTC to get blazing fast speeds.
 - [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) – Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
-- [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A sunlight intensity visualiser for your House using Home Assistant. The integration includes a Lovelace card that visualizes real‑time sunlight on a 2.5D house (roof/wall intensity, shadows, and solar power) in a single HACS install.
+- [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A Home Assistant integration for sunlight-based automations and visualization. Sunlight Visualizer calculates wall, roof, radiation, and shading-demand sensors for blinds, awnings, HVAC, solar insights, and comfort automations, then visualizes the same data in a 2.5D Lovelace card with sun position, shadows, solar power, grid flow, and Energy HUD
 - [OpenTransitHub/Trainboard-App](https://github.com/OpenTransitHub/Trainboard-App) – Clean Departure Board mainly for DB Trains running on JavaScript
 - [PlaceDE-Official/place-overlay](https://github.com/PlaceDE-Official/place-overlay)
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
@@ -1222,7 +1222,6 @@
 - [Purp1eDuck2008/Liquid-GRUB](https://github.com/Purp1eDuck2008/Liquid-GRUB) – Liquid Glass GRUB
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) – This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
-- [SaviorXTanren/mixer-mixitup](https://github.com/SaviorXTanren/mixer-mixitup) – Streaming bot application for handling chat, events, moderation, and other streamer assistance features
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) – ShareX custom uploaders
 - [SteamAutoCracks/ManifestHub](https://github.com/SteamAutoCracks/ManifestHub) – Steam Depot Manifest Library
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) – A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
@@ -2063,6 +2062,7 @@
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) – 🌀 What's really in your Discord Data package? 
 - [Xyphyn/photon](https://github.com/Xyphyn/photon) – A faster, prettier, and nicer fediverse client
 - [chroxify/haptic](https://github.com/chroxify/haptic) – A new local-first, privacy-focused and open-source home for your markdown notes
+- [cottrela/searchmonkey-III](https://github.com/cottrela/searchmonkey-III) – Real-time search for real files. No index. No daemon. No stale results.
 - [deminimis/MinimalExplorer](https://github.com/deminimis/MinimalExplorer) – A minimalist, high-performance Windows Explorer replacement built with Rust. Features a dual-pane UI , integrated xterm.js terminal with Auto-CD , and deep content search using memory-mapped indexing. Includes native ZIP handling, file previews, and a command palette.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
