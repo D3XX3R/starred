@@ -890,7 +890,7 @@
 - [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) – Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
 - [mt1006/mc-ar-mod](https://github.com/mt1006/mc-ar-mod) – Asynchronous reprojection in Minecraft
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) – A fork of NewPipe with SponsorBlock functionality.
-- [prometheusreengineering/essential](https://github.com/prometheusreengineering/essential) – The prometheus' patch for Essential Mod.
+- [prometheusreengineering/minecraft-essential](https://github.com/prometheusreengineering/minecraft-essential) – The prometheus' patch for Essential Mod.
 - [questdb/questdb](https://github.com/questdb/questdb) – QuestDB is a high performance, open-source, time-series database
 - [rfresh2/ZenithProxy](https://github.com/rfresh2/ZenithProxy) – 2b2t minecraft proxy / bot
 - [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) – Library mod for masa's client-side Minecraft mods
@@ -1964,6 +1964,7 @@
 - [w4/rgit](https://github.com/w4/rgit) – 🏯 blazingly fast web frontend for git repositories
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) – Warp is an agentic development environment, born out of the terminal.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [waywallen/waywallen](https://github.com/waywallen/waywallen) – Wallpaper Manager for Linux
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
 - [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – https://t.me/githubx89 Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot
