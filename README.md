@@ -310,6 +310,7 @@
 - [jasperdevs/odd-snap](https://github.com/jasperdevs/odd-snap) – Your new favorite, free, and open source screenshot tool
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System - Server Backend & API
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)
+- [joshuascript/sbox-public](https://github.com/joshuascript/sbox-public) – s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 - [lauralex/dwm_lut](https://github.com/lauralex/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
 - [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) – Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 - [lengran/OpenPrefirePrac](https://github.com/lengran/OpenPrefirePrac) – An open-source CounterStrikeSharp powered server-side practicing plugin for CS2. It provides multiple prefire practices on competitive maps and support multiplayer practicing simultaneously.
@@ -1485,6 +1486,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) – Blender addons to make the bridge between Blender and geographic data
 - [dp247/StreamsToM3U8](https://github.com/dp247/StreamsToM3U8) – Converts live streams into an M3U8 file and basic EPG. Easily forked and setup for anyone to use!
 - [dr87/Vonovox](https://github.com/dr87/Vonovox) – Realtime AI Voice Converter for NVIDIA GPUs
+- [elduty/velomate](https://github.com/elduty/velomate) – Self-hosted cycling analytics platform — Strava ingestion, Grafana dashboards, intelligent route planning. No Strava Premium required.
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) – ⚠️ Moved to Codeberg - see link bellow
@@ -1652,7 +1654,6 @@
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) – Open the right browser at the right time
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) – A datetime library for Rust that encourages you to jump into the pit of success.
 - [CCBlueX/LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher) – The official Minecraft launcher for LiquidBounce
-- [CLARATION/Impactor](https://github.com/CLARATION/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust.
 - [Canleskis/ephemeris-explorer](https://github.com/Canleskis/ephemeris-explorer) – A simulator of gravitationally bound systems.
 - [ChecksumDev/lumen](https://github.com/ChecksumDev/lumen) – Lumen is an astronomically fast ShareX uploader written in Rust using the Actix Web framework
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) – A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
@@ -1758,6 +1759,7 @@
 - [chriamue/openrailwaymap-exporter](https://github.com/chriamue/openrailwaymap-exporter) – OpenRailwayMap Exporter is a Rust project that downloads railway data from the OpenRailwayMap API
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
+- [claration/Impactor](https://github.com/claration/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust.
 - [classx/dark-matter](https://github.com/classx/dark-matter) – Dark matter - simple vault CLI utility with GPG encryption
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
@@ -2080,7 +2082,6 @@
 
 ## Swift
 
-- [CLARATION/Feather](https://github.com/CLARATION/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
@@ -2090,6 +2091,7 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) – A virtual monitor for screen sharing
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) – A Custom Client for iPhone, iPad, and Mac
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) – A fully native Discord client for macOS built 100% in Swift!
+- [claration/Feather](https://github.com/claration/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [eerimoq/moblin](https://github.com/eerimoq/moblin) – Moblin, a free iOS app for IRL streaming.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [ilmakio/PassStore](https://github.com/ilmakio/PassStore) – A local-first secret manager for developers, built natively for macOS.
