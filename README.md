@@ -746,6 +746,7 @@
 - [jstaf/onedriver](https://github.com/jstaf/onedriver) – A native Linux filesystem for Microsoft OneDrive
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
+- [junegunn/fzf](https://github.com/junegunn/fzf) – :cherry_blossom: A command-line fuzzy finder
 - [kekskurse/go-mail-admin](https://github.com/kekskurse/go-mail-admin) – HTTP-Interface with a small GUI for a Mailserver
 - [klauspost/ryzen-master-vbs-patch](https://github.com/klauspost/ryzen-master-vbs-patch) – AMD Ryzen Master Hyper-V VBS patcher
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) – Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -909,7 +910,6 @@
 ## JavaScript
 
 - [0x41c/invisible-chat](https://github.com/0x41c/invisible-chat) – A cool Powercord plugin
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
 - [Alex313031/apple-music-desktop](https://github.com/Alex313031/apple-music-desktop) – An Electron app that provides a native Apple Music experience for Linux & Windows.
 - [Alex313031/quark-player](https://github.com/Alex313031/quark-player) – An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) – Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
@@ -1165,6 +1165,7 @@
 ## Mdx
 
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord Developer Docs
+- [gpxstudio/gpx.studio](https://github.com/gpxstudio/gpx.studio) – the online GPX file editor
 
 <div id="nim"></div>
 
@@ -1732,7 +1733,6 @@
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) – Set up a modern rust+react web app by running one command. 
 - [aatxe/irc](https://github.com/aatxe/irc) – the irc crate – usable, async IRC for Rust
 - [abenz1267/walker](https://github.com/abenz1267/walker) – Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
-- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) – A Beautiful Private and Secure Desktop Investment Tracking Application
 - [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) – Find the password of protected ZIP files.
 - [ahmoodio/aurora](https://github.com/ahmoodio/aurora) – Wayland-first GUI for Pacman, AUR, and Flatpak with queue, logs, and AppStream metadata.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
@@ -1747,7 +1747,7 @@
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) – 📦 shippable application packaging
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) – 🤖 The Modern Port Scanner 🤖
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [bjn7/passkeyd](https://github.com/bjn7/passkeyd) – An Opinionated WebAuthn Authenticator Backed by a TPM
+- [bjn7/passkeyd](https://github.com/bjn7/passkeyd) – An Opinionated WebAuthn Authenticator
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) – An operating system designed for hosting containers
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
@@ -1933,6 +1933,7 @@
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) – A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [t348575/twitch-points-miner](https://github.com/t348575/twitch-points-miner) – A lightweight twitch points miner
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) – A cross platform Mastodon Client written in Rust
@@ -1967,6 +1968,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) – Warp is an agentic development environment, born out of the terminal.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) – Wallpaper Manager for Linux
+- [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) – A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
 - [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – https://t.me/githubx89 Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot
@@ -2082,6 +2084,7 @@
 
 ## Swift
 
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
