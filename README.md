@@ -488,7 +488,6 @@
 - [mongoose-os-apps/shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit) – Apple HomeKit firmware for Shelly's
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) – GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) – DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) – nomacs is a free image viewer for windows, linux, and mac systems.
 - [nvpro-samples/vk_raytrace](https://github.com/nvpro-samples/vk_raytrace) – Ray tracing glTF scene with Vulkan
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) – CEF-based OBS Studio browser plugin
@@ -713,6 +712,7 @@
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) – An implementation of Shazam's song recognition algorithm.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
 - [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [containers/buildah](https://github.com/containers/buildah) – A tool that facilitates building OCI images.
@@ -1470,7 +1470,6 @@
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chris-mc1/homeconnect_local_hass](https://github.com/chris-mc1/homeconnect_local_hass) – Home Connect integration for Home Assistant using direct communication over the local network
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
 - [commaai/openpilot](https://github.com/commaai/openpilot) – openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) – Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) – 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1911,6 +1910,7 @@
 - [saltukalakus/PixelLock](https://github.com/saltukalakus/PixelLock) – Military-grade security for storing your files
 - [sandydoo/flux](https://github.com/sandydoo/flux) – An open-source tribute to the macOS Drift screensaver
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
+- [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
