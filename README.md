@@ -317,6 +317,7 @@
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) – Everything search plugin for PowerToys Run
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) – Driver Store Explorer
 - [lowleveldesign/process-governor](https://github.com/lowleveldesign/process-governor) – This application allows you to put various limits on Windows processes.
+- [lseurttyuu/GPU-T](https://github.com/lseurttyuu/GPU-T) – A GPU-Z inspired diagnostic tool for Linux. GPU-T provides detailed hardware specs, real-time sensors, and advanced diagnostics for AMD and NVIDIA GPUs (Intel support planned). Built with .NET & Avalonia UI. Features hardware lookup, sensor logging, and ReBAR detection. Shipped as a self-contained AppImage. No root required.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) – SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) – Application designed to optimize, customize and enhance your Windows experience.
 - [mhwlng/streamdeck-elite](https://github.com/mhwlng/streamdeck-elite) – Elgato Stream Deck plugin for Elite Dangerous
@@ -326,6 +327,7 @@
 - [neatchee/nvidiaProfileInspectorForkAIO](https://github.com/neatchee/nvidiaProfileInspectorForkAIO) – An attempt to merge all work from forks of nvProfileInspector into a single release
 - [netchx/netch](https://github.com/netchx/netch) – A simple proxy client
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) – Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文. 
+- [ol1fer/sbox-linux-emoji-patch](https://github.com/ol1fer/sbox-linux-emoji-patch) – Patches s&box's bundled Topten.RichTextKit.dll to fix emoji rendering on Linux/Proton. See https://github.com/Facepunch/sbox-public/issues/10779
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) – OpenBullet reinvented
 - [porrasm/csgo-chat-gpt](https://github.com/porrasm/csgo-chat-gpt) – ChatGPT integrated into CS:GO chat.
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
@@ -1043,7 +1045,7 @@
 - [rogerantony-dev/affiliate-tracker](https://github.com/rogerantony-dev/affiliate-tracker)
 - [ryzetech/cider4obs](https://github.com/ryzetech/cider4obs) – Display what you're playing onstream! No complicated setup, no login, just OBS and a browser source!
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) – Encrypt and Decrypt files securely in your browser.
-- [sioaeko/Vencord-splitLargeFile](https://github.com/sioaeko/Vencord-splitLargeFile) – [Renew] A Vencord/Equicord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
+- [sioaeko/Equicord-splitLargeFile](https://github.com/sioaeko/Equicord-splitLargeFile) – A Vencord/Equicord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) – Application/browser chooser
 - [spicetify/cli](https://github.com/spicetify/cli) – Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) – Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source. 
@@ -1570,6 +1572,7 @@
 - [rudymohammadbali/OpenAI-Whisper-GUI](https://github.com/rudymohammadbali/OpenAI-Whisper-GUI) – Modern GUI application that transcribes and translate audio files using OpenAI Whisper.
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) – SABnzbd - The automated Usenet download tool
 - [saharmor/voice-lab](https://github.com/saharmor/voice-lab) – Testing and evaluation framework for voice agents 
+- [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) – Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) – Solve Google reCAPTCHA in less than 5 seconds! 🚀
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -2142,7 +2145,7 @@
 - [Enovale/cinny-electron](https://github.com/Enovale/cinny-electron)
 - [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – Transparent chat overlay for streamers. Twitch, YouTube, and Kick in one window.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
-- [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – A cross platform SimConnect client library for Node.JS
+- [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – Cross-platform SimConnect library for Node.js. No native C++ libraries required.
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
 - [Fredolx/gpu-faker](https://github.com/Fredolx/gpu-faker) – Fake your GPU to access GPU-locked apps and games!
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
