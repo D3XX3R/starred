@@ -471,6 +471,7 @@
 - [landave/TeamSpeakHasher](https://github.com/landave/TeamSpeakHasher) – OpenCL-based tool to increase the security level of TeamSpeak identities
 - [leadedge/Spout2](https://github.com/leadedge/Spout2) – A video frame sharing system for Microsoft Windows
 - [lifting-bits/remill](https://github.com/lifting-bits/remill) – Library for lifting machine code to LLVM bitcode
+- [limo-app/limo](https://github.com/limo-app/limo) – A simple Qt based mod manager
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) – Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) – Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
 - [marco-calautti/DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) – Delta Patcher is a GUI software that is able to create and apply xdelta patches.
@@ -879,7 +880,7 @@
 - [adryd325/sneaky](https://github.com/adryd325/sneaky) – Anonymise your server from scanners like Copenheimer and ServerSeeker.  With options to disable logging spam logins and rate limit new connections.
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) – A decentralized bitcoin exchange network
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) – google maps for block game
-- [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 1.21.11 using Fabric
+- [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 26.1.2 using Fabric.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) – Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [ddxy/whispercat](https://github.com/ddxy/whispercat)
 - [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Customer Service: https://www.breakblocks.com/discord
@@ -912,6 +913,7 @@
 ## JavaScript
 
 - [0x41c/invisible-chat](https://github.com/0x41c/invisible-chat) – A cool Powercord plugin
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
 - [Alex313031/apple-music-desktop](https://github.com/Alex313031/apple-music-desktop) – An Electron app that provides a native Apple Music experience for Linux & Windows.
 - [Alex313031/quark-player](https://github.com/Alex313031/quark-player) – An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) – Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
@@ -2087,7 +2089,6 @@
 
 ## Swift
 
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
