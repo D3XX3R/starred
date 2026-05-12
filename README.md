@@ -1176,6 +1176,7 @@
 ## Nim
 
 - [OpenAsar/capybara](https://github.com/OpenAsar/capybara) – Minimal replacement for Squirrel's Update.exe
+- [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) – CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [zqqw/pakku](https://github.com/zqqw/pakku) – Pacman wrapper with AUR support
 
 <div id="objective-c"></div>
@@ -1353,7 +1354,7 @@
 
 - [152334H/DL-Art-School](https://github.com/152334H/DL-Art-School) – TorToiSe fine-tuning with DLAS
 - [2bc4/streamlink-ttvlol](https://github.com/2bc4/streamlink-ttvlol) – Streamlink Twitch plugin modified to work with the TTV.LOL API
-- [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) – Home Assistant integration to detect washer cycles from smart plug power, match programs, and estimate time remaining
+- [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) – Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers, ovens, EVs, heat pumps, and more.
 - [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -1521,7 +1522,7 @@
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) – CLI tool for downloading videos from Twitch.
 - [imLinguin/nile](https://github.com/imLinguin/nile) – Unofficial Amazon Games client
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
-- [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC SMGWs
+- [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
 - [jarredou/MVSEP-MDX23-Colab_v2](https://github.com/jarredou/MVSEP-MDX23-Colab_v2) – Colab adaptation of MVSep Model for MDX23 music separation contest
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
@@ -1856,7 +1857,6 @@
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) – Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) – A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) – CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) – Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) – Home of OpenVMM and OpenHCL
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) – Rust for Windows
@@ -1897,7 +1897,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) – An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) – An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [robotty/recent-messages2](https://github.com/robotty/recent-messages2) – Service to provide historical messages to Twitch chat clients
 - [robotty/twitch-irc-rs](https://github.com/robotty/twitch-irc-rs) – Twitch IRC library for the Rust programming language
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
@@ -2334,7 +2334,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) – Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) – Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
 - [osuplace/templateManager](https://github.com/osuplace/templateManager) – Template manager for various canvas games
 - [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) – A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
