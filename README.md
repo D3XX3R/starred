@@ -437,7 +437,7 @@
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) – A WiFi mapping companion app for Valetudo
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
-- [dekomote/vermouth](https://github.com/dekomote/vermouth) – A no-frills Proton and Wine app/game launcher for KDE
+- [dekomote/vermouth](https://github.com/dekomote/vermouth) – A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills.
 - [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats, OCR, and basic editing. 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functionality)
@@ -1674,7 +1674,7 @@
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) – A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [Gravitalia/Autha](https://github.com/Gravitalia/Autha) – Account broker for federation built on-top of ActivityPub
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/nullnet-firewall](https://github.com/GyulyVGC/nullnet-firewall) – Rust-based firewall for network drivers
