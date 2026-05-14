@@ -92,7 +92,7 @@
 
 ## Astro
 
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 
 <div id="autoit"></div>
 
@@ -1688,7 +1688,6 @@
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) – A modern mod manager for Thunderstore
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A decentralised discussion platform for communities.
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) – 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) – A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Majora320/steamid-ng](https://github.com/Majora320/steamid-ng) – An easy-to-use steamid type with functions to parse and render steam2 and steam3 IDs.
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) – A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
@@ -1842,6 +1841,7 @@
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
 - [linebender/druid](https://github.com/linebender/druid) – A data-first Rust-native UI design toolkit. 
+- [lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) – 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [liveask/liveask](https://github.com/liveask/liveask) – A one-stop solution for moderating discussions and Q&As.
 - [louis-e/arnis](https://github.com/louis-e/arnis) – Generate any location from the real world in Minecraft with a high level of detail.
 - [lsk569937453/Spire](https://github.com/lsk569937453/Spire) – The High Performance Proxy/Load Balancer
@@ -2163,7 +2163,6 @@
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) – A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) – Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) – Download sheet music
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [LordKnish/StreamGrid](https://github.com/LordKnish/StreamGrid) – Your Streams, Your Layout, Your Way. StreamGrid lets you customize multi-stream layouts with drag-and-drop ease. Perfect for streamers, esports, and multi-angle viewing. Cross-platform support for Windows, macOS, and Linux.
 - [LordTocs/CastMate](https://github.com/LordTocs/CastMate) – CastMate is an all-in-one Broadcaster Automation Suite for Twitch. It allows you to build compelling interactive stream setups using without writing any code. It features simple click and drag automations and overlays.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's private API, known as InnerTube.
@@ -2303,6 +2302,7 @@
 - [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) – Kurrier is a modern, self-hosted workspace for email, calendar, contacts and storage.
 - [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
 - [louislam/dockge](https://github.com/louislam/dockge) – A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [makeplane/plane](https://github.com/makeplane/plane) – 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -2440,7 +2440,6 @@
 - [Durss/Twitchat](https://github.com/Durss/Twitchat) – Full featured Twitch chat alternative to fill gaps from the official one.
 - [EpicnessTwo/StreamLurker](https://github.com/EpicnessTwo/StreamLurker) – A Lurk Client for Twitch
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) – An Open Source YouTube app for privacy
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) – 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
 - [TarkovTracker/TarkovTracker](https://github.com/TarkovTracker/TarkovTracker) – TarkovTracker - a webapp for tracking and planning your progress in the game Escape From Tarkov.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
@@ -2452,6 +2451,7 @@
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) – A delightful Firefly III companion web app for effortless transaction tracking
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) – 📖 All your articles in one place. Beautiful.
 - [jamiepine/cache-monkey](https://github.com/jamiepine/cache-monkey) – Convert, browse and clear cached images and files. Images you see online are never deleted immediately, unless you delete them of course.  Most desktop apps have a cache directory, not all provide the tools to clear it. CacheMonkey not only lets you purge cache files, but browse and filter through them too.
+- [lissy93/dashy](https://github.com/lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [markterence/discord-quest-completer](https://github.com/markterence/discord-quest-completer) – A Windows desktop application to complete quests on Discord without installing the full actual games. 
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
