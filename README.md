@@ -2165,7 +2165,7 @@
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) – Download sheet music
 - [LordKnish/StreamGrid](https://github.com/LordKnish/StreamGrid) – Your Streams, Your Layout, Your Way. StreamGrid lets you customize multi-stream layouts with drag-and-drop ease. Perfect for streamers, esports, and multi-angle viewing. Cross-platform support for Windows, macOS, and Linux.
 - [LordTocs/CastMate](https://github.com/LordTocs/CastMate) – CastMate is an all-in-one Broadcaster Automation Suite for Twitch. It allows you to build compelling interactive stream setups using without writing any code. It features simple click and drag automations and overlays.
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's private API, known as InnerTube.
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's internal API, known as InnerTube.
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) – Matterbridge plugin manager for Matter
 - [Luligu/matterbridge-shelly](https://github.com/Luligu/matterbridge-shelly) – Matterbridge shelly plugin
 - [Makin-Things/weather-radar-card](https://github.com/Makin-Things/weather-radar-card) – A rain radar card using the tiled images from RainViewer
