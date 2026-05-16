@@ -835,7 +835,7 @@
 
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) – A general-purpose window upscaler for Windows 10/11.
 - [JakobPCoder/ReshadeMotionEstimation](https://github.com/JakobPCoder/ReshadeMotionEstimation) – Optical Flow for games in realtime
-- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real‑time AI upscaler for any application window on GNU/Linux.
+- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real-time SRCNN upscaler for any X-Window.
 - [clshortfuse/renodx](https://github.com/clshortfuse/renodx) – Renovation Engine for DirectX Games
 - [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders) – A collection of post-processing shaders written for ReShade.
 - [martymcmodding/METEOR](https://github.com/martymcmodding/METEOR) – Marty's Extra Effects for ReShade
@@ -1897,7 +1897,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) – An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) – Visualize, query, and stream to train on multimodal robotics data.
 - [robotty/recent-messages2](https://github.com/robotty/recent-messages2) – Service to provide historical messages to Twitch chat clients
 - [robotty/twitch-irc-rs](https://github.com/robotty/twitch-irc-rs) – Twitch IRC library for the Rust programming language
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
@@ -1917,7 +1917,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
 - [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) – Copy Bluetooth link keys from Windows to Linux
