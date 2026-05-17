@@ -536,7 +536,6 @@
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) – Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [ekumahost/ImageServer](https://github.com/ekumahost/ImageServer) –  Unlimited image cdn free API
 - [fredemmott/StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) – Control the Discord application with the Elgato StreamDeck
-- [markrai/postbaby](https://github.com/markrai/postbaby) – a self-hosted version of postbaby.org!
 - [migueravila/simplefox](https://github.com/migueravila/simplefox) – A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [pr701/dp701](https://github.com/pr701/dp701) – Dark theme for IDA Pro
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -866,7 +865,7 @@
 - [MCRcortex/vulkanite](https://github.com/MCRcortex/vulkanite) – A minecraft mod designed to bring vulkan hardware raytracing to minecraft java edition
 - [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) – google maps for block game
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) – Based Minecraft utility mod.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 1.21.11 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 26.1 Lightweight Minecraft server
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
 - [NythicalNorm/VoxelSpaceProgram](https://github.com/NythicalNorm/VoxelSpaceProgram) – A Minecraft space mod with realistic orbital mechanics in a truly big solar system.
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
@@ -1028,6 +1027,7 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) – mailcow: dockerized - 🐮 + 🐋 = 💕
 - [marioparaschiv/nitro-sniper](https://github.com/marioparaschiv/nitro-sniper) – 🔫 Lightweight, fast Discord Nitro, giveaway, and invite sniper.
 - [markrai/fontcompare](https://github.com/markrai/fontcompare) – an easy way to dynamically compare locally hosted fonts
+- [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) – Node.js Simple WHIP Server library (based on the Janus WebRTC Server)
 - [memory-stack/Memory-Stack](https://github.com/memory-stack/Memory-Stack) – 📜 Memory stack is a developer oriented journaling social platform. 
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) – PoC Minecraft client written in Javascript (1.16.5 offline mode working)
@@ -1521,6 +1521,7 @@
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) – Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) – CLI tool for downloading videos from Twitch.
 - [imLinguin/nile](https://github.com/imLinguin/nile) – Unofficial Amazon Games client
+- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Open-source voice dictation for Windows and Linux. Hold a hotkey, talk, and the transcript shows up at your cursor. Runs offline with Whisper.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
 - [jarredou/MVSEP-MDX23-Colab_v2](https://github.com/jarredou/MVSEP-MDX23-Colab_v2) – Colab adaptation of MVSep Model for MDX23 music separation contest
@@ -1917,7 +1918,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
 - [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) – Copy Bluetooth link keys from Windows to Linux
@@ -2280,7 +2281,6 @@
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
 - [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
-- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Open-source voice dictation for Windows and Linux. Hold a hotkey, talk, and the transcript shows up at your cursor. Runs offline with Whisper.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) – Checks which public gateways are online or not
