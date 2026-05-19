@@ -419,6 +419,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango) – The world's first Xbox One compatibility layer for Windows.
 - [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) – Virtual amiibo (amiibo emulation) system for Nintendo Switch
+- [Zephkek/XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) – DLC unlocker for Microsoft Store and Xbox PC games.
 - [Zielon/PBRVulkan](https://github.com/Zielon/PBRVulkan) – Vulkan Real-time Path Tracer Engine
 - [aarnt/octopi](https://github.com/aarnt/octopi) – A powerful Pacman (Package Manager) front end using Qt libs
 - [abdularis/LAN-Share](https://github.com/abdularis/LAN-Share) – Cross platform LAN File transfer application built with Qt C++ framework
@@ -487,7 +488,7 @@
 - [mikeoliphant/neural-amp-modeler-lv2](https://github.com/mikeoliphant/neural-amp-modeler-lv2) – Neural Amp Modeler LV2 plugin
 - [misyltoad/dxup](https://github.com/misyltoad/dxup) – A d3d9 and d3d10 to d3d11 translation layer.
 - [mod-audio/mod-desktop](https://github.com/mod-audio/mod-desktop) – MOD Audio for the desktop
-- [momo5502/sogen](https://github.com/momo5502/sogen) – 🪅 Windows User Space Emulator 
+- [momo5502/sogen](https://github.com/momo5502/sogen) – 🪅 Windows & Linux userspace emulator 
 - [monero-project/monero](https://github.com/monero-project/monero) – Monero: the secure, private, untraceable cryptocurrency
 - [mongoose-os-apps/shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit) – Apple HomeKit firmware for Shelly's
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) – GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -1454,6 +1455,7 @@
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) – Linux/OSX/FreeBSD resource monitor
@@ -1618,7 +1620,6 @@
 
 - [Darkkal44/qylock](https://github.com/Darkkal44/qylock) – A cozy collection of sddm-themes & quickshell lockscreen setups.
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
@@ -2000,7 +2001,7 @@
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube from your terminal
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube plus other yt-dlp supported sites from your terminal
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere, any way you like it. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
