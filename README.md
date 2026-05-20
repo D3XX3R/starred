@@ -1022,7 +1022,7 @@
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) – End-To-End File & Message Encryption For Discord
 - [liamcottle/rustplus.js](https://github.com/liamcottle/rustplus.js) – Unofficial NodeJS library for controlling Smart Switches in the PC game Rust
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [lklynet/aurral](https://github.com/lklynet/aurral) – Artist Discovery and Request Manager for Lidarr
+- [lklynet/aurral](https://github.com/lklynet/aurral) – The best in open-source music discovery.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy self-hosted monitoring tool
 - [lovell/sharp](https://github.com/lovell/sharp) – High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1036,6 +1036,7 @@
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) – PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 - [nutbread/t2m](https://github.com/nutbread/t2m) – Torrent to magnet converter
 - [oatmealine/powercord-tiktok-tts](https://github.com/oatmealine/powercord-tiktok-tts) – Lets you speak Discord messages with the TikTok TTS.
+- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) – Open Source components of Little Snitch for Linux
 - [openstyles/stylus](https://github.com/openstyles/stylus) – Stylus - Userstyles Manager
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) – Peer-to-Peer Databases for the Decentralized Web
 - [ost056/SteamAuthTool](https://github.com/ost056/SteamAuthTool) – A desktop application that replicates the functionality of the Steam mobile application. You can add multiple accounts, use proxies, log into accounts using a QR code and confirm actions on your account!
@@ -1455,7 +1456,6 @@
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) – Linux/OSX/FreeBSD resource monitor
@@ -1498,7 +1498,7 @@
 - [elduty/velomate](https://github.com/elduty/velomate) – Self-hosted cycling analytics platform — Strava ingestion, Grafana dashboards, intelligent route planning. No Strava Premium required.
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) – The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) – A Blender add-on to import models from google maps
-- [endurain-project/endurain](https://github.com/endurain-project/endurain) – ⚠️ Moved to Codeberg - see link bellow
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) –  Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [ente0/hashCrack](https://github.com/ente0/hashCrack) – Interactive Python CLI that wraps Hashcat with guided menus for wordlist, rule-based, brute-force, and hybrid attacks. Supporting 300+ hash types including WPA2, NTLM, bcrypt, ZIP, and more.
 - [envolution/aurdex](https://github.com/envolution/aurdex) – Textual-based terminal interface for browsing AUR package metadata with GIT exploration
 - [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) – A lightweight, open-source network monitor for Windows that displays live upload/download speeds directly on the Taskbar with a native look and feel.
@@ -1525,7 +1525,7 @@
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) – Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) – CLI tool for downloading videos from Twitch.
 - [imLinguin/nile](https://github.com/imLinguin/nile) – Unofficial Amazon Games client
-- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Open-source voice dictation for Windows and Linux. Hold a hotkey, talk, and the transcript shows up at your cursor. Runs offline with Whisper.
+- [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Local voice dictation and meeting recorder for Windows + Linux. Hold a hotkey to dictate, or record long-form meetings with system audio. Whisper transcription, bring-your-own-LLM summaries. Open source.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
 - [jarredou/MVSEP-MDX23-Colab_v2](https://github.com/jarredou/MVSEP-MDX23-Colab_v2) – Colab adaptation of MVSep Model for MDX23 music separation contest
@@ -1620,6 +1620,7 @@
 
 - [Darkkal44/qylock](https://github.com/Darkkal44/qylock) – A cozy collection of sddm-themes & quickshell lockscreen setups.
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
@@ -1877,7 +1878,6 @@
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
-- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) – Open Source components of Little Snitch for Linux
 - [obhq/obliteration](https://github.com/obhq/obliteration) – Experimental free and open-source PlayStation 4 kernel
 - [ogham/exa](https://github.com/ogham/exa) – A modern replacement for ‘ls’.
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) – Unsafely fast hashing algorithm 📈
