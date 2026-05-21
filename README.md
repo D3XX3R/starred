@@ -440,7 +440,7 @@
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
 - [dekomote/vermouth](https://github.com/dekomote/vermouth) – A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills.
-- [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats, OCR, and basic editing. 
+- [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats. 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functionality)
 - [dheerajshenoy/lektra](https://github.com/dheerajshenoy/lektra) – High-performance document and image viewer that prioritizes screen space and control.
@@ -735,7 +735,7 @@
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) – Modern Docker Management, Designed for Everyone
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) – A new generation cloud backup tool 
 - [glanceapp/glance](https://github.com/glanceapp/glance) – A self-hosted dashboard that puts all your feeds in one place
-- [gogs/gogs](https://github.com/gogs/gogs) – Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) – The painless way to host your own Git service
 - [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [hashicorp/vault](https://github.com/hashicorp/vault) – A tool for secrets management, encryption as a service, and privileged access management
@@ -812,6 +812,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) – A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
+- [WentTheFox/ForzaRoadFinder](https://github.com/WentTheFox/ForzaRoadFinder) – HTML-based tool for finding undiscovered roads in Forza Horizon games via screen capture
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [kmille/freetar](https://github.com/kmille/freetar) – freetar  - an alternative frontend to ultimate-guitar.com
@@ -1358,7 +1359,7 @@
 
 - [152334H/DL-Art-School](https://github.com/152334H/DL-Art-School) – TorToiSe fine-tuning with DLAS
 - [2bc4/streamlink-ttvlol](https://github.com/2bc4/streamlink-ttvlol) – Streamlink Twitch plugin modified to work with the TTV.LOL API
-- [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) – Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers, ovens, EVs, heat pumps, and more.
+- [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) – Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers and more.
 - [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -1368,6 +1369,7 @@
 - [Alwinator/aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) – An Activity Watch watcher which monitors whether you have set your height-adjustable table to sitting or standing.
 - [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) – An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
+- [AnthonyMichaelTDM/DRG-Save-Editor](https://github.com/AnthonyMichaelTDM/DRG-Save-Editor) – Rock and stone!
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
 - [Axorax/keylock](https://github.com/Axorax/keylock) – Lock your keys with ease
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) – Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.
@@ -1456,6 +1458,7 @@
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) – Linux/OSX/FreeBSD resource monitor
@@ -1534,6 +1537,7 @@
 - [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat) – A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 - [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) – Unofficial ParcelApp integration with Home Assistant
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
+- [joshuascript/anvil](https://github.com/joshuascript/anvil) – Anvil — Linux native s&box tooling
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) –   mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several file manager extensions.
 - [klacol/smgw-theben-conexa](https://github.com/klacol/smgw-theben-conexa) – API-Client für das Theben Conexa Smart Meter Gateway (SMGW)
@@ -1620,7 +1624,6 @@
 
 - [Darkkal44/qylock](https://github.com/Darkkal44/qylock) – A cozy collection of sddm-themes & quickshell lockscreen setups.
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
@@ -1817,6 +1820,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [howardwu/wagyu](https://github.com/howardwu/wagyu) – A Rust library for generating cryptocurrency wallets
+- [hsr88/mouzi](https://github.com/hsr88/mouzi) – A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.
 - [http-rs/tide](https://github.com/http-rs/tide) – Fast and friendly HTTP server framework for async Rust
 - [httpmock/httpmock](https://github.com/httpmock/httpmock) – HTTP mocking library for Rust
 - [iByteABit256/Vivace](https://github.com/iByteABit256/Vivace) – Command line tool to download songs from Youtube
@@ -1946,7 +1950,6 @@
 - [t348575/twitch-points-miner](https://github.com/t348575/twitch-points-miner) – A lightweight twitch points miner
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) – Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) – A cross platform Mastodon Client written in Rust
-- [thewh1teagle/mc](https://github.com/thewh1teagle/mc) – Modern file copying
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) – :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [timvisee/lazymc](https://github.com/timvisee/lazymc) – 💤 Put your Minecraft server to rest when idle.
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
