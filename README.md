@@ -135,6 +135,7 @@
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
+- [NVIDIA/nvidia-settings](https://github.com/NVIDIA/nvidia-settings) – NVIDIA driver control panel
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
 - [SiloCityLabs/esp32-airtap](https://github.com/SiloCityLabs/esp32-airtap) – Compilation of AC Infinity Vent custom pcbs
@@ -771,13 +772,13 @@
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
+- [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) – Fast passive subdomain enumeration tool.
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [rule110-io/surge](https://github.com/rule110-io/surge) – Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) – a drop-in replacement for Nmap powered by shodan.io
 - [safing/portmaster](https://github.com/safing/portmaster) – 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -1223,6 +1224,7 @@
 - [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter)
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) – Collection of decent Community-made GRUB themes. Contributions welcome!
+- [Jam3s97/sungrow_ihomemanager](https://github.com/Jam3s97/sungrow_ihomemanager) – Sungrow YAML to communicate with iHomeManager using modbus.
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) – 💡Limiting personal data leaks on the internet
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) – A list of GOG Galaxy 2.0 integrations and upcoming features
 - [MrKraken/StarStrings](https://github.com/MrKraken/StarStrings) – MrKraken's string replacements to add blueprint pools to contracts
@@ -1561,6 +1563,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) – Universal memory layer for AI Agents
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) – A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
+- [mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant](https://github.com/mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant) – Home Assistant integration for Sungrow inverters: SH*RT series (SH10RT), SHx.RS series (SH3.RS), SH*K series (SH4K6),  SxT-series (S20T)
 - [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot) – 🏓 A bot that relays Twitch Chat and a Discord Channel between each other.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) – Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher,PS Plus, Glyph, VKPlay & HoYoPlay, Waydroid and Games on SD Card.
 - [mrks1469/PacHub](https://github.com/mrks1469/PacHub) – GTK4 + libadwaita Front End for Pacman/AUR
@@ -2340,6 +2343,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) – Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [open-pv/simshady](https://github.com/open-pv/simshady) – Simulating Shadows for PV Potential Analysis with 3D Data in the Browser :sunny:
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) – Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
 - [osuplace/templateManager](https://github.com/osuplace/templateManager) – Template manager for various canvas games
