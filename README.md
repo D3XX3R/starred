@@ -465,6 +465,7 @@
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) – Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [kashithecomfy/ComfyEngine](https://github.com/kashithecomfy/ComfyEngine) – ComfyEngine is a memory exploration toolkit built for people who need to monitor, patch, and script a running process.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) – KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [keklick1337/7zip-extended](https://github.com/keklick1337/7zip-extended) – A Patched Version of 7-Zip for Improved Mask Handling
@@ -1365,6 +1366,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS) – This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Allexio/nomm](https://github.com/Allexio/nomm) – Native Open Mod Manager
@@ -1381,6 +1383,7 @@
 - [Chris-GW/pixel](https://github.com/Chris-GW/pixel)
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
+- [Cyber40014/sungrow-solarcloud-haos-integration](https://github.com/Cyber40014/sungrow-solarcloud-haos-integration) – HACS HAOS integration for sungrow inverter, iHomeManager and isolarcloud
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) – Dark Web OSINT Tool
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [DimmaDont/all-slain-gui](https://github.com/DimmaDont/all-slain-gui) – Star Citizen Game Log Overlay
@@ -1388,6 +1391,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [EiS94/db_info](https://github.com/EiS94/db_info) – Home Assistant Integration to get live data for Deutsche Bahn
 - [EloneMusk/schugaa](https://github.com/EloneMusk/schugaa) – Schugaa is a lightweight, native macOS menu bar application that displays real-time glucose levels from your Freestyle Libre sensor. It sits quietly in your menu bar, providing quick access to your current glucose reading, trend arrows, and a historical data graph.
+- [Erriez/ESPHomePCPowerControlHomeAssistant](https://github.com/Erriez/ESPHomePCPowerControlHomeAssistant) – ESPHome ESP8266/ESP32 PC Power Control via Home Assistant
 - [Exaphis/mutube](https://github.com/Exaphis/mutube) – Remove ads and add SponsorBlock on Apple TV.
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) – 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [FahrplanDatenGarten/FahrplanDatenGarten](https://github.com/FahrplanDatenGarten/FahrplanDatenGarten)
@@ -1536,6 +1540,7 @@
 - [jarredou/MVSEP-MDX23-Colab_v2](https://github.com/jarredou/MVSEP-MDX23-Colab_v2) – Colab adaptation of MVSep Model for MDX23 music separation contest
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
+- [jkaberg/hass-byd-vehicle](https://github.com/jkaberg/hass-byd-vehicle) – Custom HASS integration for BYD vehicles.
 - [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat) – A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 - [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) – Unofficial ParcelApp integration with Home Assistant
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
@@ -1594,6 +1599,7 @@
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) – An open Apple AirDrop implementation written in Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) – Hunt down social media accounts by username across social networks
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [snazzybean/roommind](https://github.com/snazzybean/roommind) – Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
 - [soylent/offstream](https://github.com/soylent/offstream) – Personal twitch stream recorder
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Discord bot with automated RSS feed posting and pinboard-map functionalities. Working on more
 - [sparklost/endcord](https://github.com/sparklost/endcord) – Feature rich Discord TUI client.
@@ -1780,6 +1786,7 @@
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
 - [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword) – Cross platform Rust library to read a password in the terminal (Linux, BSD, MacOS, Windows, WASM).
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) – Visualize Ownership and Lifetimes in Rust
+- [cottrela/searchmonkey-III](https://github.com/cottrela/searchmonkey-III) – Real-time search for real files. No index. No daemon. No stale results.
 - [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) – Rust executable packager, bundler and updater.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Tools for concurrent programming in Rust
 - [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
@@ -2007,7 +2014,7 @@
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) – Browse youtube plus other yt-dlp supported sites from your terminal
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) – Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere, any way you like it. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
@@ -2082,7 +2089,6 @@
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) – 🌀 What's really in your Discord Data package? 
 - [Xyphyn/photon](https://github.com/Xyphyn/photon) – A faster, prettier, and nicer fediverse client
 - [chroxify/haptic](https://github.com/chroxify/haptic) – A new local-first, privacy-focused and open-source home for your markdown notes
-- [cottrela/searchmonkey-III](https://github.com/cottrela/searchmonkey-III) – Real-time search for real files. No index. No daemon. No stale results.
 - [deminimis/MinimalExplorer](https://github.com/deminimis/MinimalExplorer) – A minimalist, high-performance Windows Explorer replacement built with Rust. Features a dual-pane UI , integrated xterm.js terminal with Auto-CD , and deep content search using memory-mapped indexing. Includes native ZIP handling, file previews, and a command palette.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
@@ -2178,7 +2184,6 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's internal API, known as InnerTube.
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) – Matterbridge plugin manager for Matter
 - [Luligu/matterbridge-shelly](https://github.com/Luligu/matterbridge-shelly) – Matterbridge shelly plugin
-- [Makin-Things/weather-radar-card](https://github.com/Makin-Things/weather-radar-card) – A rain radar card using the tiled images from RainViewer
 - [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – A SpaceBar Client written in TS HTML and CSS
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
 - [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab
@@ -2297,12 +2302,14 @@
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) – Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [jakemiki/twitch-clip-queue](https://github.com/jakemiki/twitch-clip-queue) – A simple, setup free clip queue for all your Twitch clip queueing needs
 - [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [jayjojayson/FRITZ-Portal](https://github.com/jayjojayson/FRITZ-Portal) – FRITZ!Portal Add-On for Home Assistant
 - [jaypyles/open-spots](https://github.com/jaypyles/open-spots) – Open Spots is a fork of Spots that is designed to help organizations deliver real-time building availability data to staff, employees, customers, or students.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) – Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) – JetKVM - Control any computer remotely
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) – A code snippet storage solution written in React & node.js
+- [jpettitt/weather-radar-card](https://github.com/jpettitt/weather-radar-card) – A rain radar card using the tiled images from RainViewer
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) – The npm-style script runner for Deno
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) – Blocks all Twitter Blue verified users on twitter.com
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) – Xplorer, a customizable, modern file manager
@@ -2374,6 +2381,7 @@
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) – Watch streaming media with friends.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
+- [sharknoon/wero-tracker](https://github.com/sharknoon/wero-tracker) – A simple dashboard that shows the adoption of the payment provider Wero by individual banks and online shops
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
