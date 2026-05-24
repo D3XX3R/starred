@@ -187,7 +187,7 @@
 - [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) – Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [univrsal/dvds3](https://github.com/univrsal/dvds3) – Will it hit the corner?
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) – Resizable BAR for (almost) any UEFI system
 
 <div id="c#"></div>
@@ -614,6 +614,7 @@
 
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) – 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static rust binaries
+- [davidusb-geek/emhass-add-on](https://github.com/davidusb-geek/emhass-add-on) – The Home Assistant Add-on for EMHASS: Energy Management Optimization for Home Assistant
 - [jagrit007/homeserver](https://github.com/jagrit007/homeserver) – My home-server application configs
 - [jammsen/docker-collectd-fritzbox](https://github.com/jammsen/docker-collectd-fritzbox)
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) – Various Dockerfiles I use on the desktop and on servers.
@@ -795,7 +796,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) – Fullstack Workspace for Humans & Machines
 - [tess1o/go-ecoflow-exporter](https://github.com/tess1o/go-ecoflow-exporter) – Prometheus exporter for Ecoflow devices. Works via Ecoflow REST API or MQTT
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) – Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) – Realtime BirdNET soundscape analyzer
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) – Self-hosted realtime soundscape analyser for birds, wildlife, and bats. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [traggo/server](https://github.com/traggo/server) – self-hosted tag-based time tracking
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find, verify, and analyze leaked credentials
@@ -967,7 +968,6 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Upload/Up1](https://github.com/Upload/Up1) – Client-side encrypted image host web server
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) – One of the most popular modern web proxies with blazing fast speeds and a variety of games.
-- [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) – Nortix Mail - disposable email server with an easy setup
 - [ZiXyos/BlackJacku](https://github.com/ZiXyos/BlackJacku) – Just a BlackJack App To Learn MongoDb, Express, reactJs, NodeJs
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) – Advanced REST Client - Desktop application
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
@@ -1738,7 +1738,7 @@
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) – A binary encoder/decoder for Rust
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) – Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) – Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
-- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, native Discord overlay alternative for modded clients
+- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, native Discord overlay alternative
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) – Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [StractOrg/stract](https://github.com/StractOrg/stract) – web search done right
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) – Most feature-complete Linux GUI power management solution.
@@ -1811,7 +1811,7 @@
 - [fintelia/terra](https://github.com/fintelia/terra) – A large scale terrain rendering library written in Rust
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) – The user-friendly command line shell.
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) – Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
-- [floneum/floneum](https://github.com/floneum/floneum) – Instant, controllable, local pre-trained AI models in Rust
+- [floneum/kalosm](https://github.com/floneum/kalosm) – Instant, controllable, local pre-trained AI models in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [fokshadev/rust-nitro-sniper](https://github.com/fokshadev/rust-nitro-sniper) – Fast and powerful Discord Nitro sniper written in Rust.
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Build golden images with CI
@@ -1937,6 +1937,7 @@
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
+- [secluso/core](https://github.com/secluso/core) – A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
 - [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) – Copy Bluetooth link keys from Windows to Linux
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
@@ -2088,6 +2089,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [Androz2091/discord-data-package-explorer](https://github.com/Androz2091/discord-data-package-explorer) – 🌀 What's really in your Discord Data package? 
 - [Xyphyn/photon](https://github.com/Xyphyn/photon) – A faster, prettier, and nicer fediverse client
+- [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) – Nortix Mail - disposable email server with an easy setup
 - [chroxify/haptic](https://github.com/chroxify/haptic) – A new local-first, privacy-focused and open-source home for your markdown notes
 - [deminimis/MinimalExplorer](https://github.com/deminimis/MinimalExplorer) – A minimalist, high-performance Windows Explorer replacement built with Rust. Features a dual-pane UI , integrated xterm.js terminal with Auto-CD , and deep content search using memory-mapped indexing. Includes native ZIP handling, file previews, and a command palette.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
@@ -2393,6 +2395,7 @@
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) – Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's CLI and TUI client -- The ultimate weapon against brainrot
+- [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) – An all-round MQTT client that provides a structured topic overview
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
