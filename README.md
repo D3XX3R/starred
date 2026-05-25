@@ -225,7 +225,6 @@
 - [JaredWestley/HWIDSpoofer](https://github.com/JaredWestley/HWIDSpoofer) – Simple GUI C# HWID spoofer
 - [Jarex985/SCStreamDeck](https://github.com/Jarex985/SCStreamDeck)
 - [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) – Desktop implementation of Steam's mobile authenticator app
-- [JocysCom/FocusLogger](https://github.com/JocysCom/FocusLogger) – Find out which process or program is taking the window focus. In-game controls could temporary stop responding if other program steals the focus.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) – C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) – Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 - [KrawMire/profitocracy](https://github.com/KrawMire/profitocracy) – Multi currency personal budget control mobile application following 50-30-20 principle. Created using .NET MAUI
@@ -796,7 +795,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) – Fullstack Workspace for Humans & Machines
 - [tess1o/go-ecoflow-exporter](https://github.com/tess1o/go-ecoflow-exporter) – Prometheus exporter for Ecoflow devices. Works via Ecoflow REST API or MQTT
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) – Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) – Self-hosted realtime soundscape analyser for birds, wildlife, and bats. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) – Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [traggo/server](https://github.com/traggo/server) – self-hosted tag-based time tracking
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find, verify, and analyze leaked credentials
@@ -1407,6 +1406,7 @@
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) – A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) – An ReShade manager for linux.
 - [JAB-dev/mpv-frame-interpolation](https://github.com/JAB-dev/mpv-frame-interpolation) – Vapoursynth script for decent fps interpolation 
+- [JocysCom/FocusLogger](https://github.com/JocysCom/FocusLogger) – Find out which process or program is taking the window focus. In-game controls could temporary stop responding if other program steals the focus.
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) – Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) – Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) – A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
@@ -1484,7 +1484,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chris-mc1/homeconnect_local_hass](https://github.com/chris-mc1/homeconnect_local_hass) – Home Connect integration for Home Assistant using direct communication over the local network
@@ -1495,6 +1495,7 @@
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) – Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [dalinicus/homeassistant-acinfinity](https://github.com/dalinicus/homeassistant-acinfinity) – AC Infinity integration for Home Assistant for UIS based controllers
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) – DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
+- [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) – emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) – Deepfakes Software For All
 - [deezer/spleeter](https://github.com/deezer/spleeter) – Deezer source separation library including pretrained models.
@@ -2265,6 +2266,7 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) – Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [dandanthedev/littletinystorage](https://github.com/dandanthedev/littletinystorage)
 - [denosaurs/denon](https://github.com/denosaurs/denon) – 👀 Monitor any changes in your Deno application and automatically restart.
+- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) – Vacuum cleaner card for Home Assistant Lovelace UI
 - [diced/zipline](https://github.com/diced/zipline) – A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [dieserRobin/canireact-extension](https://github.com/dieserRobin/canireact-extension) – Browser Extension which displays reaction guidelines for a video or channel to streamers.
 - [diogotr7/starchar](https://github.com/diogotr7/starchar) – Star Citizen Character Tool
@@ -2367,6 +2369,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
+- [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) – Weather condition card (Lovelace) for Home Assistant.
 - [rbrahul/deno_cron](https://github.com/rbrahul/deno_cron) – A cron Job scheduler for Deno that allows you to write human readable cron syntax with tons of flexibility
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) – The cross-platform GUI for rclone & S3.
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
