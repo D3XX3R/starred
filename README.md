@@ -1739,7 +1739,7 @@
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) – A binary encoder/decoder for Rust
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) – Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) – Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
-- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, native Discord overlay alternative
+- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, native, multi-platform Discord overlay alternative
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) – Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [StractOrg/stract](https://github.com/StractOrg/stract) – web search done right
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) – Most feature-complete Linux GUI power management solution.
