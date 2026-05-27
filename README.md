@@ -1435,6 +1435,7 @@
 - [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Lightweight desktop overlay suite for Star Citizen — 9 tools always on top, one hotkey away. DPS Calculator, Cargo Loader, Mission Database, Mining Loadout, Market Finder, Trade Hub, Craft Database, Battle Buddy, and Mining Signals (powered by SC_OCR — a CNN-based HUD reader purpose-built for the SC scanner panel).
 - [SergeyKalutsky/vsc](https://github.com/SergeyKalutsky/vsc) – Real time video recording censor 
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) – Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
+- [Star123451/LuaToolsLinux](https://github.com/Star123451/LuaToolsLinux) – The LuaTools plugin, ported to Linux via ACCELA and SLSsteam. (By StarWarsK and geovanygrdt)
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) – An elegant Linux app for the Elgato Stream Deck with support for plugins
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) – This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [Stuw/shelly-plug-monitor](https://github.com/Stuw/shelly-plug-monitor) – Grafana+prometheus based power usage monitoring for Shelly Plug S
@@ -2019,6 +2020,7 @@
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere, any way you like it. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
+- [Deadboy666/h3adcr-b](https://github.com/Deadboy666/h3adcr-b) – the headcrab approaches..
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
@@ -2035,6 +2037,7 @@
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
+- [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired) – A universal installer for ACCELA with SLSsteam integration.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
