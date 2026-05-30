@@ -723,7 +723,6 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) – :partly_sunny: The right way to check the weather
 - [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [containers/buildah](https://github.com/containers/buildah) – A tool that facilitates building OCI images.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) – CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) – A rigorous IoT scanner based on Shodan.io
@@ -778,6 +777,7 @@
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
+- [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) – A tool that facilitates building OCI images.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) – Fast passive subdomain enumeration tool.
@@ -804,6 +804,7 @@
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
 - [usememos/memos](https://github.com/usememos/memos) – Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [vegidio/umd](https://github.com/vegidio/umd) – A desktop app to easily download media files hosted on popular websites.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 
@@ -937,7 +938,6 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) – Open-source alternative of Discord desktop's app.asar
 - [Hakkin/twitchintegrity](https://github.com/Hakkin/twitchintegrity)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) – Cloud replacement for vacuum robots enabling local-only operation
 - [InvoxiPlayGames/johnbox](https://github.com/InvoxiPlayGames/johnbox) – Jackbox Games Private Server Implementation
 - [ItsPi3141/discord-fake-avatar-decorations](https://github.com/ItsPi3141/discord-fake-avatar-decorations) – Create profile pictures with avatar decorations so you can use them in Discord without spending money
@@ -1321,7 +1321,7 @@
 
 ## Pascal
 
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) – Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) – Goverlay is an easy graphical interface to configure linux gaming applications
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) – Double Commander is a free cross platform open source file manager with two panels side by side.
 
 <div id="pawn"></div>
@@ -2151,6 +2151,7 @@
 - [Aetherall/tobiifree](https://github.com/Aetherall/tobiifree) – Tobii Eye Tracker 5 For Linux and Web
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
+- [ArthurHeitmann/photon-reddit](https://github.com/ArthurHeitmann/photon-reddit) – Photon Reddit is a clean and modern reddit desktop client, with some cool features.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) – An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
@@ -2175,6 +2176,7 @@
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
 - [Hypfer/lovelace-valetudo-map-card](https://github.com/Hypfer/lovelace-valetudo-map-card) – Display the map from a valetudo-enabled robot in a home assistant dashboard card.
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
