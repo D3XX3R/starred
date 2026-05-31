@@ -1419,6 +1419,7 @@
 - [M4TH1EU/HA-EasyComputerManager](https://github.com/M4TH1EU/HA-EasyComputerManager) – An easy to use HomeAssistant integration to control (dualboot) computers.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) – Insular email distribution - mail server as Docker images
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
+- [Marc1326/Anvil-Organizer](https://github.com/Marc1326/Anvil-Organizer) – Native Linux mod manager inspired by MO2 — 35 games, Proton Script Extender support (SKSE64/F4SE/SFSE), Python/Qt6
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
@@ -1530,7 +1531,6 @@
 - [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
 - [gottagofaster236/Twitch-Channel-Points-Miner](https://github.com/gottagofaster236/Twitch-Channel-Points-Miner) – A simple script that will watch a stream for you and get the channel points
 - [gptme/gptme](https://github.com/gptme/gptme) – Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
-- [gridhead/expedite](https://github.com/gridhead/expedite) – Simple encrypted file transfer service for humans
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) – real time face swap and one-click video deepfake with only a single image
 - [hacs/integration](https://github.com/hacs/integration) – HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
@@ -1905,6 +1905,7 @@
 - [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) – Let Sonarr fetch episodes on demand for a show you are watching on Jellyfin/Emby/Plex.
 - [paulkernfeld/glx](https://github.com/paulkernfeld/glx) – Analyzing the Green Line Extension with OpenStreetMap
 - [picoHz/taxy](https://github.com/picoHz/taxy) – A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust.
+- [pipeweaver/pipeweaver](https://github.com/pipeweaver/pipeweaver) – PipeWeaver is a tool to communicate with pipewire to manage streaming audio
 - [plabayo/rama](https://github.com/plabayo/rama) – modular service framework to move and transform network packets
 - [pola-rs/polars](https://github.com/pola-rs/polars) – Extremely fast Query Engine for DataFrames, written in Rust
 - [polyphony-chat/symfonia](https://github.com/polyphony-chat/symfonia) – A Polyphony chat server, compatible with Spacebar and the Discord API.
@@ -1937,7 +1938,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [secluso/core](https://github.com/secluso/core) – A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
