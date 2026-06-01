@@ -408,7 +408,7 @@
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
-- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
@@ -714,7 +714,7 @@
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) – A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) – Easily sideload the IPA to AppleTV
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) – Corrective lenses for curmudgeonly readars in your life
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
@@ -1041,6 +1041,7 @@
 - [oatmealine/powercord-tiktok-tts](https://github.com/oatmealine/powercord-tiktok-tts) – Lets you speak Discord messages with the TikTok TTS.
 - [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) – Open Source components of Little Snitch for Linux
 - [openstyles/stylus](https://github.com/openstyles/stylus) – Stylus - Userstyles Manager
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) – ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) – Peer-to-Peer Databases for the Decentralized Web
 - [ost056/SteamAuthTool](https://github.com/ost056/SteamAuthTool) – A desktop application that replicates the functionality of the Steam mobile application. You can add multiple accounts, use proxies, log into accounts using a QR code and confirm actions on your account!
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) – A web-based collaborative LaTeX editor
@@ -1248,6 +1249,7 @@
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) – A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/ & https://alloc8or.re/gta5/nativedb/enhanced/
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
 - [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) – a collection about Windows 11
 - [bram-atmire/GDPR-Claim-Templates](https://github.com/bram-atmire/GDPR-Claim-Templates) – Consumer templates to exercise GDPR rights.
@@ -1889,7 +1891,6 @@
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
-- [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) – :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [niri-wm/niri](https://github.com/niri-wm/niri) – A scrollable-tiling Wayland compositor.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
@@ -1908,7 +1909,6 @@
 - [pipeweaver/pipeweaver](https://github.com/pipeweaver/pipeweaver) – PipeWeaver is a tool to communicate with pipewire to manage streaming audio
 - [plabayo/rama](https://github.com/plabayo/rama) – modular service framework to move and transform network packets
 - [pola-rs/polars](https://github.com/pola-rs/polars) – Extremely fast Query Engine for DataFrames, written in Rust
-- [polyphony-chat/symfonia](https://github.com/polyphony-chat/symfonia) – A Polyphony chat server, compatible with Spacebar and the Discord API.
 - [pr4k/locate](https://github.com/pr4k/locate) – A Recursive Search tool in Rust 
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
@@ -2239,7 +2239,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) – AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
-- [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy
+- [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy and Piefed
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
