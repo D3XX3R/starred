@@ -506,6 +506,7 @@
 - [phandasm/waveform](https://github.com/phandasm/waveform) – Audio spectral analysis plugin for OBS
 - [praydog/UEVR](https://github.com/praydog/UEVR) – Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [qTox/qTox](https://github.com/qTox/qTox) – qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+- [rerdavies/ToobAmp](https://github.com/rerdavies/ToobAmp) – A set of high-quality guitar effect plugins for Raspberry Pi with specific support for PiPedal.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) – Free and Open Source Reverse Engineering Platform powered by rizin
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) – A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [royshil/obs-cleanstream](https://github.com/royshil/obs-cleanstream) – CleanStream is an OBS plugin that uses AI to clean live audio streams from unwanted words and utterances
@@ -518,6 +519,7 @@
 - [steveseguin/ninja-obs-plugin](https://github.com/steveseguin/ninja-obs-plugin) – Native OBS Studio plugin for VDO.Ninja, with WebRTC publishing and ingest paths integrated directly into OBS workflows.
 - [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) – Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
+- [tone-3000/neural-amp-modeler-wasm](https://github.com/tone-3000/neural-amp-modeler-wasm) – NAM DSP on the Web
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) – An alternative Discord client with voice support made with C++ and GTK 3
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) – A video processing framework with simplicity in mind
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) – Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -771,7 +773,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -1365,6 +1367,7 @@
 - [152334H/DL-Art-School](https://github.com/152334H/DL-Art-School) – TorToiSe fine-tuning with DLAS
 - [2bc4/streamlink-ttvlol](https://github.com/2bc4/streamlink-ttvlol) – Streamlink Twitch plugin modified to work with the TTV.LOL API
 - [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata) – Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers and more.
+- [6xvl/paralives-plugins-index](https://github.com/6xvl/paralives-plugins-index) – Curated BepInEx plugin index for Paralives, consumed by the 6ix Plugin Hub.
 - [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -1543,7 +1546,6 @@
 - [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Local voice dictation and meeting recorder for Windows + Linux. Hold a hotkey to dictate, or record long-form meetings with system audio. Whisper transcription, bring-your-own-LLM summaries. Open source.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
-- [jarredou/MVSEP-MDX23-Colab_v2](https://github.com/jarredou/MVSEP-MDX23-Colab_v2) – Colab adaptation of MVSep Model for MDX23 music separation contest
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
 - [jkaberg/hass-byd-vehicle](https://github.com/jkaberg/hass-byd-vehicle) – Custom HASS integration for BYD vehicles.
@@ -1861,6 +1863,7 @@
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
+- [lemonxah/zestbay](https://github.com/lemonxah/zestbay) – A PipeWire patchbay for Linux that visualizes your audio graph, hosts LV2 effects plugins inline, and auto-connects ports with persistent routing rules.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
 - [linebender/druid](https://github.com/linebender/druid) – A data-first Rust-native UI design toolkit. 
@@ -2063,6 +2066,7 @@
 - [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from ASCII characters with randomized parameters
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) – PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) – Script to set up bbctl automatically for sh-imessage bridge
+- [osam-cologne/archlinux-proaudio](https://github.com/osam-cologne/archlinux-proaudio) – Actively maintained binary package repo for Arch Linux of free and open source pro-audio software.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) – A docker sidecar container to forward all traffic to local docker host or any other host
 - [screetsec/Vegile](https://github.com/screetsec/Vegile) – This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
