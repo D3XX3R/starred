@@ -377,7 +377,6 @@
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) – PS4 & PS5 emulator
 - [JohnCiubuc/StreamLinkerino](https://github.com/JohnCiubuc/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino
-- [KA4I/Koalageddon](https://github.com/KA4I/Koalageddon) – Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) – Vulkan layer for hardware agnostic input latency reduction
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
@@ -911,6 +910,7 @@
 - [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) – Library mod for masa's client-side Minecraft mods
 - [sakura-ryoko/syncmatica](https://github.com/sakura-ryoko/syncmatica) – Server-wide shared litematics.
 - [theonedev/onedev](https://github.com/theonedev/onedev) – Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [tomvd/local-powerstream](https://github.com/tomvd/local-powerstream) – Knowledge gathering hub with the goal to control the ecoflow powerstream locally without internet
 - [tr7zw/Exordium](https://github.com/tr7zw/Exordium) – There is no good reason to render the hotbar at 100+ fps
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) – Vulkan renderer mod for Minecraft.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Access your entire server infrastructure from your local desktop
@@ -941,6 +941,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) – Open-source alternative of Discord desktop's app.asar
 - [Hakkin/twitchintegrity](https://github.com/Hakkin/twitchintegrity)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) – Cloud replacement for vacuum robots enabling local-only operation
 - [InvoxiPlayGames/johnbox](https://github.com/InvoxiPlayGames/johnbox) – Jackbox Games Private Server Implementation
 - [ItsPi3141/discord-fake-avatar-decorations](https://github.com/ItsPi3141/discord-fake-avatar-decorations) – Create profile pictures with avatar decorations so you can use them in Discord without spending money
@@ -1381,6 +1382,7 @@
 - [AnthonyMichaelTDM/DRG-Save-Editor](https://github.com/AnthonyMichaelTDM/DRG-Save-Editor) – Rock and stone!
 - [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell) – A hackable shell for Hyprland, powered by Fabric.
 - [Axorax/keylock](https://github.com/Axorax/keylock) – Lock your keys with ease
+- [BJReplay/ha-solcast-solar](https://github.com/BJReplay/ha-solcast-solar) – Solcast Integration for Home Assistant
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) – Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) – RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
 - [Captain-FLAM/KaraFan](https://github.com/Captain-FLAM/KaraFan) – The BEST music separation model with help of A.I. ... to my ears ! 👂👂
@@ -1548,7 +1550,6 @@
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
-- [jkaberg/hass-byd-vehicle](https://github.com/jkaberg/hass-byd-vehicle) – Custom HASS integration for BYD vehicles.
 - [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat) – A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 - [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) – Unofficial ParcelApp integration with Home Assistant
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
@@ -2181,7 +2182,6 @@
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
 - [Hypfer/lovelace-valetudo-map-card](https://github.com/Hypfer/lovelace-valetudo-map-card) – Display the map from a valetudo-enabled robot in a home assistant dashboard card.
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
