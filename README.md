@@ -715,7 +715,7 @@
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) – A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) – Easily sideload the IPA to AppleTV
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) – Corrective lenses for curmudgeonly readars in your life
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) – Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams.
 - [boozec/rahanna](https://github.com/boozec/rahanna) – A P2P chess game, co-op 2vs2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [cedws/discord-delete](https://github.com/cedws/discord-delete) – Tool to delete Discord message history
@@ -1538,6 +1538,7 @@
 - [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
 - [gottagofaster236/Twitch-Channel-Points-Miner](https://github.com/gottagofaster236/Twitch-Channel-Points-Miner) – A simple script that will watch a stream for you and get the channel points
 - [gptme/gptme](https://github.com/gptme/gptme) – Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
+- [gridhead/expedite](https://github.com/gridhead/expedite) – Simple encrypted file transfer service for humans
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) – real time face swap and one-click video deepfake with only a single image
 - [hacs/integration](https://github.com/hacs/integration) – HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
@@ -1809,7 +1810,7 @@
 - [edutra/ssh_manager](https://github.com/edutra/ssh_manager) – A lightweight and efficient CLI tool to streamline SSH connection management, featuring commands to add, list, edit, delete, and open SSH connections. Includes support for running remote scripts and executing commands from URLs.
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [ergrelet/windiff](https://github.com/ergrelet/windiff) – Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
+- [ergrelet/windiff](https://github.com/ergrelet/windiff) – Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
 - [extism/extism](https://github.com/extism/extism) – The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
 - [fereidani/opool](https://github.com/fereidani/opool) – High-performance, lock-free local and concurrent object memory pool with automated allocation, cleanup, and verification.
@@ -2357,7 +2358,6 @@
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [netbirdio/dashboard](https://github.com/netbirdio/dashboard) – NetBird Management Service Web UI Panel
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
-- [ngneat/falso](https://github.com/ngneat/falso) – All the Fake Data for All Your Real Needs 🙂
 - [nichtLehdev/DiscordBot](https://github.com/nichtLehdev/DiscordBot)
 - [nicola02nb/betterTTS](https://github.com/nicola02nb/betterTTS)
 - [noaione/mpv-js-scripts](https://github.com/noaione/mpv-js-scripts) – Some mpv scripts I created (made in JS)
@@ -2483,12 +2483,12 @@
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) – Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [bellingcat/osm-search](https://github.com/bellingcat/osm-search) – A user friendly way to search OpenStreetMap data for features in proximity to each other.
 - [bootsie123/F1-Web-Viewer](https://github.com/bootsie123/F1-Web-Viewer) – A simple grid-based web viewer for Formula 1
+- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) – A delightful Firefly III companion web app for effortless transaction tracking
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) – 📖 All your articles in one place. Beautiful.
 - [jamiepine/cache-monkey](https://github.com/jamiepine/cache-monkey) – Convert, browse and clear cached images and files. Images you see online are never deleted immediately, unless you delete them of course.  Most desktop apps have a cache directory, not all provide the tools to clear it. CacheMonkey not only lets you purge cache files, but browse and filter through them too.
 - [lissy93/dashy](https://github.com/lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [markterence/discord-quest-completer](https://github.com/markterence/discord-quest-completer) – A Windows desktop application to complete quests on Discord without installing the full actual games. 
-- [seydx/camera.ui](https://github.com/seydx/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) – Utility for mass-downloading LRC synced lyrics for your offline music library.
