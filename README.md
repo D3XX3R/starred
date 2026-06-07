@@ -1642,6 +1642,7 @@
 ## Qml
 
 - [Darkkal44/qylock](https://github.com/Darkkal44/qylock) – A cozy collection of sddm-themes & quickshell lockscreen setups.
+- [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) – Plasma shell for TVs
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
