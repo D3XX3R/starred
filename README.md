@@ -764,6 +764,7 @@
 - [lucas-jacques/ikto](https://github.com/lucas-jacques/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
 - [minekube/gate](https://github.com/minekube/gate) – High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
@@ -1037,7 +1038,6 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) – mailcow: dockerized - 🐮 + 🐋 = 💕
 - [marioparaschiv/nitro-sniper](https://github.com/marioparaschiv/nitro-sniper) – 🔫 Lightweight, fast Discord Nitro, giveaway, and invite sniper.
 - [markrai/fontcompare](https://github.com/markrai/fontcompare) – an easy way to dynamically compare locally hosted fonts
-- [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) – Node.js Simple WHIP Server library (based on the Janus WebRTC Server)
 - [memory-stack/Memory-Stack](https://github.com/memory-stack/Memory-Stack) – 📜 Memory stack is a developer oriented journaling social platform. 
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) – PoC Minecraft client written in Javascript (1.16.5 offline mode working)
@@ -1139,6 +1139,7 @@
 
 - [CrendKing/mpv-twitch-chat](https://github.com/CrendKing/mpv-twitch-chat) – Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.
 - [IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS) – Home of MineOS and it's software for OpenComputers mod
+- [IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds) – True coop multiplayer mod for Noita.
 - [MikaylaFischler/cc-mek-scada](https://github.com/MikaylaFischler/cc-mek-scada) – Configurable ComputerCraft SCADA system for multi-reactor control of Mekanism fission reactors with a GUI, automatic safety features, waste processing control, and more! Please be sure to take a look at the Wiki tab, this project has lots of docs!
 - [Mm2PL/supibot-completion-plugin](https://github.com/Mm2PL/supibot-completion-plugin) – A Chatterino plugin
 - [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) – Multiplayer mod for BeamNG.drive
@@ -1709,7 +1710,6 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [IamSanjid/sturdy-spoon](https://github.com/IamSanjid/sturdy-spoon) – A lightweight web server that enables synchronized video watching, inspired by https://syncplay.pl/.
 - [IncredibleDevHQ/agent-panel](https://github.com/IncredibleDevHQ/agent-panel) – AI gateway and observability server written in Rust. Designed to help optimize multi-agent workflows. 
-- [IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds) – True coop multiplayer mod for Noita.
 - [Jupiee/rawst](https://github.com/Jupiee/rawst) – Rawst is cli downloader, written in rust
 - [JustRadical/jellyfin-rpc](https://github.com/JustRadical/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [KMJ-007/lazygh](https://github.com/KMJ-007/lazygh) – A Terminal User Interface (TUI) application for managing multiple GitHub accounts easily
@@ -1759,7 +1759,7 @@
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) – A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) – 3D City Builder without a grid
-- [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Allows AMD GPU's to run CUDA only software
+- [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Compatibility middleware for PyTorch and (soon) Omniverse based applications, enabling backend agnostic parallel computing across heterogeneous hardware.
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) – A powerful (home) server admininistration tool written in Rust
 - [Wuild/pttkey](https://github.com/Wuild/pttkey) – pttkey is a lightweight Push‑To‑Talk helper for PipeWire. It listens to a chosen keyboard or mouse button via evdev and mutes/unmutes the default mic (or sets volume levels) while the key is held. Optional on/off sounds use system audio.
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) – Set up a modern rust+react web app by running one command. 
@@ -1993,7 +1993,7 @@
 - [valence-rs/valence](https://github.com/valence-rs/valence) – A Rust framework for building Minecraft servers.
 - [varjolintu/keepassxc-proxy-rust](https://github.com/varjolintu/keepassxc-proxy-rust) – Application that works as a proxy between Native Messaging browser extension and KeePassXC
 - [veeenu/hudhook](https://github.com/veeenu/hudhook) – A videogame overlay framework written in Rust, supporting DirectX and OpenGL
-- [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+- [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) – Raster to Vector Graphics Converter
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) – Safe and rich Rust wrapper around the Vulkan API
