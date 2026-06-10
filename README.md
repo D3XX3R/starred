@@ -206,6 +206,7 @@
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) – 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful open-source tool for managing networks and troubleshooting network problems!
 - [CigarLounge/sbox-TTT](https://github.com/CigarLounge/sbox-TTT) – TTT is a mafia-esque multiplayer game created using s&box
+- [CutFlame/MCDSaveEdit](https://github.com/CutFlame/MCDSaveEdit) – Minecraft: Dungeons Save File Editor
 - [Dean2k/SARS](https://github.com/Dean2k/SARS) – Cleaned SARS project
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) – UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -500,7 +501,7 @@
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) – CEF-based OBS Studio browser plugin
 - [opencma/LightHost](https://github.com/opencma/LightHost) – A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) – Head tracking software for MS Windows, Linux, and Apple OSX
-- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) – OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) – OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
 - [phandasm/waveform](https://github.com/phandasm/waveform) – Audio spectral analysis plugin for OBS
 - [praydog/UEVR](https://github.com/praydog/UEVR) – Universal Unreal Engine VR Mod (4.8 - 5.4)
@@ -942,7 +943,6 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) – Open-source alternative of Discord desktop's app.asar
 - [Hakkin/twitchintegrity](https://github.com/Hakkin/twitchintegrity)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) – Cloud replacement for vacuum robots enabling local-only operation
 - [InvoxiPlayGames/johnbox](https://github.com/InvoxiPlayGames/johnbox) – Jackbox Games Private Server Implementation
 - [ItsPi3141/discord-fake-avatar-decorations](https://github.com/ItsPi3141/discord-fake-avatar-decorations) – Create profile pictures with avatar decorations so you can use them in Discord without spending money
@@ -2186,6 +2186,7 @@
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
 - [Hypfer/lovelace-valetudo-map-card](https://github.com/Hypfer/lovelace-valetudo-map-card) – Display the map from a valetudo-enabled robot in a home assistant dashboard card.
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
@@ -2326,7 +2327,7 @@
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) – Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) – JetKVM - Control any computer remotely
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) – Control any computer remotely
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) – A code snippet storage solution written in React & node.js
 - [jpettitt/weather-radar-card](https://github.com/jpettitt/weather-radar-card) – A rain radar card using the tiled images from RainViewer
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) – The npm-style script runner for Deno
