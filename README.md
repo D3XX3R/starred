@@ -135,6 +135,7 @@
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
+- [M0n7y5/pipeasio](https://github.com/M0n7y5/pipeasio) – ASIO to Pipewire. Better solution for low latency audio inside Wine. Works with SteamRT.
 - [NVIDIA/nvidia-settings](https://github.com/NVIDIA/nvidia-settings) – NVIDIA driver control panel
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
@@ -1117,7 +1118,6 @@
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
 - [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) – 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -1127,6 +1127,7 @@
 - [cbruegg/packetloss-watchdog](https://github.com/cbruegg/packetloss-watchdog) – A workaround for the Vodafone Station's packet loss issue
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) – AirPods liberated from Apple's ecosystem.
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) – 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
