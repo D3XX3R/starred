@@ -168,6 +168,7 @@
 - [landave/TSIdentityTool](https://github.com/landave/TSIdentityTool) – Tool to read out various information about TeamSpeak identities
 - [ledoge/dwm_lut](https://github.com/ledoge/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) – A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) – Hiding kernel-driver for x86/x64.
 - [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
@@ -325,7 +326,6 @@
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) – Application designed to optimize, customize and enhance your Windows experience.
 - [mhwlng/streamdeck-elite](https://github.com/mhwlng/streamdeck-elite) – Elgato Stream Deck plugin for Elite Dangerous
 - [microsoft/CsWin32](https://github.com/microsoft/CsWin32) – A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mikeoliphant/ChartPlayer](https://github.com/mikeoliphant/ChartPlayer) – Visual player for song charts synchronized to music recordings
 - [neatchee/nvidiaProfileInspectorForkAIO](https://github.com/neatchee/nvidiaProfileInspectorForkAIO) – An attempt to merge all work from forks of nvProfileInspector into a single release
 - [netchx/netch](https://github.com/netchx/netch) – A simple proxy client
