@@ -564,6 +564,7 @@
 
 - [Andersama/obs-asio](https://github.com/Andersama/obs-asio) – ASIO plugin for OBS-Studio
 - [EZ64cool/obs-hadowplay](https://github.com/EZ64cool/obs-hadowplay)
+- [ShiralynDev/SimrailRPCExtender](https://github.com/ShiralynDev/SimrailRPCExtender)
 - [derrod/obs-roi-ui](https://github.com/derrod/obs-roi-ui) – A plugin for encoding nerds.
 
 <div id="crystal"></div>
@@ -2070,7 +2071,7 @@
 - [laughedelic/pisces](https://github.com/laughedelic/pisces) – ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
 - [ludwig-v/wireless-carplay-dongle-reverse-engineering](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) – CPlay2Air / Carlinkit Wireless Apple CarPlay Dongle reverse engineering
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
-- [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from ASCII characters with randomized parameters
+- [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from unicode characters with randomized parameters
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) – PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) – Script to set up bbctl automatically for sh-imessage bridge
 - [osam-cologne/archlinux-proaudio](https://github.com/osam-cologne/archlinux-proaudio) – Actively maintained binary package repo for Arch Linux of free and open source pro-audio software.
