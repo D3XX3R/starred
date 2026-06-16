@@ -131,7 +131,6 @@
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) – Optimise Linux system performance on demand
 - [FiniteSingularity/obs-advanced-masks](https://github.com/FiniteSingularity/obs-advanced-masks) – Advanced Masking Plugin for OBS
 - [Fluepke/Fluepdot](https://github.com/Fluepke/Fluepdot) – Project for controlling Annax flipdot panels used by the Berliner Verkehrsbetriebe
-- [GrandBIRDLizard/X3Dctl](https://github.com/GrandBIRDLizard/X3Dctl) – X3Dctl is a lightweight Linux CLI utility for AMD X3D processors that enables deterministic mode control, CCD-aware process affinity, and predictable workload isolation.
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
@@ -142,6 +141,7 @@
 - [SiloCityLabs/esp32-airtap](https://github.com/SiloCityLabs/esp32-airtap) – Compilation of AC Infinity Vent custom pcbs
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
+- [Unixcraft-Studios/X3Dctl](https://github.com/Unixcraft-Studios/X3Dctl) – X3Dctl is a lightweight Linux CLI utility for AMD X3D processors that enables deterministic mode control, CCD-aware process affinity, and predictable workload isolation.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) – Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 - [arcbtc/bitcoinVend](https://github.com/arcbtc/bitcoinVend) – Offline bitcoin vending machine
@@ -378,6 +378,7 @@
 - [GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) – Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) – PS4 & PS5 emulator
+- [Jafz2001/slopsmith-plugin-nam-rig-builder](https://github.com/Jafz2001/slopsmith-plugin-nam-rig-builder) – Slopsmith plugin: map tones to chained NAM neural-amp rigs (tone3000 captures) and VST
 - [JohnCiubuc/StreamLinkerino](https://github.com/JohnCiubuc/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) – Vulkan layer for hardware agnostic input latency reduction
@@ -749,7 +750,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring with historical data, docker stats, and alerts.
 - [home-assistant/os-agent](https://github.com/home-assistant/os-agent) – Daemon allowing to control OS features through D-Bus
 - [iebb/F1WebViewer-SelfHosted](https://github.com/iebb/F1WebViewer-SelfHosted) – Self-hosted reverse-proxy for F1 web viewer.
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 - [jdoiro3/dagit](https://github.com/jdoiro3/dagit) – DaGit to learn Git Internals
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -1248,6 +1249,7 @@
 - [Ryhon0/awesome-sbox](https://github.com/Ryhon0/awesome-sbox) – Cool open-source S&Box projects
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) – ShareX custom uploaders
 - [SteamAutoCracks/ManifestHub](https://github.com/SteamAutoCracks/ManifestHub) – Steam Depot Manifest Library
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) – A fully native Discord client for macOS built 100% in Swift!
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) – A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [TwitchmodsDACH/Bannlisten](https://github.com/TwitchmodsDACH/Bannlisten)
 - [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
@@ -1296,6 +1298,7 @@
 - [tycrek/ass](https://github.com/tycrek/ass) – The simple self-hosted ShareX server
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
+- [vesper8/slopsmith](https://github.com/vesper8/slopsmith) – Self-contained Docker web app for browsing, playing, and practicing Rocksmith 2014 CDLC
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
 - [zencq/nomnom](https://github.com/zencq/nomnom) – NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
@@ -2134,7 +2137,6 @@
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) – Community fork of PlayCover
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) – A virtual monitor for screen sharing
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) – A Custom Client for iPhone, iPad, and Mac
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) – A fully native Discord client for macOS built 100% in Swift!
 - [claration/Feather](https://github.com/claration/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [eerimoq/moblin](https://github.com/eerimoq/moblin) – Moblin, a free iOS app for IRL streaming.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
@@ -2298,7 +2300,7 @@
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
