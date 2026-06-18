@@ -437,6 +437,7 @@
 - [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) – par2cmdline × ParPar: speed focused par2cmdline fork
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) – Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) – PC Software for BambuLab and other 3D printers
 - [beaterblank/tpipe](https://github.com/beaterblank/tpipe) – Audio Transparency tool for Unix-based systems that use JACK audio engine.
 - [benapetr/TuxManager](https://github.com/benapetr/TuxManager) – It's like Windows Task Manager, but for GNU/Linux
 - [blizzard4591/openMittsu](https://github.com/blizzard4591/openMittsu) – An open source implementation and desktop client of the Threema Messenger App.
@@ -1547,6 +1548,7 @@
 - [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
 - [gottagofaster236/Twitch-Channel-Points-Miner](https://github.com/gottagofaster236/Twitch-Channel-Points-Miner) – A simple script that will watch a stream for you and get the channel points
 - [gptme/gptme](https://github.com/gptme/gptme) – Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
+- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) – A Home Assistant Integration for Bambu Lab Printers
 - [gridhead/expedite](https://github.com/gridhead/expedite) – Simple encrypted file transfer service for humans
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) – real time face swap and one-click video deepfake with only a single image
 - [hacs/integration](https://github.com/hacs/integration) – HACS gives you a powerful UI to handle downloads of all your custom needs.
@@ -1580,6 +1582,7 @@
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) – ElevenClock: Customize Windows 11 taskbar clock
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) – A modern selfhosted media management system for your media library
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) – Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to a 40-printer farm. 
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) – OnionSearch is a script that scrapes urls on different .onion search engines. 
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/toutatis](https://github.com/megadose/toutatis) – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
@@ -1602,6 +1605,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [qBitMF/qBitMF](https://github.com/qBitMF/qBitMF) – qBittorrent client in Docker that load balances over multiple interfaces
+- [queengooborg/Bambu-Lab-RFID-Library](https://github.com/queengooborg/Bambu-Lab-RFID-Library) – A collection of Bambu Lab filament RFID tag scans for research
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) – Automatic Bitwarden Backup
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) – [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) – SoTA open-source TTS
