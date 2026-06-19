@@ -897,7 +897,7 @@
 - [adryd325/sneaky](https://github.com/adryd325/sneaky) – Anonymise your server from scanners like Copenheimer and ServerSeeker.  With options to disable logging spam logins and rate limit new connections.
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) – A decentralized bitcoin exchange network
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) – google maps for block game
-- [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 26.1.2 using Fabric.
+- [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 26.2 using Fabric.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) – Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [ddxy/whispercat](https://github.com/ddxy/whispercat)
 - [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Customer Service: https://www.breakblocks.com/discord
