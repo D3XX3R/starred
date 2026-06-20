@@ -170,7 +170,6 @@
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) – A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) – Hiding kernel-driver for x86/x64.
-- [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
 - [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) – Software-Defined GPS Signal Simulator
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) – Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
@@ -378,7 +377,6 @@
 - [GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) – Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) – PS4 & PS5 emulator
-- [Jafz2001/slopsmith-plugin-nam-rig-builder](https://github.com/Jafz2001/slopsmith-plugin-nam-rig-builder) – Slopsmith plugin: map tones to chained NAM neural-amp rigs (tone3000 captures) and VST
 - [JohnCiubuc/StreamLinkerino](https://github.com/JohnCiubuc/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) – Vulkan layer for hardware agnostic input latency reduction
@@ -777,6 +775,7 @@
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -866,6 +865,7 @@
 - [6eero/NewPass](https://github.com/6eero/NewPass) – 🔐 NewPass is a free and open source password manager which will allow you to generate and store your passwords securely, saving them locally and encrypting them on your phone's memory
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) – Android on screen keyboard for multiple languages and NO internet access
 - [BuildTheEarth/terraplusplus](https://github.com/BuildTheEarth/terraplusplus) – A feature-rich fork of Terra121 focusing on performance.
+- [Cocolots/Aoba-Client](https://github.com/Cocolots/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 26.2 using Fabric.
 - [Coderx-Gamer/ui-utils](https://github.com/Coderx-Gamer/ui-utils) – Plugin debugging mod (fabric.)
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) – The modern Java bytecode editor
 - [Earthcomputer/EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) – Cracking the XP seed in Minecraft and choosing your enchantments
@@ -897,7 +897,6 @@
 - [adryd325/sneaky](https://github.com/adryd325/sneaky) – Anonymise your server from scanners like Copenheimer and ServerSeeker.  With options to disable logging spam logins and rate limit new connections.
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) – A decentralized bitcoin exchange network
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) – google maps for block game
-- [coltonk9043/Aoba-Client](https://github.com/coltonk9043/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 26.2 using Fabric.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) – Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [ddxy/whispercat](https://github.com/ddxy/whispercat)
 - [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Customer Service: https://www.breakblocks.com/discord
