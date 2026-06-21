@@ -522,6 +522,7 @@
 - [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) – Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
 - [tone-3000/neural-amp-modeler-wasm](https://github.com/tone-3000/neural-amp-modeler-wasm) – NAM DSP on the Web
+- [trummerschlunk/master_me](https://github.com/trummerschlunk/master_me) – automatic mastering plugin for live streaming, podcasts and internet radio.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) – An alternative Discord client with voice support made with C++ and GTK 3
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) – A video processing framework with simplicity in mind
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) – Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -1889,6 +1890,7 @@
 - [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep) – Search through all your files
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) – A FUSE filesystem for your Google calendar
 - [magnesium-uploader/magnesium-oxide](https://github.com/magnesium-uploader/magnesium-oxide) – A blazingly fast, privacy-first ShareX uploader coded in Rust (using actix web) which utilizes the AES256-GCM-SIV encryption standard to securely store uploaded content.
+- [magnetophon/lamb-rs](https://github.com/magnetophon/lamb-rs) – A lookahead compressor/limiter that's soft as a lamb.
 - [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [marhkb/pods](https://github.com/marhkb/pods) – Manage your containers
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) – Official successor to conduwuit
@@ -2263,6 +2265,7 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) – "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+- [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a beautiful self-hosted modern IRC client with a retro flair, most easily described as "your personal IRCCloud, with Weechat looks".
 - [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) – Spotify Car Thing UI Web App Dump
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) – A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
@@ -2298,6 +2301,7 @@
 - [discordeno/discordeno](https://github.com/discordeno/discordeno) – Discord API library for Node and Deno
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) – A free and open-source community discussion platform.
 - [dubinc/dub](https://github.com/dubinc/dub) – The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) – Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) – dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [efzynx/truckers-tool-linux](https://github.com/efzynx/truckers-tool-linux) – Trucker Tool Linux | TTL
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
