@@ -272,13 +272,13 @@
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) – Steam depot downloader utilizing the SteamKit2 library.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) – SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity products.
-- [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) – Saves Discord chat logs to a file
 - [Valour-Software/Valour](https://github.com/Valour-Software/Valour) – Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 - [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) – Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) – Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
+- [WFCD/WFinfo](https://github.com/WFCD/WFinfo) – :computer: A fissure Companion App for Warframe
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr)
 - [WindowsGSM/WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) – 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
 - [Zaczero/DNSChanger](https://github.com/Zaczero/DNSChanger) – 🔧 The ultimate Windows DNS changer tool (with DNSCrypt)
@@ -697,6 +697,7 @@
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) – ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [SoMuchForSubtlety/f1viewer](https://github.com/SoMuchForSubtlety/f1viewer) – 🏎️ TUI for F1TV
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) – Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
+- [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) – Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [TheDevMinerTV/package-size-calculator](https://github.com/TheDevMinerTV/package-size-calculator)
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) – an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
@@ -1876,6 +1877,7 @@
 - [kade-robertson/uggo](https://github.com/kade-robertson/uggo) – TUI app to pull builds from u.gg
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+- [knoellle/wfinfo-ng](https://github.com/knoellle/wfinfo-ng) – A Linux compatible version of the great WFinfo. Analyze relic reward screen to determine platinum value of items.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
