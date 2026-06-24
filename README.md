@@ -543,7 +543,7 @@
 - [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) – Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) – An opinionated set of configurations for firefox.
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) – A responsive One-Line CSS Theme for Firefox
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) – Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) – Firefox CSS Theme - Dark theme / More compact / Modular / Blur
 - [ekumahost/ImageServer](https://github.com/ekumahost/ImageServer) –  Unlimited image cdn free API
 - [fredemmott/StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) – Control the Discord application with the Elgato StreamDeck
 - [migueravila/simplefox](https://github.com/migueravila/simplefox) – A Userstyle theme for Firefox minimalist and Keyboard centered.
@@ -603,7 +603,7 @@
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
 - [commetchat/commet](https://github.com/commetchat/commet) – Your space to connect
 - [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet) – Stack Wallet, a multicoin, cryptocurrency wallet
-- [ente-io/ente](https://github.com/ente-io/ente) – 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) – 💚 End-to-end encrypted cloud for everything.
 - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) – The cutest instant messenger in the [matrix]
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
@@ -891,6 +891,7 @@
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Fabric mod that lets you join Minecraft servers across all major versions.
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -1133,9 +1134,9 @@
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) – A feature-rich weather app with good visualizations and more than 50 sources.
 - [cbruegg/packetloss-watchdog](https://github.com/cbruegg/packetloss-watchdog) – A workaround for the Vodafone Station's packet loss issue
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) – AirPods liberated from Apple's ecosystem.
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) – 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [librepods-org/librepods](https://github.com/librepods-org/librepods) – AirPods liberated from Apple's ecosystem.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
 - [siketyan/intellij-rustowl](https://github.com/siketyan/intellij-rustowl) – Visualize ownerships and lifetimes in Rust on IntelliJ IDEs.
@@ -1399,6 +1400,7 @@
 - [Captain-FLAM/KaraFan](https://github.com/Captain-FLAM/KaraFan) – The BEST music separation model with help of A.I. ... to my ears ! 👂👂
 - [ChocoMeow/Vocard](https://github.com/ChocoMeow/Vocard) – Vocard is a simple music bot. It leads to a comfortable experience which is user-friendly, It supports Youtube, Soundcloud, Spotify, Twitch and more!
 - [Chris-GW/pixel](https://github.com/Chris-GW/pixel)
+- [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) – A Linux native mod manager for a variety of games
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 - [Cyber40014/sungrow-solarcloud-haos-integration](https://github.com/Cyber40014/sungrow-solarcloud-haos-integration) – HACS HAOS integration for sungrow inverter, iHomeManager and isolarcloud
@@ -2238,7 +2240,6 @@
 - [ShufflePerson/Discord_CDN](https://github.com/ShufflePerson/Discord_CDN) – Bypasses the new Discord Expiry time on download links. 
 - [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins) – Shelter plugins, some of them Dorion related
 - [SpyglassMC/Spyglass](https://github.com/SpyglassMC/Spyglass) – Development tools for vanilla Minecraft: Java Edition data pack developers.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
