@@ -44,6 +44,7 @@
 - [Makefile](#makefile)
 - [Mdx](#mdx)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -139,6 +140,7 @@
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
 - [SiloCityLabs/esp32-airtap](https://github.com/SiloCityLabs/esp32-airtap) – Compilation of AC Infinity Vent custom pcbs
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [Unixcraft-Studios/X3Dctl](https://github.com/Unixcraft-Studios/X3Dctl) – X3Dctl is a lightweight Linux CLI utility for AMD X3D processors that enables deterministic mode control, CCD-aware process affinity, and predictable workload isolation.
@@ -409,7 +411,6 @@
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
-- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
@@ -1200,6 +1201,12 @@
 - [OpenAsar/capybara](https://github.com/OpenAsar/capybara) – Minimal replacement for Squirrel's Update.exe
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) – CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [zqqw/pakku](https://github.com/zqqw/pakku) – Pacman wrapper with AUR support
+
+<div id="nix"></div>
+
+## Nix
+
+- [LovingMelody/nix-citizen](https://github.com/LovingMelody/nix-citizen) – Nix configuration for StarCitizen, optionally installs the game package.
 
 <div id="objective-c"></div>
 
