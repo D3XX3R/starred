@@ -684,6 +684,7 @@
 ## Go
 
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -1294,6 +1295,7 @@
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) – A set of AI tools that will help you explore the infinite possibilities of AI.
 - [nashwik/All-Discord-Exploits](https://github.com/nashwik/All-Discord-Exploits) – This is a list of Discord console scripts, bugs and exploits.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) – Updated list of public BitTorrent trackers
+- [numixtheofficial/streamblock.online-chrome-extension](https://github.com/numixtheofficial/streamblock.online-chrome-extension) – Streamblock removes ads where they annoy you most: inside Twitch livestreams and YouTube videos – and blocks trackers and banners on every website along the way.
 - [ottomated/admin-panel-updates](https://github.com/ottomated/admin-panel-updates)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
@@ -1452,6 +1454,7 @@
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external services required.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
+- [P-Adamiec/Free-Games-Claimer-Remaster](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) – A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) – Easily train a good VC model with voice data <= 10 mins!
 - [RaccoonTamer/Reddit-Crawler](https://github.com/RaccoonTamer/Reddit-Crawler) – Reddit Media Downloader is a Python application designed to simplify the process of downloading images and GIFs from Reddit. It allows users to specify a subreddit and number of posts to fetch, then automatically retrieves and downloads all available media files.  The app features built-in cache logic, which remembers previously downloaded posts to
@@ -2049,7 +2052,6 @@
 
 ## Shell
 
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere, any way you like it. 
@@ -2078,6 +2080,7 @@
 - [dockur/macos](https://github.com/dockur/macos) – MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) – Windows inside a Docker container.
 - [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker) – Factorio headless server in a Docker container
+- [fireph/docker-twitch-drops-miner](https://github.com/fireph/docker-twitch-drops-miner) – Unofficial Docker container for Twitch Drops Miner
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) – A fish-shell package to automatically receive notifications when long processes finish.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) – Free & Open source macOS Cursors.
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) – SteamOS 3 (Holo) archiso configuration
