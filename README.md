@@ -1295,7 +1295,6 @@
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) – A set of AI tools that will help you explore the infinite possibilities of AI.
 - [nashwik/All-Discord-Exploits](https://github.com/nashwik/All-Discord-Exploits) – This is a list of Discord console scripts, bugs and exploits.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) – Updated list of public BitTorrent trackers
-- [numixtheofficial/streamblock.online-chrome-extension](https://github.com/numixtheofficial/streamblock.online-chrome-extension) – Streamblock removes ads where they annoy you most: inside Twitch livestreams and YouTube videos – and blocks trackers and banners on every website along the way.
 - [ottomated/admin-panel-updates](https://github.com/ottomated/admin-panel-updates)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
