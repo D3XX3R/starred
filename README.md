@@ -396,6 +396,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [Noeli14/MCppServer](https://github.com/Noeli14/MCppServer) – Fast and super efficient Minecraft Server written in C++
 - [Not-Smelly-Garbage/Reshade-Unlocked](https://github.com/Not-Smelly-Garbage/Reshade-Unlocked) – A generic post-processing injector for games and video software.
+- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) – Advanced VM detection library and tool
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) – Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
 - [Off-World-Live/obs-spout2-plugin](https://github.com/Off-World-Live/obs-spout2-plugin) – A Plugin for OBS Studio to enable Spout2 (https://github.com/leadedge/Spout2) input / output
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) – Classic Shell Reborn.
@@ -472,7 +473,6 @@
 - [kashithecomfy/ComfyEngine](https://github.com/kashithecomfy/ComfyEngine) – ComfyEngine is a memory exploration toolkit built for people who need to monitor, patch, and script a running process.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) – KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [keklick1337/7zip-extended](https://github.com/keklick1337/7zip-extended) – A Patched Version of 7-Zip for Improved Mask Handling
-- [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) – Advanced VM detection library and tool
 - [kormix-io/KoordASIO](https://github.com/kormix-io/KoordASIO) – A user-friendly universal ASIO driver for use with any Windows installation. Supports WASAPI (shared and exclusive) and includes config GUI.
 - [kushview/element](https://github.com/kushview/element) – Element Audio Plugin Host
 - [landave/TeamSpeakHasher](https://github.com/landave/TeamSpeakHasher) – OpenCL-based tool to increase the security level of TeamSpeak identities
@@ -788,7 +788,7 @@
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) – A tool that facilitates building OCI images.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
