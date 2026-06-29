@@ -460,7 +460,7 @@
 - [fholger/openvr_fsr](https://github.com/fholger/openvr_fsr) – Add Image Upscaling via AMD FidelityFX SuperResolution or NVIDIA Image Scaling to SteamVR games
 - [fluffyanvil/Rocksmith-Diy-Realtone-Cable](https://github.com/fluffyanvil/Rocksmith-Diy-Realtone-Cable) – diy realtone cable
 - [google/lyra](https://github.com/google/lyra) – A Very Low-Bitrate Codec for Speech Compression
-- [gottagofaster236/RewardsTheater](https://github.com/gottagofaster236/RewardsTheater) – An OBS plugin that lets your viewers redeem videos or sounds on stream via Twitch Channel Points.
+- [gottagofaster236/RewardsTheater](https://github.com/gottagofaster236/RewardsTheater) – OBS plugin that lets your viewers redeem videos or sounds on stream via Twitch Channel Points
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) – LAN Party VPN - Run VPN on top of Discord. No installation required.
 - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) – Portable Executable reversing tool with a friendly GUI 
 - [hexabits/nifskope](https://github.com/hexabits/nifskope)
@@ -660,7 +660,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) – Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!
 - [RodZill4/material-maker](https://github.com/RodZill4/material-maker) – A procedural textures authoring and 3D model painting tool based on the Godot game engine
 - [V-Sekai/v-sekai-game](https://github.com/V-Sekai/v-sekai-game) – Open-source VR socials
-- [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) – The minimalistic video editor made with Godot.
+- [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) – This project moved to https://codeberg.org/gozen/gozen. The minimalistic video editor made with Godot.
 - [arthiee4/RiotSwitcher](https://github.com/arthiee4/RiotSwitcher) – Riot Switcher is a multi-account launcher for Riot Games (starting with League of Legends), allowing users to manage multiple accounts easily.
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) – Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
@@ -788,7 +788,7 @@
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) – A tool that facilitates building OCI images.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
@@ -2280,6 +2280,7 @@
 - [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a beautiful self-hosted modern IRC client with a retro flair, most easily described as "your personal IRCCloud, with Weechat looks".
 - [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) – Spotify Car Thing UI Web App Dump
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) – A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
+- [anthonysgro/geospoof](https://github.com/anthonysgro/geospoof) – Browser extension that spoofs your geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
