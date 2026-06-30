@@ -775,7 +775,7 @@
 - [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
-- [minekube/gate](https://github.com/minekube/gate) – High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
+- [minekube/gate](https://github.com/minekube/gate) – Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -1920,7 +1920,7 @@
 - [moonrepo/moon](https://github.com/moonrepo/moon) – A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mu-arch/skyfolder](https://github.com/mu-arch/skyfolder) – 🪂 SkyFolder shares your folders on the network!
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) – IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) – IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
