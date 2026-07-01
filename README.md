@@ -559,7 +559,7 @@
 
 - [8ta4/accent](https://github.com/8ta4/accent)
 - [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
-- [penpot/penpot](https://github.com/penpot/penpot) – Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) – Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 <div id="cmake"></div>
 
