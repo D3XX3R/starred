@@ -366,6 +366,7 @@
 - [Alia5/GlosSI](https://github.com/Alia5/GlosSI) – Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
 - [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) – Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)
 - [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) – Fast and simple homebrew save manager for 3DS and Switch.
+- [Berny23/virtual-surround-manager](https://github.com/Berny23/virtual-surround-manager) – Enable virtual 7.1 surround sound for your headphones on Linux with just one click.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) – Chat client for https://twitch.tv
 - [DaltonLens/DaltonLens](https://github.com/DaltonLens/DaltonLens) – Desktop utility to assist color blind people with different kind of real-time filters.
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) – Windows dll injector
@@ -825,6 +826,7 @@
 
 ## HTML
 
+- [ElectronicResearch/fritzmux](https://github.com/ElectronicResearch/fritzmux)
 - [FlashSkyNews/pixel](https://github.com/FlashSkyNews/pixel) – Amtsprache ist Deutsch
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) – A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
@@ -1577,6 +1579,7 @@
 - [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat) – A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 - [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) – Unofficial ParcelApp integration with Home Assistant
 - [jnordberg/tortoise-tts](https://github.com/jnordberg/tortoise-tts) – A multi-voice TTS system trained with an emphasis on quality
+- [jonasbkarlsson/ev_smart_charging](https://github.com/jonasbkarlsson/ev_smart_charging) – Electric vehicle smart charging for Home Assistant.
 - [justinjohn0306/Audio-Splitter](https://github.com/justinjohn0306/Audio-Splitter) – Audio Splitter provides a user-friendly solution for splitting audio files based on silence detection.
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) –   mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several file manager extensions.
 - [klacol/smgw-theben-conexa](https://github.com/klacol/smgw-theben-conexa) – API-Client für das Theben Conexa Smart Meter Gateway (SMGW)
