@@ -2056,7 +2056,7 @@
 
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚 Secure remote browsing anywhere, any way you like it. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. 
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [Deadboy666/h3adcr-b](https://github.com/Deadboy666/h3adcr-b) – the headcrab approaches..
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
