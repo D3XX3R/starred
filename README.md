@@ -742,6 +742,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [dwot/isley](https://github.com/dwot/isley) – Self-Hosted Cannabis Grow Journal with sensor tracking for AC Infinity Controllers and Ecowitt Soil Sensors
 - [evan-sm/twitchpl](https://github.com/evan-sm/twitchpl) – ▶️🎵 Get m3u8 twitch playlist
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) – solar charging ☀️🚘
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [folbricht/routedns](https://github.com/folbricht/routedns) – DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [gempir/justlog](https://github.com/gempir/justlog) – twitch logging platform
@@ -1293,6 +1294,7 @@
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
+- [martinknechtel/sungrow-tibber-home-assistant](https://github.com/martinknechtel/sungrow-tibber-home-assistant)
 - [mauricew/twitch-graphql-api](https://github.com/mauricew/twitch-graphql-api) – Undocumented, uncorroborated, but certainly not unPoggers.
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) – A set of AI tools that will help you explore the infinite possibilities of AI.
 - [nashwik/All-Discord-Exploits](https://github.com/nashwik/All-Discord-Exploits) – This is a list of Discord console scripts, bugs and exploits.
@@ -1454,7 +1456,7 @@
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external services required.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Open Data Platform for analysts, quants and AI agents.
 - [P-Adamiec/Free-Games-Claimer-Remaster](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) – A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) – Easily train a good VC model with voice data <= 10 mins!
