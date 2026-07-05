@@ -1161,7 +1161,7 @@
 - [koreader/koreader](https://github.com/koreader/koreader) – An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [n0zhik/ModernX](https://github.com/n0zhik/ModernX) – (Working 02/24) A modern OSC UI replacement for MPV that retains the functionality of the default OSC.
 - [neil-lobo/chat-commands-plus](https://github.com/neil-lobo/chat-commands-plus) – Chatterino plugin to add various old chat commands
-- [ntop/ntopng](https://github.com/ntop/ntopng) – Web-based Traffic and Security Network Traffic Monitoring
+- [ntop/ntopng](https://github.com/ntop/ntopng) – Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [pelican-eggs/eggs](https://github.com/pelican-eggs/eggs) – Service eggs for the pterodactyl panel
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) – mpv script to skip sponsored segments of YouTube videos
 - [po5/thumbfast](https://github.com/po5/thumbfast) – High-performance on-the-fly thumbnailer script for mpv
@@ -1498,6 +1498,7 @@
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
 - [ZackGphom/GLORP](https://github.com/ZackGphom/GLORP) – Optimized Pixel-Art to SVG converter with Greedy Meshing.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
+- [agittins/bermuda](https://github.com/agittins/bermuda) – Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
@@ -1645,7 +1646,7 @@
 - [sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-](https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-) – Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) – A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) – Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
 - [tanersb/TwitchRecover](https://github.com/tanersb/TwitchRecover)
 - [timmaurice/bergfex](https://github.com/timmaurice/bergfex) – This custom integration for Home Assistant fetches snow reports and ski resort data directly from Bergfex.
@@ -2246,6 +2247,7 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) – The open-source CapCut alternative
 - [PrinceBunBun981/VencordPlugins](https://github.com/PrinceBunBun981/VencordPlugins) – All of the public Vencord plugins I've worked on.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) – Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [ReikanYsora/Helios](https://github.com/ReikanYsora/Helios) – Helios - Make your energy visible, in 2.5D in a Lovelace card for Home Assistant
 - [Rested/RSurvA](https://github.com/Rested/RSurvA) – Really Super Anonymous Surveys - Surveys which claim to be anonymous often are not.  RSurvA tries to do anonymous surveys better.
 - [Sakhnovkrg/Keysee-App](https://github.com/Sakhnovkrg/Keysee-App) – Keystrokes and mouse clicks visualizer for tutorial creators
 - [SaladTechnologies/salad-applications](https://github.com/SaladTechnologies/salad-applications) – Home of the Salad web app
