@@ -366,7 +366,7 @@
 - [Alia5/GlosSI](https://github.com/Alia5/GlosSI) – Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
 - [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) – Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)
 - [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) – Fast and simple homebrew save manager for 3DS and Switch.
-- [Berny23/virtual-surround-manager](https://github.com/Berny23/virtual-surround-manager) – Enable virtual 7.1 surround sound for your headphones on Linux with just one click.
+- [Berny23/virtual-surround-manager](https://github.com/Berny23/virtual-surround-manager) – Virtual 3D sound for headphones on Linux
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) – Chat client for https://twitch.tv
 - [DaltonLens/DaltonLens](https://github.com/DaltonLens/DaltonLens) – Desktop utility to assist color blind people with different kind of real-time filters.
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) – Windows dll injector
@@ -1454,7 +1454,7 @@
 - [Marc1326/Anvil-Organizer](https://github.com/Marc1326/Anvil-Organizer) – Native Linux mod manager inspired by MO2 — 35 games, Proton Script Extender support (SKSE64/F4SE/SFSE), Python/Qt6
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external services required.
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Open Data Platform for analysts, quants and AI agents.
 - [P-Adamiec/Free-Games-Claimer-Remaster](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) – A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer
@@ -2204,7 +2204,7 @@
 - [CraigChat/craig](https://github.com/CraigChat/craig) – Craig is a multi-track voice recorder for Discord.
 - [Crazeflex/BetterScreenShare](https://github.com/Crazeflex/BetterScreenShare) – Screenshare plugin for VC
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) – 🧡 Everything is RSSible
-- [Doezer/Questarr](https://github.com/Doezer/Questarr) – Video games manager for -arr users
+- [Doezer/Questarr](https://github.com/Doezer/Questarr) – Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Enovale/cinny-electron](https://github.com/Enovale/cinny-electron)
