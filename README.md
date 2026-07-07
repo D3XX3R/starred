@@ -1026,6 +1026,7 @@
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
 - [harung1993/dollardollar](https://github.com/harung1993/dollardollar) – Just an Opensourced locally hosted Money Management and Expense Splitting Service
+- [helloyanis/age-verification-bypass](https://github.com/helloyanis/age-verification-bypass) – Extension to bypass age verification on some websites
 - [hieyou1/twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) – DVD Screensaver style "Starting Soon" or [for IRL streamers] "Stream Down" screen.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) – Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
@@ -1642,7 +1643,7 @@
 - [snazzybean/roommind](https://github.com/snazzybean/roommind) – Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
 - [soylent/offstream](https://github.com/soylent/offstream) – Personal twitch stream recorder
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Discord bot with automated RSS feed posting and pinboard-map functionalities. Working on more
-- [sparklost/endcord](https://github.com/sparklost/endcord) – Feature rich Discord TUI client.
+- [sparklost/endcord](https://github.com/sparklost/endcord) – The most feature rich Discord TUI client.
 - [sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-](https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-) – Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -2298,6 +2299,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
+- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) – The modern, local-first platform for professional video surveillance — built for maximum flexibility and ease of use.
 - [camila314/vencord-KeywordNotify](https://github.com/camila314/vencord-KeywordNotify) – Vencord third-party plugin to "ping" the user if a message matches custom regular expressions
 - [captableinc/captable](https://github.com/captableinc/captable) – #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
@@ -2520,7 +2522,6 @@
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) – Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [bellingcat/osm-search](https://github.com/bellingcat/osm-search) – A user friendly way to search OpenStreetMap data for features in proximity to each other.
 - [bootsie123/F1-Web-Viewer](https://github.com/bootsie123/F1-Web-Viewer) – A simple grid-based web viewer for Formula 1
-- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) – NVR like user Interface for RTSP capable cameras
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) – A delightful Firefly III companion web app for effortless transaction tracking
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) – 📖 All your articles in one place. Beautiful.
 - [jamiepine/cache-monkey](https://github.com/jamiepine/cache-monkey) – Convert, browse and clear cached images and files. Images you see online are never deleted immediately, unless you delete them of course.  Most desktop apps have a cache directory, not all provide the tools to clear it. CacheMonkey not only lets you purge cache files, but browse and filter through them too.
