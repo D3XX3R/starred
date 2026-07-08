@@ -467,6 +467,7 @@
 - [hexabits/nifskope](https://github.com/hexabits/nifskope)
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) – BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – A free, open-source, and cross-platform iDevice management tool
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
@@ -499,7 +500,7 @@
 - [mongoose-os-apps/shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit) – Apple HomeKit firmware for Shelly's
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) – GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) – DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [netborg-afps/dxvk-low-latency](https://github.com/netborg-afps/dxvk-low-latency) – Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [netborg-afps/dxvk-low-latency](https://github.com/netborg-afps/dxvk-low-latency) – Enhances DXVK with low-latency frame pacing 
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) – nomacs is a free image viewer for windows, linux, and mac systems.
 - [nvpro-samples/vk_raytrace](https://github.com/nvpro-samples/vk_raytrace) – Ray tracing glTF scene with Vulkan
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) – CEF-based OBS Studio browser plugin
@@ -690,6 +691,7 @@
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [DevHatRo/zero-trust-proxy](https://github.com/DevHatRo/zero-trust-proxy) – Zero Trust Reverse proxy over mTLS
+- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – Transparent chat overlay for streamers. Twitch, YouTube, and Kick in one window.
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) – A broadcast, in a box. 
@@ -1709,6 +1711,7 @@
 - [2bc4/twitch-hls-client](https://github.com/2bc4/twitch-hls-client) – Minimal CLI client for watching Twitch streams
 - [2e3s/aw-watcher-media-player](https://github.com/2e3s/aw-watcher-media-player) – Watcher of system's currently playing media for ActivityWatch
 - [2e3s/awatcher](https://github.com/2e3s/awatcher) – Activity and idle watchers
+- [66HEX/frame](https://github.com/66HEX/frame) – FFmpeg GUI
 - [AdriDevelopsThings/iceportal-rich-presence](https://github.com/AdriDevelopsThings/iceportal-rich-presence) – Show your current ride in discord via the ICE portal api
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) – Avoid Twitch ads by grabbing video playlists from Russia
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) – Distributed stream processing engine in Rust
@@ -2209,7 +2212,6 @@
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Enovale/cinny-electron](https://github.com/Enovale/cinny-electron)
-- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – Transparent chat overlay for streamers. Twitch, YouTube, and Kick in one window.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – Cross-platform SimConnect library for Node.js. No native C++ libraries required.
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
