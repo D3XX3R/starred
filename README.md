@@ -371,6 +371,7 @@
 - [DaltonLens/DaltonLens](https://github.com/DaltonLens/DaltonLens) – Desktop utility to assist color blind people with different kind of real-time filters.
 - [DarthTon/Xenos](https://github.com/DarthTon/Xenos) – Windows dll injector
 - [Denellyne/PCXSense](https://github.com/Denellyne/PCXSense) – Translates the inputs from the Dualsense into XInput making it compatible with any PC Game
+- [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) – An ESPHome package to capture Apple and Android Bluetooth IRKs
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [DwayneM20/Steam-Log-Collector](https://github.com/DwayneM20/Steam-Log-Collector) – Cross-platform desktop application for collecting and managing log files from Steam games. Provides both a command-line interface (CLI) and a graphical user interface (GUI) to help users locate, view, and organize game log files for troubleshooting purposes.
@@ -838,6 +839,7 @@
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [kmille/freetar](https://github.com/kmille/freetar) – freetar  - an alternative frontend to ultimate-guitar.com
+- [mkshb/hass-evcc-card](https://github.com/mkshb/hass-evcc-card) – Custom Lovelace Card for EVCC
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) – A verified tool that works on any potato computer that will let you bypass discord verification
@@ -1024,6 +1026,7 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) – :cloud: Sync your bookmarks privately across browsers and devices
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 21 views
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1289,6 +1292,7 @@
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) – curated list of open-source anti-censorship tools
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) – Curated list of awesome things related to Deno
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) – A collection of awesome things regarding React ecosystem
+- [evcc-io/hassio-addon](https://github.com/evcc-io/hassio-addon) – Hass.io add-on for EVCC
 - [flathub/org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler](https://github.com/flathub/org.freedesktop.LinuxAudio.Plugins.NeuralAmpModeler)
 - [fromtheexchange/image2svg-awesome](https://github.com/fromtheexchange/image2svg-awesome) – All about image tracing and vectorization—the conversion of a raster image (jpg/png) to a vector image (svg).
 - [gazorby/awesome-fish](https://github.com/gazorby/awesome-fish) – A curated list of packages, prompts, and resources for the fish shell.
@@ -1401,6 +1405,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) – Stable Diffusion web UI
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS) – This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
+- [Akulatraxas/ha-modbusproxy](https://github.com/Akulatraxas/ha-modbusproxy) – Hassio Addon packaging modus-proxy
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Allexio/nomm](https://github.com/Allexio/nomm) – Native Open Mod Manager
@@ -1512,6 +1517,7 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
 - [asroxy/proton_proxy](https://github.com/asroxy/proton_proxy) – A simple python language proxy for ProtonMail Bridge allowing remote access to the bridge for web applications running on another server
 - [aviiciii/audiobook-downloader](https://github.com/aviiciii/audiobook-downloader) – Download Audiobooks with Metadata from Streamers
+- [balki97/FeedForge](https://github.com/balki97/FeedForge) – Windows toolkit for converting PSARC CDLC packages to FeedPak.
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) – Writes data from fritzbox to influxdb
 - [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder) – Find possible locations of shadows around the world
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1522,6 +1528,7 @@
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
+- [carelesshangman/psarc2feedpak](https://github.com/carelesshangman/psarc2feedpak)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java 
@@ -1852,7 +1859,7 @@
 - [extism/extism](https://github.com/extism/extism) – The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
 - [fereidani/opool](https://github.com/fereidani/opool) – High-performance, lock-free local and concurrent object memory pool with automated allocation, cleanup, and verification.
-- [ferronweb/ferron](https://github.com/ferronweb/ferron) – A fast, memory-safe web server written in Rust.
+- [ferronweb/ferron](https://github.com/ferronweb/ferron) – A fast, modern, and easily configurable web server with automatic TLS.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) – A reimplementation of the minecraft server in rust.
 - [ffplayout/ffplayout](https://github.com/ffplayout/ffplayout) – Rust and ffmpeg based playout 
 - [fintelia/terra](https://github.com/fintelia/terra) – A large scale terrain rendering library written in Rust
@@ -2238,7 +2245,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's internal API, known as InnerTube.
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) – Matterbridge plugin manager for Matter
 - [Luligu/matterbridge-shelly](https://github.com/Luligu/matterbridge-shelly) – Matterbridge shelly plugin
-- [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – A SpaceBar Client written in TS HTML and CSS
+- [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – A Harmony Client written in TS HTML and CSS
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
 - [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) – :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
@@ -2303,7 +2310,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
-- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) – The modern, local-first platform for professional video surveillance — built for maximum flexibility and ease of use.
+- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) – The modern, local-first platform for professional video surveillance.
 - [camila314/vencord-KeywordNotify](https://github.com/camila314/vencord-KeywordNotify) – Vencord third-party plugin to "ping" the user if a message matches custom regular expressions
 - [captableinc/captable](https://github.com/captableinc/captable) – #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
@@ -2397,7 +2404,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nab138/iloader](https://github.com/nab138/iloader) – User friendly sideloader
 - [necdetsanli/do-not-ghost-me](https://github.com/necdetsanli/do-not-ghost-me) – Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.
-- [neosubhamoy/neodlp](https://github.com/neosubhamoy/neodlp) – Cross-platform Video/Audio Downloader Desktop App based on YT-DLP with Modern UI and Browser Integration (🦭 Seal for Desktop)
+- [neosubhamoy/neodlp](https://github.com/neosubhamoy/neodlp) – Modern Video/Audio Downloader based on YT-DLP with Browser Integration (🦭 Seal for Desktop)
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [netbirdio/dashboard](https://github.com/netbirdio/dashboard) – NetBird Management Service Web UI Panel
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
