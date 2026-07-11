@@ -1063,7 +1063,6 @@
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) – PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 - [nutbread/t2m](https://github.com/nutbread/t2m) – Torrent to magnet converter
 - [oatmealine/powercord-tiktok-tts](https://github.com/oatmealine/powercord-tiktok-tts) – Lets you speak Discord messages with the TikTok TTS.
-- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) – Open Source components of Little Snitch for Linux
 - [openstyles/stylus](https://github.com/openstyles/stylus) – Stylus - Userstyles Manager
 - [orangecoding/fredy](https://github.com/orangecoding/fredy) – ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) – Peer-to-Peer Databases for the Decentralized Web
@@ -1947,6 +1946,7 @@
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
+- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) – Open Source components of Little Snitch for Linux
 - [obhq/obliteration](https://github.com/obhq/obliteration) – Experimental free and open-source PlayStation 4 kernel
 - [oferchen/rsync](https://github.com/oferchen/rsync) – Classic rsync re-implementation in pure Rust
 - [ogham/exa](https://github.com/ogham/exa) – A modern replacement for ‘ls’.
