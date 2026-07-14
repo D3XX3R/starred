@@ -894,7 +894,7 @@
 - [MCRcortex/vulkanite](https://github.com/MCRcortex/vulkanite) – A minecraft mod designed to bring vulkan hardware raytracing to minecraft java edition
 - [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) – google maps for block game
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) – Based Minecraft utility mod.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 26.1 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) – 26.2 Lightweight Minecraft server
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
 - [NythicalNorm/VoxelSpaceProgram](https://github.com/NythicalNorm/VoxelSpaceProgram) – A Minecraft space mod with realistic orbital mechanics in a truly big solar system.
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
@@ -1450,6 +1450,7 @@
 - [JocysCom/FocusLogger](https://github.com/JocysCom/FocusLogger) – Find out which process or program is taking the window focus. In-game controls could temporary stop responding if other program steals the focus.
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) – Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) – Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
+- [KRoperUK/sungrow-hass](https://github.com/KRoperUK/sungrow-hass) – Home assistant integration for the Sungrow API
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) – A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [KimberleyJensen/Mel-Band-Roformer-Vocal-Model](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model)
 - [KnifeXRage/Godot-Secure](https://github.com/KnifeXRage/Godot-Secure) – Godot Secure is a Simple Python Script That modify the Godot Source Code Automatically, to integrate Camellia-256 / AES-256 encryption with a unique security token system. This solution creates a cryptographically unique engine build that prevents generic decryption tools from accessing your game assets.
@@ -1471,6 +1472,7 @@
 - [RaccoonTamer/Reddit-Crawler](https://github.com/RaccoonTamer/Reddit-Crawler) – Reddit Media Downloader is a Python application designed to simplify the process of downloading images and GIFs from Reddit. It allows users to specify a subreddit and number of posts to fetch, then automatically retrieves and downloads all available media files.  The app features built-in cache logic, which remembers previously downloaded posts to
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) – Rare is an open source alternative for Epic Games Launcher, using Legendary.
 - [Recol/DLSS-Updater](https://github.com/Recol/DLSS-Updater) – What if you could update all the games that are detected on your system?
+- [RoboSats/robosats](https://github.com/RoboSats/robosats) – A simple and private bitcoin exchange
 - [RundownRhino/aw-watcher-mpv-sender](https://github.com/RundownRhino/aw-watcher-mpv-sender) – ActivityWatch watcher for mpv
 - [RyanCheddar/discord-voice-message-transcriber](https://github.com/RyanCheddar/discord-voice-message-transcriber) – Discord.py bot that auto-transcribes voice messages using OpenAI Whisper
 - [SameSalamander5710/DynamicFPSLimiter](https://github.com/SameSalamander5710/DynamicFPSLimiter) – A GUI app to assess GPU/CPU usage and dynamically alter FPS limits via RTSS
@@ -1586,6 +1588,7 @@
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) – CLI tool for downloading videos from Twitch.
 - [imLinguin/nile](https://github.com/imLinguin/nile) – Unofficial Amazon Games client
 - [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Local voice dictation and meeting recorder for Windows + Linux. Hold a hotkey to dictate, or record long-form meetings with system audio. Whisper transcription, bring-your-own-LLM summaries. Open source.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
@@ -1637,6 +1640,7 @@
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) – Automatic Bitwarden Backup
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) – [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) – SoTA open-source TTS
+- [riftaway7-code/hackmate](https://github.com/riftaway7-code/hackmate) – automates the entire process of creating a bootable OpenCore hackintosh USB. No manual config.plist editing, no hunting down kexts, no macrecovery commands.
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) – Handle your Media Library with ease!
 - [roshanlam/iFetch](https://github.com/roshanlam/iFetch) – 🚀 Bulk download your iCloud Drive files and folders with a simple command line tool
 - [rudymohammadbali/OpenAI-Whisper-GUI](https://github.com/rudymohammadbali/OpenAI-Whisper-GUI) – Modern GUI application that transcribes and translate audio files using OpenAI Whisper.
@@ -2050,7 +2054,7 @@
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) – A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
-- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – https://t.me/githubx89 Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot
+- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – https://t.me/av1080trading Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
@@ -2244,7 +2248,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) – A JavaScript client for YouTube's internal API, known as InnerTube.
 - [Luligu/matterbridge](https://github.com/Luligu/matterbridge) – Matterbridge plugin manager for Matter
 - [Luligu/matterbridge-shelly](https://github.com/Luligu/matterbridge-shelly) – Matterbridge shelly plugin
-- [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – A Harmony Client written in TS HTML and CSS
+- [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – Mirror of https://codeberg.org/MelodyChat/Fermi
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
 - [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) – :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
@@ -2361,7 +2365,6 @@
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
 - [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) – Checks which public gateways are online or not
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) – Collection of publicly available IPTV channels from all over the world
@@ -2437,7 +2440,7 @@
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [relagit/relagit](https://github.com/relagit/relagit) – The elegant solution to graphical version control.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) – 🎥      Make videos programmatically with React
-- [remvze/pswd](https://github.com/remvze/pswd) – 🔑 Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) – Simple secure password generator.
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) – A lightweight Discord client mod focused on simplicity and performance.
 - [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [ropali/dockyard](https://github.com/ropali/dockyard) – A fast & beautiful Docker GUI client
