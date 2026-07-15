@@ -688,7 +688,6 @@
 
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [DevHatRo/zero-trust-proxy](https://github.com/DevHatRo/zero-trust-proxy) – Zero Trust Reverse proxy over mTLS
@@ -1603,6 +1602,7 @@
 - [kukuxx/HA-NotifyHelper](https://github.com/kukuxx/HA-NotifyHelper) – Home Assistant custom integration for notification./Home Assistant 通知助手整合
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) – Legendary - A free and open-source replacement for the Epic Games Launcher
 - [lingfo/lingfo](https://github.com/lingfo/lingfo) – Foreign function interface for any language
+- [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) – Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
 - [makalin/Bitwave](https://github.com/makalin/Bitwave) – Bitwave is a high-fidelity, developer-friendly, future-proof audio format designed for modern sound experiences — including spatial audio, dynamic tempo adjustment, and multi-track support.
@@ -2203,6 +2203,7 @@
 - [0010aor/FlashNotes](https://github.com/0010aor/FlashNotes)
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) – :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) – Browser watcher for ActivityWatch
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) – Free Windows, Mac and Linux cleaner, scanner, and more.
 - [Aetherall/tobiifree](https://github.com/Aetherall/tobiifree) – Tobii Eye Tracker 5 For Linux and Web
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
