@@ -409,6 +409,7 @@
 - [Priton-CE/opentrack-StarCitizen](https://github.com/Priton-CE/opentrack-StarCitizen) – Head tracking software for fixes with Star Citizen on Linux.
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) – Spotify ogg dumper
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) – A powerful cross-platform raw photo processing program
+- [Selectively11/CloudRedirect](https://github.com/Selectively11/CloudRedirect) – Steam Cloud redirection magic
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) – Chat client for https://twitch.tv
 - [SpecialKO/SpecialK](https://github.com/SpecialKO/SpecialK) – Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything.
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
@@ -792,7 +793,7 @@
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
 - [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) – A tool that facilitates building OCI images.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
@@ -1305,7 +1306,6 @@
 - [nashwik/All-Discord-Exploits](https://github.com/nashwik/All-Discord-Exploits) – This is a list of Discord console scripts, bugs and exploits.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) – Updated list of public BitTorrent trackers
 - [ottomated/admin-panel-updates](https://github.com/ottomated/admin-panel-updates)
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [revk/xESP32-Faikout](https://github.com/revk/xESP32-Faikout) – ESP32 based module to control Daikin aircon units
@@ -1531,7 +1531,7 @@
 - [carelesshangman/psarc2feedpak](https://github.com/carelesshangman/psarc2feedpak)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1633,6 +1633,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) – Prometheus exporter for Fritz!Box home routers
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [qBitMF/qBitMF](https://github.com/qBitMF/qBitMF) – qBittorrent client in Docker that load balances over multiple interfaces
@@ -2212,6 +2213,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) – An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
+- [BlythT/Gratitude-Millennium-Plugin](https://github.com/BlythT/Gratitude-Millennium-Plugin) – A Millennium plugin for your Steam Library that adds a helpful indicator to games you have been gifted.
 - [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
 - [Budibase/budibase](https://github.com/Budibase/budibase) – AI agents, automations and apps that run your operations. Model agnostic.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
