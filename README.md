@@ -1544,7 +1544,7 @@
 - [dalinicus/homeassistant-acinfinity](https://github.com/dalinicus/homeassistant-acinfinity) – AC Infinity integration for Home Assistant for UIS based controllers
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) – DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) – emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) – The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) – Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) – Deepfakes Software For All
 - [deezer/spleeter](https://github.com/deezer/spleeter) – Deezer source separation library including pretrained models.
@@ -1766,6 +1766,7 @@
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) – A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
 - [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) – Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features 
+- [MutsumiUniverse/tsukimi](https://github.com/MutsumiUniverse/tsukimi) – A simple third-party Jellyfin client for Linux
 - [NOALBS/nginx-obs-automatic-low-bitrate-switching](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) – Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the ingest stats page.
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
@@ -1995,7 +1996,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [secluso/core](https://github.com/secluso/core) – A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
@@ -2032,7 +2033,6 @@
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave](https://github.com/trumank/uesave) – Rust library and CLI to read and write Unreal Engine save files
-- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command.
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
