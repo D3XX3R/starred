@@ -331,6 +331,7 @@
 - [neatchee/nvidiaProfileInspectorForkAIO](https://github.com/neatchee/nvidiaProfileInspectorForkAIO) – An attempt to merge all work from forks of nvProfileInspector into a single release
 - [netchx/netch](https://github.com/netchx/netch) – A simple proxy client
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) – Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文. 
+- [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) – Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [ol1fer/sbox-linux-emoji-patch](https://github.com/ol1fer/sbox-linux-emoji-patch) – Patches s&box's bundled Topten.RichTextKit.dll to fix emoji rendering on Linux/Proton. See https://github.com/Facepunch/sbox-public/issues/10779
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) – OpenBullet reinvented
 - [porrasm/csgo-chat-gpt](https://github.com/porrasm/csgo-chat-gpt) – ChatGPT integrated into CS:GO chat.
@@ -340,6 +341,7 @@
 - [rscustom/rocksmith-custom-song-toolkit](https://github.com/rscustom/rocksmith-custom-song-toolkit) – Custom song toolkit for Rocksmith and Rocksmith 2014
 - [schneidermanuel/TwitchLeecher-Dx](https://github.com/schneidermanuel/TwitchLeecher-Dx) – Twitch Leecher DX - The Broadcast Downloader
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) – Easily edit and manage the hosts file for Windows
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) – An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [sp0ok3r/Mercury](https://github.com/sp0ok3r/Mercury) – Mercury is a powerful tool for Steam users built on SteamKit2, offering advanced features for managing accounts, chats, and interactions.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
 - [stayintarkov/StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) – An Escape From Tarkov BepInEx module designed to be used with the SPT-Aki with the ultimate goal of "Offline" Coop
@@ -787,7 +789,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
@@ -976,6 +978,7 @@
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [REVENGE977/Xenon-Bot-JavaScript-Edition](https://github.com/REVENGE977/Xenon-Bot-JavaScript-Edition) – non-official xenon bot javascript edition , a bot for backup discord servers and more features .
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) – Claim available free game promotions from the Epic Games Store.
+- [Sanket9225/UsenetStreamer](https://github.com/Sanket9225/UsenetStreamer) – UsenetStreamer lets you stream any NZB files directly into Stremio. Bring your own sources, connect Prowlarr or NZBHydra, add indexers via built-in Newznab support, or link your Easynews account using the native Easynews indexer. It performs instant health checks on Usenet results and delivers fast, reliable streaming into Stremio.
 - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) – An app that allows you to be inside a bot!
 - [Seedess/webseed](https://github.com/Seedess/webseed) – Seedess P2P Video Streaming BitTorrent Server
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) – Self host your media and share with unique links
@@ -1259,7 +1262,7 @@
 - [Jam3s97/sungrow_ihomemanager](https://github.com/Jam3s97/sungrow_ihomemanager) – Sungrow YAML to communicate with iHomeManager using modbus.
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) – 💡Limiting personal data leaks on the internet
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) – A list of GOG Galaxy 2.0 integrations and upcoming features
-- [MrKraken/StarStrings](https://github.com/MrKraken/StarStrings) – MrKraken's string replacements to add blueprint pools to contracts
+- [MrKraken/StarStrings](https://github.com/MrKraken/StarStrings) – MrKraken's string replacements QoL. Always check for update after an SC patch!!!
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) – Build and run Docker containers leveraging NVIDIA GPUs
 - [NVIDIAGameWorks/rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) – Combined repo for the RTX-Remix runtime and toolkit
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) – A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
@@ -1766,7 +1769,6 @@
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) – A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
 - [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) – Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features 
-- [MutsumiUniverse/tsukimi](https://github.com/MutsumiUniverse/tsukimi) – A simple third-party Jellyfin client for Linux
 - [NOALBS/nginx-obs-automatic-low-bitrate-switching](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) – Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the ingest stats page.
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
@@ -1996,7 +1998,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [secluso/core](https://github.com/secluso/core) – A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
@@ -2033,6 +2035,7 @@
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave](https://github.com/trumank/uesave) – Rust library and CLI to read and write Unreal Engine save files
+- [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command.
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
@@ -2415,6 +2418,7 @@
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [netbirdio/dashboard](https://github.com/netbirdio/dashboard) – NetBird Management Service Web UI Panel
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
+- [ngocjohn/sidebar-organizer](https://github.com/ngocjohn/sidebar-organizer) – 🗄️ Home Assistant custom plugin designed to give you full control over the layout and organization of the sidebar. 
 - [nichtLehdev/DiscordBot](https://github.com/nichtLehdev/DiscordBot)
 - [nicola02nb/betterTTS](https://github.com/nicola02nb/betterTTS)
 - [noaione/mpv-js-scripts](https://github.com/noaione/mpv-js-scripts) – Some mpv scripts I created (made in JS)
