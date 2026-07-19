@@ -930,7 +930,7 @@
 - [rfresh2/ZenithProxy](https://github.com/rfresh2/ZenithProxy) – 2b2t minecraft proxy / bot
 - [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) – Library mod for masa's client-side Minecraft mods
 - [sakura-ryoko/syncmatica](https://github.com/sakura-ryoko/syncmatica) – Server-wide shared litematics.
-- [theonedev/onedev](https://github.com/theonedev/onedev) – Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) – The Unified and Autonomous Development Platform
 - [tomvd/local-powerstream](https://github.com/tomvd/local-powerstream) – Knowledge gathering hub with the goal to control the ecoflow powerstream locally without internet
 - [tr7zw/Exordium](https://github.com/tr7zw/Exordium) – There is no good reason to render the hotbar at 100+ fps
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) – Vulkan renderer mod for Minecraft.
@@ -1006,6 +1006,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+- [balki97/FeedForge](https://github.com/balki97/FeedForge) – Windows toolkit for converting PSARC CDLC packages to FeedPak.
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
@@ -1506,6 +1507,7 @@
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) – ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [Woolverine94/biniou](https://github.com/Woolverine94/biniou) – a self-hosted webui for 30+ generative ai
 - [WorldObservationLog/AppleMusicDecrypt](https://github.com/WorldObservationLog/AppleMusicDecrypt) – Apple Music decryption tool, inspired by zhaarey/apple-music-alac-atmos-downloader
+- [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) – Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [Xientraa/The-Sims-Resource-Downloader](https://github.com/Xientraa/The-Sims-Resource-Downloader) – A Python tool to download items with ease from The Sims Resource.
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
 - [ZackGphom/GLORP](https://github.com/ZackGphom/GLORP) – Optimized Pixel-Art to SVG converter with Greedy Meshing.
@@ -1520,7 +1522,6 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
 - [asroxy/proton_proxy](https://github.com/asroxy/proton_proxy) – A simple python language proxy for ProtonMail Bridge allowing remote access to the bridge for web applications running on another server
 - [aviiciii/audiobook-downloader](https://github.com/aviiciii/audiobook-downloader) – Download Audiobooks with Metadata from Streamers
-- [balki97/FeedForge](https://github.com/balki97/FeedForge) – Windows toolkit for converting PSARC CDLC packages to FeedPak.
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) – Writes data from fritzbox to influxdb
 - [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder) – Find possible locations of shadows around the world
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1806,6 +1807,7 @@
 - [Tomyyy-1337/fileshare](https://github.com/Tomyyy-1337/fileshare) – A GUI Applikation to share Files in local Network or over the Internet. Written in Rust using Iced. 
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) – A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
+- [UMCEKO/hush](https://github.com/UMCEKO/hush) – HUSH — pure-Rust NVIDIA Maxine denoiser virtual microphone for Linux (PipeWire)
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) – 3D City Builder without a grid
 - [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Advanced interoperability middleware for GPGPU acceleration. Facilitates cross vendor hardware abstraction and API translation for parallel computing frameworks. Engineered for research into heterogeneous compute environments and backend agnostic workload execution.
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) – A powerful (home) server admininistration tool written in Rust
@@ -2080,6 +2082,7 @@
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. 
+- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) – Archlinux Kernel based on different schedulers and some other performance improvements.
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [Deadboy666/h3adcr-b](https://github.com/Deadboy666/h3adcr-b) – the headcrab approaches..
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
@@ -2122,6 +2125,7 @@
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from unicode characters with randomized parameters
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) – PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
+- [netbrain/zwift](https://github.com/netbrain/zwift) – Easily zwift on linux
 - [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) – Script to set up bbctl automatically for sh-imessage bridge
 - [osam-cologne/archlinux-proaudio](https://github.com/osam-cologne/archlinux-proaudio) – Actively maintained binary package repo for Arch Linux of free and open source pro-audio software.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
@@ -2292,6 +2296,8 @@
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) – Simple self-hosted music streaming server
 - [XDean/deno-create-react-app](https://github.com/XDean/deno-create-react-app) – Create React App with Deno
 - [Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader) – ⚠️ This repo has moved to https://github.com/LibreScore/dl-librescore ⚠️ | Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱
+- [Yumeo0/yumeframe](https://github.com/Yumeo0/yumeframe)
+- [ZKAW/warframe-market-terminal](https://github.com/ZKAW/warframe-market-terminal) – Get the best arbitrage for prime warframe on warframe.market and best platinium for ducat ratio
 - [Zaarrg/DropBot](https://github.com/Zaarrg/DropBot) – Drop Bot. Automaticlly Farms every Drop available like Rust for ya and now also your Custom Channel's
 - [abdfnx/botway](https://github.com/abdfnx/botway) – 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart) – Control panel to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
@@ -2308,7 +2314,7 @@
 - [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a beautiful self-hosted modern IRC client with a retro flair, most easily described as "your personal IRCCloud, with Weechat looks".
 - [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) – Spotify Car Thing UI Web App Dump
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) – A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
-- [anthonysgro/geospoof](https://github.com/anthonysgro/geospoof) – Browser extension that spoofs your geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
+- [anthonysgro/geospoof](https://github.com/anthonysgro/geospoof) – Browser extension and iOS app that spoofs your gps, geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
@@ -2345,6 +2351,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) – The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) – Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) – dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
+- [eduair94/warframe](https://github.com/eduair94/warframe) – Free real-time Warframe Market analytics & platinum trading tools — live prime prices, set-vs-parts, ducat/relic/riven value, vaulted tracking & flip finder. Live: warframe-app.digitalshopuy.com
 - [efzynx/truckers-tool-linux](https://github.com/efzynx/truckers-tool-linux) – Trucker Tool Linux | TTL
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
