@@ -172,6 +172,7 @@
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) – A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) – Hiding kernel-driver for x86/x64.
+- [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) – OBS Linux Vulkan/OpenGL game capture
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
 - [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) – Software-Defined GPS Signal Simulator
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) – Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
@@ -182,6 +183,7 @@
 - [ripxorip/PWAR](https://github.com/ripxorip/PWAR) – PWAR: PipeWire ASIO Relay — a zero-drift, real-time audio bridge
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [scanmem/scanmem](https://github.com/scanmem/scanmem) – memory scanner for Linux
+- [sched-ext/scx](https://github.com/sched-ext/scx) – sched_ext schedulers and tools
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
@@ -947,6 +949,7 @@
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
 - [Alex313031/apple-music-desktop](https://github.com/Alex313031/apple-music-desktop) – An Electron app that provides a native Apple Music experience for Linux & Windows.
 - [Alex313031/quark-player](https://github.com/Alex313031/quark-player) – An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
+- [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) – The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) – Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [BeepIsla/CSGO-Overwatch-Bot](https://github.com/BeepIsla/CSGO-Overwatch-Bot) – Automatically solve CSGO Overwatch cases
 - [BeepIsla/csgo-nametag-tool](https://github.com/BeepIsla/csgo-nametag-tool) – Bypass client side restrictions for name tags
@@ -1312,6 +1315,7 @@
 - [ottomated/admin-panel-updates](https://github.com/ottomated/admin-panel-updates)
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) – Experience TizenTube on other devices that are not Tizen.
 - [revk/xESP32-Faikout](https://github.com/revk/xESP32-Faikout) – ESP32 based module to control Daikin aircon units
 - [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) – Watch streaming media with friends.
 - [scholablade/Deadobe](https://github.com/scholablade/Deadobe) – A free culture list of free software alternatives to Adobe products, MIRROR: https://codeberg.org/Scholablade/Deadobe
