@@ -439,7 +439,7 @@
 - [acidicoala/SmokeAPI](https://github.com/acidicoala/SmokeAPI) – Legit DLC Unlocker for Steamworks
 - [adepierre/ficsit-companion](https://github.com/adepierre/ficsit-companion) – Node-based production planner for the game Satisfactory
 - [alexkay/spek](https://github.com/alexkay/spek) – Acoustic spectrum analyser
-- [aloneguid/bt](https://github.com/aloneguid/bt) – Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration.
+- [aloneguid/bt](https://github.com/aloneguid/bt) – Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration.
 - [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) – Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
 - [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) – par2cmdline × ParPar: speed focused par2cmdline fork
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1462,6 +1462,7 @@
 - [KimberleyJensen/Mel-Band-Roformer-Vocal-Model](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model)
 - [KnifeXRage/Godot-Secure](https://github.com/KnifeXRage/Godot-Secure) – Godot Secure is a Simple Python Script That modify the Godot Source Code Automatically, to integrate Camellia-256 / AES-256 encryption with a unique security token system. This solution creates a cryptographically unique engine build that prevents generic decryption tools from accessing your game assets.
 - [L480/cloudflare-dyndns](https://github.com/L480/cloudflare-dyndns) – ☁️ Cloudflare DynDNS solution for AVM FRITZ!Box
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) – Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) – A Grub Theme in the style of Minecraft!
 - [M4TH1EU/HA-EasyComputerManager](https://github.com/M4TH1EU/HA-EasyComputerManager) – An easy to use HomeAssistant integration to control (dualboot) computers.
@@ -2483,7 +2484,7 @@
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) – An all-round MQTT client that provides a structured topic overview
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) – An advanced calendar card for Home Assistant Lovelace.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
