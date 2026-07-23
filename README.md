@@ -170,6 +170,7 @@
 - [landave/TSIdentityTool](https://github.com/landave/TSIdentityTool) – Tool to read out various information about TeamSpeak identities
 - [ledoge/dwm_lut](https://github.com/ledoge/dwm_lut) – Apply 3D LUTs to the Windows desktop for system-wide color correction/calibration
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) – A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
+- [ludwig-v/wireless-carplay-dongle-reverse-engineering](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) – CPlay2Air / Carlinkit Wireless Apple CarPlay Dongle reverse engineering
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide) – Hiding kernel-driver for x86/x64.
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) – OBS Linux Vulkan/OpenGL game capture
@@ -278,6 +279,7 @@
 - [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity products.
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) – A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. GPL-3.0 open source.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) – Saves Discord chat logs to a file
 - [Valour-Software/Valour](https://github.com/Valour-Software/Valour) – Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 - [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) – Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
@@ -524,6 +526,7 @@
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) – Plugin for Neural Amp Modeler
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) – a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.
+- [sneakinhysteria/EarFix](https://github.com/sneakinhysteria/EarFix) – Hearing correction audio plugin based on audiogram
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) – Better font rendering for Windows.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) – Source code for SonoBus, a real-time network audio streaming collaboration tool.
 - [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) – Play local wireless supported games online
@@ -721,7 +724,7 @@
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
 - [akiver/cs-demo-analyzer](https://github.com/akiver/cs-demo-analyzer) – Analyze and extract data from Counter-Strike demos.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) – An automated e-mail OSINT tool
-- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) – Modern rules-based browser launcher and link redirector ready to replace your default browser.
+- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) – Rules-based browser gateway and link redirector.
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1089,6 +1092,7 @@
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) – Application/browser chooser
 - [spicetify/cli](https://github.com/spicetify/cli) – Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) – Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source. 
+- [steveseguin/social_stream](https://github.com/steveseguin/social_stream) – Consolidate your live social messaging streams and much more
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) – VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) – A multi platform Twitch.tv browser for Streamlink
 - [streamyfin/jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) – Companion plugin for Streamyfin
@@ -1462,6 +1466,7 @@
 - [KimberleyJensen/Mel-Band-Roformer-Vocal-Model](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model)
 - [KnifeXRage/Godot-Secure](https://github.com/KnifeXRage/Godot-Secure) – Godot Secure is a Simple Python Script That modify the Godot Source Code Automatically, to integrate Camellia-256 / AES-256 encryption with a unique security token system. This solution creates a cryptographically unique engine build that prevents generic decryption tools from accessing your game assets.
 - [L480/cloudflare-dyndns](https://github.com/L480/cloudflare-dyndns) – ☁️ Cloudflare DynDNS solution for AVM FRITZ!Box
+- [Le-Maxime/HA-Addons](https://github.com/Le-Maxime/HA-Addons)
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) – Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) – A Grub Theme in the style of Minecraft!
@@ -1611,6 +1616,7 @@
 - [kukuxx/HA-NotifyHelper](https://github.com/kukuxx/HA-NotifyHelper) – Home Assistant custom integration for notification./Home Assistant 通知助手整合
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) – Legendary - A free and open-source replacement for the Epic Games Launcher
 - [lingfo/lingfo](https://github.com/lingfo/lingfo) – Foreign function interface for any language
+- [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) – Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend.
 - [lucidrains/BS-RoFormer](https://github.com/lucidrains/BS-RoFormer) – Implementation of Band Split Roformer, SOTA Attention network for music source separation out of ByteDance AI Labs
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
@@ -1643,6 +1649,7 @@
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) – Prometheus exporter for Fritz!Box home routers
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [pnbruckner/ha-composite-tracker](https://github.com/pnbruckner/ha-composite-tracker) – Home Assistant Composite Device Tracker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [qBitMF/qBitMF](https://github.com/qBitMF/qBitMF) – qBittorrent client in Docker that load balances over multiple interfaces
@@ -1980,6 +1987,7 @@
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool) – dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -2126,7 +2134,6 @@
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) – A plugin manager for Fish
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) – Fish shell tool for managing Python virtual environments
 - [laughedelic/pisces](https://github.com/laughedelic/pisces) – ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
-- [ludwig-v/wireless-carplay-dongle-reverse-engineering](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) – CPlay2Air / Carlinkit Wireless Apple CarPlay Dongle reverse engineering
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from unicode characters with randomized parameters
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) – PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
