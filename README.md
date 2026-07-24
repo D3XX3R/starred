@@ -2203,6 +2203,7 @@
 - [ilmakio/PassStore](https://github.com/ilmakio/PassStore) – A local-first secret manager for developers, built natively for macOS.
 - [itoolio/ishare](https://github.com/itoolio/ishare) – experience the clean and unbloated screen capture utility for macOS
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) – An open source approach to locally record and enable searching everything you view on your Mac.
+- [lithium0003/ccViewer](https://github.com/lithium0003/ccViewer) – CryptCloudViewer source codes
 - [lo-cafe/winston](https://github.com/lo-cafe/winston) – A beautiful and native Reddit client for iOS
 - [mani-sh-reddy/Lunar](https://github.com/mani-sh-reddy/Lunar) – Lunar is an iOS app that serves as a client for Lemmy & Kbin, the open-source federated alternatives to Reddit
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) – A SwiftUI based macOS GUI for rsync.
@@ -2491,7 +2492,7 @@
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) – An all-round MQTT client that provides a structured topic overview
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
 - [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) – An advanced calendar card for Home Assistant Lovelace.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
