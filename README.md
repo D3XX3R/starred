@@ -453,6 +453,7 @@
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) – A WiFi mapping companion app for Valetudo
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
+- [davidedmundson/kiot](https://github.com/davidedmundson/kiot) – Linux (KDE?) integration for Home Assistant via MQTT
 - [dekomote/vermouth](https://github.com/dekomote/vermouth) – A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills.
 - [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats. 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
@@ -1586,6 +1587,7 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
+- [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) – The authentication glue you need.
 - [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
 - [got-feedBack/feedBack-demucs-server](https://github.com/got-feedBack/feedBack-demucs-server)
@@ -1772,7 +1774,6 @@
 - [IamSanjid/sturdy-spoon](https://github.com/IamSanjid/sturdy-spoon) – A lightweight web server that enables synchronized video watching, inspired by https://syncplay.pl/.
 - [IncredibleDevHQ/agent-panel](https://github.com/IncredibleDevHQ/agent-panel) – AI gateway and observability server written in Rust. Designed to help optimize multi-agent workflows. 
 - [Jupiee/rawst](https://github.com/Jupiee/rawst) – Rawst is cli downloader, written in rust
-- [JustRadical/jellyfin-rpc](https://github.com/JustRadical/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [KMJ-007/lazygh](https://github.com/KMJ-007/lazygh) – A Terminal User Interface (TUI) application for managing multiple GitHub accounts easily
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) – A modern mod manager for Thunderstore
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
@@ -1923,6 +1924,7 @@
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [jonaylor89/sherlock-rs](https://github.com/jonaylor89/sherlock-rs) – Hunt down social media accounts by username across social networks
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
+- [justradical/jellyfin-rpc](https://github.com/justradical/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [jwodder/demagnetize-rs](https://github.com/jwodder/demagnetize-rs) – Convert magnet links to .torrent files
 - [kade-robertson/uggo](https://github.com/kade-robertson/uggo) – TUI app to pull builds from u.gg
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
@@ -2206,6 +2208,7 @@
 - [lithium0003/ccViewer](https://github.com/lithium0003/ccViewer) – CryptCloudViewer source codes
 - [lo-cafe/winston](https://github.com/lo-cafe/winston) – A beautiful and native Reddit client for iOS
 - [mani-sh-reddy/Lunar](https://github.com/mani-sh-reddy/Lunar) – Lunar is an iOS app that serves as a client for Lemmy & Kbin, the open-source federated alternatives to Reddit
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) – bluetooth mesh chat, IRC vibes
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) – A SwiftUI based macOS GUI for rsync.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) – Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [wozniakpawel/PairPods](https://github.com/wozniakpawel/PairPods) – Free and open source app to share audio on macOS
@@ -2420,7 +2423,7 @@
 - [manyuanrong/deno-deamon](https://github.com/manyuanrong/deno-deamon) – Make the Deno program run in the background
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [mc-build/mcb](https://github.com/mc-build/mcb) – in dev mcb standalone project
-- [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform for agents and developers
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) – Universal memory layer for AI Agents
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
