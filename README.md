@@ -371,7 +371,7 @@
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) – Cross-Platform SDR Software
 - [Alia5/GlosSI](https://github.com/Alia5/GlosSI) – Tool for using Steam-Input controller rebinding at a system level alongside a global overlay
 - [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) – Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)
-- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) – Fast and simple homebrew save manager for 3DS and Switch.
+- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) – Fast and simple homebrew save management framework for 3DS and Switch.
 - [Berny23/virtual-surround-manager](https://github.com/Berny23/virtual-surround-manager) – Virtual 3D sound for headphones on Linux
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) – Chat client for https://twitch.tv
 - [DaltonLens/DaltonLens](https://github.com/DaltonLens/DaltonLens) – Desktop utility to assist color blind people with different kind of real-time filters.
@@ -384,6 +384,7 @@
 - [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
+- [FeatureNAB/air-sensor](https://github.com/FeatureNAB/air-sensor) – Smart Air Quality Sensor built using ESP32, SEN66 and ESPHome
 - [GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) – Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
 - [InoriRus/Kyty](https://github.com/InoriRus/Kyty) – PS4 & PS5 emulator
