@@ -789,7 +789,7 @@
 - [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
-- [minekube/gate](https://github.com/minekube/gate) – Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering our production scale global Connect network. Runs with 10MB.
+- [minekube/gate](https://github.com/minekube/gate) – Build efficient Bedrock & Java Minecraft networks with multi-version support. Powering the production scale global Connect network. Runs with 10MB.
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -2118,6 +2118,7 @@
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
+- [brcly/proton-LinUwUx-patch](https://github.com/brcly/proton-LinUwUx-patch) – Enables HV Bypass to work on linux.
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
