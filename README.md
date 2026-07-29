@@ -468,6 +468,7 @@
 - [exeldro/obs-source-profiler](https://github.com/exeldro/obs-source-profiler)
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) – Fast and minimalist 3D viewer.
 - [falkTX/Carla](https://github.com/falkTX/Carla) – Audio plugin host
+- [feather-wallet/feather](https://github.com/feather-wallet/feather) – A free and open-source Monero desktop wallet.
 - [fholger/openvr_fsr](https://github.com/fholger/openvr_fsr) – Add Image Upscaling via AMD FidelityFX SuperResolution or NVIDIA Image Scaling to SteamVR games
 - [fluffyanvil/Rocksmith-Diy-Realtone-Cable](https://github.com/fluffyanvil/Rocksmith-Diy-Realtone-Cable) – diy realtone cable
 - [google/lyra](https://github.com/google/lyra) – A Very Low-Bitrate Codec for Speech Compression
@@ -478,6 +479,7 @@
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) – BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
 - [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – A free, open-source, and cross-platform iDevice management tool
+- [imputnet/helium](https://github.com/imputnet/helium) – Private, fast, and honest web browser
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
@@ -1014,7 +1016,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [balki97/FeedForge](https://github.com/balki97/FeedForge) – Windows toolkit for converting PSARC CDLC packages to FeedPak.
+- [balki97/FeedForge](https://github.com/balki97/FeedForge) – FeedBack song toolkit.
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
@@ -1815,6 +1817,7 @@
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) – Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, performant, multi-platform Discord overlay alternative
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) – Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
+- [Steel-Foundation/SteelMC](https://github.com/Steel-Foundation/SteelMC) – A Minecraft server in Rust focused on a strong foundation and performance
 - [StractOrg/stract](https://github.com/StractOrg/stract) – web search done right
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) – Most feature-complete Linux GUI power management solution.
 - [TheCactusVert/mpv-sponsorblock](https://github.com/TheCactusVert/mpv-sponsorblock) – MPV plugin that allow you to skip sponsors while watching YouTube videos
@@ -2285,6 +2288,7 @@
 - [MrTopQ/customStream-Vencord](https://github.com/MrTopQ/customStream-Vencord) – Vencord plugin that replaces steam preview
 - [Nerwyn/custom-card-features](https://github.com/Nerwyn/custom-card-features) – Home Assistant custom features for tile cards and more. Call any action using buttons, dropdowns, inputs, selectors, sliders, spinboxes, and toggles.
 - [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) – 🎵 Discord Rich Presence Client (profile status) for the macOS Apple Music app
+- [Novattz/creamlinux-installer](https://github.com/Novattz/creamlinux-installer) – DLC Fetcher and installer for linux
 - [NurMarvin/discord-proxy](https://github.com/NurMarvin/discord-proxy) – Locally proxies a specific Discord build on your local machine
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) – Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) – Open Cyber Threat Intelligence Platform
