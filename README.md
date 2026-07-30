@@ -242,7 +242,7 @@
 - [LeoKle/Euroscope-SIM-Generator](https://github.com/LeoKle/Euroscope-SIM-Generator) – A Euroscope SIM Generator
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) – Looks and smells like Sonarr but made for music.
 - [LittleBigRefresh/Refresh](https://github.com/LittleBigRefresh/Refresh) – A second-generation custom server for LittleBigPlanet that focuses on quality of life features and improving user experience.
-- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) – Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.1
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) – Lightweight console for Minecraft chat and automated scripts. Currently supports up to Minecraft 26.2
 - [Maikboarder/Playerr](https://github.com/Maikboarder/Playerr) – Self-hosted game library manager and PVR inspired by Radarr and Sonarr. Automate your collection with intelligent scanning and rich metadata
 - [Masquerade64/SuperSteamPacker](https://github.com/Masquerade64/SuperSteamPacker) – Packing tool for Steam games.
 - [MatthewInch/UI24RBridge](https://github.com/MatthewInch/UI24RBridge) – Bridge between the UI24R and a MIDI controller
@@ -1550,7 +1550,7 @@
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java 
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, Nuvio and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, Nuvio, Kodi and more. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [chris-mc1/homeconnect_local_hass](https://github.com/chris-mc1/homeconnect_local_hass) – Home Connect integration for Home Assistant using direct communication over the local network
@@ -1638,6 +1638,7 @@
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) – OnionSearch is a script that scrapes urls on different .onion search engines. 
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/toutatis](https://github.com/megadose/toutatis) – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) – Universal memory layer for AI Agents
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) – A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant](https://github.com/mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant) – Home Assistant integration for Sungrow inverters: SH*RT series (SH10RT), SHx.RS series (SH3.RS), SH*K series (SH4K6),  SxT-series (S20T)
@@ -1908,6 +1909,7 @@
 - [hartwork/rust-for-it](https://github.com/hartwork/rust-for-it) – :crab: Wait for one or more services (TCP ports) to be available before executing a command; Rust version of wait-for-it
 - [hedonhermdev/tune-prism](https://github.com/hedonhermdev/tune-prism)
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
+- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) – Headless streaming server for Moonlight clients, written in Rust.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [howardwu/wagyu](https://github.com/howardwu/wagyu) – A Rust library for generating cryptocurrency wallets
 - [hsr88/mouzi](https://github.com/hsr88/mouzi) – A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.
@@ -2121,7 +2123,7 @@
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
-- [brcly/proton-LinUwUx-patch](https://github.com/brcly/proton-LinUwUx-patch) – Enables HV Bypass to work on linux.
+- [brcly/proton-LinUwUx-patch](https://github.com/brcly/proton-LinUwUx-patch) – Complete LinUwUx Patch Build Script + Built packages.
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
@@ -2164,6 +2166,7 @@
 - [vinceliuice/Elegant-grub2-themes](https://github.com/vinceliuice/Elegant-grub2-themes) – Elegant grub2 themes for all linux systems
 - [walterl/proton-privoxy](https://github.com/walterl/proton-privoxy) – Privoxy over ProtonVPN in Docker
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) –  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+- [xshaduwulfx/proton-linuwux](https://github.com/xshaduwulfx/proton-linuwux) – Automated Proton-GE and Proton-CachyOS builds patched with LinUwUx.patch.
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) – Container for DaVinci Resolve installation and runtime dependencies on Linux
 - [zsasz0/vfioSwitcher](https://github.com/zsasz0/vfioSwitcher)
 
@@ -2431,7 +2434,6 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) – Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [mc-build/mcb](https://github.com/mc-build/mcb) – in dev mcb standalone project
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform for agents and developers
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) – Universal memory layer for AI Agents
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
