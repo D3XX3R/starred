@@ -1166,6 +1166,7 @@
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
 - [siketyan/intellij-rustowl](https://github.com/siketyan/intellij-rustowl) – Visualize ownerships and lifetimes in Rust on IntelliJ IDEs.
 - [twireapp/Twire](https://github.com/twireapp/Twire) – Twire is an alternative and open source Twitch client for Android
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) – 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
 
 <div id="lua"></div>
 
@@ -1462,6 +1463,7 @@
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) – A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) – An ReShade manager for linux.
 - [JAB-dev/mpv-frame-interpolation](https://github.com/JAB-dev/mpv-frame-interpolation) – Vapoursynth script for decent fps interpolation 
+- [Jafz2001/slopsmith-plugin-cloud-loader](https://github.com/Jafz2001/slopsmith-plugin-cloud-loader) – Slopsmith plugin — stream your .psarc / .sloppak library from Google Drive. Metadata indexed once; song files download on Play and auto-upload when created by the converter or retune.
 - [JocysCom/FocusLogger](https://github.com/JocysCom/FocusLogger) – Find out which process or program is taking the window focus. In-game controls could temporary stop responding if other program steals the focus.
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) – Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) – Real-time ADS-B notifications for specific aircraft takeoffs and landings. Supports output many platforms.
@@ -1860,7 +1862,7 @@
 - [chriamue/openrailwaymap-exporter](https://github.com/chriamue/openrailwaymap-exporter) – OpenRailwayMap Exporter is a Rust project that downloads railway data from the OpenRailwayMap API
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
-- [claration/Impactor](https://github.com/claration/Impactor) – Feature rich iOS/tvOS sideloading application written in Rust.
+- [claration/Impactor](https://github.com/claration/Impactor) – Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application.
 - [classx/dark-matter](https://github.com/classx/dark-matter) – Dark matter - simple vault CLI utility with GPG encryption
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
@@ -2082,7 +2084,6 @@
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) – A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
-- [x89/Solana-Arbitrage-Bot](https://github.com/x89/Solana-Arbitrage-Bot) – https://t.me/av1080trading Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
@@ -2315,7 +2316,6 @@
 - [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
-- [Vedinsoh/discord-auto-publisher](https://github.com/Vedinsoh/discord-auto-publisher) – Discord bot to automatically publish messages or news in your announcement channels!
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) – Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) – The cutest Discord modification
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) – An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
@@ -2327,6 +2327,7 @@
 - [Zaarrg/DropBot](https://github.com/Zaarrg/DropBot) – Drop Bot. Automaticlly Farms every Drop available like Rust for ya and now also your Custom Channel's
 - [abdfnx/botway](https://github.com/abdfnx/botway) – 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart) – Control panel to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
+- [acehox/auto-publisher](https://github.com/acehox/auto-publisher) – Discord bot to automatically publish messages or news in your announcement channels!
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) – The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) – AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
@@ -2386,6 +2387,7 @@
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats) – Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gatomod/tcp-chat](https://github.com/gatomod/tcp-chat) – 🎍 Simple, quick and lightweight chat built over TCP and Rust
