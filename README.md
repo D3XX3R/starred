@@ -691,7 +691,7 @@
 
 - [Oncorporation/obs-shaderfilter](https://github.com/Oncorporation/obs-shaderfilter) – OBS Studio filter for applying an arbitrary shader to a source.
 - [iwalton3/default-shader-pack](https://github.com/iwalton3/default-shader-pack) – Preconfigured set of MPV shaders and configurations for MPV Shim media clients.
-- [natural-harmonia-gropius/hdr-toys](https://github.com/natural-harmonia-gropius/hdr-toys) – A set of color conversion shaders.
+- [natural-harmonia-gropius/hdr-toys](https://github.com/natural-harmonia-gropius/hdr-toys) – HDR Toys is a set of shaders primarily designed to handle HDR-to-SDR color conversion, offering an out-of-the-box experience for mpv-player.
 - [yuna0x0/sbox-MToon](https://github.com/yuna0x0/sbox-MToon) – Toon Shader with Global Illumination. Ported to s&box (Source 2).
 
 <div id="go"></div>
@@ -786,6 +786,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) – eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) – The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [lucas-jacques/ikto](https://github.com/lucas-jacques/ikto) – Ikto is a NATS based Wireguard mesh network builder.
+- [lxc/incus](https://github.com/lxc/incus) – Powerful system container and virtual machine manager 
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
@@ -913,7 +914,7 @@
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
-- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Fabric mod that lets you join Minecraft servers across all major versions.
+- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod that allows you to join every Minecraft server version.
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) – Database Subsetting and Relational Data Browsing Tool.
 - [Wynnventory/WynnVentory_Mod](https://github.com/Wynnventory/WynnVentory_Mod)
@@ -1016,7 +1017,6 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [balki97/FeedForge](https://github.com/balki97/FeedForge) – FeedBack song toolkit.
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
@@ -1538,6 +1538,7 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
 - [asroxy/proton_proxy](https://github.com/asroxy/proton_proxy) – A simple python language proxy for ProtonMail Bridge allowing remote access to the bridge for web applications running on another server
 - [aviiciii/audiobook-downloader](https://github.com/aviiciii/audiobook-downloader) – Download Audiobooks with Metadata from Streamers
+- [balki97/FeedForge](https://github.com/balki97/FeedForge) – FeedBack song toolkit.
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) – Writes data from fritzbox to influxdb
 - [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder) – Find possible locations of shadows around the world
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1636,7 +1637,7 @@
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) – ElevenClock: Customize Windows 11 taskbar clock
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) – A modern selfhosted media management system for your media library
-- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) – Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to a 40-printer farm. 
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) – Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire printe farm. 
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) – OnionSearch is a script that scrapes urls on different .onion search engines. 
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/toutatis](https://github.com/megadose/toutatis) – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
@@ -2334,11 +2335,11 @@
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy and Piefed
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui starter. Pick your framework and start building.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) – "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
-- [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a beautiful self-hosted modern IRC client with a retro flair, most easily described as "your personal IRCCloud, with Weechat looks".
+- [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a beautiful self-hosted IRC client with a retro aesthetic and modern conveniences.
 - [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) – Spotify Car Thing UI Web App Dump
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) – A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
 - [anthonysgro/geospoof](https://github.com/anthonysgro/geospoof) – Browser extension and iOS app that spoofs your gps, geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
