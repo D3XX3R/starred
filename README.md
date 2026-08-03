@@ -1017,6 +1017,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+- [balki97/FeedForge](https://github.com/balki97/FeedForge) – Desktop toolkit for FeedPak files for the FeedBack game.
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
@@ -1538,7 +1539,6 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
 - [asroxy/proton_proxy](https://github.com/asroxy/proton_proxy) – A simple python language proxy for ProtonMail Bridge allowing remote access to the bridge for web applications running on another server
 - [aviiciii/audiobook-downloader](https://github.com/aviiciii/audiobook-downloader) – Download Audiobooks with Metadata from Streamers
-- [balki97/FeedForge](https://github.com/balki97/FeedForge) – FeedBack song toolkit.
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) – Writes data from fritzbox to influxdb
 - [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder) – Find possible locations of shadows around the world
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -2380,7 +2380,7 @@
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) – Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) – dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [eduair94/warframe](https://github.com/eduair94/warframe) – Free real-time Warframe Market analytics & platinum trading tools — live prime prices, set-vs-parts, ducat/relic/riven value, vaulted tracking & flip finder. Live: warframe-app.digitalshopuy.com
-- [efzynx/truckers-tool-linux](https://github.com/efzynx/truckers-tool-linux) – Trucker Tool Linux | TTL
+- [efzynx/truckers-tool-linux](https://github.com/efzynx/truckers-tool-linux) – A web-based save editor for Euro Truck Simulator 2 and American Truck Simulator on Linux. Edit your profile data (money, XP, skills) directly from the browser — no Windows tools needed.
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
