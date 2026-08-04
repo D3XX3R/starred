@@ -190,6 +190,7 @@
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) – A simple, very experimental TPM sniffer for LPC bus
 - [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) – Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [univrsal/dvds3](https://github.com/univrsal/dvds3) – Will it hit the corner?
@@ -347,7 +348,6 @@
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) – Easily edit and manage the hosts file for Windows
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) – An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [sp0ok3r/Mercury](https://github.com/sp0ok3r/Mercury) – Mercury is a powerful tool for Steam users built on SteamKit2, offering advanced features for managing accounts, chats, and interactions.
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
 - [stayintarkov/StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) – An Escape From Tarkov BepInEx module designed to be used with the SPT-Aki with the ultimate goal of "Offline" Coop
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) – Swiftly configure a fresh Windows 10 installation with useful tweaks and privacy settings.
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) – Port of macOS Mojave Dynamic Desktop feature to Windows
@@ -2335,7 +2335,7 @@
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy and Piefed
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) – "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
