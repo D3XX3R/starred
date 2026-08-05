@@ -140,7 +140,6 @@
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
 - [SiloCityLabs/esp32-airtap](https://github.com/SiloCityLabs/esp32-airtap) – Compilation of AC Infinity Vent custom pcbs
-- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [Unixcraft-Studios/X3Dctl](https://github.com/Unixcraft-Studios/X3Dctl) – X3Dctl is a lightweight Linux CLI utility for AMD X3D processors that enables deterministic mode control, CCD-aware process affinity, and predictable workload isolation.
@@ -422,6 +421,7 @@
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
@@ -1629,6 +1629,7 @@
 - [lutris/lutris](https://github.com/lutris/lutris) – Lutris desktop client
 - [lzhoang2801/Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) – A Python script for gathering comprehensive hardware details from a computer
 - [makalin/Bitwave](https://github.com/makalin/Bitwave) – Bitwave is a high-fidelity, developer-friendly, future-proof audio format designed for modern sound experiences — including spatial audio, dynamic tempo adjustment, and multi-track support.
+- [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) – 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [mampfes/hacs_dwd_pollenflug](https://github.com/mampfes/hacs_dwd_pollenflug) – Adds pollen forecasts from DWD to Home Assistant.
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) – Home Assistant integration framework for (garbage collection) schedules
 - [manucabral/acc-discord-rpc](https://github.com/manucabral/acc-discord-rpc) – Assetto Corsa Competizione Discord Rich Presence Client
@@ -1637,7 +1638,7 @@
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) – ElevenClock: Customize Windows 11 taskbar clock
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) – matplotlib: plotting with Python
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) – A modern selfhosted media management system for your media library
-- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) – Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire printe farm. 
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) – Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm. 
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) – OnionSearch is a script that scrapes urls on different .onion search engines. 
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/toutatis](https://github.com/megadose/toutatis) – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
@@ -1714,6 +1715,7 @@
 - [Darkkal44/qylock](https://github.com/Darkkal44/qylock) – A cozy collection of sddm-themes & quickshell lockscreen setups.
 - [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) – Plasma shell for TVs
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) – A fluid, morphing shell for your Linux desktop
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
@@ -1764,6 +1766,7 @@
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) – A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [DavorMar/rustautogui](https://github.com/DavorMar/rustautogui) – Highly optimized GUI automation rust library for controlling the mouse and keyboard, with template matching support.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
+- [Deftera186/tennoscope](https://github.com/Deftera186/tennoscope) – Local-first Warframe companion: relic reward overlay and value advisor
 - [Desdaemon/tauri-dioxus](https://github.com/Desdaemon/tauri-dioxus) – Dioxus integration with Tauri on most major platforms
 - [Dillonb/nmuidi](https://github.com/Dillonb/nmuidi) – Deletes stuff, hopefully quickly
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Fullstack app framework for web, desktop, and mobile.
