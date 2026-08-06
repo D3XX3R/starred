@@ -279,7 +279,7 @@
 - [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) –   Simple application for patching license activation amongst Affinity products.
 - [TTTReborn/tttreborn](https://github.com/TTTReborn/tttreborn) – Trouble in Terry's Town gamemode for the Source2 game "s&box" by Facepunch.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) – Technitium DNS Server
-- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) – A lightweight WinUI 3 desktop organizer for Windows 11. File collection widgets, folder mapping, and clipboard manager. GPL-3.0 open source.
+- [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) – A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) – Saves Discord chat logs to a file
 - [Valour-Software/Valour](https://github.com/Valour-Software/Valour) – Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 - [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) – Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 assets, including maps, models, materials, textures, sounds, and more.
@@ -2316,7 +2316,6 @@
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
 - [TetraSsky/cleanCord](https://github.com/TetraSsky/cleanCord) – Allows you to hide servers/folders in your server list with right-click option and manage mentions handling with various settings
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
@@ -2369,6 +2368,7 @@
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) – 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [codeoverflow-org/nodecg-io](https://github.com/codeoverflow-org/nodecg-io) – A NodeCG-bundle which implements Social Media API's in the NodeCG framework
 - [coder/code-server](https://github.com/coder/code-server) – VS Code in the browser
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) – Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [crewdevio/Trex](https://github.com/crewdevio/Trex) – Package Manager for deno 🦕
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) – Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [dandanthedev/littletinystorage](https://github.com/dandanthedev/littletinystorage)
@@ -2527,6 +2527,7 @@
 - [warrenday/local-storage-inspector](https://github.com/warrenday/local-storage-inspector) – Chrome extension to easily interact with the localStorage API.
 - [wexond/browser-base](https://github.com/wexond/browser-base) – Modern and feature-rich web browser base based on Electron
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [winboat-org/winboat](https://github.com/winboat-org/winboat) – Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) – Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) – xBrowserSync browser extensions / mobile app
 - [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) – TTV LOL PRO removes most livestream ads from Twitch.
