@@ -478,7 +478,6 @@
 - [hexabits/nifskope](https://github.com/hexabits/nifskope)
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) – BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – A free, open-source, and cross-platform iDevice management tool
 - [imputnet/helium](https://github.com/imputnet/helium) – Private, fast, and honest web browser
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
@@ -964,7 +963,7 @@
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) – Select which region you connect to in various Valve games
 - [BeltaKoda/StarMeld](https://github.com/BeltaKoda/StarMeld) – Cross-platform Star Citizen localization merge tool — combine category-specific language packs into a single global.ini
 - [ChocoMeow/Vocard-Dashboard](https://github.com/ChocoMeow/Vocard-Dashboard) – Vocard Dashboard is a web-based user interface that allows users to control the Vocard music bot directly from their browser. With this dashboard, you can easily manage music playback, create playlists, and interact with the bot in a user-friendly way.
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) – Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) – Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 - [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
 - [Darkdragon14/ha-access-control-manager](https://github.com/Darkdragon14/ha-access-control-manager) – "Access Control Manager" provides a centralized interface for managing user permissions and access rights within Home Assistant. It allows administrators to create, assign, and customize roles, ensuring secure and streamlined control over who can interact with specific devices, automations, and dashboards in the smart home ecosystem.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) – Datamining Discord changes from the JS files
@@ -1017,7 +1016,6 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [balki97/FeedForge](https://github.com/balki97/FeedForge) – Desktop toolkit for FeedPak files for the FeedBack game.
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
@@ -1539,6 +1537,7 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
 - [asroxy/proton_proxy](https://github.com/asroxy/proton_proxy) – A simple python language proxy for ProtonMail Bridge allowing remote access to the bridge for web applications running on another server
 - [aviiciii/audiobook-downloader](https://github.com/aviiciii/audiobook-downloader) – Download Audiobooks with Metadata from Streamers
+- [balki97/FeedForge](https://github.com/balki97/FeedForge) – Desktop toolkit for FeedPak files for the FeedBack game.
 - [bb-Ricardo/fritzinfluxdb](https://github.com/bb-Ricardo/fritzinfluxdb) – Writes data from fritzbox to influxdb
 - [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder) – Find possible locations of shadows around the world
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1565,7 +1564,7 @@
 - [dalinicus/homeassistant-acinfinity](https://github.com/dalinicus/homeassistant-acinfinity) – AC Infinity integration for Home Assistant for UIS based controllers
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) – DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) – emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) – Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) – The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) – Deepfakes Software For All
 - [deezer/spleeter](https://github.com/deezer/spleeter) – Deezer source separation library including pretrained models.
@@ -1682,7 +1681,7 @@
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [snazzybean/roommind](https://github.com/snazzybean/roommind) – Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
 - [soylent/offstream](https://github.com/soylent/offstream) – Personal twitch stream recorder
-- [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Discord bot with automated RSS feed posting and pinboard-map functionalities. Working on more
+- [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Multi-purpose Discord bot — RSS/Reddit/Bluesky feeds with CV2 embeds, interactive world map with 3D globe, iCal calendar sync, moderation logging, feedback system, and web admin dashboard.
 - [sparklost/endcord](https://github.com/sparklost/endcord) – The most feature rich Discord TUI client.
 - [sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-](https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-) – Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
@@ -1716,6 +1715,7 @@
 - [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) – Plasma shell for TVs
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) – A fluid, morphing shell for your Linux desktop
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – A free, open-source, and cross-platform iDevice management tool
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
