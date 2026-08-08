@@ -2498,7 +2498,7 @@
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
 - [sharknoon/wero-tracker](https://github.com/sharknoon/wero-tracker) – A simple dashboard that shows the adoption of the payment provider Wero by individual banks and online shops
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
 - [socius-org/RedditHarbor](https://github.com/socius-org/RedditHarbor) – Ethical, legal, and effortless extraction of Reddit data in your database
 - [squirrelchat/squirrel](https://github.com/squirrelchat/squirrel) – WIP: Next-gen, open-source and enterprise-ready chat platform.
