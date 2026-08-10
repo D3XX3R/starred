@@ -93,6 +93,7 @@
 
 ## Astro
 
+- [hsr88/mouzi](https://github.com/hsr88/mouzi) – A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 
 <div id="autoit"></div>
@@ -1006,7 +1007,6 @@
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) – One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 - [ZiXyos/BlackJacku](https://github.com/ZiXyos/BlackJacku) – Just a BlackJack App To Learn MongoDb, Express, reactJs, NodeJs
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) – Advanced REST Client - Desktop application
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
 - [airbenich/obsOverlay](https://github.com/airbenich/obsOverlay) – A websocket based overlay software for showing lower-thirds in Open Broadcaster Studio via webview.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aletheialab/ZeroDiscord](https://github.com/aletheialab/ZeroDiscord) – A collection of Discord hacks, exploits & tools that is completely made using NodeJS.
@@ -1292,7 +1292,6 @@
 - [Yimura/GTAV-Classes](https://github.com/Yimura/GTAV-Classes)
 - [alexjamesbilodeau/linux](https://github.com/alexjamesbilodeau/linux) – Shareable visual assets for the Linux community.
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) – A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/ & https://alloc8or.re/gta5/nativedb/enhanced/
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
@@ -1530,6 +1529,7 @@
 - [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) – Linux/OSX/FreeBSD resource monitor
@@ -1797,7 +1797,7 @@
 - [NOALBS/nginx-obs-automatic-low-bitrate-switching](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) – Simple app to automatically switch scenes in OBS based on the current bitrate fetched from the ingest stats page.
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
-- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) – The supercharged Minecraft launcher
+- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) – The supercharged Minecraft launcher and server manager
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) – A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [ParleSec/ZeroVault](https://github.com/ParleSec/ZeroVault) – Rust-based lightweight cryptographic cli designed for encrypting and verifying sensitive documents using modern, secure encryption primitives. The vault uses AES-256-GCM for symmetric encryption and Ed25519 for digital signatures.
 - [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten) – A modern Steam achievements manager for Windows and Linux
@@ -1918,7 +1918,6 @@
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) – Headless streaming server for Moonlight clients, written in Rust.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [howardwu/wagyu](https://github.com/howardwu/wagyu) – A Rust library for generating cryptocurrency wallets
-- [hsr88/mouzi](https://github.com/hsr88/mouzi) – A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.
 - [http-rs/tide](https://github.com/http-rs/tide) – Fast and friendly HTTP server framework for async Rust
 - [httpmock/httpmock](https://github.com/httpmock/httpmock) – HTTP mocking library for Rust
 - [iByteABit256/Vivace](https://github.com/iByteABit256/Vivace) – Command line tool to download songs from Youtube
@@ -2337,6 +2336,7 @@
 - [adarhef/NowPlaying](https://github.com/adarhef/NowPlaying)
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy and Piefed
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
