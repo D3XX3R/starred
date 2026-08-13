@@ -151,6 +151,7 @@
 - [baresip/baresip](https://github.com/baresip/baresip) – Baresip is a modular SIP User-Agent with audio and video support
 - [bazaar-org/bazaar](https://github.com/bazaar-org/bazaar) – New App Store for GNOME
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
+- [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) – LinUwUx Pre-load library for DenuvOwO HV Bypass
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
@@ -519,7 +520,7 @@
 - [opencma/LightHost](https://github.com/opencma/LightHost) – A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) – Head tracking software for MS Windows, Linux, and Apple OSX
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) – OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
-- [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
+- [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
 - [phandasm/waveform](https://github.com/phandasm/waveform) – Audio spectral analysis plugin for OBS
 - [praydog/UEVR](https://github.com/praydog/UEVR) – Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [qTox/qTox](https://github.com/qTox/qTox) – qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
@@ -1781,7 +1782,7 @@
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GunduLabs/gaze](https://github.com/GunduLabs/gaze) – Facial authentication for Linux
 - [GyulyVGC/nullnet-firewall](https://github.com/GyulyVGC/nullnet-firewall) – Rust-based firewall for network drivers
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your network traffic 🕵️‍♂️
 - [IamSanjid/sturdy-spoon](https://github.com/IamSanjid/sturdy-spoon) – A lightweight web server that enables synchronized video watching, inspired by https://syncplay.pl/.
 - [IncredibleDevHQ/agent-panel](https://github.com/IncredibleDevHQ/agent-panel) – AI gateway and observability server written in Rust. Designed to help optimize multi-agent workflows. 
 - [Jupiee/rawst](https://github.com/Jupiee/rawst) – Rawst is cli downloader, written in rust
@@ -2127,7 +2128,6 @@
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
-- [brcly/proton-LinUwUx-patch](https://github.com/brcly/proton-LinUwUx-patch) – Complete LinUwUx Patch Build Script + Built packages.
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
