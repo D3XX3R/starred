@@ -538,7 +538,6 @@
 - [steveseguin/ninja-obs-plugin](https://github.com/steveseguin/ninja-obs-plugin) – Native OBS Studio plugin for VDO.Ninja, with WebRTC publishing and ingest paths integrated directly into OBS workflows.
 - [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) – Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
-- [tone-3000/neural-amp-modeler-wasm](https://github.com/tone-3000/neural-amp-modeler-wasm) – NAM DSP on the Web
 - [trummerschlunk/master_me](https://github.com/trummerschlunk/master_me) – automatic mastering plugin for live streaming, podcasts and internet radio.
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) – An alternative Discord client with voice support made with C++ and GTK 3
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) – A video processing framework with simplicity in mind
@@ -955,7 +954,6 @@
 ## JavaScript
 
 - [0x41c/invisible-chat](https://github.com/0x41c/invisible-chat) – A cool Powercord plugin
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
 - [Alex313031/apple-music-desktop](https://github.com/Alex313031/apple-music-desktop) – An Electron app that provides a native Apple Music experience for Linux & Windows.
 - [Alex313031/quark-player](https://github.com/Alex313031/quark-player) – An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) – The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -2204,6 +2202,7 @@
 
 ## Swift
 
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
@@ -2511,6 +2510,7 @@
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) – An all-round MQTT client that provides a structured topic overview
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [tone-3000/neural-amp-modeler-wasm](https://github.com/tone-3000/neural-amp-modeler-wasm) – NAM DSP on the Web
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
 - [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) – An advanced calendar card for Home Assistant Lovelace.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
