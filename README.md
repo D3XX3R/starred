@@ -1090,7 +1090,7 @@
 - [rogerantony-dev/affiliate-tracker](https://github.com/rogerantony-dev/affiliate-tracker)
 - [ryzetech/cider4obs](https://github.com/ryzetech/cider4obs) – Display what you're playing onstream! No complicated setup, no login, just OBS and a browser source!
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) – Encrypt and Decrypt files securely in your browser.
-- [sioaeko/Equicord-splitLargeFile](https://github.com/sioaeko/Equicord-splitLargeFile) – A Vencord/Equicord plugin that bypasses Discord's 10MB file size limit by automatically splitting large files during upload and merging them back together upon download.
+- [sioaeko/Equicord-splitLargeFile](https://github.com/sioaeko/Equicord-splitLargeFile) – Splits user-selected files into attachment-sized parts and reconstructs them locally for Vencord and Equicord.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) – Application/browser chooser
 - [spicetify/cli](https://github.com/spicetify/cli) – Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [srv1n/kurpod](https://github.com/srv1n/kurpod) – Kurpod is an encrypted file storage system with plausible deniability features. It's self-hosted, open source. 
@@ -1562,7 +1562,7 @@
 - [dalinicus/homeassistant-acinfinity](https://github.com/dalinicus/homeassistant-acinfinity) – AC Infinity integration for Home Assistant for UIS based controllers
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) – DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs.
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) – emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) – OmniVoice Studio is the Open-Source Elevenlabs alternative. AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) – VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. No accounts, no API keys, no cloud.
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) – Deepfakes Software For All
 - [deezer/spleeter](https://github.com/deezer/spleeter) – Deezer source separation library including pretrained models.
@@ -2118,7 +2118,6 @@
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
-- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
