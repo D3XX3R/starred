@@ -151,7 +151,7 @@
 - [baresip/baresip](https://github.com/baresip/baresip) – Baresip is a modular SIP User-Agent with audio and video support
 - [bazaar-org/bazaar](https://github.com/bazaar-org/bazaar) – New App Store for GNOME
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
-- [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) – LinUwUx Pre-load library for DenuvOwO HV Bypass
+- [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) – LD_PRELOAD Runtime providing the host-side interpositions needed for specific CPUID-faulting + signal protocol under GE-Proton / CachyOS Proton.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
@@ -1076,7 +1076,7 @@
 - [nutbread/t2m](https://github.com/nutbread/t2m) – Torrent to magnet converter
 - [oatmealine/powercord-tiktok-tts](https://github.com/oatmealine/powercord-tiktok-tts) – Lets you speak Discord messages with the TikTok TTS.
 - [openstyles/stylus](https://github.com/openstyles/stylus) – Stylus - Userstyles Manager
-- [orangecoding/fredy](https://github.com/orangecoding/fredy) – ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) – ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) – Peer-to-Peer Databases for the Decentralized Web
 - [ost056/SteamAuthTool](https://github.com/ost056/SteamAuthTool) – A desktop application that replicates the functionality of the Steam mobile application. You can add multiple accounts, use proxies, log into accounts using a QR code and confirm actions on your account!
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) – A web-based collaborative LaTeX editor
