@@ -1492,7 +1492,7 @@
 - [RyanCheddar/discord-voice-message-transcriber](https://github.com/RyanCheddar/discord-voice-message-transcriber) – Discord.py bot that auto-transcribes voice messages using OpenAI Whisper
 - [SameSalamander5710/DynamicFPSLimiter](https://github.com/SameSalamander5710/DynamicFPSLimiter) – A GUI app to assess GPU/CPU usage and dynamically alter FPS limits via RTSS
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) – ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
-- [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Lightweight desktop overlay suite for Star Citizen — 9 tools always on top, one hotkey away. DPS Calculator, Cargo Loader, Mission Database, Mining Loadout, Market Finder, Trade Hub, Craft Database, Battle Buddy, and Mining Signals (powered by SC_OCR — a CNN-based HUD reader purpose-built for the SC scanner panel).
+- [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Lightweight desktop overlay suite for Star Citizen - 11 tools always on top, one hotkey away. DPS Calculator, Cargo Loader, Mission Database, Mining Loadout, Market Finder, Trade Hub, Craft Database, Battle Buddy, Mouse Blocker, PlayTime Calculator, and Mining Signals (powered by SC_OCR, a CNN-based HUD reader built for the SC scanner panel).
 - [SergeyKalutsky/vsc](https://github.com/SergeyKalutsky/vsc) – Real time video recording censor 
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) – Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [Star123451/LuaToolsLinux](https://github.com/Star123451/LuaToolsLinux) – The LuaTools plugin, ported to Linux via ACCELA and SLSsteam. (By StarWarsK and geovanygrdt)
@@ -1743,7 +1743,6 @@
 
 ## Rust
 
-- [0-don/clippy](https://github.com/0-don/clippy) – privacy focused clipboard manager with sync & encryption
 - [0xflux/Sanctum](https://github.com/0xflux/Sanctum) – Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above and beyond the capabilities of antivirus.  Built in Rust.
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) – An implementation of a socket.io client written in the Rust programming language.
 - [2bc4/twitch-hls-client](https://github.com/2bc4/twitch-hls-client) – Minimal CLI client for watching Twitch streams
