@@ -4,18 +4,18 @@
 
 ## Contents
 
-- [Asl](#asl)
+- [ASL](#asl)
 - [Assembly](#assembly)
 - [Astro](#astro)
-- [Autoit](#autoit)
+- [AutoIt](#autoit)
 - [Batchfile](#batchfile)
-- [Brighterscript](#brighterscript)
+- [BrighterScript](#brighterscript)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [Cmake](#cmake)
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [D](#d)
@@ -24,25 +24,25 @@
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Fluent](#fluent)
+- [GDScript](#gdscript)
+- [GLSL](#glsl)
 - [Game Maker Language](#game-maker-language)
-- [Gdscript](#gdscript)
 - [Gherkin](#gherkin)
-- [Glsl](#glsl)
 - [Go](#go)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [Hlsl](#hlsl)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Kotlin](#kotlin)
-- [LUA](#lua)
 - [Liquid](#liquid)
 - [Logos](#logos)
+- [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
-- [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -55,7 +55,7 @@
 - [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
-- [Qml](#qml)
+- [QML](#qml)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -68,7 +68,7 @@
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vala](#vala)
-- [Visual Basic .Net](#visual-basic-.net)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -76,7 +76,7 @@
 
 <div id="asl"></div>
 
-## Asl
+## ASL
 
 - [Qonfused/OSX-Hyper-V](https://github.com/Qonfused/OSX-Hyper-V) – OpenCore configuration for running macOS on Windows Hyper-V.
 
@@ -98,7 +98,7 @@
 
 <div id="autoit"></div>
 
-## Autoit
+## AutoIt
 
 - [KovaaK/SensitivityMatcher](https://github.com/KovaaK/SensitivityMatcher) – Script that can be used to convert your mouse sensitivity between different 3D games.
 - [rcmaehl/NotCPUCores](https://github.com/rcmaehl/NotCPUCores) – Work, Play, Stream - Without the Stutter. Download using Releases button below
@@ -114,7 +114,7 @@
 
 <div id="brighterscript"></div>
 
-## Brighterscript
+## BrighterScript
 
 - [iBicha/playlet](https://github.com/iBicha/playlet) – The unofficial, privacy driven, YouTube client for Roku
 - [jellyfin-archive/jellyfin-roku-legacy](https://github.com/jellyfin-archive/jellyfin-roku-legacy) – The Official Roku Client for Jellyfin
@@ -547,6 +547,15 @@
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
+<div id="cmake"></div>
+
+## CMake
+
+- [Andersama/obs-asio](https://github.com/Andersama/obs-asio) – ASIO plugin for OBS-Studio
+- [EZ64cool/obs-hadowplay](https://github.com/EZ64cool/obs-hadowplay)
+- [ShiralynDev/SimrailRPCExtender](https://github.com/ShiralynDev/SimrailRPCExtender)
+- [derrod/obs-roi-ui](https://github.com/derrod/obs-roi-ui) – A plugin for encoding nerds.
+
 <div id="css"></div>
 
 ## CSS
@@ -574,15 +583,6 @@
 - [8ta4/accent](https://github.com/8ta4/accent)
 - [logseq/logseq](https://github.com/logseq/logseq) – A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [penpot/penpot](https://github.com/penpot/penpot) – Penpot: The open-source design platform for Product teams that need scalable collaboration.
-
-<div id="cmake"></div>
-
-## Cmake
-
-- [Andersama/obs-asio](https://github.com/Andersama/obs-asio) – ASIO plugin for OBS-Studio
-- [EZ64cool/obs-hadowplay](https://github.com/EZ64cool/obs-hadowplay)
-- [ShiralynDev/SimrailRPCExtender](https://github.com/ShiralynDev/SimrailRPCExtender)
-- [derrod/obs-roi-ui](https://github.com/derrod/obs-roi-ui) – A plugin for encoding nerds.
 
 <div id="crystal"></div>
 
@@ -612,7 +612,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility) – An app to download patches and launch Jackbox games
 - [Kounex/obs_blade](https://github.com/Kounex/obs_blade) – Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – An open-source Hacker News client built with Flutter.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – An open-source Hacker News client.
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) – Suspend games and applications.
 - [MjKey/Mods-Manager-MR](https://github.com/MjKey/Mods-Manager-MR) – Mods Manager for Marvel Rivals
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
@@ -661,15 +661,9 @@
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 
-<div id="game-maker-language"></div>
-
-## Game Maker Language
-
-- [OpenNBS/NoteBlockStudio](https://github.com/OpenNBS/NoteBlockStudio) – An open-source Minecraft music maker.
-
 <div id="gdscript"></div>
 
-## Gdscript
+## GDScript
 
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) – Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!
 - [RodZill4/material-maker](https://github.com/RodZill4/material-maker) – A procedural textures authoring and 3D model painting tool based on the Godot game engine
@@ -678,20 +672,26 @@
 - [arthiee4/RiotSwitcher](https://github.com/arthiee4/RiotSwitcher) – Riot Switcher is a multi-account launcher for Riot Games (starting with League of Legends), allowing users to manage multiple accounts easily.
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) – Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
-<div id="gherkin"></div>
-
-## Gherkin
-
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) – Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
-
 <div id="glsl"></div>
 
-## Glsl
+## GLSL
 
 - [Oncorporation/obs-shaderfilter](https://github.com/Oncorporation/obs-shaderfilter) – OBS Studio filter for applying an arbitrary shader to a source.
 - [iwalton3/default-shader-pack](https://github.com/iwalton3/default-shader-pack) – Preconfigured set of MPV shaders and configurations for MPV Shim media clients.
 - [natural-harmonia-gropius/hdr-toys](https://github.com/natural-harmonia-gropius/hdr-toys) – HDR Toys is a set of shaders primarily designed to handle HDR-to-SDR color conversion, offering an out-of-the-box experience for mpv-player.
 - [yuna0x0/sbox-MToon](https://github.com/yuna0x0/sbox-MToon) – Toon Shader with Global Illumination. Ported to s&box (Source 2).
+
+<div id="game-maker-language"></div>
+
+## Game Maker Language
+
+- [OpenNBS/NoteBlockStudio](https://github.com/OpenNBS/NoteBlockStudio) – An open-source Minecraft music maker.
+
+<div id="gherkin"></div>
+
+## Gherkin
+
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) – Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.
 
 <div id="go"></div>
 
@@ -837,6 +837,19 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 
+<div id="hlsl"></div>
+
+## HLSL
+
+- [Blinue/Magpie](https://github.com/Blinue/Magpie) – A general-purpose window upscaler for Windows 10/11.
+- [JakobPCoder/ReshadeMotionEstimation](https://github.com/JakobPCoder/ReshadeMotionEstimation) – Optical Flow for games in realtime
+- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real-time SRCNN upscaler for any X-Window.
+- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) – Renovation Engine for DirectX Games
+- [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders) – A collection of post-processing shaders written for ReShade.
+- [martymcmodding/METEOR](https://github.com/martymcmodding/METEOR) – Marty's Extra Effects for ReShade
+- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) – Marty's Mods Epic ReShade Effects
+- [martymcmodding/qUINT](https://github.com/martymcmodding/qUINT) – Collection of general-purpose effects for the ReShade shader injector.
+
 <div id="html"></div>
 
 ## HTML
@@ -866,19 +879,6 @@
 
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [yannick-cw/korb](https://github.com/yannick-cw/korb) – REWE delivery CLI
-
-<div id="hlsl"></div>
-
-## Hlsl
-
-- [Blinue/Magpie](https://github.com/Blinue/Magpie) – A general-purpose window upscaler for Windows 10/11.
-- [JakobPCoder/ReshadeMotionEstimation](https://github.com/JakobPCoder/ReshadeMotionEstimation) – Optical Flow for games in realtime
-- [baronsmv/linux-rt-upscaler](https://github.com/baronsmv/linux-rt-upscaler) – A real-time SRCNN upscaler for any X-Window.
-- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) – Renovation Engine for DirectX Games
-- [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders) – A collection of post-processing shaders written for ReShade.
-- [martymcmodding/METEOR](https://github.com/martymcmodding/METEOR) – Marty's Extra Effects for ReShade
-- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) – Marty's Mods Epic ReShade Effects
-- [martymcmodding/qUINT](https://github.com/martymcmodding/qUINT) – Collection of general-purpose effects for the ReShade shader injector.
 
 <div id="java"></div>
 
@@ -1071,7 +1071,6 @@
 - [markrai/fontcompare](https://github.com/markrai/fontcompare) – an easy way to dynamically compare locally hosted fonts
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) – Node.js Simple WHIP Server library (based on the Janus WebRTC Server)
 - [memory-stack/Memory-Stack](https://github.com/memory-stack/Memory-Stack) – 📜 Memory stack is a developer oriented journaling social platform. 
-- [michaljaz/webmc](https://github.com/michaljaz/webmc) – PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 - [nutbread/t2m](https://github.com/nutbread/t2m) – Torrent to magnet converter
 - [oatmealine/powercord-tiktok-tts](https://github.com/oatmealine/powercord-tiktok-tts) – Lets you speak Discord messages with the TikTok TTS.
 - [openstyles/stylus](https://github.com/openstyles/stylus) – Stylus - Userstyles Manager
@@ -1165,9 +1164,23 @@
 - [twireapp/Twire](https://github.com/twireapp/Twire) – Twire is an alternative and open source Twitch client for Android
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) – 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
 
+<div id="liquid"></div>
+
+## Liquid
+
+- [starcitizen-lug/knowledge-base](https://github.com/starcitizen-lug/knowledge-base) – Wiki containing installation instructions, performance tips, and solutions to common problems
+
+<div id="logos"></div>
+
+## Logos
+
+- [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) – ⚠️ DEPRECATED — DEAD for now as YTPlus is now paid.
+- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) – uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
+- [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) – uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+
 <div id="lua"></div>
 
-## LUA
+## Lua
 
 - [CrendKing/mpv-twitch-chat](https://github.com/CrendKing/mpv-twitch-chat) – Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.
 - [IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS) – Home of MineOS and it's software for OpenComputers mod
@@ -1187,19 +1200,12 @@
 - [stax76/mpv-scripts](https://github.com/stax76/mpv-scripts) – Script collection for the mpv media player.
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) – Feature-rich minimalist proximity-based UI for MPV player.
 
-<div id="liquid"></div>
+<div id="mdx"></div>
 
-## Liquid
+## MDX
 
-- [starcitizen-lug/knowledge-base](https://github.com/starcitizen-lug/knowledge-base) – Wiki containing installation instructions, performance tips, and solutions to common problems
-
-<div id="logos"></div>
-
-## Logos
-
-- [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) – ⚠️ DEPRECATED — DEAD for now as YTPlus is now paid.
-- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) – uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
-- [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) – uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord Developer Docs
+- [gpxstudio/gpx.studio](https://github.com/gpxstudio/gpx.studio) – the online GPX file editor
 
 <div id="makefile"></div>
 
@@ -1207,13 +1213,6 @@
 
 - [ediblerope/Discord-Capture-Limiter](https://github.com/ediblerope/Discord-Capture-Limiter) – A lightweight daemon that automatically manages multiple Discord audio capture streams in PipeWire, ensuring only the oldest stream remains active to prevent audio duplication issues.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
-
-<div id="mdx"></div>
-
-## Mdx
-
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) – Official Discord Developer Docs
-- [gpxstudio/gpx.studio](https://github.com/gpxstudio/gpx.studio) – the online GPX file editor
 
 <div id="nim"></div>
 
@@ -1708,7 +1707,7 @@
 
 <div id="qml"></div>
 
-## Qml
+## QML
 
 - [Darkkal44/qylock](https://github.com/Darkkal44/qylock) – A cozy collection of sddm-themes & quickshell lockscreen setups.
 - [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) – Plasma shell for TVs
@@ -2187,7 +2186,6 @@
 - [chroxify/haptic](https://github.com/chroxify/haptic) – A new local-first, privacy-focused and open-source home for your markdown notes
 - [deminimis/MinimalExplorer](https://github.com/deminimis/MinimalExplorer) – A minimalist, high-performance Windows Explorer replacement built with Rust. Features a dual-pane UI , integrated xterm.js terminal with Auto-CD , and deep content search using memory-mapped indexing. Includes native ZIP handling, file previews, and a command palette.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [mugendi/x-files-search](https://github.com/mugendi/x-files-search) – Search files on your computer like a boss!
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [s0er3n/GeoBingo.io](https://github.com/s0er3n/GeoBingo.io) – a multiplayer street view bingo game
@@ -2439,6 +2437,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform for agents and developers
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
 - [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – 🎮⌛Downgrade Steam games to older versions with ease using DepotDownloader
 - [mohyware/packet-meter](https://github.com/mohyware/packet-meter) – Cross-platform network traffic monitoring system that can be self-hosted easily.
@@ -2552,7 +2551,7 @@
 
 <div id="visual-basic-.net"></div>
 
-## Visual Basic .Net
+## Visual Basic .NET
 
 - [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) – The connected place for Windows system administration
 - [FN-FAL113/cs2-server-picker](https://github.com/FN-FAL113/cs2-server-picker) – A portable and lightweight server picker windows app for Counter Strike 2 or even Deadlock! (Legacy)
