@@ -164,7 +164,6 @@
 - [isjerryxiao/kmsvnc](https://github.com/isjerryxiao/kmsvnc) – A VNC server for DRM/KMS capable GNU/Linux devices
 - [jagt/clumsy](https://github.com/jagt/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [jmattaa/laser](https://github.com/jmattaa/laser) – basically `ls` but `lsr`, and configurable with lua!
-- [joshuascript/anvil](https://github.com/joshuascript/anvil) – Anvil — Linux native s&box tooling
 - [kila58/qemu-patched](https://github.com/kila58/qemu-patched) – QEMU patched to avoid detection from various anticheats such as Battleye/EAC
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) – A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [landave/TSIdentityTool](https://github.com/landave/TSIdentityTool) – Tool to read out various information about TeamSpeak identities
@@ -934,7 +933,7 @@
 - [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) – Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
 - [mt1006/mc-ar-mod](https://github.com/mt1006/mc-ar-mod) – Asynchronous reprojection in Minecraft
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) – A fork of NewPipe with SponsorBlock functionality.
-- [prometheusreengineering/minecraft-essential](https://github.com/prometheusreengineering/minecraft-essential) – The prometheus' patch for Essential Mod.
+- [prometheusreengineering/minecraft-essential](https://github.com/prometheusreengineering/minecraft-essential) – The Prometheus' patch for Essential Mod.
 - [questdb/questdb](https://github.com/questdb/questdb) – QuestDB is a high performance, open-source, time-series database
 - [rfresh2/ZenithProxy](https://github.com/rfresh2/ZenithProxy) – 2b2t minecraft proxy / bot
 - [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) – Library mod for masa's client-side Minecraft mods
@@ -1879,7 +1878,7 @@
 - [daxartio/taskline](https://github.com/daxartio/taskline) – The library enables the creation of scheduled tasks via Redis for Rust
 - [dejwi/tauri-chat-app](https://github.com/dejwi/tauri-chat-app) – Chat app with client&server written in rust ; handles data streamed on a TCP socket
 - [denoland/deno](https://github.com/denoland/deno) – A modern runtime for JavaScript and TypeScript.
-- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) – Windows kernel debugger for Linux hosts running Windows under KVM/QEMU
+- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) – Windows kernel debugger for Linux hosts running Windows under KVM/QEMU & VMware
 - [dottorblaster/cauldron](https://github.com/dottorblaster/cauldron) – A native Instapaper client for the Linux desktop
 - [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) – A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. 
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) – Launcher-driven Bluetooth manager for Linux
@@ -1998,6 +1997,7 @@
 - [pr4k/locate](https://github.com/pr4k/locate) – A Recursive Search tool in Rust 
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
+- [pythonlover02/volt-gui](https://github.com/pythonlover02/volt-gui) – My AMD Adrenaline / NVIDIA Settings Linux Alternative
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool) – dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
