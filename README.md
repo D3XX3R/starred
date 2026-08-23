@@ -721,7 +721,7 @@
 - [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) – [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
 - [Zhoros/SuperBin](https://github.com/Zhoros/SuperBin) – Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) – Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Open-source, self-hosted customer support desk in a single binary. Email and live chat. A lightweight alternative to Intercom, Zendesk, Chatwoot.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
 - [akiver/cs-demo-analyzer](https://github.com/akiver/cs-demo-analyzer) – Analyze and extract data from Counter-Strike demos.
@@ -1074,7 +1074,7 @@
 - [oatmealine/powercord-tiktok-tts](https://github.com/oatmealine/powercord-tiktok-tts) – Lets you speak Discord messages with the TikTok TTS.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) – Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [openstyles/stylus](https://github.com/openstyles/stylus) – Stylus - Userstyles Manager
-- [orangecoding/fredy](https://github.com/orangecoding/fredy) – ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
+- [orangecoding/fredy](https://github.com/orangecoding/fredy) – ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Europe on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) – Peer-to-Peer Databases for the Decentralized Web
 - [ost056/SteamAuthTool](https://github.com/ost056/SteamAuthTool) – A desktop application that replicates the functionality of the Steam mobile application. You can add multiple accounts, use proxies, log into accounts using a QR code and confirm actions on your account!
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) – A web-based collaborative LaTeX editor
