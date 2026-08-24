@@ -187,6 +187,7 @@
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
+- [shdwmtr/wallpiper](https://github.com/shdwmtr/wallpiper) – An 100kb native Wallpaper Engine translation layer for GNU/Linux based compositors, without re-inventing the wheel.
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
@@ -1878,7 +1879,7 @@
 - [daxartio/taskline](https://github.com/daxartio/taskline) – The library enables the creation of scheduled tasks via Redis for Rust
 - [dejwi/tauri-chat-app](https://github.com/dejwi/tauri-chat-app) – Chat app with client&server written in rust ; handles data streamed on a TCP socket
 - [denoland/deno](https://github.com/denoland/deno) – A modern runtime for JavaScript and TypeScript.
-- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) – Windows kernel debugger for Linux hosts running Windows under KVM/QEMU & VMware
+- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) – WinDbg-like kernel debugger for Windows VMs on Linux (KVM/QEMU, VMware) and macOS (UTM)
 - [dottorblaster/cauldron](https://github.com/dottorblaster/cauldron) – A native Instapaper client for the Linux desktop
 - [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) – A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. 
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) – Launcher-driven Bluetooth manager for Linux
