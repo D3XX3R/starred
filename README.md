@@ -1176,7 +1176,7 @@
 ## Logos
 
 - [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus) – ⚠️ DEPRECATED — DEAD for now as YTPlus is now paid.
-- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) – uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
+- [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) – uYouEnhanced (by @arichornlover) is a continuation of uYou+ (made by @qnblackcat) with so much more features and mainly built for sideloaded users!
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) – uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
 <div id="lua"></div>
@@ -1266,7 +1266,6 @@
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [HerXayah/road-to-ryujinx-without-switch](https://github.com/HerXayah/road-to-ryujinx-without-switch) – This Repo explains how to install the Ryujninx Switch Emulator without a Switch 
 - [Hypfer/valetudo-dreameadapter](https://github.com/Hypfer/valetudo-dreameadapter)
-- [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) – Collection of decent Community-made GRUB themes. Contributions welcome!
 - [Jam3s97/sungrow_ihomemanager](https://github.com/Jam3s97/sungrow_ihomemanager) – Sungrow YAML to communicate with iHomeManager using modbus.
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) – 💡Limiting personal data leaks on the internet
@@ -1433,6 +1432,7 @@
 - [ChocoMeow/Vocard](https://github.com/ChocoMeow/Vocard) – Vocard is a simple music bot. It leads to a comfortable experience which is user-friendly, It supports Youtube, Soundcloud, Spotify, Twitch and more!
 - [Chris-GW/pixel](https://github.com/Chris-GW/pixel)
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) – A Linux native mod manager for a variety of games
+- [ClaudiuSchuster/proton-drive-linux](https://github.com/ClaudiuSchuster/proton-drive-linux) – Proton Drive that feels at home on Linux Mint: a Nemo-ready rclone mount, encrypted credentials, safe recovery, health notifications and a native live GTK control center.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 - [Cyber40014/sungrow-solarcloud-haos-integration](https://github.com/Cyber40014/sungrow-solarcloud-haos-integration) – HACS HAOS integration for sungrow inverter, iHomeManager and isolarcloud
@@ -2112,6 +2112,7 @@
 - [Deadboy666/h3adcr-b](https://github.com/Deadboy666/h3adcr-b) – the headcrab approaches..
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
+- [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube and other services freely. 
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
