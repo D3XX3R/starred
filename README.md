@@ -405,7 +405,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [Noeli14/MCppServer](https://github.com/Noeli14/MCppServer) – Fast and super efficient Minecraft Server written in C++
 - [Not-Smelly-Garbage/Reshade-Unlocked](https://github.com/Not-Smelly-Garbage/Reshade-Unlocked) – A generic post-processing injector for games and video software.
-- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) – Advanced VM detection library and tool
+- [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) – State-of-the-art virtual machine detection
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) – Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
 - [Off-World-Live/obs-spout2-plugin](https://github.com/Off-World-Live/obs-spout2-plugin) – A Plugin for OBS Studio to enable Spout2 (https://github.com/leadedge/Spout2) input / output
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) – Classic Shell Reborn.
@@ -545,6 +545,7 @@
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 <div id="cmake"></div>
@@ -1037,7 +1038,6 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) – :cloud: Sync your bookmarks privately across browsers and devices
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 21 views
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1118,7 +1118,6 @@
 - [yellowsink/shelter-plugins](https://github.com/yellowsink/shelter-plugins) – plugins for uwu/shelter
 - [yeonholee50/NyxHub](https://github.com/yeonholee50/NyxHub) – Secure Web File Sharing Application
 - [yofukashino/BetterDiscordPlugins](https://github.com/yofukashino/BetterDiscordPlugins) – Just me trying
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 
 <div id="jinja"></div>
 
@@ -1289,6 +1288,7 @@
 - [Yimura/GTAV-Classes](https://github.com/Yimura/GTAV-Classes)
 - [alexjamesbilodeau/linux](https://github.com/alexjamesbilodeau/linux) – Shareable visual assets for the Linux community.
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) – A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/ & https://alloc8or.re/gta5/nativedb/enhanced/
+- [angel-HdezAv/KDE-Silver-Gate](https://github.com/angel-HdezAv/KDE-Silver-Gate) – Make KDE look similar to macOS 27 Golden Gate.
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
@@ -1588,6 +1588,7 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
@@ -1999,6 +2000,7 @@
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
 - [pythonlover02/volt-gui](https://github.com/pythonlover02/volt-gui) – My AMD Adrenaline / NVIDIA Settings Linux Alternative
+- [pythops/kudu](https://github.com/pythops/kudu) – 🖥️ Easily manage VMs on Linux 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool) – dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
