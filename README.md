@@ -93,7 +93,6 @@
 
 ## Astro
 
-- [hsr88/mouzi](https://github.com/hsr88/mouzi) – A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) – 🦄  A curated list of privacy & security-focused software and services
 
 <div id="autoit"></div>
@@ -340,6 +339,7 @@
 - [ol1fer/sbox-linux-emoji-patch](https://github.com/ol1fer/sbox-linux-emoji-patch) – Patches s&box's bundled Topten.RichTextKit.dll to fix emoji rendering on Linux/Proton. See https://github.com/Facepunch/sbox-public/issues/10779
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) – OpenBullet reinvented
 - [porrasm/csgo-chat-gpt](https://github.com/porrasm/csgo-chat-gpt) – ChatGPT integrated into CS:GO chat.
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) – Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
 - [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) – Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) – Real-Debrid Client Proxy
@@ -736,6 +736,7 @@
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
 - [autobrr/qui](https://github.com/autobrr/qui) – A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) – join public router. quickly.
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) – A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) – Easily sideload the IPA to AppleTV
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) – Corrective lenses for curmudgeonly readars in your life
@@ -821,6 +822,7 @@
 - [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) – Media gateway for Debrid & Usenet.
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [superuser404notfound/Polyseat](https://github.com/superuser404notfound/Polyseat) – Multi-seat game streaming on Linux: several people play on one PC at the same time, each in an isolated container with their own Sway, Sunshine and Steam account, streamed to their own Moonlight client. Shared game library, strict input isolation, resolution and framerate per client.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [taubyte/tau](https://github.com/taubyte/tau) – Fullstack Workspace for Humans & Machines
@@ -984,6 +986,7 @@
 - [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) – Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
 - [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A Home Assistant integration for sunlight-based automations and visualization. Sunlight Visualizer calculates wall, roof, radiation, and shading-demand sensors for blinds, awnings, HVAC, solar insights, and comfort automations, then visualizes the same data in a 2.5D Lovelace card with sun position, shadows, solar power, grid flow, and Energy HUD
 - [OpenTransitHub/Trainboard-App](https://github.com/OpenTransitHub/Trainboard-App) – Clean Departure Board mainly for DB Trains running on JavaScript
+- [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 A highly customizable, privacy-focused desktop YouTube client that aims to provide the best UX
 - [PlaceDE-Official/place-overlay](https://github.com/PlaceDE-Official/place-overlay)
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [REVENGE977/Xenon-Bot-JavaScript-Edition](https://github.com/REVENGE977/Xenon-Bot-JavaScript-Edition) – non-official xenon bot javascript edition , a bot for backup discord servers and more features .
@@ -1014,7 +1017,6 @@
 - [aplotor/expanse](https://github.com/aplotor/expanse) – selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
-- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) – ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
@@ -1432,7 +1434,6 @@
 - [ChocoMeow/Vocard](https://github.com/ChocoMeow/Vocard) – Vocard is a simple music bot. It leads to a comfortable experience which is user-friendly, It supports Youtube, Soundcloud, Spotify, Twitch and more!
 - [Chris-GW/pixel](https://github.com/Chris-GW/pixel)
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) – A Linux native mod manager for a variety of games
-- [ClaudiuSchuster/proton-drive-linux](https://github.com/ClaudiuSchuster/proton-drive-linux) – Proton Drive that feels at home on Linux Mint: a Nemo-ready rclone mount, encrypted credentials, safe recovery, health notifications and a native live GTK control center.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) – The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) – ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 - [Cyber40014/sungrow-solarcloud-haos-integration](https://github.com/Cyber40014/sungrow-solarcloud-haos-integration) – HACS HAOS integration for sungrow inverter, iHomeManager and isolarcloud
@@ -1477,6 +1478,7 @@
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
 - [Marc1326/Anvil-Organizer](https://github.com/Marc1326/Anvil-Organizer) – Native Linux mod manager inspired by MO2 — 35 games, Proton Script Extender support (SKSE64/F4SE/SFSE), Python/Qt6
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
+- [MylarComics/mylar3](https://github.com/MylarComics/mylar3) – The automated Comic Book downloader (cbr/cbz).
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
@@ -1495,6 +1497,7 @@
 - [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Lightweight desktop overlay suite for Star Citizen - 11 tools always on top, one hotkey away. DPS Calculator, Cargo Loader, Mission Database, Mining Loadout, Market Finder, Trade Hub, Craft Database, Battle Buddy, Mouse Blocker, PlayTime Calculator, and Mining Signals (powered by SC_OCR, a CNN-based HUD reader built for the SC scanner panel).
 - [SergeyKalutsky/vsc](https://github.com/SergeyKalutsky/vsc) – Real time video recording censor 
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) – Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
+- [SickGear/SickGear](https://github.com/SickGear/SickGear) – SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [Star123451/LuaToolsLinux](https://github.com/Star123451/LuaToolsLinux) – The LuaTools plugin, ported to Linux via ACCELA and SLSsteam. (By StarWarsK and geovanygrdt)
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) – An elegant Linux app for the Elgato Stream Deck with support for plugins
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) – This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
@@ -1653,6 +1656,7 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
+- [oss-singularity/proton-drive-linux](https://github.com/oss-singularity/proton-drive-linux) – Proton Drive that feels at home on Linux Mint: a Nemo-ready rclone mount, encrypted credentials, safe recovery, health notifications and a native live GTK control center.
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) – VMware Workstation macOS 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
@@ -1821,7 +1825,7 @@
 - [SoftbearStudios/bitcode](https://github.com/SoftbearStudios/bitcode) – A binary encoder/decoder for Rust
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) – Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) – Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
-- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, performant, multi-platform Discord overlay alternative
+- [SpikeHD/Orbolay](https://github.com/SpikeHD/Orbolay) – Quick, small, performant, multi-platform Discord overlay alternative, for every client
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) – Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [Steel-Foundation/SteelMC](https://github.com/Steel-Foundation/SteelMC) – A Minecraft server in Rust focused on a strong foundation and performance
 - [StractOrg/stract](https://github.com/StractOrg/stract) – web search done right
@@ -1941,6 +1945,7 @@
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [knoellle/wfinfo-ng](https://github.com/knoellle/wfinfo-ng) – A Linux compatible version of the great WFinfo. Analyze relic reward screen to determine platinum value of items.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) – AI-powered manga translator, written in Rust.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
@@ -1960,7 +1965,6 @@
 - [marhkb/pods](https://github.com/marhkb/pods) – Manage your containers
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) – Official successor to conduwuit
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
-- [mayocream/koharu](https://github.com/mayocream/koharu) – ML-powered manga translator, written in Rust.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) – ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [mdonoughe/streamdeck-rs](https://github.com/mdonoughe/streamdeck-rs) – Unofficial Stream Deck SDK for Rust
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) – Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
@@ -1976,6 +1980,7 @@
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [niri-wm/niri](https://github.com/niri-wm/niri) – A scrollable-tiling Wayland compositor.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
@@ -2000,7 +2005,7 @@
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
 - [pythonlover02/volt-gui](https://github.com/pythonlover02/volt-gui) – My AMD Adrenaline / NVIDIA Settings Linux Alternative
-- [pythops/kudu](https://github.com/pythops/kudu) – 🖥️ Easily manage VMs on Linux 
+- [pythops/kudu](https://github.com/pythops/kudu) – 🖥️ TUI VM Manager on Linux
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool) – dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
@@ -2404,6 +2409,7 @@
 - [holtwick/briefing](https://github.com/holtwick/briefing) – 🔮 Secure direct video group chat
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) – Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [howardchung/watchparty](https://github.com/howardchung/watchparty) – WatchParty: Watch anything together in-sync with your friends
+- [hsr88/mouzi](https://github.com/hsr88/mouzi) – A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) – Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) – 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [idaho/hassio-trash-card](https://github.com/idaho/hassio-trash-card) – TrashCard - indicates what type of trash will be picked up next based on your calendar entries 🗑️
@@ -2421,6 +2427,7 @@
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) – A modern self-hosted music player.
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) – Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
+- [jesec/flood](https://github.com/jesec/flood) – A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) – Control any computer remotely
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) – A code snippet storage solution written in React & node.js
 - [jpettitt/weather-radar-card](https://github.com/jpettitt/weather-radar-card) – A rain radar card using the tiled images from RainViewer
@@ -2454,7 +2461,6 @@
 - [nab138/iloader](https://github.com/nab138/iloader) – User friendly sideloader
 - [necdetsanli/do-not-ghost-me](https://github.com/necdetsanli/do-not-ghost-me) – Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.
 - [neosubhamoy/neodlp](https://github.com/neosubhamoy/neodlp) – Modern Video/Audio Downloader based on YT-DLP with Browser Integration (🦭 Seal for Desktop)
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [netbirdio/dashboard](https://github.com/netbirdio/dashboard) – NetBird Management Service Web UI Panel
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
 - [ngocjohn/sidebar-organizer](https://github.com/ngocjohn/sidebar-organizer) – 🗄️ Home Assistant custom plugin designed to give you full control over the layout and organization of the sidebar. 
@@ -2467,6 +2473,7 @@
 - [open-pv/simshady](https://github.com/open-pv/simshady) – Simulating Shadows for PV Potential Analysis with 3D Data in the Browser :sunny:
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) – Online browser-based RTS game
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openscopeproject/TrguiNG](https://github.com/openscopeproject/TrguiNG) – Remote GUI for Transmission torrent daemon
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) – Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
 - [osuplace/templateManager](https://github.com/osuplace/templateManager) – Template manager for various canvas games
 - [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) – A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
