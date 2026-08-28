@@ -534,6 +534,7 @@
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) – Better font rendering for Windows.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) – Source code for SonoBus, a real-time network audio streaming collaboration tool.
 - [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) – Play local wireless supported games online
+- [ssteinberg/wave_tracer](https://github.com/ssteinberg/wave_tracer) – A wave-optical path tracer
 - [steveseguin/ninja-obs-plugin](https://github.com/steveseguin/ninja-obs-plugin) – Native OBS Studio plugin for VDO.Ninja, with WebRTC publishing and ingest paths integrated directly into OBS workflows.
 - [terminatorul/NvStrapsReBar](https://github.com/terminatorul/NvStrapsReBar) – Resizable BAR for Turring GTX 1600 / RTX 2000 GPUs
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
@@ -723,7 +724,7 @@
 - [WeebDataHoarder/go-away](https://github.com/WeebDataHoarder/go-away) – [Mirror] Self-hosted abuse detection and rule enforcement against low-effort mass AI scraping and bots.
 - [Zhoros/SuperBin](https://github.com/Zhoros/SuperBin) – Super Bin - Pastebin, File Sharing and URL Shortener with Password, Curl and QR support
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) – Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Open-source, self-hosted customer support desk in a single binary. Email and live chat. A lightweight alternative to Intercom, Zendesk, Chatwoot.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) – Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) – TUI tool to manage your docker images, containers and volumes 🚀
 - [akiver/cs-demo-analyzer](https://github.com/akiver/cs-demo-analyzer) – Analyze and extract data from Counter-Strike demos.
@@ -924,7 +925,6 @@
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) – A decentralized bitcoin exchange network
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) – google maps for block game
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) – Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-- [ddxy/whispercat](https://github.com/ddxy/whispercat)
 - [etianl/Trouser-Streak](https://github.com/etianl/Trouser-Streak) – A compilation of modules optimized for maximum grief. Featuring powerful mods for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Customer Service: https://www.breakblocks.com/discord
 - [etkmlm/CoreLauncher](https://github.com/etkmlm/CoreLauncher) – A modern and powerful launcher for Minecraft.
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) – Decentralized P2P exchange platform built on Monero and Tor
@@ -1882,6 +1882,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [daviddl9/rfind](https://github.com/daviddl9/rfind) – rfind is a supercharged alternative to the classic *nix find command, written in rust.
 - [daxartio/taskline](https://github.com/daxartio/taskline) – The library enables the creation of scheduled tasks via Redis for Rust
+- [ddxy/whispercat](https://github.com/ddxy/whispercat)
 - [dejwi/tauri-chat-app](https://github.com/dejwi/tauri-chat-app) – Chat app with client&server written in rust ; handles data streamed on a TCP socket
 - [denoland/deno](https://github.com/denoland/deno) – A modern runtime for JavaScript and TypeScript.
 - [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) – WinDbg-like kernel debugger for Windows VMs on Linux (KVM/QEMU, VMware) and macOS (UTM)
