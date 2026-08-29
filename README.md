@@ -186,7 +186,7 @@
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
-- [shdwmtr/wallpiper](https://github.com/shdwmtr/wallpiper) – An 100kb native Wallpaper Engine translation layer for GNU/Linux based compositors, without re-inventing the wheel.
+- [shdwmtr/wallpiper](https://github.com/shdwmtr/wallpiper) – A FOSS light weight Wallpaper Engine translation layer for GNU/Linux based compositors without re-inventing the wheel. 
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
@@ -614,7 +614,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [JackboxUtility/JackboxUtility](https://github.com/JackboxUtility/JackboxUtility) – An app to download patches and launch Jackbox games
 - [Kounex/obs_blade](https://github.com/Kounex/obs_blade) – Make use of the OBS WebSocket Plugin (https://github.com/obsproject/obs-websocket) and control your stream
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – An open-source Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – A highly customizable, open-source Hacker News client.
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) – Suspend games and applications.
 - [MjKey/Mods-Manager-MR](https://github.com/MjKey/Mods-Manager-MR) – Mods Manager for Marvel Rivals
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) – A cross platform App for streaming Music
@@ -1656,7 +1656,7 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
-- [oss-singularity/proton-drive-linux](https://github.com/oss-singularity/proton-drive-linux) – Proton Drive that feels at home on Linux Mint: a Nemo-ready rclone mount, encrypted credentials, safe recovery, health notifications and a native live GTK control center.
+- [oss-singularity/proton-drive-linux](https://github.com/oss-singularity/proton-drive-linux) – PDrive brings Proton Drive to Linux with a native GTK control center, encrypted credentials, resilient transfers and conservative recovery. Mint supported; Arch and Ubuntu in progress.
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) – VMware Workstation macOS 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
@@ -1935,6 +1935,7 @@
 - [jacob-pro/solar-screen-brightness](https://github.com/jacob-pro/solar-screen-brightness) – Automatically adjust monitor / screen brightness at night using sunrise/sunset times
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) – A fast & light weight Discord Client made with love using the Rust programming language.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
+- [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair) – Generate pair records for iOS and save them
 - [jlpatter/oxidized_git](https://github.com/jlpatter/oxidized_git) – A Git GUI written in Rust!
 - [joamag/boytacean](https://github.com/joamag/boytacean) – A GB emulator that is written in Rust 🦀!
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
