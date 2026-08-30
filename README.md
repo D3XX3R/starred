@@ -186,7 +186,7 @@
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
-- [shdwmtr/wallpiper](https://github.com/shdwmtr/wallpiper) – A FOSS light weight Wallpaper Engine translation layer for GNU/Linux based compositors without re-inventing the wheel. 
+- [shdwmtr/wallpiper](https://github.com/shdwmtr/wallpiper) – A FOSS light weight Wallpaper Engine translation layer for x86_64 GNU/Linux based compositors without re-inventing the wheel. 
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
@@ -790,7 +790,7 @@
 - [lucas-jacques/ikto](https://github.com/lucas-jacques/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [lxc/incus](https://github.com/lxc/incus) – Powerful system container and virtual machine manager 
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
-- [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
@@ -806,6 +806,7 @@
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [pelican/wings](https://github.com/pelican/wings)
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
@@ -1362,6 +1363,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) – An Application dashboard and launcher
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) – Open source alternative frontend for TikTok made using PHP
+- [pelican/panel](https://github.com/pelican/panel)
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) – ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) – Decentralized community
 - [xPaw/SteamID.php](https://github.com/xPaw/SteamID.php) – 🆔 PHP library to work with SteamIDs
@@ -1420,7 +1422,6 @@
 - [Akulatraxas/ha-modbusproxy](https://github.com/Akulatraxas/ha-modbusproxy) – Hassio Addon packaging modus-proxy
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
-- [Allexio/nomm](https://github.com/Allexio/nomm) – Native Open Mod Manager
 - [Alwinator/aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) – An Activity Watch watcher which monitors whether you have set your height-adjustable table to sitting or standing.
 - [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) – An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) –  GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -1479,6 +1480,7 @@
 - [Marc1326/Anvil-Organizer](https://github.com/Marc1326/Anvil-Organizer) – Native Linux mod manager inspired by MO2 — 35 games, Proton Script Extender support (SKSE64/F4SE/SFSE), Python/Qt6
 - [MaxLastBreath/nx-optimizer](https://github.com/MaxLastBreath/nx-optimizer)
 - [MylarComics/mylar3](https://github.com/MylarComics/mylar3) – The automated Comic Book downloader (cbr/cbz).
+- [NOMM-Team/nomm-app](https://github.com/NOMM-Team/nomm-app) – Native Open Mod Manager
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
@@ -2178,7 +2180,7 @@
 - [walterl/proton-privoxy](https://github.com/walterl/proton-privoxy) – Privoxy over ProtonVPN in Docker
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) –  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [xshaduwulfx/proton-linuwux](https://github.com/xshaduwulfx/proton-linuwux) – Automated Proton-GE and Proton-CachyOS builds patched with LinUwUx.patch.
-- [zelikos/davincibox](https://github.com/zelikos/davincibox) – Container for DaVinci Resolve installation and runtime dependencies on Linux
+- [zelikos/davincibox](https://github.com/zelikos/davincibox) – Container for DaVinci Resolve installation and runtime dependencies on Linux. Mirrored to https://codeberg.org/zelikos/davincibox
 - [zsasz0/vfioSwitcher](https://github.com/zsasz0/vfioSwitcher)
 
 <div id="starlark"></div>
