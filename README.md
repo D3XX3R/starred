@@ -1165,7 +1165,7 @@
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
 - [siketyan/intellij-rustowl](https://github.com/siketyan/intellij-rustowl) – Visualize ownerships and lifetimes in Rust on IntelliJ IDEs.
 - [twireapp/Twire](https://github.com/twireapp/Twire) – Twire is an alternative and open source Twitch client for Android
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) – 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) – 📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose multiplatform.
 
 <div id="liquid"></div>
 
@@ -1705,6 +1705,7 @@
 - [wayneclub/Subtitle-Downloader](https://github.com/wayneclub/Subtitle-Downloader) – Auto download subtitles from streaming services, such as Apple TV+, CatchPlay, Crunchyroll, Disney+, FridayVideo, HBO GO Asia, iQIYI, iTunes, KKTV, LINE TV, meWATCH, MyVideo, NowE, NowPlayer, Viki, Viu, WeTV, YouTube, and etc.
 - [werthdavid/homeassistant-fritzmesh](https://github.com/werthdavid/homeassistant-fritzmesh) – Home Assistant custom component for visualizing FRITZ! Mesh Topology
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) – Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
+- [word-sys/puls-kernel-mgr](https://github.com/word-sys/puls-kernel-mgr) – Linux Kernel/GRUB Management Tool
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) – Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) – Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [yani-/windows-nfs-manager](https://github.com/yani-/windows-nfs-manager) – A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.
