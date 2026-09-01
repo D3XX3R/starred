@@ -152,6 +152,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
+- [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A FOSS light weight Wallpaper Engine translation layer for x86_64 GNU/Linux based compositors without re-inventing the wheel. 
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) – A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) – Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -186,7 +187,6 @@
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [sgiurgiu/reddit_desktop](https://github.com/sgiurgiu/reddit_desktop) – A reddit client for the desktop
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
-- [shdwmtr/wallpiper](https://github.com/shdwmtr/wallpiper) – A FOSS light weight Wallpaper Engine translation layer for x86_64 GNU/Linux based compositors without re-inventing the wheel. 
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
@@ -987,7 +987,7 @@
 - [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) – Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
 - [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A Home Assistant integration for sunlight-based automations and visualization. Sunlight Visualizer calculates wall, roof, radiation, and shading-demand sensors for blinds, awnings, HVAC, solar insights, and comfort automations, then visualizes the same data in a 2.5D Lovelace card with sun position, shadows, solar power, grid flow, and Energy HUD
 - [OpenTransitHub/Trainboard-App](https://github.com/OpenTransitHub/Trainboard-App) – Clean Departure Board mainly for DB Trains running on JavaScript
-- [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 A highly customizable, privacy-focused desktop YouTube client that aims to provide the best UX
+- [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 A highly customizable, privacy-focused YouTube client that aims to provide the best UX
 - [PlaceDE-Official/place-overlay](https://github.com/PlaceDE-Official/place-overlay)
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [REVENGE977/Xenon-Bot-JavaScript-Edition](https://github.com/REVENGE977/Xenon-Bot-JavaScript-Edition) – non-official xenon bot javascript edition , a bot for backup discord servers and more features .
@@ -1005,7 +1005,7 @@
 - [TarkovTracker/tarkovdata](https://github.com/TarkovTracker/tarkovdata) – Escape From Tarkov game data, contributed by the community, maintained by developers of community tools
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) – Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [Thann/play-with-mpv](https://github.com/Thann/play-with-mpv) – Chrome extension that allows you to play videos in webpages like youtube with MPV instead
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
 - [Upload/Up1](https://github.com/Upload/Up1) – Client-side encrypted image host web server
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) – One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 - [ZiXyos/BlackJacku](https://github.com/ZiXyos/BlackJacku) – Just a BlackJack App To Learn MongoDb, Express, reactJs, NodeJs
@@ -1100,6 +1100,7 @@
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) – VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) – A multi platform Twitch.tv browser for Streamlink
 - [streamyfin/jellyfin-plugin-streamyfin](https://github.com/streamyfin/jellyfin-plugin-streamyfin) – Companion plugin for Streamyfin
+- [sw5e-foundry/sw5e-module](https://github.com/sw5e-foundry/sw5e-module)
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) – Advanced electron-based frontend for yt-dlp
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [the-hideout/tarkov-dev](https://github.com/the-hideout/tarkov-dev) – The official site for tarkov.dev - A web app to track item prices, view trader barters, quests, maps, and much more!
@@ -1158,7 +1159,7 @@
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) – A feature-rich weather app with good visualizations and more than 50 sources.
 - [cbruegg/packetloss-watchdog](https://github.com/cbruegg/packetloss-watchdog) – A workaround for the Vodafone Station's packet loss issue
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
-- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) – 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+- [komi-store/komi-store](https://github.com/komi-store/komi-store) – 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) – AirPods liberated from Apple's ecosystem.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
@@ -1485,6 +1486,7 @@
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Open Data Platform for analysts, quants and AI agents.
+- [OscarTienda/SunSync](https://github.com/OscarTienda/SunSync) – Add your Lutris, Steam, Heroic and other launcher games to Sunshine, with a KDE GUI and a virtual display that matches your Moonlight client's resolution.
 - [P-Adamiec/Free-Games-Claimer-Remaster](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) – A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) – Easily train a good VC model with voice data <= 10 mins!
@@ -1614,7 +1616,7 @@
 - [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Local voice dictation and meeting recorder for Windows + Linux. Hold a hotkey to dictate, or record long-form meetings with system audio. Whisper transcription, bring-your-own-LLM summaries. Open source.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
-- [ivan-pinatti/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
+- [ivan-pinatti-labs/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti-labs/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
@@ -1646,7 +1648,7 @@
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) – OnionSearch is a script that scrapes urls on different .onion search engines. 
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [megadose/toutatis](https://github.com/megadose/toutatis) – Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) – Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) – The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) – A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant](https://github.com/mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant) – Home Assistant integration for Sungrow inverters: SH*RT series (SH10RT), SHx.RS series (SH3.RS), SH*K series (SH4K6),  SxT-series (S20T)
@@ -2202,7 +2204,6 @@
 - [deminimis/MinimalExplorer](https://github.com/deminimis/MinimalExplorer) – A minimalist, high-performance Windows Explorer replacement built with Rust. Features a dual-pane UI , integrated xterm.js terminal with Auto-CD , and deep content search using memory-mapped indexing. Includes native ZIP handling, file previews, and a command palette.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 - [mugendi/x-files-search](https://github.com/mugendi/x-files-search) – Search files on your computer like a boss!
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [s0er3n/GeoBingo.io](https://github.com/s0er3n/GeoBingo.io) – a multiplayer street view bingo game
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) – Isolate vocals, drums, bass, and other instrumental stems from any song
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) – End-to-end encrypted file transfer.
@@ -2319,6 +2320,7 @@
 - [Sandakan/Nora](https://github.com/Sandakan/Nora) – An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 - [Scarwolf/p0weruser](https://github.com/Scarwolf/p0weruser) – A powerful UserScript to add additional functionality. 
 - [ShufflePerson/Discord_CDN](https://github.com/ShufflePerson/Discord_CDN) – Bypasses the new Discord Expiry time on download links. 
+- [Silvestrae/ve-foundry-client](https://github.com/Silvestrae/ve-foundry-client) – A simple and lightweight, Chromium based, desktop client for Foundry VTT.
 - [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins) – Shelter plugins, some of them Dorion related
 - [SpyglassMC/Spyglass](https://github.com/SpyglassMC/Spyglass) – Development tools for vanilla Minecraft: Java Edition data pack developers.
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
@@ -2493,6 +2495,7 @@
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) – Weather condition card (Lovelace) for Home Assistant.
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [rbrahul/deno_cron](https://github.com/rbrahul/deno_cron) – A cron Job scheduler for Deno that allows you to write human readable cron syntax with tons of flexibility
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) – The cross-platform GUI for rclone & S3.
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
