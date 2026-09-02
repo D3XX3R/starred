@@ -443,7 +443,7 @@
 - [acidicoala/SmokeAPI](https://github.com/acidicoala/SmokeAPI) – Legit DLC Unlocker for Steamworks
 - [adepierre/ficsit-companion](https://github.com/adepierre/ficsit-companion) – Node-based production planner for the game Satisfactory
 - [alexkay/spek](https://github.com/alexkay/spek) – Acoustic spectrum analyser
-- [aloneguid/bt](https://github.com/aloneguid/bt) – Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration.
+- [aloneguid/bt](https://github.com/aloneguid/bt) – Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 - [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) – Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
 - [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) – par2cmdline × ParPar: speed focused par2cmdline fork
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -628,7 +628,7 @@
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) – ⚗️  a privacy centric matrix client 
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) – An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) – A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
-- [warreth/OpenlibExtended](https://github.com/warreth/OpenlibExtended) – An Open source app to download and read books from shadow library (Anna’s Archive)
+- [warreth/OpenlibExtended](https://github.com/warreth/OpenlibExtended) – An Open source app to download and read books from shadow library's (Anna’s Archive, libgen, zlib)
 - [wyyadd/LaLa](https://github.com/wyyadd/LaLa) – LaLa Trainers Launcher
 
 <div id="dockerfile"></div>
@@ -2391,6 +2391,7 @@
 - [diogotr7/starchar](https://github.com/diogotr7/starchar) – Star Citizen Character Tool
 - [discordeno/discordeno](https://github.com/discordeno/discordeno) – Discord API library for Node and Deno
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) – A free and open-source community discussion platform.
+- [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) – p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [dubinc/dub](https://github.com/dubinc/dub) – The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) – Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) – dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
@@ -2456,7 +2457,6 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform for agents and developers
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) – Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
 - [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – 🎮⌛Downgrade Steam games to older versions with ease using DepotDownloader
 - [mohyware/packet-meter](https://github.com/mohyware/packet-meter) – Cross-platform network traffic monitoring system that can be self-hosted easily.
