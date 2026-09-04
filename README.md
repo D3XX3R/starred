@@ -180,6 +180,7 @@
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) – µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) – Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
 - [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
+- [reindertpelsma/nvkvm-pv](https://github.com/reindertpelsma/nvkvm-pv) – Paravirtual NVIDIA GPU for KVM guests — run unmodified CUDA, PyTorch and Vulkan inside a VM at host parity, on a GPU the host keeps using. No passthrough, no vGPU licence. Experimental.
 - [ripxorip/PWAR](https://github.com/ripxorip/PWAR) – PWAR: PipeWire ASIO Relay — a zero-drift, real-time audio bridge
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [scanmem/scanmem](https://github.com/scanmem/scanmem) – memory scanner for Linux
@@ -1901,7 +1902,7 @@
 - [extism/extism](https://github.com/extism/extism) – The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
 - [fereidani/opool](https://github.com/fereidani/opool) – High-performance, lock-free local and concurrent object memory pool with automated allocation, cleanup, and verification.
-- [ferronweb/ferron](https://github.com/ferronweb/ferron) – A fast, modern, and easily configurable web server with automatic TLS.
+- [ferronweb/ferron](https://github.com/ferronweb/ferron) – A fast, modern web server built for production debugging.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) – A reimplementation of the minecraft server in rust.
 - [ffplayout/ffplayout](https://github.com/ffplayout/ffplayout) – Rust and ffmpeg based playout 
 - [fintelia/terra](https://github.com/fintelia/terra) – A large scale terrain rendering library written in Rust
@@ -2214,7 +2215,7 @@
 
 ## Swift
 
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
@@ -2311,6 +2312,7 @@
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) – Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) – Open Cyber Threat Intelligence Platform
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) – The open-source CapCut alternative
+- [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) – This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [PrinceBunBun981/VencordPlugins](https://github.com/PrinceBunBun981/VencordPlugins) – All of the public Vencord plugins I've worked on.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) – Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [ReikanYsora/Helios](https://github.com/ReikanYsora/Helios) – Helios - Make your energy visible, in 2.5D in a Lovelace card for Home Assistant
@@ -2403,7 +2405,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats) – Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
 - [frstycodes/sendit](https://github.com/frstycodes/sendit) – A simple p2p file transfer desktop app built with rust and react.
 - [garronej/denoify](https://github.com/garronej/denoify) – 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
