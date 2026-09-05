@@ -514,6 +514,7 @@
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) – GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) – DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [netborg-afps/dxvk-low-latency](https://github.com/netborg-afps/dxvk-low-latency) – Enhances DXVK with low-latency frame pacing 
+- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) – An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) – nomacs is a free image viewer for windows, linux, and mac systems.
 - [nvpro-samples/vk_raytrace](https://github.com/nvpro-samples/vk_raytrace) – Ray tracing glTF scene with Vulkan
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) – CEF-based OBS Studio browser plugin
@@ -734,7 +735,7 @@
 - [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) – AmneziaWG VPN protocol
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
 - [autobrr/qui](https://github.com/autobrr/qui) – A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) – join public router. quickly.
@@ -1366,7 +1367,7 @@
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) – An Application dashboard and launcher
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) – Open source alternative frontend for TikTok made using PHP
 - [pelican/panel](https://github.com/pelican/panel)
-- [projectsend/projectsend](https://github.com/projectsend/projectsend) – ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!
+- [projectsend/projectsend](https://github.com/projectsend/projectsend) – Share files with your clients, from your own server. Free, open source (GPLv2), self-hosted — or use ProjectSend Cloud, the official hosted version run by the same team.
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) – Decentralized community
 - [xPaw/SteamID.php](https://github.com/xPaw/SteamID.php) – 🆔 PHP library to work with SteamIDs
 
@@ -1754,6 +1755,7 @@
 
 ## Rust
 
+- [0-don/clippy](https://github.com/0-don/clippy) – privacy focused clipboard manager with sync & encryption
 - [0xflux/Sanctum](https://github.com/0xflux/Sanctum) – Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above and beyond the capabilities of antivirus.  Built in Rust.
 - [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) – An implementation of a socket.io client written in the Rust programming language.
 - [2bc4/twitch-hls-client](https://github.com/2bc4/twitch-hls-client) – Minimal CLI client for watching Twitch streams
@@ -2130,6 +2132,7 @@
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube and other services freely. 
+- [JakubSzark/wardogs-elytra-proton-fix](https://github.com/JakubSzark/wardogs-elytra-proton-fix) – A fix regarding elytra and proton for wardogs playtest
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
