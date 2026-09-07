@@ -152,7 +152,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
-- [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A FOSS light weight Wallpaper Engine translation layer for x86_64 GNU/Linux based compositors without re-inventing the wheel. 
+- [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A lightweight translation layer for Wallpaper Engine on x86_64 GNU/Linux based compositors without re-inventing the wheel
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) – A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) – Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -905,7 +905,7 @@
 - [Greeenman999/LibrarianTradeFinder](https://github.com/Greeenman999/LibrarianTradeFinder) – A fabric mod that helps you find the enchantments you need from a Librarian Villager.
 - [Inkshriek/dndsheets](https://github.com/Inkshriek/dndsheets) – A mod to let you play D&D 5e in Minecraft.
 - [JacksonHoggard/raydream](https://github.com/JacksonHoggard/raydream) – 💡 Raytracer with GUI editor
-- [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) – Fast, Automatic In-Game Seed Cracker for Minecraft.
+- [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) – Fast, Automatic In-Game Seed Cracker.
 - [KiLABGaming/auton8](https://github.com/KiLABGaming/auton8) – n8n for Minecraft
 - [MCRcortex/nvidium](https://github.com/MCRcortex/nvidium) – Fast minecraft rendering backend for sodium (nvidia only)
 - [MCRcortex/voxy](https://github.com/MCRcortex/voxy) – An LoD rendering mod for minecraft
@@ -920,7 +920,7 @@
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
-- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod that allows you to join every Minecraft server version.
+- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod that allows you to join every Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) – Database Subsetting and Relational Data Browsing Tool.
 - [Wynnventory/WynnVentory_Mod](https://github.com/Wynnventory/WynnVentory_Mod)
@@ -1558,7 +1558,6 @@
 - [carelesshangman/psarc2feedpak](https://github.com/carelesshangman/psarc2feedpak)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1870,11 +1869,13 @@
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) – Deep learning in Rust, with shape checked tensors and neural networks
 - [chriamue/openrailwaymap-exporter](https://github.com/chriamue/openrailwaymap-exporter) – OpenRailwayMap Exporter is a Rust project that downloads railway data from the OpenRailwayMap API
+- [cilki/goldboot](https://github.com/cilki/goldboot) – Build golden images with CI
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
 - [claration/Impactor](https://github.com/claration/Impactor) – Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
@@ -1913,7 +1914,6 @@
 - [floneum/kalosm](https://github.com/floneum/kalosm) – Instant, controllable, local pre-trained AI models in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [fokshadev/rust-nitro-sniper](https://github.com/fokshadev/rust-nitro-sniper) – Fast and powerful Discord Nitro sniper written in Rust.
-- [fossable/goldboot](https://github.com/fossable/goldboot) – Build golden images with CI
 - [gamedig/rust-gamedig](https://github.com/gamedig/rust-gamedig) – Game Server Query Library.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – A cross-platform, safe, pure-Rust graphics API.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) – The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -2484,7 +2484,7 @@
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
 - [open-pv/simshady](https://github.com/open-pv/simshady) – Simulating Shadows for PV Potential Analysis with 3D Data in the Browser :sunny:
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) – Online browser-based RTS game
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [openscopeproject/TrguiNG](https://github.com/openscopeproject/TrguiNG) – Remote GUI for Transmission torrent daemon
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) – Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
 - [osuplace/templateManager](https://github.com/osuplace/templateManager) – Template manager for various canvas games
@@ -2532,7 +2532,7 @@
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [tone-3000/neural-amp-modeler-wasm](https://github.com/tone-3000/neural-amp-modeler-wasm) – NAM DSP on the Web
-- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) – Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
+- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) – Share files nearby and beyond. 
 - [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) – An advanced calendar card for Home Assistant Lovelace.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
