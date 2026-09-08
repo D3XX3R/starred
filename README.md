@@ -152,7 +152,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
-- [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A lightweight translation layer for Wallpaper Engine on x86_64 GNU/Linux based compositors without re-inventing the wheel
+- [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A lightweight translation layer for Wallpaper Engine on x86_64 GNU/Linux based compositors
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) – A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) – Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -808,7 +808,7 @@
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [pelican/wings](https://github.com/pelican/wings)
+- [pelican/wings](https://github.com/pelican/wings) – Pelican's server control daemon: runs each game server in its own Docker container.
 - [pion/webrtc-bench](https://github.com/pion/webrtc-bench) – WebRTC Server that plays a file and generates a CPU Usage report
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) – The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file
@@ -1366,7 +1366,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) – An Application dashboard and launcher
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) – Open source alternative frontend for TikTok made using PHP
-- [pelican/panel](https://github.com/pelican/panel)
+- [pelican/panel](https://github.com/pelican/panel) – Free, open source game server management panel built on Laravel and Docker.
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) – Share files with your clients, from your own server. Free, open source (GPLv2), self-hosted — or use ProjectSend Cloud, the official hosted version run by the same team.
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) – Decentralized community
 - [xPaw/SteamID.php](https://github.com/xPaw/SteamID.php) – 🆔 PHP library to work with SteamIDs
@@ -1558,6 +1558,7 @@
 - [carelesshangman/psarc2feedpak](https://github.com/carelesshangman/psarc2feedpak)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1725,7 +1726,7 @@
 - [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) – Plasma shell for TVs
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) – A fluid, morphing shell for your Linux desktop
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – A free, open-source, and cross-platform iDevice management tool
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – privacy-first, open-source and free idevice management tool written in Rust and Qt
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
@@ -1869,7 +1870,6 @@
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
@@ -2186,7 +2186,6 @@
 - [vinceliuice/Elegant-grub2-themes](https://github.com/vinceliuice/Elegant-grub2-themes) – Elegant grub2 themes for all linux systems
 - [walterl/proton-privoxy](https://github.com/walterl/proton-privoxy) – Privoxy over ProtonVPN in Docker
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) –  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-- [xshaduwulfx/proton-linuwux](https://github.com/xshaduwulfx/proton-linuwux) – Automated Proton-GE and Proton-CachyOS builds patched with LinUwUx.patch.
 - [zelikos/davincibox](https://github.com/zelikos/davincibox) – Container for DaVinci Resolve installation and runtime dependencies on Linux. Mirrored to https://codeberg.org/zelikos/davincibox
 - [zsasz0/vfioSwitcher](https://github.com/zsasz0/vfioSwitcher)
 
