@@ -152,7 +152,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
-- [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A lightweight translation layer for Wallpaper Engine on x86_64 GNU/Linux based compositors
+- [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A translation layer for Wallpaper Engine on x86_64 GNU/Linux
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) – FFmpeg for browser, powered by WebAssembly
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) – A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) – Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -423,7 +423,7 @@
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
-- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – Open-source modding framework for creating and managing Steam Client themes and plugins.
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – An open-source framework for Steam Client themes and plugins
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
@@ -1971,7 +1971,7 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) – A FUSE filesystem for your Google calendar
 - [magnesium-uploader/magnesium-oxide](https://github.com/magnesium-uploader/magnesium-oxide) – A blazingly fast, privacy-first ShareX uploader coded in Rust (using actix web) which utilizes the AES256-GCM-SIV encryption standard to securely store uploaded content.
 - [magnetophon/lamb-rs](https://github.com/magnetophon/lamb-rs) – A lookahead compressor/limiter that's soft as a lamb.
-- [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
+- [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform native GUI library for 🦀 Rust
 - [marhkb/pods](https://github.com/marhkb/pods) – Manage your containers
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) – Official successor to conduwuit
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
