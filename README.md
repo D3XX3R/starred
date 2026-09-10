@@ -481,7 +481,6 @@
 - [hn/bsh-home-appliances](https://github.com/hn/bsh-home-appliances) – BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 - [hpeter2/VFPC](https://github.com/hpeter2/VFPC)
 - [imputnet/helium](https://github.com/imputnet/helium) – Private, fast, and honest web browser
-- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) – Open-source KVM software
 - [ishitatsuyuki/LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) – Vendor agnostic latency reduction middleware. An alternative to NVIDIA Reflex.
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) – Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
@@ -1024,6 +1023,7 @@
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) – Browser extension that automatically fills out cookie popups based on your preferences
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [civilblur/youlag](https://github.com/civilblur/youlag) – Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler, originally developed in early fall 2016.  https://secrethitler.io
@@ -2000,6 +2000,7 @@
 - [oferchen/rsync](https://github.com/oferchen/rsync) – Classic rsync re-implementation in pure Rust
 - [ogham/exa](https://github.com/ogham/exa) – A modern replacement for ‘ls’.
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) – Unsafely fast hashing algorithm 📈
+- [omikuji-launcher/omikuji](https://github.com/omikuji-launcher/omikuji) – QtQuick based game launcher for Linux
 - [opensourcecheemsburgers/RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) – A rusty Youtube client.
 - [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
@@ -2158,6 +2159,7 @@
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) – Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [ih8d8/archstrap](https://github.com/ih8d8/archstrap) – Scripts to automate my encrypted Arch Linux setup
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) – Helium Browser for Linux
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) – Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [jareware/docker-volume-backup](https://github.com/jareware/docker-volume-backup) – Utility container for periodically backing up Docker volumes
@@ -2377,7 +2379,6 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) – Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [chuunibian/delta](https://github.com/chuunibian/delta) – Disk space analyzer with historical tracking.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) – Yet another matrix client
 - [cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game](https://github.com/cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game) – A Technical Analysis Algorithmic Trading Game
