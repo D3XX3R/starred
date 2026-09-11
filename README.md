@@ -1023,7 +1023,6 @@
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) – Browser extension that automatically fills out cookie popups based on your preferences
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [civilblur/youlag](https://github.com/civilblur/youlag) – Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler, originally developed in early fall 2016.  https://secrethitler.io
@@ -1157,10 +1156,10 @@
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [acidicoala/Koalageddon2](https://github.com/acidicoala/Koalageddon2) – Legit DLC Unlocker for Steamworks, Epic Online Services, and Ubisoft Connect
-- [aimok04/kitshn](https://github.com/aimok04/kitshn) –  Unofficial Tandoor client for Android, iOS and Desktop devices
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) – A feature-rich weather app with good visualizations and more than 50 sources.
 - [cbruegg/packetloss-watchdog](https://github.com/cbruegg/packetloss-watchdog) – A workaround for the Vodafone Station's packet loss issue
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
+- [kitshn-app/kitshn](https://github.com/kitshn-app/kitshn) –  Unofficial Tandoor client for Android, iOS and Desktop devices
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) – 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) – AirPods liberated from Apple's ecosystem.
@@ -1190,7 +1189,6 @@
 
 - [CrendKing/mpv-twitch-chat](https://github.com/CrendKing/mpv-twitch-chat) – Show Twitch chat messages as subtitles when watching Twitch VOD with mpv.
 - [IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS) – Home of MineOS and it's software for OpenComputers mod
-- [IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds) – True coop multiplayer mod for Noita.
 - [MikaylaFischler/cc-mek-scada](https://github.com/MikaylaFischler/cc-mek-scada) – Configurable ComputerCraft SCADA system for multi-reactor control of Mekanism fission reactors with a GUI, automatic safety features, waste processing control, and more! Please be sure to take a look at the Wiki tab, this project has lots of docs!
 - [Mm2PL/supibot-completion-plugin](https://github.com/Mm2PL/supibot-completion-plugin) – A Chatterino plugin
 - [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) – Multiplayer mod for BeamNG.drive
@@ -1558,7 +1556,6 @@
 - [carelesshangman/psarc2feedpak](https://github.com/carelesshangman/psarc2feedpak)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1620,7 +1617,7 @@
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [ivan-pinatti-labs/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti-labs/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) – MPV-Based Jellyfin Client with Offline Sync
 - [jina-ai/serve](https://github.com/jina-ai/serve) – ☁️ Build multimodal AI applications with cloud-native stack
 - [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat) – A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 - [jmdevita/parcel-ha](https://github.com/jmdevita/parcel-ha) – Unofficial ParcelApp integration with Home Assistant
@@ -1687,6 +1684,7 @@
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) – An open Apple AirDrop implementation written in Python
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) – 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) – Hunt down social media accounts by username across social networks
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [snazzybean/roommind](https://github.com/snazzybean/roommind) – Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
@@ -1795,6 +1793,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your network traffic 🕵️‍♂️
 - [IamSanjid/sturdy-spoon](https://github.com/IamSanjid/sturdy-spoon) – A lightweight web server that enables synchronized video watching, inspired by https://syncplay.pl/.
 - [IncredibleDevHQ/agent-panel](https://github.com/IncredibleDevHQ/agent-panel) – AI gateway and observability server written in Rust. Designed to help optimize multi-agent workflows. 
+- [IntQuant/noita_entangled_worlds](https://github.com/IntQuant/noita_entangled_worlds) – True coop multiplayer mod for Noita.
 - [Jupiee/rawst](https://github.com/Jupiee/rawst) – Rawst is cli downloader, written in rust
 - [KMJ-007/lazygh](https://github.com/KMJ-007/lazygh) – A Terminal User Interface (TUI) application for managing multiple GitHub accounts easily
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) – A modern mod manager for Thunderstore
@@ -1870,6 +1869,7 @@
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
@@ -2379,6 +2379,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) – Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [chuunibian/delta](https://github.com/chuunibian/delta) – Disk space analyzer with historical tracking.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) – Yet another matrix client
 - [cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game](https://github.com/cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game) – A Technical Analysis Algorithmic Trading Game
