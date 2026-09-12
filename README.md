@@ -971,7 +971,7 @@
 - [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
 - [Darkdragon14/ha-access-control-manager](https://github.com/Darkdragon14/ha-access-control-manager) – "Access Control Manager" provides a centralized interface for managing user permissions and access rights within Home Assistant. It allows administrators to create, assign, and customize roles, ensuring secure and streamlined control over who can interact with specific devices, automations, and dashboards in the smart home ecosystem.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) – Datamining Discord changes from the JS files
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) – Your Ultimate IPTV & Stream Management Companion
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) – Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) – Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1816,7 +1816,7 @@
 - [PixelP4radise/house_simulator_rust](https://github.com/PixelP4radise/house_simulator_rust) – A Rust adaptation of a School Project meant to be done in C++ with ncurses
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers
 - [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.2.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
@@ -1894,7 +1894,7 @@
 - [ddxy/whispercat](https://github.com/ddxy/whispercat)
 - [dejwi/tauri-chat-app](https://github.com/dejwi/tauri-chat-app) – Chat app with client&server written in rust ; handles data streamed on a TCP socket
 - [denoland/deno](https://github.com/denoland/deno) – A modern runtime for JavaScript and TypeScript.
-- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) – WinDbg-like kernel debugger for Windows VMs on Linux (KVM/QEMU, VMware) and macOS (UTM)
+- [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) – WinDbg-like kernel debugger for Windows, from Linux and macOS
 - [dottorblaster/cauldron](https://github.com/dottorblaster/cauldron) – A native Instapaper client for the Linux desktop
 - [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) – A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. 
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) – Launcher-driven Bluetooth manager for Linux
@@ -2529,13 +2529,14 @@
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) – Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's CLI and TUI client -- The ultimate weapon against brainrot
+- [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) – An all-round MQTT client that provides a structured topic overview
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [tone-3000/neural-amp-modeler-wasm](https://github.com/tone-3000/neural-amp-modeler-wasm) – NAM DSP on the Web
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) – Share files nearby and beyond. 
 - [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) – An advanced calendar card for Home Assistant Lovelace.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) – Trigger.dev – build and deploy durable AI agents and workflows
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [un/inbox](https://github.com/un/inbox) – Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) – The simplest deployment platform made for self-hosters.
@@ -2611,7 +2612,6 @@
 - [lissy93/dashy](https://github.com/lissy93/dashy) – 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [markterence/discord-quest-completer](https://github.com/markterence/discord-quest-completer) – A Windows desktop application to complete quests on Discord without installing the full actual games. 
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) – LinguaCafe is a self-hosted software that helps language learners read foreign languages.
-- [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
 - [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) – Utility for mass-downloading LRC synced lyrics for your offline music library.
 
 <div id="zig"></div>
