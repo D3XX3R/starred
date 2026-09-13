@@ -1017,6 +1017,7 @@
 - [alexemanuelol/rustplusplus](https://github.com/alexemanuelol/rustplusplus) – A NodeJS Discord Bot that uses the rustplus.js library to utilize the power of the Rust+ Companion App with additional Quality-of-Life features.
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) – Flexible usenet binary posting tool
 - [aplotor/expanse](https://github.com/aplotor/expanse) – selfhosted multi-user web app for externally storing Reddit items (saved, created, upvoted, downvoted, hidden) to bypass Reddit's 1000-item listing limits
+- [apollyon-sys/wardogs-calculator](https://github.com/apollyon-sys/wardogs-calculator) – Open-source artillery calculator and tactical map tools for WARDOGS
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) – Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [axoletl/not-br-ext](https://github.com/axoletl/not-br-ext) – Extension implementation of not-br
 - [bartosjiri/twitch-lurker-bot](https://github.com/bartosjiri/twitch-lurker-bot) – A script for joining multiple Twitch channels with a provided user account
