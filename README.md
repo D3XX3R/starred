@@ -791,7 +791,7 @@
 - [lucas-jacques/ikto](https://github.com/lucas-jacques/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [lxc/incus](https://github.com/lxc/incus) – Powerful system container and virtual machine manager 
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
-- [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
+- [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
@@ -1107,7 +1107,6 @@
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [the-hideout/tarkov-dev](https://github.com/the-hideout/tarkov-dev) – The official site for tarkov.dev - A web app to track item prices, view trader barters, quests, maps, and much more!
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) – Free Modern URL Shortener.
-- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) – Usenet meta search
 - [tubededentifrice/streamdeck-crypto](https://github.com/tubededentifrice/streamdeck-crypto) – StreamDeck plugin for cryptocurrencies
 - [unintended/download-organizer-chrome-extension](https://github.com/unintended/download-organizer-chrome-extension) – Chrome extesion that allows you to set custom download locations with a flexible regexp-based rules.
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -2522,7 +2521,7 @@
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
-- [socius-org/RedditHarbor](https://github.com/socius-org/RedditHarbor) – Ethical, legal, and effortless extraction of Reddit data in your database
+- [socius-org/RedditHarbor](https://github.com/socius-org/RedditHarbor) – Effortless extraction of Reddit data in your database
 - [squirrelchat/squirrel](https://github.com/squirrelchat/squirrel) – WIP: Next-gen, open-source and enterprise-ready chat platform.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) – A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) – A modern Jellyfin client built with Expo
@@ -2531,6 +2530,7 @@
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's CLI and TUI client -- The ultimate weapon against brainrot
 - [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) – Usenet meta search
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) – An all-round MQTT client that provides a structured topic overview
 - [timcole/sugma](https://github.com/timcole/sugma) – 🥜 Short URLs Get More Attention - Yet Another URL Shortener...
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
