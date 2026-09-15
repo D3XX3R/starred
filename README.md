@@ -802,7 +802,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
@@ -1298,7 +1298,6 @@
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
 - [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) – a collection about Windows 11
 - [bram-atmire/GDPR-Claim-Templates](https://github.com/bram-atmire/GDPR-Claim-Templates) – Consumer templates to exercise GDPR rights.
-- [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) – LD_PRELOAD Runtime providing the host-side interpositions needed for specific CPUID-faulting + signal protocol under GE-Proton / CachyOS Proton.
 - [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) – 📝 The curated list of awesome things related to Minecraft.
 - [buschwacker/VTOL-VR-Kneeboard](https://github.com/buschwacker/VTOL-VR-Kneeboard) – Why keep all those RWR symbols, brevity codes, and aviation jargon in your head when you could have it on your knee?
 - [catppuccin/grub](https://github.com/catppuccin/grub) – 🌕 Soothing pastel theme for Grub2 & Ventoy
@@ -1442,6 +1441,7 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) – Dark Web OSINT Tool
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [DimmaDont/all-slain-gui](https://github.com/DimmaDont/all-slain-gui) – Star Citizen Game Log Overlay
+- [Donkie/Spoolman](https://github.com/Donkie/Spoolman) – Keep track of your inventory of 3D-printer filament spools.
 - [ESJavadex/ezviz-ha-addon](https://github.com/ESJavadex/ezviz-ha-addon) – Reversed Engineering Cloud Ezviz conection Home Assistant addon. Tested on HP2
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
 - [EiS94/db_info](https://github.com/EiS94/db_info) – Home Assistant Integration to get live data for Deutsche Bahn
@@ -1715,6 +1715,7 @@
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) – A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
 - [yum-food/TaSTT](https://github.com/yum-food/TaSTT) – A free self-hosted STT for VRChat
+- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) – Jellyfin Custom Integration for Home Assistant
 
 <div id="qml"></div>
 
@@ -1867,6 +1868,7 @@
 - [bjn7/passkeyd](https://github.com/bjn7/passkeyd) – An Opinionated WebAuthn Authenticator
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) – An operating system designed for hosting containers
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) – Practice your typing skills
+- [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) – A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
@@ -1902,6 +1904,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [emilk/egui](https://github.com/emilk/egui) – egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) – Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
+- [espressif/idf-im-ui](https://github.com/espressif/idf-im-ui) – EIM GUI: Cross-Platform ESP-IDF Installation Manager
 - [extism/extism](https://github.com/extism/extism) – The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
 - [fereidani/opool](https://github.com/fereidani/opool) – High-performance, lock-free local and concurrent object memory pool with automated allocation, cleanup, and verification.
@@ -2559,7 +2562,6 @@
 - [zephraOSS/Apple-Music-RPC](https://github.com/zephraOSS/Apple-Music-RPC) – Discord RPC for Apple Music and iTunes with easy-to-use interface and setup
 - [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) – Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) – A portable and vast media library solution.
-- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) – Jellyfin Custom Integration for Home Assistant
 
 <div id="vbscript"></div>
 
