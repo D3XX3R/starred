@@ -869,7 +869,6 @@
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [kmille/freetar](https://github.com/kmille/freetar) – freetar  - an alternative frontend to ultimate-guitar.com
-- [mkshb/hass-evcc-card](https://github.com/mkshb/hass-evcc-card) – Custom Lovelace Card for EVCC
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) – Better privacy without special software
 - [ossu/computer-science](https://github.com/ossu/computer-science) – 🎓 Path to a free self-taught education in Computer Science!
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) – A verified tool that works on any potato computer that will let you bypass discord verification
@@ -1024,6 +1023,7 @@
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) – Browser extension that automatically fills out cookie popups based on your preferences
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [civilblur/youlag](https://github.com/civilblur/youlag) – Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler, originally developed in early fall 2016.  https://secrethitler.io
@@ -1651,6 +1651,7 @@
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) – A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant](https://github.com/mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant) – Home Assistant integration for Sungrow inverters: SH*RT series (SH10RT), SHx.RS series (SH3.RS), SH*K series (SH4K6),  SxT-series (S20T)
+- [mkshb/hass-evcc-card](https://github.com/mkshb/hass-evcc-card) – Custom Lovelace Card for EVCC
 - [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot) – 🏓 A bot that relays Twitch Chat and a Discord Channel between each other.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) – Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher,PS Plus, Glyph, VKPlay & HoYoPlay, Waydroid and Games on SD Card.
 - [mrks1469/PacHub](https://github.com/mrks1469/PacHub) – GTK4 + libadwaita Front End for Pacman/AUR
@@ -2023,6 +2024,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool) – dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
+- [radiantly/Invisiwind](https://github.com/radiantly/Invisiwind) – An application that allows you to hide certain windows when sharing your full screen
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -2047,6 +2049,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [secluso/core](https://github.com/secluso/core) – A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
@@ -2101,7 +2104,7 @@
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) – GUI app for managing Docker/Podman
 - [w4/rgit](https://github.com/w4/rgit) – 🏯 blazingly fast web frontend for git repositories
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) – Warp is an agentic development environment, born out of the terminal.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) – Wallpaper Manager for Linux
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) – A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
@@ -2381,7 +2384,6 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) – Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [chuunibian/delta](https://github.com/chuunibian/delta) – Disk space analyzer with historical tracking.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) – Yet another matrix client
 - [cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game](https://github.com/cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game) – A Technical Analysis Algorithmic Trading Game
@@ -2517,7 +2519,6 @@
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr)
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) – Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [saalikmubeen/talkhouse](https://github.com/saalikmubeen/talkhouse) – WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
 - [sharknoon/wero-tracker](https://github.com/sharknoon/wero-tracker) – A simple dashboard that shows the adoption of the payment provider Wero by individual banks and online shops
