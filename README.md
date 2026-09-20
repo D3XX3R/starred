@@ -313,7 +313,7 @@
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) – Sudo for Windows
 - [habibrehmansg/infopanel](https://github.com/habibrehmansg/infopanel) – InfoPanel is a desktop visualization software designed to work with HWiNFO sensors via Shared Memory (SHM). It allows users to display system information on their desktop or external displays, including USB-only LCDs like BeadaPanel.
 - [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) – LibVLC-based media player for the Universal Windows Platform
-- [hyprismteam/Hyprism](https://github.com/hyprismteam/Hyprism) – Hytale launcher with mod management, and more!
+- [hyprismteam/Hyprism](https://github.com/hyprismteam/Hyprism) – Open-source, cross-platform Hytale launcher with isolated instances, mod discovery, and profile management
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) – .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [insomniachi/FluentFin](https://github.com/insomniachi/FluentFin)
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) – Automatically detect and skip intro/credit sequences in Jellyfin
@@ -798,7 +798,7 @@
 - [minekube/gate](https://github.com/minekube/gate) – Build efficient Bedrock & Java Minecraft networks with multi-version support. Powers global Connect network at production scale. Runs with 10MB.
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
@@ -1076,6 +1076,7 @@
 - [markrai/fontcompare](https://github.com/markrai/fontcompare) – an easy way to dynamically compare locally hosted fonts
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) – Node.js Simple WHIP Server library (based on the Janus WebRTC Server)
 - [memory-stack/Memory-Stack](https://github.com/memory-stack/Memory-Stack) – 📜 Memory stack is a developer oriented journaling social platform. 
+- [mkshb/hass-evcc-card](https://github.com/mkshb/hass-evcc-card) – Custom Lovelace Card for EVCC
 - [nutbread/t2m](https://github.com/nutbread/t2m) – Torrent to magnet converter
 - [oatmealine/powercord-tiktok-tts](https://github.com/oatmealine/powercord-tiktok-tts) – Lets you speak Discord messages with the TikTok TTS.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) – Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -1556,6 +1557,7 @@
 - [carelesshangman/psarc2feedpak](https://github.com/carelesshangman/psarc2feedpak)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) – Stable Diffusion built-in to Blender
 - [castdrian/audiosnatch](https://github.com/castdrian/audiosnatch) – Downloads audiobooks from tokybook.com
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) – Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) – A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful programmatic image processing application.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) – Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1651,7 +1653,6 @@
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) – A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant](https://github.com/mkaiser/Sungrow-SHx-Inverter-Modbus-Home-Assistant) – Home Assistant integration for Sungrow inverters: SH*RT series (SH10RT), SHx.RS series (SH3.RS), SH*K series (SH4K6),  SxT-series (S20T)
-- [mkshb/hass-evcc-card](https://github.com/mkshb/hass-evcc-card) – Custom Lovelace Card for EVCC
 - [mmattDonk/Twitch-Discord-Relay-Bot](https://github.com/mmattDonk/Twitch-Discord-Relay-Bot) – 🏓 A bot that relays Twitch Chat and a Discord Channel between each other.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) – Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher,PS Plus, Glyph, VKPlay & HoYoPlay, Waydroid and Games on SD Card.
 - [mrks1469/PacHub](https://github.com/mrks1469/PacHub) – GTK4 + libadwaita Front End for Pacman/AUR
@@ -1819,7 +1820,7 @@
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
 - [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.2.
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.3.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
 - [Riken7/one_tui](https://github.com/Riken7/one_tui) – Your onedrive,inside your terminal!
 - [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) –  (Alpha Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols. 
@@ -1872,7 +1873,6 @@
 - [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) – A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) – A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
@@ -1881,7 +1881,7 @@
 - [cilki/goldboot](https://github.com/cilki/goldboot) – Build golden images with CI
 - [citybound/citybound](https://github.com/citybound/citybound) – A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) – A full featured, fast Command Line Argument Parser for Rust
-- [claration/Impactor](https://github.com/claration/Impactor) – Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+- [claration/impactor](https://github.com/claration/impactor) – Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [classx/dark-matter](https://github.com/classx/dark-matter) – Dark matter - simple vault CLI utility with GPG encryption
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) – Cross-platform compute shader engine
@@ -2233,7 +2233,7 @@
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) – Community fork of PlayCover
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) – A virtual monitor for screen sharing
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) – A Custom Client for iPhone, iPad, and Mac
-- [claration/Feather](https://github.com/claration/Feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+- [claration/feather](https://github.com/claration/feather) – Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [eerimoq/moblin](https://github.com/eerimoq/moblin) – Moblin, a free iOS app for IRL streaming.
 - [iina/iina](https://github.com/iina/iina) – The modern video player for macOS.
 - [ilmakio/PassStore](https://github.com/ilmakio/PassStore) – A local-first secret manager for developers, built natively for macOS.
