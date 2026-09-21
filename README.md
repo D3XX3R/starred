@@ -193,6 +193,7 @@
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) – A simple, very experimental TPM sniffer for LPC bus
 - [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) – Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+- [supersonic-xserver/xsonicland](https://github.com/supersonic-xserver/xsonicland) – xsonicland lets you build the latest restoration of the full xserver as xorg or xwayland
 - [univrsal/dvds3](https://github.com/univrsal/dvds3) – Will it hit the corner?
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
@@ -1040,7 +1041,6 @@
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) – 🔀 Redirect social media platforms to their privacy respecting frontends
 - [edo44/edoStereo](https://github.com/edo44/edoStereo) – BetterDiscord Stereo Plugin, better discord stereo plugin
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) – Your gateway to a world of public APIs.
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) – :cloud: Sync your bookmarks privately across browsers and devices
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
@@ -1945,6 +1945,7 @@
 - [iman-salmani/iplan](https://github.com/iman-salmani/iplan) – Your plan for improving personal life and workflow
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
 - [jacob-pro/solar-screen-brightness](https://github.com/jacob-pro/solar-screen-brightness) – Automatically adjust monitor / screen brightness at night using sunrise/sunset times
+- [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) – A fast & light weight Discord Client made with love using the Rust programming language.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair) – Generate pair records for iOS and save them
@@ -2410,6 +2411,7 @@
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) – :cloud: Sync your bookmarks privately across browsers and devices
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [fmalcher/soundcraft-ui](https://github.com/fmalcher/soundcraft-ui) – Connection library for the Soundcraft Ui Series (Ui12, Ui16, Ui24R) written in JavaScript/TypeScript
@@ -2439,7 +2441,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) – Collection of publicly available IPTV channels from all over the world
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) – Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [jakemiki/twitch-clip-queue](https://github.com/jakemiki/twitch-clip-queue) – A simple, setup free clip queue for all your Twitch clip queueing needs
-- [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jayjojayson/FRITZ-Portal](https://github.com/jayjojayson/FRITZ-Portal) – FRITZ!Portal Add-On for Home Assistant
 - [jaypyles/open-spots](https://github.com/jaypyles/open-spots) – Open Spots is a fork of Spots that is designed to help organizations deliver real-time building availability data to staff, employees, customers, or students.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) – 🤖 The world's easiest, most powerful stock checker
