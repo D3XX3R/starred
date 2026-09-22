@@ -135,13 +135,11 @@
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) – Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [IntouchHealth/clumsy](https://github.com/IntouchHealth/clumsy) – clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [Jenova-Framework/J.E.N.O.V.A](https://github.com/Jenova-Framework/J.E.N.O.V.A) – Projekt J.E.N.O.V.A is a comprehensive series of components for Godot Engine expanding its capabilities with cutting-edge technologies. 
-- [M0n7y5/pipeasio](https://github.com/M0n7y5/pipeasio) – ASIO to Pipewire. Better solution for low latency audio inside Wine. Works with SteamRT.
 - [NVIDIA/nvidia-settings](https://github.com/NVIDIA/nvidia-settings) – NVIDIA driver control panel
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) – Perceptual video quality assessment based on multi-method fusion.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) – Open Source Soldering Iron firmware
 - [SiloCityLabs/esp32-airtap](https://github.com/SiloCityLabs/esp32-airtap) – Compilation of AC Infinity Vent custom pcbs
 - [TarlogicSecurity/ESP32-Bluetooth-Reversing](https://github.com/TarlogicSecurity/ESP32-Bluetooth-Reversing)
-- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [Unixcraft-Studios/X3Dctl](https://github.com/Unixcraft-Studios/X3Dctl) – X3Dctl is a lightweight Linux CLI utility for AMD X3D processors that enables deterministic mode control, CCD-aware process affinity, and predictable workload isolation.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) – Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
@@ -399,6 +397,7 @@
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) – The Librum client application
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) – Self-hosted game stream host for Moonlight.
 - [Lovrom8/RSMods](https://github.com/Lovrom8/RSMods)
+- [M0n7y5/pipeasio](https://github.com/M0n7y5/pipeasio) – ASIO to Pipewire. Better solution for low latency audio inside Wine. Works with SteamRT.
 - [MajorPainTheCactus/AutoHDR-ReShade](https://github.com/MajorPainTheCactus/AutoHDR-ReShade) – AutoHDR addon and effect for ReShade
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) – Tray application and Dolphin/Plasma integration for Syncthing
 - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) – Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                           
@@ -917,7 +916,6 @@
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod that allows you to join every Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -1550,6 +1548,7 @@
 - [berarma/oversteer](https://github.com/berarma/oversteer) – Steering Wheel Manager for GNU/Linux
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
@@ -2335,6 +2334,7 @@
 - [Silvestrae/ve-foundry-client](https://github.com/Silvestrae/ve-foundry-client) – A simple and lightweight, Chromium based, desktop client for Foundry VTT.
 - [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins) – Shelter plugins, some of them Dorion related
 - [SpyglassMC/Spyglass](https://github.com/SpyglassMC/Spyglass) – Development tools for vanilla Minecraft: Java Edition data pack developers.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
@@ -2342,6 +2342,7 @@
 - [Trex099/Velocity-Bridge](https://github.com/Trex099/Velocity-Bridge) – Copy on iPhone. Paste on Linux and vice versa copy on linux paste on iphone No cloud, no macOS required.
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) – Build your personal knowledge base with TriliumNext Notes
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) – Build your personal knowledge base with Trilium Notes
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) – Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) – The cutest Discord modification
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) – An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
@@ -2375,7 +2376,6 @@
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A Bitsocial app with an old.reddit UI
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
@@ -2490,7 +2490,7 @@
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) – Cross-Platform Keystroke Launcher
 - [open-pv/simshady](https://github.com/open-pv/simshady) – Simulating Shadows for PV Potential Analysis with 3D Data in the Browser :sunny:
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) – Online browser-based RTS game
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) – Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [openscopeproject/TrguiNG](https://github.com/openscopeproject/TrguiNG) – Remote GUI for Transmission torrent daemon
 - [osbytes/crypt.fyi](https://github.com/osbytes/crypt.fyi) – Ephemeral, zero-knowledge, end-to-end post-quantum encrypted sensitive data sharing
 - [osuplace/templateManager](https://github.com/osuplace/templateManager) – Template manager for various canvas games
@@ -2508,7 +2508,7 @@
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) – Weather condition card (Lovelace) for Home Assistant.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [rbrahul/deno_cron](https://github.com/rbrahul/deno_cron) – A cron Job scheduler for Deno that allows you to write human readable cron syntax with tons of flexibility
-- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) – The cross-platform GUI for rclone & S3.
+- [rclone/rclone-ui](https://github.com/rclone/rclone-ui) – The cross-platform GUI for rclone & S3.
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [relagit/relagit](https://github.com/relagit/relagit) – The elegant solution to graphical version control.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) – 🎥      Make videos programmatically with React
