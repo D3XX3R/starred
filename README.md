@@ -188,7 +188,6 @@
 - [shadichy/ntfsplus-dkms](https://github.com/shadichy/ntfsplus-dkms) – Out-of-tree ntfsplus module source code with list of backporting patchset
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) – A simple, very experimental TPM sniffer for LPC bus
 - [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) – Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [supersonic-xserver/xsonicland](https://github.com/supersonic-xserver/xsonicland) – xsonicland lets you build the latest restoration of the full xserver as xorg or xwayland
@@ -348,6 +347,7 @@
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) – Easily edit and manage the hosts file for Windows
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) – An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [sp0ok3r/Mercury](https://github.com/sp0ok3r/Mercury) – Mercury is a powerful tool for Steam users built on SteamKit2, offering advanced features for managing accounts, chats, and interactions.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
 - [stayintarkov/StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) – An Escape From Tarkov BepInEx module designed to be used with the SPT-Aki with the ultimate goal of "Offline" Coop
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) – Swiftly configure a fresh Windows 10 installation with useful tweaks and privacy settings.
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) – Port of macOS Mojave Dynamic Desktop feature to Windows
@@ -427,6 +427,7 @@
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
+- [Themaister/pyrowave](https://github.com/Themaister/pyrowave)
 - [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) – The Ultimate ASI Loader is a proxy DLL that loads custom .asi libraries into any game process.
 - [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) – Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) – SteamOS session compositing window manager
@@ -994,7 +995,6 @@
 - [Sanket9225/UsenetStreamer](https://github.com/Sanket9225/UsenetStreamer) – UsenetStreamer lets you stream any NZB files directly into Stremio. Bring your own sources, connect Prowlarr or NZBHydra, add indexers via built-in Newznab support, or link your Easynews account using the native Easynews indexer. It performs instant health checks on Usenet results and delivers fast, reliable streaming into Stremio.
 - [SebOuellette/LiveBot](https://github.com/SebOuellette/LiveBot) – An app that allows you to be inside a bot!
 - [Seedess/webseed](https://github.com/Seedess/webseed) – Seedess P2P Video Streaming BitTorrent Server
-- [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) – Self host your media and share with unique links
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) – Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [SheetAble/SheetAble](https://github.com/SheetAble/SheetAble) – Self-hosted music sheet organizing software
 - [SpiderOak/Encryptr](https://github.com/SpiderOak/Encryptr) – Encryptr is a zero-knowledge cloud-based password manager / e-wallet powered by Crypton
@@ -1039,6 +1039,7 @@
 - [dybdeskarphet/privacy-redirector](https://github.com/dybdeskarphet/privacy-redirector) – 🔀 Redirect social media platforms to their privacy respecting frontends
 - [edo44/edoStereo](https://github.com/edo44/edoStereo) – BetterDiscord Stereo Plugin, better discord stereo plugin
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) – Your gateway to a world of public APIs.
+- [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) – Self host your media and share with unique links
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
@@ -1660,7 +1661,6 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
-- [oss-singularity/proton-drive-linux](https://github.com/oss-singularity/proton-drive-linux) – PDrive brings Proton Drive to Linux with a native GTK control center, encrypted credentials, resilient transfers and conservative recovery. Mint supported; Arch and Ubuntu in progress.
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) – VMware Workstation macOS 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
@@ -1994,7 +1994,7 @@
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Many Sessions. One GPU.
 - [niri-wm/niri](https://github.com/niri-wm/niri) – A scrollable-tiling Wayland compositor.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
@@ -2172,7 +2172,7 @@
 - [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) – Fish shell tool for managing Python virtual environments
 - [laughedelic/pisces](https://github.com/laughedelic/pisces) – ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
-- [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – Bash CLI to generate animated pseudo-random glitch SVG effects from unicode characters with randomized parameters
+- [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) – CLI to generate animated pseudo-random glitch SVG effects from unicode characters
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) – PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [netbrain/zwift](https://github.com/netbrain/zwift) – Easily zwift on linux
 - [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) – Script to set up bbctl automatically for sh-imessage bridge
@@ -2287,6 +2287,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – Cross-platform SimConnect library for Node.js. No native C++ libraries required.
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
+- [Fluid-CAD/FluidCAD](https://github.com/Fluid-CAD/FluidCAD) – Parametric cad modeling with Javascript
 - [Fredolx/gpu-faker](https://github.com/Fredolx/gpu-faker) – Fake your GPU to access GPU-locked apps and games!
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
@@ -2395,6 +2396,7 @@
 - [crewdevio/Trex](https://github.com/crewdevio/Trex) – Package Manager for deno 🦕
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) – Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [dandanthedev/littletinystorage](https://github.com/dandanthedev/littletinystorage)
+- [deadlock-mod-manager/deadlock-mod-manager](https://github.com/deadlock-mod-manager/deadlock-mod-manager) – A mod manager for the Valve game Deadlock.
 - [denosaurs/denon](https://github.com/denosaurs/denon) – 👀 Monitor any changes in your Deno application and automatically restart.
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) – Vacuum cleaner card for Home Assistant Lovelace UI
 - [diced/zipline](https://github.com/diced/zipline) – A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
