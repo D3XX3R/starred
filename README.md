@@ -753,7 +753,7 @@
 - [codenotary/immudb](https://github.com/codenotary/immudb) – immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) – A process for automating Docker container base image updates. 
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) – CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) – Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) – A rigorous IoT scanner based on Shodan.io
 - [d6o/Gorganizer](https://github.com/d6o/Gorganizer) – Organize your folders into a beautiful classified folder structure with this perfect tool
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) – Tiny native Discord app
@@ -917,6 +917,7 @@
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod that allows you to join every Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -1716,7 +1717,6 @@
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) – A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
 - [yum-food/TaSTT](https://github.com/yum-food/TaSTT) – A free self-hosted STT for VRChat
-- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) – Jellyfin Custom Integration for Home Assistant
 
 <div id="qml"></div>
 
@@ -1994,7 +1994,7 @@
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Many Sessions. One GPU.
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Run multiple gaming sessions on a single GPU 
 - [niri-wm/niri](https://github.com/niri-wm/niri) – A scrollable-tiling Wayland compositor.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
@@ -2335,7 +2335,6 @@
 - [Silvestrae/ve-foundry-client](https://github.com/Silvestrae/ve-foundry-client) – A simple and lightweight, Chromium based, desktop client for Foundry VTT.
 - [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins) – Shelter plugins, some of them Dorion related
 - [SpyglassMC/Spyglass](https://github.com/SpyglassMC/Spyglass) – Development tools for vanilla Minecraft: Java Edition data pack developers.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
@@ -2376,7 +2375,7 @@
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A Bitsocial app with an old.reddit UI
+- [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A peer-to-peer Reddit alternative.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
@@ -2566,6 +2565,7 @@
 - [zephraOSS/Apple-Music-RPC](https://github.com/zephraOSS/Apple-Music-RPC) – Discord RPC for Apple Music and iTunes with easy-to-use interface and setup
 - [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) – Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) – A portable and vast media library solution.
+- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) – Jellyfin Custom Integration for Home Assistant
 
 <div id="vbscript"></div>
 
