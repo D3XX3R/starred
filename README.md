@@ -1023,7 +1023,6 @@
 - [boltgolt/boltobserv](https://github.com/boltgolt/boltobserv) – 🕹️ An external CS radar made specifically for observing
 - [bruestel/homeconnect-profile-downloader](https://github.com/bruestel/homeconnect-profile-downloader)
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) – Browser extension that automatically fills out cookie popups based on your preferences
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [civilblur/youlag](https://github.com/civilblur/youlag) – Youlag: Extension for FreshRSS, browse YouTube and article feeds through a modernized design
 - [composerize/composerize](https://github.com/composerize/composerize) – 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 - [cozuya/secret-hitler](https://github.com/cozuya/secret-hitler) – A web adaptation of the social deduction board game Secret Hitler, originally developed in early fall 2016.  https://secrethitler.io
@@ -1387,6 +1386,7 @@
 ## Perl
 
 - [lixmal/keepass4web](https://github.com/lixmal/keepass4web) – [deprecated] KeePass databases served on the web
+- [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) – a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 
 <div id="powershell"></div>
 
@@ -1461,6 +1461,7 @@
 - [Hancapo/Inzoider](https://github.com/Hancapo/Inzoider)
 - [Houston4444/RaySession](https://github.com/Houston4444/RaySession) – Session manager for linux musical programs
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) – A simple, high-quality voice conversion tool focused on ease of use and performance.
+- [IlyaP358/fluxcast](https://github.com/IlyaP358/fluxcast) – Stream your Linux desktop to a Smart TV via Miracast/WFD, DLNA, or Chromecast.
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) – An ReShade manager for linux.
 - [JAB-dev/mpv-frame-interpolation](https://github.com/JAB-dev/mpv-frame-interpolation) – Vapoursynth script for decent fps interpolation 
 - [Jafz2001/slopsmith-plugin-cloud-loader](https://github.com/Jafz2001/slopsmith-plugin-cloud-loader) – Slopsmith plugin — stream your .psarc / .sloppak library from Google Drive. Metadata indexed once; song files download on Play and auto-upload when created by the converter or retune.
@@ -1608,6 +1609,7 @@
 - [gptme/gptme](https://github.com/gptme/gptme) – Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) – A Home Assistant Integration for Bambu Lab Printers
 - [gridhead/expedite](https://github.com/gridhead/expedite) – Simple encrypted file transfer service for humans
+- [hackmatelabs/hackmate](https://github.com/hackmatelabs/hackmate) – automates the entire process of creating a bootable OpenCore hackintosh USB. No manual config.plist editing, no hunting down kexts, no macrecovery commands.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) – real time face swap and one-click video deepfake with only a single image
 - [hacs/integration](https://github.com/hacs/integration) – HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
@@ -1675,7 +1677,6 @@
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) – Automatic Bitwarden Backup
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) – [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) – SoTA open-source TTS
-- [riftaway7-code/hackmate](https://github.com/riftaway7-code/hackmate) – automates the entire process of creating a bootable OpenCore hackintosh USB. No manual config.plist editing, no hunting down kexts, no macrecovery commands.
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) – Handle your Media Library with ease!
 - [roshanlam/iFetch](https://github.com/roshanlam/iFetch) – 🚀 Bulk download your iCloud Drive files and folders with a simple command line tool
 - [rudymohammadbali/OpenAI-Whisper-GUI](https://github.com/rudymohammadbali/OpenAI-Whisper-GUI) – Modern GUI application that transcribes and translate audio files using OpenAI Whisper.
@@ -2271,7 +2272,6 @@
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) – An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [BlythT/Gratitude-Millennium-Plugin](https://github.com/BlythT/Gratitude-Millennium-Plugin) – A Millennium plugin for your Steam Library that adds a helpful indicator to games you have been gifted.
-- [BoltDoggy/deno](https://github.com/BoltDoggy/deno) – Some modules for Deno.
 - [Budibase/budibase](https://github.com/Budibase/budibase) – AI agents, automations and apps that run your operations. Model agnostic.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) – ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) – SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
@@ -2385,6 +2385,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) – Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) – A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [chuunibian/delta](https://github.com/chuunibian/delta) – Disk space analyzer with historical tracking.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) – Yet another matrix client
 - [cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game](https://github.com/cinqmarsmedia/Trade-Bots-Algorithmic-Trading-Game) – A Technical Analysis Algorithmic Trading Game
@@ -2524,6 +2525,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
 - [sharknoon/wero-tracker](https://github.com/sharknoon/wero-tracker) – A simple dashboard that shows the adoption of the payment provider Wero by individual banks and online shops
+- [sidkapahi/kapkit-cs2overlay](https://github.com/sidkapahi/kapkit-cs2overlay) – Customizable browser source stats overlay for CS2 Premier & FACEIT!
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) – Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) – An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [skanehira/deno-clippy](https://github.com/skanehira/deno-clippy) – cross-platform Deno module for writing and reading clipboard.
