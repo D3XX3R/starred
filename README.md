@@ -490,6 +490,7 @@
 - [keklick1337/7zip-extended](https://github.com/keklick1337/7zip-extended) – A Patched Version of 7-Zip for Improved Mask Handling
 - [kormix-io/KoordASIO](https://github.com/kormix-io/KoordASIO) – A user-friendly universal ASIO driver for use with any Windows installation. Supports WASAPI (shared and exclusive) and includes config GUI.
 - [kushview/element](https://github.com/kushview/element) – Element Audio Plugin Host
+- [lamellixlabs/vAuth](https://github.com/lamellixlabs/vAuth) – Minimalistic FIDO2 authenticator for Linux built to have convenience of Windows Hello
 - [landave/TeamSpeakHasher](https://github.com/landave/TeamSpeakHasher) – OpenCL-based tool to increase the security level of TeamSpeak identities
 - [leadedge/Spout2](https://github.com/leadedge/Spout2) – A video frame sharing system for Microsoft Windows
 - [lifting-bits/remill](https://github.com/lifting-bits/remill) – Library for lifting machine code to LLVM bitcode
