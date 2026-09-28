@@ -391,6 +391,7 @@
 - [JohnCiubuc/StreamLinkerino](https://github.com/JohnCiubuc/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) – Vulkan layer for hardware agnostic input latency reduction
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) – PlayStation 5 emulator for Windows, Linux and MacOS
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) – Library for reducing tail latency in RAM reads
 - [Leystryku/Nikyuria](https://github.com/Leystryku/Nikyuria) – Last cheat I made, used to work for most source games ( including CSGO )
@@ -1052,6 +1053,7 @@
 - [hieyou1/twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) – DVD Screensaver style "Starting Soon" or [for IRL streamers] "Stream Down" screen.
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) – Program for determining types of files for Windows, Linux and MacOS.
 - [iMAboud/iMSteam](https://github.com/iMAboud/iMSteam) – Adds pirated alternatives for steam's games (Online-fix, FitGirl, Dodi Repacks, Gog Games, RuTracker.. etc)
+- [iamarghamallick/How-to-download-protected-view-only-files-from-Google-Drive](https://github.com/iamarghamallick/How-to-download-protected-view-only-files-from-Google-Drive) – This repository provides a simple script to download protected or view-only files from Google Drive. The script leverages the jsPDF library to capture images displayed in a preview and compiles them into a downloadable PDF file.
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) – Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
 - [ioj4/shelter-plugins](https://github.com/ioj4/shelter-plugins) – My plugins for uwu/shelter
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) – Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
@@ -1553,7 +1555,6 @@
 - [berarma/oversteer](https://github.com/berarma/oversteer) – Steering Wheel Manager for GNU/Linux
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
@@ -2378,6 +2379,7 @@
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A peer-to-peer Reddit alternative.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
