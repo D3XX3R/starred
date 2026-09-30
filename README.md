@@ -311,7 +311,7 @@
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) – Sudo for Windows
 - [habibrehmansg/infopanel](https://github.com/habibrehmansg/infopanel) – InfoPanel is a desktop visualization software designed to work with HWiNFO sensors via Shared Memory (SHM). It allows users to display system information on their desktop or external displays, including USB-only LCDs like BeadaPanel.
 - [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) – LibVLC-based media player for the Universal Windows Platform
-- [hyprismteam/Hyprism](https://github.com/hyprismteam/Hyprism) – Open-source, cross-platform Hytale launcher with isolated instances, mod discovery, and profile management
+- [hyprismteam/Hyprism](https://github.com/hyprismteam/Hyprism) – Open-source, unofficial, cross-platform Hytale launcher with isolated instances, mod discovery, and profile management
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) – .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [insomniachi/FluentFin](https://github.com/insomniachi/FluentFin)
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) – Automatically detect and skip intro/credit sequences in Jellyfin
@@ -337,6 +337,7 @@
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) – Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [ol1fer/sbox-linux-emoji-patch](https://github.com/ol1fer/sbox-linux-emoji-patch) – Patches s&box's bundled Topten.RichTextKit.dll to fix emoji rendering on Linux/Proton. See https://github.com/Facepunch/sbox-public/issues/10779
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) – OpenBullet reinvented
+- [pearlxcore/PS5PKGTool](https://github.com/pearlxcore/PS5PKGTool) – A Windows app for managing your PS5 dump and image collection, reading PS5 packages, and building or converting images.
 - [porrasm/csgo-chat-gpt](https://github.com/porrasm/csgo-chat-gpt) – ChatGPT integrated into CS:GO chat.
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) – Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
@@ -1554,6 +1555,7 @@
 - [berarma/oversteer](https://github.com/berarma/oversteer) – Steering Wheel Manager for GNU/Linux
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
@@ -2379,7 +2381,6 @@
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A peer-to-peer Reddit alternative.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
