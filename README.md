@@ -195,6 +195,7 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) – Resizable BAR for (almost) any UEFI system
+- [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime) – Open Source implementation of xgameruntime.dll. Designed for use in Wine with Xodus
 
 <div id="c#"></div>
 
@@ -1341,7 +1342,7 @@
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
-- [zencq/nomnom](https://github.com/zencq/nomnom) – NomNom is the most complete savegame editor for NMS but also shows additional information around the data you're about to change. You can also easily look up each item individually to examine its attributes, independently of a savegame, or get other useful information that are not related to a specific savegame (but enhanced if one is loaded).
+- [zencq/nomnom](https://github.com/zencq/nomnom) – NomNom is one of the most complete savegame editor for No Man's Sky but also shows additional information around the data you're about to change.
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) – A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
 
@@ -1491,7 +1492,6 @@
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs)
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) – AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) – Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) – Open Data Platform for analysts, quants and AI agents.
 - [OscarTienda/SunSync](https://github.com/OscarTienda/SunSync) – Add your Lutris, Steam, Heroic and other launcher games to Sunshine, with a KDE GUI and a virtual display that matches your Moonlight client's resolution.
 - [P-Adamiec/Free-Games-Claimer-Remaster](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) – A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -1555,7 +1555,6 @@
 - [berarma/oversteer](https://github.com/berarma/oversteer) – Steering Wheel Manager for GNU/Linux
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
@@ -1668,6 +1667,7 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) – NucliaDB, The AI Search database for RAG
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [openai/whisper](https://github.com/openai/whisper) – Robust Speech Recognition via Large-Scale Weak Supervision
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) – Open Data Platform for analysts, quants and AI agents.
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) – VMware Workstation macOS 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
@@ -1691,6 +1691,7 @@
 - [seapear/AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) – A repository that helps users get affinity software working on GNU/Linux 🐧
 - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) – An open Apple AirDrop implementation written in Python
+- [seregonwar/PkgToolBox](https://github.com/seregonwar/PkgToolBox) – Toolbox for analyzing and editing pkg application files for psp,ps3, ps4 and ps5, includes the most useful functions you might need.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) – 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) – Hunt down social media accounts by username across social networks
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) – SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -2110,6 +2111,7 @@
 - [w4/rgit](https://github.com/w4/rgit) – 🏯 blazingly fast web frontend for git repositories
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) – Warp is an agentic development environment, born out of the terminal.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast and lightweight sandboxes for your apps and AI agents
+- [wayvr-org/wayvr](https://github.com/wayvr-org/wayvr) – Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR.
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) – Wallpaper Manager for Linux
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) – A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
@@ -2381,6 +2383,7 @@
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A peer-to-peer Reddit alternative.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
@@ -2595,6 +2598,7 @@
 
 - [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) – The connected place for Windows system administration
 - [FN-FAL113/cs2-server-picker](https://github.com/FN-FAL113/cs2-server-picker) – A portable and lightweight server picker windows app for Counter Strike 2 or even Deadlock! (Legacy)
+- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) – Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [UHAXM1/Quantum](https://github.com/UHAXM1/Quantum)
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) – 🎞 Video encoding GUI for Windows.
 
