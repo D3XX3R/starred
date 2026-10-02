@@ -990,7 +990,7 @@
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) – Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [Mitrajit/Sharenetic](https://github.com/Mitrajit/Sharenetic) – A peer to peer file sharing web app that leverages webRTC to get blazing fast speeds.
 - [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) – Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
-- [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A Home Assistant integration for sunlight-based automations and visualization. Sunlight Visualizer calculates wall, roof, radiation, and shading-demand sensors for blinds, awnings, HVAC, solar insights, and comfort automations, then visualizes the same data in a 2.5D Lovelace card with sun position, shadows, solar power, grid flow, and Energy HUD
+- [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A Home Assistant integration for sunlight-based automations and visualization. Sunlight Visualizer calculates wall, roof, radiation, and shading-demand sensors for blinds, awnings, HVAC, solar insights, and comfort automations, then visualizes the same data in a 3D Lovelace card with sun position, shadows, solar power, grid flow, and Energy HUD
 - [OpenTransitHub/Trainboard-App](https://github.com/OpenTransitHub/Trainboard-App) – Clean Departure Board mainly for DB Trains running on JavaScript
 - [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 A highly customizable, privacy-focused YouTube client that aims to provide the best UX
 - [PlaceDE-Official/place-overlay](https://github.com/PlaceDE-Official/place-overlay)
@@ -1555,6 +1555,7 @@
 - [berarma/oversteer](https://github.com/berarma/oversteer) – Steering Wheel Manager for GNU/Linux
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
@@ -1621,7 +1622,6 @@
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) – CLI tool for downloading videos from Twitch.
 - [imLinguin/nile](https://github.com/imLinguin/nile) – Unofficial Amazon Games client
 - [infiniV/VoiceFlow](https://github.com/infiniV/VoiceFlow) – Local voice dictation and meeting recorder for Windows + Linux. Hold a hotkey to dictate, or record long-form meetings with system audio. Whisper transcription, bring-your-own-LLM summaries. Open source.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [ivan-pinatti-labs/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti-labs/docker-torrent-box-with-vpn) – Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [jannickfahlbusch/ha-ppc-smgw](https://github.com/jannickfahlbusch/ha-ppc-smgw) – HomeAssistant Component to integrate PPC, Theben and EMH SMGWs
@@ -1777,7 +1777,7 @@
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) – bloop is a fast code search engine written in Rust.
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) – Open the right browser at the right time
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) – A datetime library for Rust that encourages you to jump into the pit of success.
-- [CCBlueX/LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher) – The official Minecraft launcher for LiquidBounce
+- [CCBlueX/LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher) – A custom Minecraft launcher for LiquidBounce
 - [Canleskis/ephemeris-explorer](https://github.com/Canleskis/ephemeris-explorer) – A simulator of gravitationally bound systems.
 - [ChecksumDev/lumen](https://github.com/ChecksumDev/lumen) – Lumen is an astronomically fast ShareX uploader written in Rust using the Actix Web framework
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) – A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
@@ -2383,7 +2383,6 @@
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A peer-to-peer Reddit alternative.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
@@ -2445,6 +2444,7 @@
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
 - [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) – Checks which public gateways are online or not
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) – Collection of publicly available IPTV channels from all over the world
