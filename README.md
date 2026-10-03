@@ -898,7 +898,7 @@
 - [6eero/NewPass](https://github.com/6eero/NewPass) – 🔐 NewPass is a free and open source password manager which will allow you to generate and store your passwords securely, saving them locally and encrypting them on your phone's memory
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) – Android on screen keyboard for multiple languages and NO internet access
 - [BuildTheEarth/terraplusplus](https://github.com/BuildTheEarth/terraplusplus) – A feature-rich fork of Terra121 focusing on performance.
-- [Cocolots/Aoba-Client](https://github.com/Cocolots/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 26.2 using Fabric.
+- [Cocolots/Aoba-Client](https://github.com/Cocolots/Aoba-Client) – A free, custom, open source utility mod / client for Minecraft 26.3 using Fabric.
 - [Coderx-Gamer/ui-utils](https://github.com/Coderx-Gamer/ui-utils) – Plugin debugging mod (fabric.)
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) – The modern Java bytecode editor
 - [Earthcomputer/EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) – Cracking the XP seed in Minecraft and choosing your enchantments
@@ -1270,6 +1270,7 @@
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) – Let's make an annoyance free, better open internet, altogether!
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) – Combustion engine simulation game that generates realistic audio.
 - [ErcinDedeoglu/proxies](https://github.com/ErcinDedeoglu/proxies) – 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a seamless, secure browsing experience. Get started with our PROXY list today!
+- [FeatureNAB/mmWave-Sensor](https://github.com/FeatureNAB/mmWave-Sensor)
 - [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) – Your all-in-one tweak for WhatsApp Messenger!
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [HerXayah/road-to-ryujinx-without-switch](https://github.com/HerXayah/road-to-ryujinx-without-switch) – This Repo explains how to install the Ryujninx Switch Emulator without a Switch 
@@ -1967,6 +1968,7 @@
 - [knoellle/wfinfo-ng](https://github.com/knoellle/wfinfo-ng) – A Linux compatible version of the great WFinfo. Analyze relic reward screen to determine platinum value of items.
 - [koharu-rs/koharu](https://github.com/koharu-rs/koharu) – AI-powered manga translator, written in Rust.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
+- [kunkka19xx/look](https://github.com/kunkka19xx/look) – An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lemonxah/zestbay](https://github.com/lemonxah/zestbay) – A PipeWire patchbay for Linux that visualizes your audio graph, hosts LV2 effects plugins inline, and auto-connects ports with persistent routing rules.
@@ -2055,7 +2057,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) – Linear algebra foundation for the Rust programming language
 - [sayanarijit/cottage](https://github.com/sayanarijit/cottage) – A modern git based age-encrypted secrets manager for teams.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) – Network diagrams that update themselves
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) – YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) – A super-easy, composable, web server framework for warp speeds.
 - [secluso/core](https://github.com/secluso/core) – A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) – A Rust library for the Discord API.
