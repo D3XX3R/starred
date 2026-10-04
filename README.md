@@ -2028,7 +2028,7 @@
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
 - [pythonlover02/volt-gui](https://github.com/pythonlover02/volt-gui) – My AMD Adrenaline / NVIDIA Settings Linux Alternative
-- [pythops/kudu](https://github.com/pythops/kudu) – 🖥️ TUI VM Manager on Linux
+- [pythops/kudu](https://github.com/pythops/kudu) – 📦  TUI VM Manager on Linux
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool) – dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
@@ -2236,7 +2236,6 @@
 
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
 - [Paisseon/Satella](https://github.com/Paisseon/Satella) – Modern in-app purchase cracker (iOS 12-16)
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) – Jailed in-app purchase cracker (iOS 12-16)
@@ -2375,7 +2374,7 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) – "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
-- [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a beautiful self-hosted IRC client with a retro aesthetic and modern conveniences.
+- [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a delightful self-hosted IRC bouncer and client with a retro aesthetic and modern conveniences.
 - [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) – Spotify Car Thing UI Web App Dump
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) – A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
 - [anthonysgro/geospoof](https://github.com/anthonysgro/geospoof) – Browser extension and iOS app that spoofs your gps, geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
@@ -2494,7 +2493,6 @@
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
 - [ngocjohn/sidebar-organizer](https://github.com/ngocjohn/sidebar-organizer) – 🗄️ Home Assistant custom plugin designed to give you full control over the layout and organization of the sidebar. 
 - [nichtLehdev/DiscordBot](https://github.com/nichtLehdev/DiscordBot)
-- [nicola02nb/betterTTS](https://github.com/nicola02nb/betterTTS)
 - [noaione/mpv-js-scripts](https://github.com/noaione/mpv-js-scripts) – Some mpv scripts I created (made in JS)
 - [noambergauz/dreame-vacuum-map-card](https://github.com/noambergauz/dreame-vacuum-map-card) – Dreame Vacuum Map Card for Home Assistant Integration
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
