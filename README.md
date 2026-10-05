@@ -461,7 +461,7 @@
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
 - [davidedmundson/kiot](https://github.com/davidedmundson/kiot) – Linux (KDE?) integration for Home Assistant via MQTT
-- [dekomote/vermouth](https://github.com/dekomote/vermouth) – A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills.
+- [dekomote/vermouth](https://github.com/dekomote/vermouth) – A native C++/Qt Linux launcher for Windows, Steam, GOG and retro games. 2.3 MB installed. Zero bloat. KDE-first.
 - [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer) – The most lightweight image viewer for Windows, supporting a wide range of image formats. 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [dewcked/StreamLinkerino](https://github.com/dewcked/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino - Windows port (Notice: Message from 4/9/2023, I will fix some bugs and maybe update Qt version? within year 2023. maybe with more functionality)
@@ -992,7 +992,7 @@
 - [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) – Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
 - [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A Home Assistant integration for sunlight-based automations and visualization. Sunlight Visualizer calculates wall, roof, radiation, and shading-demand sensors for blinds, awnings, HVAC, solar insights, and comfort automations, then visualizes the same data in a 3D Lovelace card with sun position, shadows, solar power, grid flow, and Energy HUD
 - [OpenTransitHub/Trainboard-App](https://github.com/OpenTransitHub/Trainboard-App) – Clean Departure Board mainly for DB Trains running on JavaScript
-- [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 A highly customizable, privacy-focused YouTube client that aims to provide the best UX
+- [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 A highly customizable, open-source YouTube client with privacy in mind. Also supports playing from all yt-dlp supported sites.
 - [PlaceDE-Official/place-overlay](https://github.com/PlaceDE-Official/place-overlay)
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [REVENGE977/Xenon-Bot-JavaScript-Edition](https://github.com/REVENGE977/Xenon-Bot-JavaScript-Edition) – non-official xenon bot javascript edition , a bot for backup discord servers and more features .
@@ -1047,6 +1047,7 @@
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) – Self host your media and share with unique links
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1603,7 +1604,6 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
