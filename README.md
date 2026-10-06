@@ -148,6 +148,7 @@
 - [baresip/baresip](https://github.com/baresip/baresip) – Baresip is a modular SIP User-Agent with audio and video support
 - [bazaar-org/bazaar](https://github.com/bazaar-org/bazaar) – Moved to https://gitlab.gnome.org/World/bazaar
 - [bol-van/zapret](https://github.com/bol-van/zapret) – DPI bypass multi platform
+- [chiaki-ng/chiaki-ng](https://github.com/chiaki-ng/chiaki-ng) – Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [cyanreg/cyanrip](https://github.com/cyanreg/cyanrip) – Bule-ish CD ripper
 - [ejalxndr/wallpiper](https://github.com/ejalxndr/wallpiper) – A translation layer for Wallpaper Engine on x86_64 GNU/Linux
@@ -189,7 +190,6 @@
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) – SSH tarpit that slowly sends an endless banner
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) – A simple, very experimental TPM sniffer for LPC bus
-- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) – Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [supersonic-xserver/xsonicland](https://github.com/supersonic-xserver/xsonicland) – xsonicland lets you build the latest restoration of the full xserver as xorg or xwayland
 - [univrsal/dvds3](https://github.com/univrsal/dvds3) – Will it hit the corner?
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
@@ -386,6 +386,7 @@
 - [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
+- [FashionFreedom/Seamly2D](https://github.com/FashionFreedom/Seamly2D) – Open source patternmaking software to democratize fashion.
 - [FeatureNAB/air-sensor](https://github.com/FeatureNAB/air-sensor) – Smart Air Quality Sensor built using ESP32, SEN66 and ESPHome
 - [GPSnoopy/RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) – Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 - [GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon) – Capture and analyze the high-level performance characteristics of graphics applications on Windows.
@@ -921,7 +922,6 @@
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) – This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) – A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [PorkStudios/FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo) – Level-of-Detail renderer in Minecraft. Allows for render distances of millions of blocks. (Cubic Chunks-compatible) (WIP)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) – This mod allows you to change your logged in account in-game, without restarting Minecraft.
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) – Minecraft Fabric mod that allows you to join every Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock)
 - [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) – Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -1011,7 +1011,7 @@
 - [Thann/play-with-mpv](https://github.com/Thann/play-with-mpv) – Chrome extension that allows you to play videos in webpages like youtube with MPV instead
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
 - [Upload/Up1](https://github.com/Upload/Up1) – Client-side encrypted image host web server
-- [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) – One of the most popular modern web proxies with blazing fast speeds and a variety of games.
+- [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) – Interstellar is a web proxy service offering blazing-fast speeds, a wide variety of games, and has served over 17 million users since 2022
 - [ZiXyos/BlackJacku](https://github.com/ZiXyos/BlackJacku) – Just a BlackJack App To Learn MongoDb, Express, reactJs, NodeJs
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) – Advanced REST Client - Desktop application
 - [airbenich/obsOverlay](https://github.com/airbenich/obsOverlay) – A websocket based overlay software for showing lower-thirds in Open Broadcaster Studio via webview.
@@ -1544,7 +1544,7 @@
 - [alexemanuelol/rustdavinci](https://github.com/alexemanuelol/rustdavinci) – :paintbrush: :framed_picture: An automatic sign painter for Rust Facepunch
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) – Node-based Visual Programming Toolbox
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge)
+- [anlar/tewi](https://github.com/anlar/tewi) – Text-based interface for BitTorrent clients (Transmission, qBittorrent, Deluge, rTorrent)
 - [anxdpanic/plugin.video.tubed](https://github.com/anxdpanic/plugin.video.tubed) – Watch your favorite YouTube content on Kodi. You’ll be able to browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) – Linux/OSX/FreeBSD resource monitor
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) – Find duplicate files
@@ -1706,7 +1706,7 @@
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
 - [tanersb/TwitchRecover](https://github.com/tanersb/TwitchRecover)
-- [timmaurice/bergfex](https://github.com/timmaurice/bergfex) – This custom integration for Home Assistant fetches snow reports and ski resort data directly from Bergfex.
+- [timmaurice/bergfex](https://github.com/timmaurice/bergfex) – Home Assistant integration for Bergfex snow reports and ski resort data, with a bundled Lovelace card.
 - [timothycrosley/streamdeck-ui](https://github.com/timothycrosley/streamdeck-ui) – A Linux compatible UI for the Elgato Stream Deck.
 - [tolwi/hassio-ecoflow-cloud](https://github.com/tolwi/hassio-ecoflow-cloud) – EcoFlow Cloud Integration for Home Assistant
 - [trailofbits/algo](https://github.com/trailofbits/algo) – Set up a personal VPN in the cloud
@@ -2002,7 +2002,7 @@
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – [Experimental] Run multiple gaming sessions on a single GPU 
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – You have a GPU. Now make it  shareable and accessible from anywhere in the world.
 - [niri-wm/niri](https://github.com/niri-wm/niri) – A scrollable-tiling Wayland compositor.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
@@ -2236,6 +2236,7 @@
 
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
 - [Paisseon/Satella](https://github.com/Paisseon/Satella) – Modern in-app purchase cracker (iOS 12-16)
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) – Jailed in-app purchase cracker (iOS 12-16)
@@ -2343,6 +2344,7 @@
 - [Silvestrae/ve-foundry-client](https://github.com/Silvestrae/ve-foundry-client) – A simple and lightweight, Chromium based, desktop client for Foundry VTT.
 - [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins) – Shelter plugins, some of them Dorion related
 - [SpyglassMC/Spyglass](https://github.com/SpyglassMC/Spyglass) – Development tools for vanilla Minecraft: Java Edition data pack developers.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) – #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) – Open-source framework for exporting your personal data.
 - [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
 - [TempoWorks/txtdot](https://github.com/TempoWorks/txtdot) – An HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts
