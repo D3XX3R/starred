@@ -975,7 +975,6 @@
 - [DU3RI/youtube-members-only-hider](https://github.com/DU3RI/youtube-members-only-hider) – A Firefox browser extension that automatically hides YouTube videos marked as "Members only" from your feed, search results, and channel pages.
 - [Darkdragon14/ha-access-control-manager](https://github.com/Darkdragon14/ha-access-control-manager) – "Access Control Manager" provides a centralized interface for managing user permissions and access rights within Home Assistant. It allows administrators to create, assign, and customize roles, ensuring secure and streamlined control over who can interact with specific devices, automations, and dashboards in the smart home ecosystem.
 - [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) – Datamining Discord changes from the JS files
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) – Your Ultimate IPTV & Stream Management Companion
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) – Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FoxRefire/wvg](https://github.com/FoxRefire/wvg) – Chrome/Firefox extension for pen-testing to retrieve encryption keys of Widevine protected content !DON'T DECRYPT CONTENT UNLESS YOU HAVE THE RIGHT TO DO IT!
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) – A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1449,6 +1448,7 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) – Dark Web OSINT Tool
 - [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) – An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 - [DimmaDont/all-slain-gui](https://github.com/DimmaDont/all-slain-gui) – Star Citizen Game Log Overlay
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) – Your Ultimate IPTV & Stream Management Companion
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) – Keep track of your inventory of 3D-printer filament spools.
 - [ESJavadex/ezviz-ha-addon](https://github.com/ESJavadex/ezviz-ha-addon) – Reversed Engineering Cloud Ezviz conection Home Assistant addon. Tested on HP2
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) – :books: Freely available programming books
@@ -1506,7 +1506,7 @@
 - [RyanCheddar/discord-voice-message-transcriber](https://github.com/RyanCheddar/discord-voice-message-transcriber) – Discord.py bot that auto-transcribes voice messages using OpenAI Whisper
 - [SameSalamander5710/DynamicFPSLimiter](https://github.com/SameSalamander5710/DynamicFPSLimiter) – A GUI app to assess GPU/CPU usage and dynamically alter FPS limits via RTSS
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) – ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
-- [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Lightweight desktop overlay suite for Star Citizen - 11 tools always on top, one hotkey away. DPS Calculator, Cargo Loader, Mission Database, Mining Loadout, Market Finder, Trade Hub, Craft Database, Battle Buddy, Mouse Blocker, PlayTime Calculator, and Mining Signals (powered by SC_OCR, a CNN-based HUD reader built for the SC scanner panel).
+- [ScPlaceholder/SC-Toolbox-Beta-V2](https://github.com/ScPlaceholder/SC-Toolbox-Beta-V2) – Desktop overlay suite for Star Citizen, always on top and one hotkey away. Pico Pals, a voice Assistant with Suit Mk2 AI companions, Everything Finder (items, trade, star map), DPS Calculator, Cargo Loader, Mission/Craft DB, Mining Signals and Loadout, Battle Buddy, PlayTime, Dev History, Mouse Blocker. Free, unofficial fan project.
 - [SergeyKalutsky/vsc](https://github.com/SergeyKalutsky/vsc) – Real time video recording censor 
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) – Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [SickGear/SickGear](https://github.com/SickGear/SickGear) – SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
@@ -2164,7 +2164,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [dockur/macos](https://github.com/dockur/macos) – MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) – macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) – Windows inside a Docker container.
 - [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker) – Factorio headless server in a Docker container
 - [fireph/docker-twitch-drops-miner](https://github.com/fireph/docker-twitch-drops-miner) – Unofficial Docker container for Twitch Drops Miner
