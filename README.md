@@ -1966,7 +1966,7 @@
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) – Kanidm: A simple, secure, and fast identity management platform
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [knoellle/wfinfo-ng](https://github.com/knoellle/wfinfo-ng) – A Linux compatible version of the great WFinfo. Analyze relic reward screen to determine platinum value of items.
-- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) – AI-powered manga translator, written in Rust.
+- [koharu-rs/koharu](https://github.com/koharu-rs/koharu) – ML-powered manga translator, written in Rust.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) – An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
@@ -2078,6 +2078,7 @@
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) – All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
+- [storytold/photocraft](https://github.com/storytold/photocraft) – An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) – A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [t348575/twitch-points-miner](https://github.com/t348575/twitch-points-miner) – A lightweight twitch points miner
