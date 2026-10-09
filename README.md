@@ -18,7 +18,6 @@
 - [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Cython](#cython)
-- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -394,7 +393,7 @@
 - [JohnCiubuc/StreamLinkerino](https://github.com/JohnCiubuc/StreamLinkerino) – Twitch.tv client using only StreamLink, MPV, and Chatterino
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) – Vulkan layer for hardware agnostic input latency reduction
-- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) – PlayStation 5 emulator for Windows, Linux and MacOS
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) – PlayStation 5 translation layer for Windows, Linux and macOS
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) – Library for reducing tail latency in RAM reads
 - [Leystryku/Nikyuria](https://github.com/Leystryku/Nikyuria) – Last cheat I made, used to work for most source games ( including CSGO )
@@ -605,12 +604,6 @@
 
 - [flonle/youbit](https://github.com/flonle/youbit) – Host any type of file on YouTube
 
-<div id="d"></div>
-
-## D
-
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) – OneDrive Client for Linux
-
 <div id="dart"></div>
 
 ## Dart
@@ -804,7 +797,7 @@
 - [minekube/gate](https://github.com/minekube/gate) – Build efficient Bedrock & Java Minecraft networks with multi-version support. Powers global Connect network at production scale. Runs with 10MB.
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) – NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
@@ -940,6 +933,7 @@
 - [kaklakariada/portmapper](https://github.com/kaklakariada/portmapper) – A tool for managing port forwardings via UPnP
 - [marytts/marytts](https://github.com/marytts/marytts) – MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
 - [mchorse/blockbuster](https://github.com/mchorse/blockbuster) – The Machinima Studio mod
+- [meza/SoundsBeGone](https://github.com/meza/SoundsBeGone) – A Minecraft Mod for muting specific sounds you don't want to hear. (Great for Misophonia)
 - [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) – Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
 - [mt1006/mc-ar-mod](https://github.com/mt1006/mc-ar-mod) – Asynchronous reprojection in Minecraft
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) – A fork of NewPipe with SponsorBlock functionality.
@@ -1538,6 +1532,7 @@
 - [Xientraa/The-Sims-Resource-Downloader](https://github.com/Xientraa/The-Sims-Resource-Downloader) – A Python tool to download items with ease from The Sims Resource.
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
 - [ZackGphom/GLORP](https://github.com/ZackGphom/GLORP) – Optimized Pixel-Art to SVG converter with Greedy Meshing.
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) – OneDrive Client for Linux
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [agittins/bermuda](https://github.com/agittins/bermuda) – Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
@@ -2096,7 +2091,7 @@
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave](https://github.com/trumank/uesave) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
-- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/OxidizeBot](https://github.com/udoprog/OxidizeBot) – High performance Twitch bot in Rust
@@ -2300,6 +2295,7 @@
 - [Fluid-CAD/FluidCAD](https://github.com/Fluid-CAD/FluidCAD) – Parametric cad modeling with Javascript
 - [Fredolx/gpu-faker](https://github.com/Fredolx/gpu-faker) – Fake your GPU to access GPU-locked apps and games!
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
+- [GeoSpoof/geospoof](https://github.com/GeoSpoof/geospoof) – Browser extension and iOS app that spoofs your gps, geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) – Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) – 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -2380,7 +2376,6 @@
 - [amiantos/lurker](https://github.com/amiantos/lurker) – Lurker is a delightful self-hosted IRC bouncer and client with a retro aesthetic and modern conveniences.
 - [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp) – Spotify Car Thing UI Web App Dump
 - [antebrl/IPTV-Restream](https://github.com/antebrl/IPTV-Restream) – A simple web application that can restream and synchonize IPTV streams using HLS & ffmpeg.
-- [anthonysgro/geospoof](https://github.com/anthonysgro/geospoof) – Browser extension and iOS app that spoofs your gps, geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
 - [apify/crawlee](https://github.com/apify/crawlee) – Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 - [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox) – Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
