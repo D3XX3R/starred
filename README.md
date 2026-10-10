@@ -84,6 +84,7 @@
 ## Assembly
 
 - [briansmith/ring](https://github.com/briansmith/ring) – An experiment.
+- [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) – Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [donno2048/snake](https://github.com/donno2048/snake) – A 54 bytes snake game in x86 assembly 
 - [memorysafety/rav1d](https://github.com/memorysafety/rav1d) – An AV1 decoder in Rust.
 - [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
@@ -380,6 +381,7 @@
 - [Denellyne/PCXSense](https://github.com/Denellyne/PCXSense) – Translates the inputs from the Dualsense into XInput making it compatible with any PC Game
 - [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) – An ESPHome package to capture Apple and Android Bluetooth IRKs
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) – Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
+- [Dingo-Shenanigans/ReSkate](https://github.com/Dingo-Shenanigans/ReSkate)
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [DwayneM20/Steam-Log-Collector](https://github.com/DwayneM20/Steam-Log-Collector) – Cross-platform desktop application for collecting and managing log files from Steam games. Provides both a command-line interface (CLI) and a graphical user interface (GUI) to help users locate, view, and organize game log files for troubleshooting purposes.
 - [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
@@ -457,6 +459,7 @@
 - [beaterblank/tpipe](https://github.com/beaterblank/tpipe) – Audio Transparency tool for Unix-based systems that use JACK audio engine.
 - [benapetr/TuxManager](https://github.com/benapetr/TuxManager) – It's like Windows Task Manager, but for GNU/Linux
 - [blizzard4591/openMittsu](https://github.com/blizzard4591/openMittsu) – An open source implementation and desktop client of the Threema Messenger App.
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) – Tool for automatic PS5 executables porting to Linux and Windows
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) – A WiFi mapping companion app for Valetudo
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
@@ -551,6 +554,7 @@
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) – Noise suppression plugin based on Xiph's RNNoise
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+- [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) – Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -790,7 +794,7 @@
 - [lucas-jacques/ikto](https://github.com/lucas-jacques/ikto) – Ikto is a NATS based Wireguard mesh network builder.
 - [lxc/incus](https://github.com/lxc/incus) – Powerful system container and virtual machine manager 
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
-- [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) – Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [markrai/postbaby](https://github.com/markrai/postbaby) – full-featured self-hosted version of postbaby.org!
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) – Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/discord](https://github.com/mautrix/discord) – A Matrix-Discord puppeting bridge
@@ -864,6 +868,7 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [KhushalJangid/sync.io](https://github.com/KhushalJangid/sync.io) – A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
 - [WentTheFox/ForzaRoadFinder](https://github.com/WentTheFox/ForzaRoadFinder) – HTML-based tool for finding undiscovered roads in Forza Horizon games via screen capture
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
@@ -1002,7 +1007,6 @@
 - [TarkovTracker/tarkovdata](https://github.com/TarkovTracker/tarkovdata) – Escape From Tarkov game data, contributed by the community, maintained by developers of community tools
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) – Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [Thann/play-with-mpv](https://github.com/Thann/play-with-mpv) – Chrome extension that allows you to play videos in webpages like youtube with MPV instead
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
 - [Upload/Up1](https://github.com/Upload/Up1) – Client-side encrypted image host web server
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) – Interstellar is a web proxy service offering blazing-fast speeds, a wide variety of games, and has served over 17 million users since 2022
 - [ZiXyos/BlackJacku](https://github.com/ZiXyos/BlackJacku) – Just a BlackJack App To Learn MongoDb, Express, reactJs, NodeJs
@@ -1272,6 +1276,7 @@
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) – Collection of decent Community-made GRUB themes. Contributions welcome!
 - [Jam3s97/sungrow_ihomemanager](https://github.com/Jam3s97/sungrow_ihomemanager) – Sungrow YAML to communicate with iHomeManager using modbus.
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) – 💡Limiting personal data leaks on the internet
+- [KratozZ12/Easy-Liquid-Glass-for-KDE](https://github.com/KratozZ12/Easy-Liquid-Glass-for-KDE) – KDE liquid glass
 - [Mixaill/awesome-gog-galaxy](https://github.com/Mixaill/awesome-gog-galaxy) – A list of GOG Galaxy 2.0 integrations and upcoming features
 - [MrKraken/StarStrings](https://github.com/MrKraken/StarStrings) – MrKraken's string replacements QoL. Always check for update after an SC patch!!!
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) – Build and run Docker containers leveraging NVIDIA GPUs
@@ -2114,7 +2119,7 @@
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) – A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
-- [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) – The great gaming migration to Linux
+- [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) – The great gaming migration to Linux and macOS
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
@@ -2232,7 +2237,6 @@
 
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
 - [Paisseon/Satella](https://github.com/Paisseon/Satella) – Modern in-app purchase cracker (iOS 12-16)
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) – Jailed in-app purchase cracker (iOS 12-16)
@@ -2272,6 +2276,7 @@
 - [Aetherall/tobiifree](https://github.com/Aetherall/tobiifree) – Tobii Eye Tracker 5 For Linux and Web
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
+- [ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift) – Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data through large dumps, an API or web interface.
 - [ArthurHeitmann/photon-reddit](https://github.com/ArthurHeitmann/photon-reddit) – Photon Reddit is a clean and modern reddit desktop client, with some cool features.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
