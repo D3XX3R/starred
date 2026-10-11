@@ -210,6 +210,7 @@
 - [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) – C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 - [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) – Unity / XNA game patcher and plugin framework
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) – 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+- [BlueHeisenberg/SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) – Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful open-source tool for managing networks and troubleshooting network problems!
 - [CigarLounge/sbox-TTT](https://github.com/CigarLounge/sbox-TTT) – TTT is a mafia-esque multiplayer game created using s&box
 - [CutFlame/MCDSaveEdit](https://github.com/CutFlame/MCDSaveEdit) – Minecraft: Dungeons Save File Editor
@@ -832,6 +833,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [taubyte/tau](https://github.com/taubyte/tau) – Fullstack Workspace for Humans & Machines
+- [technicfan/nrc-wrapper-go](https://github.com/technicfan/nrc-wrapper-go) – norisk client wrapper for prism and modrinth launcher written in go
 - [tess1o/go-ecoflow-exporter](https://github.com/tess1o/go-ecoflow-exporter) – Prometheus exporter for Ecoflow devices. Works via Ecoflow REST API or MQTT
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) – Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) – Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
@@ -2366,7 +2368,7 @@
 - [Zaarrg/DropBot](https://github.com/Zaarrg/DropBot) – Drop Bot. Automaticlly Farms every Drop available like Rust for ya and now also your Custom Channel's
 - [abdfnx/botway](https://github.com/abdfnx/botway) – 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [aceberg/AnyAppStart](https://github.com/aceberg/AnyAppStart) – Control panel to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
-- [acehox/auto-publisher](https://github.com/acehox/auto-publisher) – Discord bot to automatically publish messages or news in your announcement channels!
+- [acehox/auto-publisher](https://github.com/acehox/auto-publisher) – Discord bot to automatically publish messages or news in your announcement channels
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) – The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) – AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
@@ -2482,7 +2484,7 @@
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
-- [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – 🎮⌛Downgrade Steam games to older versions with ease using DepotDownloader
+- [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – Downgrade Steam games to older versions with ease using DepotDownloader
 - [mohyware/packet-meter](https://github.com/mohyware/packet-meter) – Cross-platform network traffic monitoring system that can be self-hosted easily.
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) – 💬 Chat with anyone on any website.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) – The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
