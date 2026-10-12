@@ -777,7 +777,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring with historical data, docker stats, and alerts.
 - [home-assistant/os-agent](https://github.com/home-assistant/os-agent) – Daemon allowing to control OS features through D-Bus
 - [iebb/F1WebViewer-SelfHosted](https://github.com/iebb/F1WebViewer-SelfHosted) – Self-hosted reverse-proxy for F1 web viewer.
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – Ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – Full-system ad-blocker and privacy guard for Windows, macOS and Linux.
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 - [jdoiro3/dagit](https://github.com/jdoiro3/dagit) – DaGit to learn Git Internals
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -1128,6 +1128,7 @@
 - [yellowsink/shelter-plugins](https://github.com/yellowsink/shelter-plugins) – plugins for uwu/shelter
 - [yeonholee50/NyxHub](https://github.com/yeonholee50/NyxHub) – Secure Web File Sharing Application
 - [yofukashino/BetterDiscordPlugins](https://github.com/yofukashino/BetterDiscordPlugins) – Just me trying
+- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) – Jellyfin Custom Integration for Home Assistant
 
 <div id="jinja"></div>
 
@@ -2080,7 +2081,8 @@
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) – All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
-- [storytold/photocraft](https://github.com/storytold/photocraft) – An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [storytold/craft-launcher](https://github.com/storytold/craft-launcher) – The Craft App Launcher
+- [storytold/photocraft](https://github.com/storytold/photocraft) – PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) – A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [t348575/twitch-points-miner](https://github.com/t348575/twitch-points-miner) – A lightweight twitch points miner
@@ -2309,7 +2311,7 @@
 - [HilliamT/Vapor-Authenticator](https://github.com/HilliamT/Vapor-Authenticator) – Desktop Authenticator for Steam for players, traders and gamers to be able to utilise, facilitate and automate Steam from their desktop
 - [Hypfer/lovelace-valetudo-map-card](https://github.com/Hypfer/lovelace-valetudo-map-card) – Display the map from a valetudo-enabled robot in a home assistant dashboard card.
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) – ChatIS v3 (the long awaited sequel) [WIP]
-- [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) – Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [Its2Factor/vc-voiceChannelLogger](https://github.com/Its2Factor/vc-voiceChannelLogger) – Vencord VoiceChannelLogger userplugin
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) – Puts Docker Containers to sleep and wakes them back up when they're needed
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) – Vane is an AI-powered answering engine.
@@ -2498,6 +2500,7 @@
 - [nexe/nexe](https://github.com/nexe/nexe) – 🎉 create a single executable out of your node.js apps
 - [ngocjohn/sidebar-organizer](https://github.com/ngocjohn/sidebar-organizer) – 🗄️ Home Assistant custom plugin designed to give you full control over the layout and organization of the sidebar. 
 - [nichtLehdev/DiscordBot](https://github.com/nichtLehdev/DiscordBot)
+- [nicola02nb/betterTTS](https://github.com/nicola02nb/betterTTS)
 - [noaione/mpv-js-scripts](https://github.com/noaione/mpv-js-scripts) – Some mpv scripts I created (made in JS)
 - [noambergauz/dreame-vacuum-map-card](https://github.com/noambergauz/dreame-vacuum-map-card) – Dreame Vacuum Map Card for Home Assistant Integration
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
@@ -2580,7 +2583,6 @@
 - [zephraOSS/Apple-Music-RPC](https://github.com/zephraOSS/Apple-Music-RPC) – Discord RPC for Apple Music and iTunes with easy-to-use interface and setup
 - [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) – Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) – A portable and vast media library solution.
-- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) – Jellyfin Custom Integration for Home Assistant
 
 <div id="vbscript"></div>
 
