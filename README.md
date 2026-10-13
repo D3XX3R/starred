@@ -336,6 +336,7 @@
 - [neatchee/nvidiaProfileInspectorForkAIO](https://github.com/neatchee/nvidiaProfileInspectorForkAIO) – An attempt to merge all work from forks of nvProfileInspector into a single release
 - [netchx/netch](https://github.com/netchx/netch) – A simple proxy client
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) – Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文. 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) – WinUI app for building smaller, customized Windows 11 images.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) – Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [ol1fer/sbox-linux-emoji-patch](https://github.com/ol1fer/sbox-linux-emoji-patch) – Patches s&box's bundled Topten.RichTextKit.dll to fix emoji rendering on Linux/Proton. See https://github.com/Facepunch/sbox-public/issues/10779
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) – OpenBullet reinvented
@@ -575,7 +576,7 @@
 
 - [FritzAndFriends/StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit) – A .NET Standard library, template, and tools for building extensions to the Elgato Stream Deck
 - [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style) – Sun Valley + MDL2 Theme for Firefox
-- [MakD/zombie-release](https://github.com/MakD/zombie-release) – A theme for Jellyfin 10.9.x combining the best from the Public Themes
+- [MakD/zombie-release](https://github.com/MakD/zombie-release) – Resurrected for v12
 - [Mirobit/bitcoin-node-manager](https://github.com/Mirobit/bitcoin-node-manager) – :bar_chart: Lightweight dashboard and control system for bitcoin nodes
 - [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) – Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) – An opinionated set of configurations for firefox.
@@ -777,7 +778,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring with historical data, docker stats, and alerts.
 - [home-assistant/os-agent](https://github.com/home-assistant/os-agent) – Daemon allowing to control OS features through D-Bus
 - [iebb/F1WebViewer-SelfHosted](https://github.com/iebb/F1WebViewer-SelfHosted) – Self-hosted reverse-proxy for F1 web viewer.
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – Full-system ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) – System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 - [jdoiro3/dagit](https://github.com/jdoiro3/dagit) – DaGit to learn Git Internals
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) – Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -872,6 +873,7 @@
 - [OfficiallySp/FeatherCord](https://github.com/OfficiallySp/FeatherCord) – FeatherCord is a lightweight alternative to the Discord client 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
 - [WentTheFox/ForzaRoadFinder](https://github.com/WentTheFox/ForzaRoadFinder) – HTML-based tool for finding undiscovered roads in Forza Horizon games via screen capture
+- [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [kmille/freetar](https://github.com/kmille/freetar) – freetar  - an alternative frontend to ultimate-guitar.com
@@ -1169,6 +1171,7 @@
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) – 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) – AirPods liberated from Apple's ecosystem.
+- [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [seemoo-lab/watchwitch](https://github.com/seemoo-lab/watchwitch) – Android Interoperability for the Apple Watch
 - [siketyan/intellij-rustowl](https://github.com/siketyan/intellij-rustowl) – Visualize ownerships and lifetimes in Rust on IntelliJ IDEs.
@@ -1295,7 +1298,6 @@
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) – A fully native Discord client for macOS built 100% in Swift!
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) – A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [TwitchmodsDACH/Bannlisten](https://github.com/TwitchmodsDACH/Bannlisten)
-- [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
 - [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) – YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [Yimura/GTAV-Classes](https://github.com/Yimura/GTAV-Classes)
 - [alexjamesbilodeau/linux](https://github.com/alexjamesbilodeau/linux) – Shareable visual assets for the Linux community.
@@ -1405,7 +1407,6 @@
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) – ☑️🌠 Remove Bloatwares from Windows 10
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) – Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) – Scripts to build a trimmed-down Windows 11 image.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) – Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
 - [t1m0thyj/WDD-scripts](https://github.com/t1m0thyj/WDD-scripts) – PowerShell scripts that add features to WinDynamicDesktop
 - [woodruffw/ff2mpv](https://github.com/woodruffw/ff2mpv) – A Firefox/Chrome add-on for playing URLs in mpv.
@@ -2017,7 +2018,6 @@
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) – Unsafely fast hashing algorithm 📈
 - [omikuji-launcher/omikuji](https://github.com/omikuji-launcher/omikuji) – QtQuick based game launcher for Linux
 - [opensourcecheemsburgers/RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) – A rusty Youtube client.
-- [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [orhun/tuitar](https://github.com/orhun/tuitar) – A portable guitar training tool & DIY kit 🎛️🎸
