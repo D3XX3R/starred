@@ -195,7 +195,6 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) – Resizable BAR for (almost) any UEFI system
-- [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime) – Open Source implementation of xgameruntime.dll. Designed for use in Wine with Xodus
 
 <div id="c#"></div>
 
@@ -557,6 +556,7 @@
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) – Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
+- [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime) – Open Source implementation of xgameruntime.dll. Designed for use in Wine with Xodus
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -874,6 +874,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) – Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
 - [WentTheFox/ForzaRoadFinder](https://github.com/WentTheFox/ForzaRoadFinder) – HTML-based tool for finding undiscovered roads in Forza Horizon games via screen capture
 - [Wizxrd/StandaloneRadarControl](https://github.com/Wizxrd/StandaloneRadarControl) – Standalone Radar Control for DCS World
+- [claimore22/ps5rs](https://github.com/claimore22/ps5rs) – PS5 binary analysis, virtual loading, and host-side emulation framework: SELF/ELF/PRX parsing, NID resolver, import analysis, interactive dashboards, and a loader + emulator pipeline with pure-Rust HLE modules.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) – The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 - [hazrpg/stadia-flasher](https://github.com/hazrpg/stadia-flasher) – The original stadia controller flash tool to unlock bluetooth that works locally.
 - [kmille/freetar](https://github.com/kmille/freetar) – freetar  - an alternative frontend to ultimate-guitar.com
@@ -2241,6 +2242,7 @@
 
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
 - [Paisseon/Satella](https://github.com/Paisseon/Satella) – Modern in-app purchase cracker (iOS 12-16)
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) – Jailed in-app purchase cracker (iOS 12-16)
