@@ -423,7 +423,6 @@
 - [Priton-CE/opentrack-StarCitizen](https://github.com/Priton-CE/opentrack-StarCitizen) – Head tracking software for fixes with Star Citizen on Linux.
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) – Spotify ogg dumper
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) – A powerful cross-platform raw photo processing program
-- [Selectively11/CloudRedirect](https://github.com/Selectively11/CloudRedirect) – Steam Cloud redirection magic
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) – Chat client for https://twitch.tv
 - [SpecialKO/SpecialK](https://github.com/SpecialKO/SpecialK) – Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything.
 - [Speek-App/Speek](https://github.com/Speek-App/Speek) – Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
@@ -956,7 +955,6 @@
 - [tomvd/local-powerstream](https://github.com/tomvd/local-powerstream) – Knowledge gathering hub with the goal to control the ecoflow powerstream locally without internet
 - [tr7zw/Exordium](https://github.com/tr7zw/Exordium) – There is no good reason to render the hotbar at 100+ fps
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) – Vulkan renderer mod for Minecraft.
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Access your entire server infrastructure from your local desktop
 - [xpple/SeedMapper](https://github.com/xpple/SeedMapper) – In-game Minecraft Fabric mod that allows you to do various things with the world seed.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – Browse media content with your own rules on Android TV
 - [zapek/Xeres](https://github.com/zapek/Xeres) – A Friend-to-Friend, decentralized and secure application for communication and sharing
@@ -995,7 +993,7 @@
 - [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) – Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
 - [NoUsername10/Sunlight_Visualizer](https://github.com/NoUsername10/Sunlight_Visualizer) – A Home Assistant integration for sunlight-based automations and visualization. Sunlight Visualizer calculates wall, roof, radiation, and shading-demand sensors for blinds, awnings, HVAC, solar insights, and comfort automations, then visualizes the same data in a 3D Lovelace card with sun position, shadows, solar power, grid flow, and Energy HUD
 - [OpenTransitHub/Trainboard-App](https://github.com/OpenTransitHub/Trainboard-App) – Clean Departure Board mainly for DB Trains running on JavaScript
-- [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 A highly customizable, open-source YouTube client with privacy in mind. Also supports playing from all yt-dlp supported sites.
+- [OpenTubeX/OpenTubeX](https://github.com/OpenTubeX/OpenTubeX) – 📺 Highly customizable, open-source YouTube client with privacy in mind. Can also play from all yt-dlp supported sites.
 - [PlaceDE-Official/place-overlay](https://github.com/PlaceDE-Official/place-overlay)
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) – Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [REVENGE977/Xenon-Bot-JavaScript-Edition](https://github.com/REVENGE977/Xenon-Bot-JavaScript-Edition) – non-official xenon bot javascript edition , a bot for backup discord servers and more features .
@@ -1348,6 +1346,7 @@
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Access your entire server infrastructure from your local desktop
 - [zencq/nomnom](https://github.com/zencq/nomnom) – NomNom is one of the most complete savegame editor for No Man's Sky but also shows additional information around the data you're about to change.
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) – A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
@@ -1828,8 +1827,6 @@
 - [PaulDance/cargo-liner](https://github.com/PaulDance/cargo-liner) – Cargo subcommand to install and update binary packages listed in configuration
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) – Synchronize games from other platforms into your Steam library
 - [PixelP4radise/house_simulator_rust](https://github.com/PixelP4radise/house_simulator_rust) – A Rust adaptation of a School Project meant to be done in C++ with ncurses
-- [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) – A Decentralized Operating System for ZK Applications
-- [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers
 - [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) – A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.3.
 - [RVC-Project/obs-rvc](https://github.com/RVC-Project/obs-rvc) – Retrieval-based Voice Conversion as an OBS plugin
@@ -1867,6 +1864,8 @@
 - [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) – Find the password of protected ZIP files.
 - [ahmoodio/aurora](https://github.com/ahmoodio/aurora) – Wayland-first GUI for Pacman, AUR, and Flatpak with queue, logs, and AppStream metadata.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
+- [aleo-labs-protocol/snarkOS](https://github.com/aleo-labs-protocol/snarkOS) – A Decentralized Operating System for ZK Applications
+- [aleo-labs-protocol/snarkVM](https://github.com/aleo-labs-protocol/snarkVM) – A zkVM for Decentralized Private Computations (DPC)
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) – Stream VR games from your PC to your headset via Wi-Fi
 - [am-will/limux](https://github.com/am-will/limux) – GPU-accelerated terminal multiplexer for Linux
 - [anglerud/interiris](https://github.com/anglerud/interiris) – Internet quality monitor
