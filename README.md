@@ -633,7 +633,7 @@
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) – ⚗️  a privacy centric matrix client 
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) – An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [tommyxchow/frosty](https://github.com/tommyxchow/frosty) – A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
-- [warreth/OpenlibExtended](https://github.com/warreth/OpenlibExtended) – An Open source app to download and read books from shadow library's (Anna’s Archive, libgen, zlib)
+- [warreth/OpenlibExtended](https://github.com/warreth/OpenlibExtended) – An Open source app to download and read books from shadow libraries (Anna’s Archive, libgen, zlib)
 - [wyyadd/LaLa](https://github.com/wyyadd/LaLa) – LaLa Trainers Launcher
 
 <div id="dockerfile"></div>
@@ -945,7 +945,6 @@
 - [meza/SoundsBeGone](https://github.com/meza/SoundsBeGone) – A Minecraft Mod for muting specific sounds you don't want to hear. (Great for Misophonia)
 - [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) – Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
 - [mt1006/mc-ar-mod](https://github.com/mt1006/mc-ar-mod) – Asynchronous reprojection in Minecraft
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) – A fork of NewPipe with SponsorBlock functionality.
 - [prometheusreengineering/minecraft-essential](https://github.com/prometheusreengineering/minecraft-essential) – The Prometheus' patch for Essential Mod.
 - [questdb/questdb](https://github.com/questdb/questdb) – QuestDB is a high performance, open-source, time-series database
 - [rfresh2/ZenithProxy](https://github.com/rfresh2/ZenithProxy) – 2b2t minecraft proxy / bot
@@ -955,6 +954,7 @@
 - [tomvd/local-powerstream](https://github.com/tomvd/local-powerstream) – Knowledge gathering hub with the goal to control the ecoflow powerstream locally without internet
 - [tr7zw/Exordium](https://github.com/tr7zw/Exordium) – There is no good reason to render the hotbar at 100+ fps
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) – Vulkan renderer mod for Minecraft.
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Access your entire server infrastructure from your local desktop
 - [xpple/SeedMapper](https://github.com/xpple/SeedMapper) – In-game Minecraft Fabric mod that allows you to do various things with the world seed.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – Browse media content with your own rules on Android TV
 - [zapek/Xeres](https://github.com/zapek/Xeres) – A Friend-to-Friend, decentralized and secure application for communication and sharing
@@ -1346,7 +1346,6 @@
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Access your entire server infrastructure from your local desktop
 - [zencq/nomnom](https://github.com/zencq/nomnom) – NomNom is one of the most complete savegame editor for No Man's Sky but also shows additional information around the data you're about to change.
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) – A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
@@ -2100,7 +2099,7 @@
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave](https://github.com/trumank/uesave) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
-- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Pake](https://github.com/tw93/Pake) – Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [twitch-rs/twitch_api](https://github.com/twitch-rs/twitch_api) – Rust library for talking with the Twitch API aka. "Helix", TMI and more! Use Twitch endpoints fearlessly!
 - [typst/typst](https://github.com/typst/typst) – A markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/OxidizeBot](https://github.com/udoprog/OxidizeBot) – High performance Twitch bot in Rust
