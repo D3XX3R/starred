@@ -2005,7 +2005,7 @@
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [neil-lobo/cpm](https://github.com/neil-lobo/cpm) – Chatterino Plugin Manager
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) – Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – You have a GPU. Now make it  shareable and accessible from anywhere in the world.
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) – One GPU. Many sessions. All streamed remotely to anywhere.
 - [niri-wm/niri](https://github.com/niri-wm/niri) – A scrollable-tiling Wayland compositor.
 - [not-matthias/obs-rs](https://github.com/not-matthias/obs-rs) – Capture frames of any game using OBS. 
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
