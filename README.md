@@ -843,7 +843,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
-- [usememos/memos](https://github.com/usememos/memos) – A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) – A timeline for your thoughts. Just type. It stays yours.
 - [vegidio/umd](https://github.com/vegidio/umd) – A desktop app to easily download media files hosted on popular websites.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
@@ -1366,7 +1366,7 @@
 - [Xenthys/ShareXen](https://github.com/Xenthys/ShareXen) – ShareXen - Another ShareX Custom Uploader PHP Script
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) – Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) – Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [discordlookup/discordlookup](https://github.com/discordlookup/discordlookup) – DiscordLookup | Get more out of Discord with Discord Lookup! Snowflake Decoder, Guild List with Stats, Invite Info and more...
 - [elementor/elementor](https://github.com/elementor/elementor) – The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
