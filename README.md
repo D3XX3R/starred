@@ -520,6 +520,7 @@
 - [mongoose-os-apps/shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit) – Apple HomeKit firmware for Shelly's
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) – GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) – DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
 - [netborg-afps/dxvk-low-latency](https://github.com/netborg-afps/dxvk-low-latency) – Enhances DXVK with low-latency frame pacing 
 - [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) – An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) – nomacs is a free image viewer for windows, linux, and mac systems.
@@ -843,7 +844,7 @@
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) – The official Twitch CLI to make developing on Twitch easier.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
-- [usememos/memos](https://github.com/usememos/memos) – A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) – Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [vegidio/umd](https://github.com/vegidio/umd) – A desktop app to easily download media files hosted on popular websites.
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
