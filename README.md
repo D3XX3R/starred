@@ -2125,6 +2125,7 @@
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) – The great gaming migration to Linux and macOS
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
+- [yapfast/yapfast](https://github.com/yapfast/yapfast) – The chat app that doesn't eat your PC. A lightweight, native Discord client in Rust.
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
