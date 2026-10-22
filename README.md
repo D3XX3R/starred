@@ -522,7 +522,7 @@
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) – DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
 - [netborg-afps/dxvk-low-latency](https://github.com/netborg-afps/dxvk-low-latency) – Enhances DXVK with low-latency frame pacing 
-- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) – An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
+- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) – Umbriel is a Wayland compositor designed for daily use. It supports scrolling, dwindle, and master layouts, independent output workspaces, window rules, blur, shadows, and fluid animations.
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) – nomacs is a free image viewer for windows, linux, and mac systems.
 - [nvpro-samples/vk_raytrace](https://github.com/nvpro-samples/vk_raytrace) – Ray tracing glTF scene with Vulkan
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) – CEF-based OBS Studio browser plugin
