@@ -764,7 +764,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [dwot/isley](https://github.com/dwot/isley) – Self-Hosted Cannabis Grow Journal with sensor tracking for AC Infinity Controllers and Ecowitt Soil Sensors
 - [evan-sm/twitchpl](https://github.com/evan-sm/twitchpl) – ▶️🎵 Get m3u8 twitch playlist
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) – solar charging ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) – smart charging ☀️🚘
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [folbricht/routedns](https://github.com/folbricht/routedns) – DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [gempir/justlog](https://github.com/gempir/justlog) – twitch logging platform
@@ -1073,7 +1073,6 @@
 - [leogx9r/DiscordCrypt](https://github.com/leogx9r/DiscordCrypt) – End-To-End File & Message Encryption For Discord
 - [liamcottle/rustplus.js](https://github.com/liamcottle/rustplus.js) – Unofficial NodeJS library for controlling Smart Switches in the PC game Rust
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [lklynet/aurral](https://github.com/lklynet/aurral) – The best in open-source music discovery.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy self-hosted monitoring tool
 - [lovell/sharp](https://github.com/lovell/sharp) – High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -2478,6 +2477,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lklynet/aurral](https://github.com/lklynet/aurral) – The best in open-source music discovery.
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
 - [louislam/dockge](https://github.com/louislam/dockge) – A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [makeplane/plane](https://github.com/makeplane/plane) – 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
