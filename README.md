@@ -18,6 +18,7 @@
 - [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Cython](#cython)
+- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -522,7 +523,7 @@
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) – DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
 - [netborg-afps/dxvk-low-latency](https://github.com/netborg-afps/dxvk-low-latency) – Enhances DXVK with low-latency frame pacing 
-- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) – Umbriel is a Wayland compositor designed for daily use. It supports scrolling, dwindle, and master layouts, independent output workspaces, window rules, blur, shadows, and fluid animations.
+- [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) – Umbriel is a Wayland compositor designed for daily use, with scrolling, dwindle, master, and floating layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) – nomacs is a free image viewer for windows, linux, and mac systems.
 - [nvpro-samples/vk_raytrace](https://github.com/nvpro-samples/vk_raytrace) – Ray tracing glTF scene with Vulkan
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) – CEF-based OBS Studio browser plugin
@@ -609,6 +610,12 @@
 ## Cython
 
 - [flonle/youbit](https://github.com/flonle/youbit) – Host any type of file on YouTube
+
+<div id="d"></div>
+
+## D
+
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) – OneDrive Client for Linux
 
 <div id="dart"></div>
 
@@ -1304,6 +1311,7 @@
 - [angel-HdezAv/KDE-Silver-Gate](https://github.com/angel-HdezAv/KDE-Silver-Gate) – Make KDE look similar to macOS 27 Golden Gate.
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
 - [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) – a collection about Windows 11
 - [bram-atmire/GDPR-Claim-Templates](https://github.com/bram-atmire/GDPR-Claim-Templates) – Consumer templates to exercise GDPR rights.
@@ -1540,7 +1548,6 @@
 - [Xientraa/The-Sims-Resource-Downloader](https://github.com/Xientraa/The-Sims-Resource-Downloader) – A Python tool to download items with ease from The Sims Resource.
 - [ZFTurbo/Music-Source-Separation-Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) – Repository for training models for music source separation.
 - [ZackGphom/GLORP](https://github.com/ZackGphom/GLORP) – Optimized Pixel-Art to SVG converter with Greedy Meshing.
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) – OneDrive Client for Linux
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) – Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 - [agittins/bermuda](https://github.com/agittins/bermuda) – Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [ahmoodio/yay-gui-manager](https://github.com/ahmoodio/yay-gui-manager) – gui made to manage yay pakages and easier to update install and unintall pakages
@@ -2163,7 +2170,6 @@
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
 - [alexheretic/aurto](https://github.com/alexheretic/aurto) – Arch Linux AUR tool for managing an auto-updating local 'aurto' package repository
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
