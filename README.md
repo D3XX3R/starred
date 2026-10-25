@@ -349,7 +349,7 @@
 - [rscustom/rocksmith-custom-song-toolkit](https://github.com/rscustom/rocksmith-custom-song-toolkit) – Custom song toolkit for Rocksmith and Rocksmith 2014
 - [schneidermanuel/TwitchLeecher-Dx](https://github.com/schneidermanuel/TwitchLeecher-Dx) – Twitch Leecher DX - The Broadcast Downloader
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) – Easily edit and manage the hosts file for Windows
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) – An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) – An experimental PlayStation 5 emulator for Windows and Linux
 - [sp0ok3r/Mercury](https://github.com/sp0ok3r/Mercury) – Mercury is a powerful tool for Steam users built on SteamKit2, offering advanced features for managing accounts, chats, and interactions.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) – Everything integration for the Windows taskbar.
 - [stayintarkov/StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) – An Escape From Tarkov BepInEx module designed to be used with the SPT-Aki with the ultimate goal of "Offline" Coop
@@ -1889,7 +1889,7 @@
 - [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) – A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [can1357/kAirPods](https://github.com/can1357/kAirPods) – Native AirPods integration for KDE Plasma 6 with real-time battery monitoring, noise control, and panel widget.
 - [ccxt/binance-rs](https://github.com/ccxt/binance-rs) – Rust Library for the Binance API
-- [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS)
+- [cfal/shoes](https://github.com/cfal/shoes) – A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS, XHTTP)
 - [char-ptr/poggers](https://github.com/char-ptr/poggers) – rust memory library
 - [charl1e7/tvis](https://github.com/charl1e7/tvis) – A process monitoring tool that helps you track and analyze specific processes in real-time.
 - [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) – Deep learning in Rust, with shape checked tensors and neural networks
@@ -2245,7 +2245,7 @@
 
 ## Swift
 
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) – Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) – The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) – Run iOS apps without actually installing them!
 - [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) – qBittorrent remote client for iOS devices.
