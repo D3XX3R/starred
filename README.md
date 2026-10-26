@@ -29,6 +29,7 @@
 - [Game Maker Language](#game-maker-language)
 - [Gherkin](#gherkin)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -317,7 +318,6 @@
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) – .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [insomniachi/FluentFin](https://github.com/insomniachi/FluentFin)
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) – Automatically detect and skip intro/credit sequences in Jellyfin
-- [jasperdevs/odd-snap](https://github.com/jasperdevs/odd-snap) – Your new favorite, free, and open source screenshot tool
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System - Server Backend & API
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)
 - [joshuascript/sbox-public](https://github.com/joshuascript/sbox-public) – s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
@@ -856,6 +856,12 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 
+<div id="go-template"></div>
+
+## Go Template
+
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+
 <div id="hlsl"></div>
 
 ## HLSL
@@ -1055,7 +1061,7 @@
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) – Self host your media and share with unique links
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – The most comprehensive BLE room-presence tracking system for Home Assistant — room-level tracking, 3D floor plans, calibration, follow mode, 24 views
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1311,7 +1317,6 @@
 - [angel-HdezAv/KDE-Silver-Gate](https://github.com/angel-HdezAv/KDE-Silver-Gate) – Make KDE look similar to macOS 27 Golden Gate.
 - [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) – Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) – A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [azsry/phasmophobia_mechanics](https://github.com/azsry/phasmophobia_mechanics) – A (currently unsorted) list of internal mechanics used in Phasmophobia
 - [beerisgood/Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening) – a collection about Windows 11
 - [bram-atmire/GDPR-Claim-Templates](https://github.com/bram-atmire/GDPR-Claim-Templates) – Consumer templates to exercise GDPR rights.
@@ -2131,7 +2136,7 @@
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) – The great gaming migration to Linux and macOS
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
-- [yapfast/yapfast](https://github.com/yapfast/yapfast) – The chat app that doesn't eat your PC. A lightweight, native Discord client in Rust.
+- [yapfast/yapfast](https://github.com/yapfast/yapfast) – A Discord client without the web browser. Native, written in Rust, about 30 MB of RAM idle.
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
