@@ -1061,7 +1061,7 @@
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) – Self host your media and share with unique links
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-love-and-magic/sessionless](https://github.com/freyja-love-and-magic/sessionless) – A repo for the sessionless protocol
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every phone, watch and tag is in, live, on a 3D floor plan of your home. Works with the ESPHome Bluetooth proxies you already have. Try it in your browser: padspan.traks.ca/demo
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -2431,7 +2431,7 @@
 - [discordeno/discordeno](https://github.com/discordeno/discordeno) – Discord API library for Node and Deno
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) – A free and open-source community discussion platform.
 - [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) – p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. 
-- [dubinc/dub](https://github.com/dubinc/dub) – The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [dubinc/dub.link](https://github.com/dubinc/dub.link) – The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) – Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) – dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [eduair94/warframe](https://github.com/eduair94/warframe) – Free real-time Warframe Market analytics & platinum trading tools — live prime prices, set-vs-parts, ducat/relic/riven value, vaulted tracking & flip finder. Live: warframe-app.digitalshopuy.com
