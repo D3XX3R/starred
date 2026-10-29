@@ -184,7 +184,6 @@
 - [raomin/ESPAltherma](https://github.com/raomin/ESPAltherma) – Monitor your Daikin Altherma / ROTEX heat pump with ESP32
 - [reindertpelsma/nvkvm-pv](https://github.com/reindertpelsma/nvkvm-pv) – Paravirtual NVIDIA GPU for KVM guests — run unmodified CUDA, PyTorch and Vulkan inside a VM at host parity, on a GPU the host keeps using. No passthrough, no vGPU licence. Experimental.
 - [ripxorip/PWAR](https://github.com/ripxorip/PWAR) – PWAR: PipeWire ASIO Relay — a zero-drift, real-time audio bridge
-- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [scanmem/scanmem](https://github.com/scanmem/scanmem) – memory scanner for Linux
 - [sched-ext/scx](https://github.com/sched-ext/scx) – sched_ext schedulers and tools
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) – An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -538,6 +537,7 @@
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) – Free and Open Source Reverse Engineering Platform powered by rizin
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) – A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [royshil/obs-cleanstream](https://github.com/royshil/obs-cleanstream) – CleanStream is an OBS plugin that uses AI to clean live audio streams from unwanted words and utterances
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [sdatkinson/NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) – Plugin for Neural Amp Modeler
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) – a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.
@@ -2439,7 +2439,6 @@
 - [efzynx/truckers-tool-linux](https://github.com/efzynx/truckers-tool-linux) – A web-based save editor for Euro Truck Simulator 2 and American Truck Simulator on Linux. Edit your profile data (money, XP, skills) directly from the browser — no Windows tools needed.
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) – A glossy Matrix collaboration client for desktop.
 - [ericwang401/echo-soundboard](https://github.com/ericwang401/echo-soundboard) – A free soundboard that looks beautiful and works
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) – Easy to maintain open source documentation websites.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) – :cloud: Sync your bookmarks privately across browsers and devices
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) – A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) – The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
@@ -2498,6 +2497,7 @@
 - [mc-build/mcb](https://github.com/mc-build/mcb) – in dev mcb standalone project
 - [medusajs/medusa](https://github.com/medusajs/medusa) – The world's most flexible commerce platform for agents and developers
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) – Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
+- [meta/docusaurus](https://github.com/meta/docusaurus) – Easy to maintain open source documentation websites.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) – Generate interactive, beautiful and insightful chat analysis reports
 - [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – Downgrade Steam games to older versions with ease using DepotDownloader
