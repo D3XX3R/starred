@@ -1809,7 +1809,7 @@
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) – A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – A tasteful, lean, fast & safe pure Rust implementation of Git
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [Gravitalia/Autha](https://github.com/Gravitalia/Autha) – Account broker for federation built on-top of ActivityPub
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
@@ -1833,6 +1833,7 @@
 - [NattKh/Inzoi-Unlock-Tool](https://github.com/NattKh/Inzoi-Unlock-Tool) – Rust tool for unlocking extra content 
 - [Nerixyz/c2-logs](https://github.com/Nerixyz/c2-logs) – Capture, filter and analyze logs from Chatterino without restarting the application on Windows.
 - [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) – The supercharged Minecraft launcher and server manager
+- [Novattz/creamlinux-installer](https://github.com/Novattz/creamlinux-installer) – DLC Fetcher and installer for linux
 - [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) – A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [ParleSec/ZeroVault](https://github.com/ParleSec/ZeroVault) – Rust-based lightweight cryptographic cli designed for encrypting and verifying sensitive documents using modern, secure encryption primitives. The vault uses AES-256-GCM for symmetric encryption and Ed25519 for digital signatures.
 - [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten) – A modern Steam achievements manager for Windows and Linux
@@ -2157,7 +2158,7 @@
 
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. 
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. Since 2018.
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) – Archlinux Kernel based on different schedulers and some other performance improvements.
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [Deadboy666/h3adcr-b](https://github.com/Deadboy666/h3adcr-b) – the headcrab approaches..
@@ -2342,10 +2343,9 @@
 - [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) – :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) – An automatic livestream recorder
-- [MrTopQ/customStream-Vencord](https://github.com/MrTopQ/customStream-Vencord) – Vencord plugin that replaces steam preview
+- [MrTopQ/customStream-Vencord](https://github.com/MrTopQ/customStream-Vencord) – Vencord plugin that replaces stream preview
 - [Nerwyn/custom-card-features](https://github.com/Nerwyn/custom-card-features) – Home Assistant custom features for tile cards and more. Call any action using buttons, dropdowns, inputs, selectors, sliders, spinboxes, and toggles.
 - [NextFire/apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) – 🎵 Discord Rich Presence Client (profile status) for the macOS Apple Music app
-- [Novattz/creamlinux-installer](https://github.com/Novattz/creamlinux-installer) – DLC Fetcher and installer for linux
 - [NurMarvin/discord-proxy](https://github.com/NurMarvin/discord-proxy) – Locally proxies a specific Discord build on your local machine
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) – Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) – Open Cyber Threat Intelligence Platform
