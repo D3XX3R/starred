@@ -1181,7 +1181,7 @@
 - [darusc/Passknight](https://github.com/darusc/Passknight) – Multi-vault, user-configured cloud hosted password manager
 - [kitshn-app/kitshn](https://github.com/kitshn-app/kitshn) –  Unofficial Tandoor client for Android, iOS and Desktop devices
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) – 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
-- [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) – An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) – AirPods liberated from Apple's ecosystem.
 - [opeolluwa/beats](https://github.com/opeolluwa/beats) – Quickly and securely share files from Windows, Linux, Mac to Android devices using wifi. 
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
