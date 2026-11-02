@@ -1749,7 +1749,6 @@
 - [KDE/plasma-bigscreen](https://github.com/KDE/plasma-bigscreen) – Plasma shell for TVs
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) – Series of modern looking themes for SDDM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) – A fluid, morphing shell for your Linux desktop
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – privacy-first, open-source and free idevice management tool written in Rust and Qt
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) – Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) – Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) – Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
@@ -1960,6 +1959,7 @@
 - [http-rs/tide](https://github.com/http-rs/tide) – Fast and friendly HTTP server framework for async Rust
 - [httpmock/httpmock](https://github.com/httpmock/httpmock) – HTTP mocking library for Rust
 - [iByteABit256/Vivace](https://github.com/iByteABit256/Vivace) – Command line tool to download songs from Youtube
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) – privacy-first, open-source and free idevice management tool written in Rust and Qt
 - [iced-rs/iced](https://github.com/iced-rs/iced) – A cross-platform GUI library for Rust, inspired by Elm
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) – A bittorrent client in Rust
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) – Linux GPU Configuration And Monitoring Tool
@@ -2044,7 +2044,7 @@
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [pyrohost/clavis](https://github.com/pyrohost/clavis) – A Rust library for secure, encrypted communication over asynchronous streams
 - [pythonlover02/volt-gui](https://github.com/pythonlover02/volt-gui) – My AMD Adrenaline / NVIDIA Settings Linux Alternative
-- [pythops/kudu](https://github.com/pythops/kudu) – 📦  TUI VM Manager on Linux
+- [pythops/kudu](https://github.com/pythops/kudu) – 📦  TUI for creating and managing virtual machines on Linux
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) – Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [quietvoid/dovi_tool](https://github.com/quietvoid/dovi_tool) – dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.
 - [quincy-rs/quincy](https://github.com/quincy-rs/quincy) – Post-quantum QUIC-based VPN
@@ -2172,6 +2172,7 @@
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
+- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
@@ -2488,7 +2489,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) – 🧠 Leon is your open-source personal assistant.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) – ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) – 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
-- [lklynet/aurral](https://github.com/lklynet/aurral) – The best in open-source music discovery.
+- [lklynet/aurral](https://github.com/lklynet/aurral) – Find new music, get it, and play it, all on your own server.
 - [lmarschall/wembat](https://github.com/lmarschall/wembat) – Wembat enables developers to authenticate users and encrypt data via the PRF extension of WebAuthn.
 - [louislam/dockge](https://github.com/louislam/dockge) – A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [makeplane/plane](https://github.com/makeplane/plane) – 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
