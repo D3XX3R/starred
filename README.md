@@ -1335,6 +1335,7 @@
 - [iKarwan/YTKillerPlus](https://github.com/iKarwan/YTKillerPlus) – a whole new YouTube Experience
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [martinknechtel/sungrow-tibber-home-assistant](https://github.com/martinknechtel/sungrow-tibber-home-assistant)
@@ -1690,7 +1691,6 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) – A community-supported supercharged document management system: scan, index and archive all your documents
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) – A modern Python package and dependency manager supporting the latest PEP standards
 - [pdreker/fritz_exporter](https://github.com/pdreker/fritz_exporter) – Prometheus exporter for Fritz!Box home routers
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [pnbruckner/ha-composite-tracker](https://github.com/pnbruckner/ha-composite-tracker) – Home Assistant Composite Device Tracker
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) – A collective list of free APIs
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
@@ -1976,7 +1976,6 @@
 - [joamag/boytacean](https://github.com/joamag/boytacean) – A GB emulator that is written in Rust 🦀!
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [jonaylor89/sherlock-rs](https://github.com/jonaylor89/sherlock-rs) – Hunt down social media accounts by username across social networks
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 - [justradical/jellyfin-rpc](https://github.com/justradical/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [jwodder/demagnetize-rs](https://github.com/jwodder/demagnetize-rs) – Convert magnet links to .torrent files
 - [kade-robertson/uggo](https://github.com/kade-robertson/uggo) – TUI app to pull builds from u.gg
@@ -2535,6 +2534,7 @@
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) – A module-based Discord bot template.
 - [pierr3/TrackAudio](https://github.com/pierr3/TrackAudio) – A next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) – Build a beautiful Home Assistant dashboard easily
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) – Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [prayag17/Blink](https://github.com/prayag17/Blink) – Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) – JavaScript API for Chrome and Firefox
