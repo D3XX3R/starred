@@ -1091,7 +1091,6 @@
 - [lovell/sharp](https://github.com/lovell/sharp) – High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) – Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app 
-- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) – mailcow: dockerized - 🐮 + 🐋 = 💕
 - [marioparaschiv/nitro-sniper](https://github.com/marioparaschiv/nitro-sniper) – 🔫 Lightweight, fast Discord Nitro, giveaway, and invite sniper.
 - [markrai/fontcompare](https://github.com/markrai/fontcompare) – an easy way to dynamically compare locally hosted fonts
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) – Node.js Simple WHIP Server library (based on the Janus WebRTC Server)
@@ -1335,7 +1334,6 @@
 - [iKarwan/YTKillerPlus](https://github.com/iKarwan/YTKillerPlus) – a whole new YouTube Experience
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [lensapp/lens](https://github.com/lensapp/lens) – Lens - The way the world runs Kubernetes
 - [martinknechtel/sungrow-tibber-home-assistant](https://github.com/martinknechtel/sungrow-tibber-home-assistant)
@@ -1386,6 +1384,7 @@
 - [elementor/elementor](https://github.com/elementor/elementor) – The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) – An Application dashboard and launcher
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) – mailcow: dockerized - 🐮 + 🐋 = 💕
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) – Open source alternative frontend for TikTok made using PHP
 - [pelican/panel](https://github.com/pelican/panel) – Free, open source game server management panel built on Laravel and Docker.
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) – Share files with your clients, from your own server. Free, open source (GPLv2), self-hosted — or use ProjectSend Cloud, the official hosted version run by the same team.
@@ -1976,6 +1975,7 @@
 - [joamag/boytacean](https://github.com/joamag/boytacean) – A GB emulator that is written in Rust 🦀!
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [jonaylor89/sherlock-rs](https://github.com/jonaylor89/sherlock-rs) – Hunt down social media accounts by username across social networks
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 - [justradical/jellyfin-rpc](https://github.com/justradical/jellyfin-rpc) – Displays the content you're currently watching on Discord!
 - [jwodder/demagnetize-rs](https://github.com/jwodder/demagnetize-rs) – Convert magnet links to .torrent files
 - [kade-robertson/uggo](https://github.com/kade-robertson/uggo) – TUI app to pull builds from u.gg
@@ -2171,7 +2171,6 @@
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
-- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
