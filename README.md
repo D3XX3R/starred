@@ -193,7 +193,6 @@
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) – Enjoy games with your friends as if you were on a LAN.
 - [stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) – A simple, very experimental TPM sniffer for LPC bus
 - [supersonic-xserver/xsonicland](https://github.com/supersonic-xserver/xsonicland) – xsonicland lets you build the latest restoration of the full xserver as xorg or xwayland
-- [univrsal/dvds3](https://github.com/univrsal/dvds3) – Will it hit the corner?
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) – Resizable BAR for (almost) any UEFI system
@@ -570,6 +569,7 @@
 - [EZ64cool/obs-hadowplay](https://github.com/EZ64cool/obs-hadowplay)
 - [ShiralynDev/SimrailRPCExtender](https://github.com/ShiralynDev/SimrailRPCExtender)
 - [derrod/obs-roi-ui](https://github.com/derrod/obs-roi-ui) – A plugin for encoding nerds.
+- [univrsal/dvds3](https://github.com/univrsal/dvds3) – Will it hit the corner?
 
 <div id="css"></div>
 
@@ -2461,7 +2461,7 @@
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) – 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [idaho/hassio-trash-card](https://github.com/idaho/hassio-trash-card) – TrashCard - indicates what type of trash will be picked up next based on your calendar entries 🗑️
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
-- [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – A performance tracker for Counter-Strike players.
+- [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – Your FACEIT stats, HLTV style.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
