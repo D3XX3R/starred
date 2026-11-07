@@ -555,6 +555,7 @@
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) – Noise suppression plugin based on Xiph's RNNoise
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+- [xPoiler/Reshade-Asynchronous-Reprojection](https://github.com/xPoiler/Reshade-Asynchronous-Reprojection) – This reshade addon enables asynchronous reprojection through reshade, leveraging motion vectors and depth buffers when available and estimating them when they aren't. this allows the camera to always move at the display's refresh rate, no matter the game's framerate 
 - [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) – Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime) – Open Source implementation of xgameruntime.dll. Designed for use in Wine with Xodus
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
@@ -722,6 +723,7 @@
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) – A broadcast, in a box. 
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) – A very small, very simple, yet very secure encryption tool.
+- [Javinator9889/acexy](https://github.com/Javinator9889/acexy) – Acexy (AceStream Proxy) is a proxy for multiplexing connections to the AceStream Engine
 - [Jguer/yay](https://github.com/Jguer/yay) – Yet another Yogurt - An AUR Helper written in Go
 - [Mawthuq-Software/Wireguard-Manager-and-API](https://github.com/Mawthuq-Software/Wireguard-Manager-and-API) – A Wireguard VPN Server Manager and API to add and remove clients
 - [RemakeCode/sentinel](https://github.com/RemakeCode/sentinel) – Sentinel  - An achievement watcher for Linux
@@ -1129,6 +1131,7 @@
 - [tubededentifrice/streamdeck-crypto](https://github.com/tubededentifrice/streamdeck-crypto) – StreamDeck plugin for cryptocurrencies
 - [unintended/download-organizer-chrome-extension](https://github.com/unintended/download-organizer-chrome-extension) – Chrome extesion that allows you to set custom download locations with a flexible regexp-based rules.
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [vercel/ncc](https://github.com/vercel/ncc) – Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [vercel/next.js](https://github.com/vercel/next.js) – The React Framework
 - [vercel/pkg](https://github.com/vercel/pkg) – Package your Node.js project into an executable
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) – Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -1735,6 +1738,7 @@
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) – Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) – Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [yani-/windows-nfs-manager](https://github.com/yani-/windows-nfs-manager) – A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.
+- [yattee/yattee-server](https://github.com/yattee/yattee-server) – A self-hosted API server powered by yt-dlp that manages data extraction from YouTube and other video sites
 - [ycharfi09/OptiClone](https://github.com/ycharfi09/OptiClone) – Clone any voice locally for free from 10s of speech using LuxTTS!
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) – A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
@@ -2012,6 +2016,7 @@
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) – Rust for Windows
 - [monroeclinton/mwm](https://github.com/monroeclinton/mwm) – My Window Manager
 - [moonrepo/moon](https://github.com/moonrepo/moon) – A build system and monorepo management tool for the web ecosystem, written in Rust.
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) – The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mu-arch/skyfolder](https://github.com/mu-arch/skyfolder) – 🪂 SkyFolder shares your folders on the network!
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) – IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
@@ -2052,6 +2057,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) – A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) –  Private front-end for Reddit 
+- [reindertpelsma/kayfabe](https://github.com/reindertpelsma/kayfabe) – The GPU your VM believes in. A stock NVIDIA driver runs against fabricated hardware; real compute is forwarded to a host GPU. Rust.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) – Visualize, query, and stream to train on multimodal robotics data.
 - [robotty/recent-messages2](https://github.com/robotty/recent-messages2) – Service to provide historical messages to Twitch chat clients
 - [robotty/twitch-irc-rs](https://github.com/robotty/twitch-irc-rs) – Twitch IRC library for the Rust programming language
@@ -2461,7 +2467,6 @@
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) – 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [idaho/hassio-trash-card](https://github.com/idaho/hassio-trash-card) – TrashCard - indicates what type of trash will be picked up next based on your calendar entries 🗑️
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
-- [iffypixy/faceitperf](https://github.com/iffypixy/faceitperf) – Your FACEIT stats, HLTV style.
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
@@ -2502,7 +2507,6 @@
 - [mmvanheusden/SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) – Downgrade Steam games to older versions with ease using DepotDownloader
 - [mohyware/packet-meter](https://github.com/mohyware/packet-meter) – Cross-platform network traffic monitoring system that can be self-hosted easily.
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) – 💬 Chat with anyone on any website.
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) – The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [mozzius/graysky](https://github.com/mozzius/graysky) – a bluesky client for ios and android
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) – The repo for https://stream.new
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) – Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2551,6 +2555,7 @@
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr)
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) – Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [saalikmubeen/talkhouse](https://github.com/saalikmubeen/talkhouse) – WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
+- [sansblues/faceitperf](https://github.com/sansblues/faceitperf) – An app that shows any FACEIT player's stats the way HLTV does
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
 - [sharknoon/wero-tracker](https://github.com/sharknoon/wero-tracker) – A simple dashboard that shows the adoption of the payment provider Wero by individual banks and online shops
