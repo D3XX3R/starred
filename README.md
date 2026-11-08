@@ -638,6 +638,7 @@
 - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) – The cutest instant messenger in the [matrix]
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) – Private, cross-platform package tracking app
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) – ⚗️  a privacy centric matrix client 
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) – An open-source cross-platform Lemmy & PieFed client for iOS and Android
@@ -817,7 +818,6 @@
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) – wanderer is a self-hosted trail database. Save your adventures!
 - [openziti/zrok](https://github.com/openziti/zrok) – Secure internet sharing made simple.
 - [ozencb/couchtube](https://github.com/ozencb/couchtube) – 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit JSON-based playlists to make CouchTube your own!
 - [passteque/gluetun](https://github.com/passteque/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -1093,7 +1093,6 @@
 - [lovell/sharp](https://github.com/lovell/sharp) – High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) – 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) – Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app 
-- [marioparaschiv/nitro-sniper](https://github.com/marioparaschiv/nitro-sniper) – 🔫 Lightweight, fast Discord Nitro, giveaway, and invite sniper.
 - [markrai/fontcompare](https://github.com/markrai/fontcompare) – an easy way to dynamically compare locally hosted fonts
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) – Node.js Simple WHIP Server library (based on the Janus WebRTC Server)
 - [memory-stack/Memory-Stack](https://github.com/memory-stack/Memory-Stack) – 📜 Memory stack is a developer oriented journaling social platform. 
