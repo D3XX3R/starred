@@ -385,7 +385,6 @@
 - [Dingo-Shenanigans/ReSkate](https://github.com/Dingo-Shenanigans/ReSkate)
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) – DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [DwayneM20/Steam-Log-Collector](https://github.com/DwayneM20/Steam-Log-Collector) – Cross-platform desktop application for collecting and managing log files from Steam games. Provides both a command-line interface (CLI) and a graphical user interface (GUI) to help users locate, view, and organize game log files for troubleshooting purposes.
-- [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [FalconOscuro/Helldivers-Voice-Stratagem](https://github.com/FalconOscuro/Helldivers-Voice-Stratagem)
 - [FashionFreedom/Seamly2D](https://github.com/FashionFreedom/Seamly2D) – Open source patternmaking software to democratize fashion.
@@ -397,7 +396,6 @@
 - [KDE/spectacle](https://github.com/KDE/spectacle) – Screenshot capture utility
 - [Korthos-Software/low_latency_layer](https://github.com/Korthos-Software/low_latency_layer) – Vulkan layer for hardware agnostic input latency reduction
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) – PlayStation 5 translation layer for Windows, Linux and macOS
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) – Library for reducing tail latency in RAM reads
 - [Leystryku/Nikyuria](https://github.com/Leystryku/Nikyuria) – Last cheat I made, used to work for most source games ( including CSGO )
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) – The Librum client application
@@ -461,6 +459,7 @@
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) – Tool for automatic PS5 executables porting to Linux and Windows
 - [ccoors/Valeronoi](https://github.com/ccoors/Valeronoi) – A WiFi mapping companion app for Valetudo
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) – Media Player Classic
+- [cravvnn/deadlock-dolly](https://github.com/cravvnn/deadlock-dolly) – A camera-path editor for local Deadlock replays. Capture the free camera, shape a shot and play it back with animated framing and camera variables.
 - [creewick/MontereyRainmeter](https://github.com/creewick/MontereyRainmeter) – MacOS style widget pack for Windows
 - [davidedmundson/kiot](https://github.com/davidedmundson/kiot) – Linux (KDE?) integration for Home Assistant via MQTT
 - [dekomote/vermouth](https://github.com/dekomote/vermouth) – A native C++/Qt Linux launcher for Windows, Steam, GOG and retro games. 2.3 MB installed. Zero bloat. KDE-first.
@@ -1603,7 +1602,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) – Deezer source separation library including pretrained models.
 - [dfrnoch/discord-sniper](https://github.com/dfrnoch/discord-sniper) – 🔰 Discord Nitro & Giveaway sniper! Made with Python
 - [diegovelilla/reddit-nemesis](https://github.com/diegovelilla/reddit-nemesis) – Reddit-Nemesis is a Reddit bot that disagrees to any post, sparking debate and keeping conversations lively.
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) – SponsorBlock client for all YouTube TV clients.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) – SponsorBlock client for all YouTube for TV clients.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) – Blender addons to make the bridge between Blender and geographic data
 - [dp247/StreamsToM3U8](https://github.com/dp247/StreamsToM3U8) – Converts live streams into an M3U8 file and basic EPG. Easily forked and setup for anyone to use!
 - [dr87/Vonovox](https://github.com/dr87/Vonovox) – Realtime AI Voice Converter for NVIDIA GPUs
@@ -1719,6 +1718,7 @@
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Multi-purpose Discord bot — RSS/Reddit/Bluesky feeds with CV2 embeds, interactive world map with 3D globe, iCal calendar sync, moderation logging, feedback system, and web admin dashboard.
 - [sparklost/endcord](https://github.com/sparklost/endcord) – The most feature rich Discord TUI client.
 - [sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-](https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-) – Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser.
+- [starman-tech/mousepods](https://github.com/starman-tech/mousepods) – Your AirPods are a mouse: AirPods 3 head tracking on Linux, and the first public documentation of Apple RemoteHID (HID over AACP)
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
@@ -1808,6 +1808,7 @@
 - [Dreaming-Codes/discord-source](https://github.com/Dreaming-Codes/discord-source) – Buy discord source to stream discord webcams and streams to obs now!
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) – Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
+- [Emiliopg91/RogPerfTuner](https://github.com/Emiliopg91/RogPerfTuner)
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) – A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – A tasteful, lean, fast & safe pure Rust implementation of Git
@@ -1824,6 +1825,7 @@
 - [KMJ-007/lazygh](https://github.com/KMJ-007/lazygh) – A Terminal User Interface (TUI) application for managing multiple GitHub accounts easily
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) – A modern mod manager for Thunderstore
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A decentralised discussion platform for communities.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) – A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Majora320/steamid-ng](https://github.com/Majora320/steamid-ng) – An easy-to-use steamid type with functions to parse and render steam2 and steam3 IDs.
@@ -1990,7 +1992,7 @@
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) – An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
-- [lemonxah/zestbay](https://github.com/lemonxah/zestbay) – A PipeWire patchbay for Linux that visualizes your audio graph, hosts LV2 effects plugins inline, and auto-connects ports with persistent routing rules.
+- [lemonxah/zestbay](https://github.com/lemonxah/zestbay) – A PipeWire patchbay for Linux that visualizes your audio graph, hosts LV2, VST2, VST3, and CLAP effects plugins inline, and auto-connects ports with persistent routing rules.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
 - [linebender/druid](https://github.com/linebender/druid) – A data-first Rust-native UI design toolkit. 
@@ -2169,6 +2171,7 @@
 - [FFmpeg/FFV1](https://github.com/FFmpeg/FFV1) – The FFV1 lossless video codec specification.
 - [FlyinPancake/1password-flatpak-browser-integration](https://github.com/FlyinPancake/1password-flatpak-browser-integration) – 1password flatpak browser integration
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) – WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) – Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube and other services freely. 
 - [JakubSzark/wardogs-elytra-proton-fix](https://github.com/JakubSzark/wardogs-elytra-proton-fix) – A fix regarding elytra and proton for wardogs playtest
@@ -2467,7 +2470,7 @@
 - [idaho/hassio-trash-card](https://github.com/idaho/hassio-trash-card) – TrashCard - indicates what type of trash will be picked up next based on your calendar entries 🗑️
 - [ido-pluto/my-folder-online](https://github.com/ido-pluto/my-folder-online) – WebApp to share files peer-to-peer
 - [immich-app/immich](https://github.com/immich-app/immich) – High performance self-hosted photo and video management solution.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) – Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation for multiple commercial products.
 - [iongion/container-desktop](https://github.com/iongion/container-desktop) – Podman desktop companion
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) – Checks which public gateways are online or not
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) – Collection of publicly available IPTV channels from all over the world
