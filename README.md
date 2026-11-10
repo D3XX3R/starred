@@ -1173,6 +1173,7 @@
 
 - [Avanatiker/WorldTools](https://github.com/Avanatiker/WorldTools) – A powerful Minecraft Mod that captures high-detail snapshots of server worlds locally.
 - [Chrisbattarbee/librepods](https://github.com/Chrisbattarbee/librepods) – AirPods liberated from Apple's ecosystem.
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) – DroidDeck brings the SteamOS experience to Android
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) – Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) – Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -1577,6 +1578,7 @@
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
+- [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) – Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [bumble-tech/private-detector](https://github.com/bumble-tech/private-detector) – Bumble's Private Detector - a pretrained model for detecting lewd images
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) – 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
@@ -2101,7 +2103,7 @@
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [storytold/craft-launcher](https://github.com/storytold/craft-launcher) – The Craft App Launcher
-- [storytold/photocraft](https://github.com/storytold/photocraft) – PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) – PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) – A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [t348575/twitch-points-miner](https://github.com/t348575/twitch-points-miner) – A lightweight twitch points miner
@@ -2179,12 +2181,12 @@
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) – Matrix client / Element Web/Desktop fork
+- [Scrut1ny/AutoVirt](https://github.com/Scrut1ny/AutoVirt) – Automated Linux virtualization scripts
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) – Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) – My homeassistant addons
 - [alexheretic/aurto](https://github.com/alexheretic/aurto) – Arch Linux AUR tool for managing an auto-updating local 'aurto' package repository
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
-- [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) – A shell script that automatically installs and setups Spicetify for you
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
