@@ -399,7 +399,6 @@
 - [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) – Library for reducing tail latency in RAM reads
 - [Leystryku/Nikyuria](https://github.com/Leystryku/Nikyuria) – Last cheat I made, used to work for most source games ( including CSGO )
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) – The Librum client application
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) – Self-hosted game stream host for Moonlight.
 - [Lovrom8/RSMods](https://github.com/Lovrom8/RSMods)
 - [M0n7y5/pipeasio](https://github.com/M0n7y5/pipeasio) – ASIO to Pipewire. Better solution for low latency audio inside Wine. Works with SteamRT.
 - [MajorPainTheCactus/AutoHDR-ReShade](https://github.com/MajorPainTheCactus/AutoHDR-ReShade) – AutoHDR addon and effect for ReShade
@@ -426,6 +425,7 @@
 - [SteamAutoCracks/Steam-API-Check-Bypass](https://github.com/SteamAutoCracks/Steam-API-Check-Bypass) – Steam API Check Bypass
 - [SteamClientHomebrew/Installer](https://github.com/SteamClientHomebrew/Installer) – A simple standalone program which automates the installation, removal and maintenance of Millennium. 
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) – An open-source framework for Steam Client themes and plugins
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) – Self-hosted game stream host for Moonlight.
 - [TCNOco/TcNo-WSA-SimpleSideload](https://github.com/TCNOco/TcNo-WSA-SimpleSideload) – Open .apk files with one-click on Windows 11
 - [TheNewJavaman/unreal-vr](https://github.com/TheNewJavaman/unreal-vr) – Adds virtual reality support to flatscreen Unreal Engine games
 - [TheRealMJP/DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer) – A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
@@ -447,7 +447,6 @@
 - [acidicoala/SmokeAPI](https://github.com/acidicoala/SmokeAPI) – Legit DLC Unlocker for Steamworks
 - [adepierre/ficsit-companion](https://github.com/adepierre/ficsit-companion) – Node-based production planner for the game Satisfactory
 - [alexkay/spek](https://github.com/alexkay/spek) – Acoustic spectrum analyser
-- [aloneguid/bt](https://github.com/aloneguid/bt) – Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration. Made with love and care, not AI and tracking.
 - [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) – Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
 - [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) – par2cmdline × ParPar: speed focused par2cmdline fork
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1063,7 +1062,6 @@
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) – Self host your media and share with unique links
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-home-and-magic/sessionless](https://github.com/freyja-home-and-magic/sessionless) – A repo for the sessionless protocol
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth proxies you already have, and runs next to Bermuda or ESPresense. Try it in your browser: padspan.traks.ca/demo
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1624,6 +1622,7 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth proxies you already have, and runs next to Bermuda or ESPresense. Try it in your browser: padspan.traks.ca/demo
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
@@ -2400,7 +2399,7 @@
 - [aeharding/voyager](https://github.com/aeharding/voyager) – Voyager — a beautiful app for Lemmy and Piefed
 - [afkcodes/audio_x](https://github.com/afkcodes/audio_x) – A lightweight, zero-dependency audio player (8kb gzip) for web applications. Supports MP3, AAC, MP4, and HLS formats with features like a built-in equalizer, queue management, React integration, and TypeScript compatibility.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) – 🦀 Tauri + shadcn/ui desktop app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
 - [ajnart/homarr](https://github.com/ajnart/homarr) – Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) – Companion application for your Counter-Strike demos.
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) – "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
