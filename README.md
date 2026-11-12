@@ -553,7 +553,7 @@
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) – Noise suppression plugin based on Xiph's RNNoise
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-- [xPoiler/Reshade-Asynchronous-Reprojection](https://github.com/xPoiler/Reshade-Asynchronous-Reprojection) – This reshade addon enables asynchronous reprojection through reshade, leveraging motion vectors and depth buffers when available and estimating them when they aren't. this allows the camera to always move at the display's refresh rate, no matter the game's framerate 
+- [xPoiler/Reshade-Asynchronous-Reprojection](https://github.com/xPoiler/Reshade-Asynchronous-Reprojection) – This reshade addon enables asynchronous reprojection through reshade, leveraging motion vectors, hud layers and depth buffers when available and estimating them when they aren't. It allows the camera to always move at the display's refresh rate, no matter the game's framerate 
 - [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) – Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime) – Open Source implementation of xgameruntime.dll. Designed for use in Wine with Xodus
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
@@ -1062,6 +1062,7 @@
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) – Self host your media and share with unique links
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-home-and-magic/sessionless](https://github.com/freyja-home-and-magic/sessionless) – A repo for the sessionless protocol
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth proxies you already have, and runs next to Bermuda or ESPresense. Try it in your browser: padspan.traks.ca/demo
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1622,7 +1623,6 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth proxies you already have, and runs next to Bermuda or ESPresense. Try it in your browser: padspan.traks.ca/demo
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
