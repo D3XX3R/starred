@@ -1624,7 +1624,7 @@
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
-- [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, music videos and post videos.
+- [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, albums, playlists, music videos, and uploaded videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) – The authentication glue you need.
 - [gonzaroman/superinstall](https://github.com/gonzaroman/superinstall) – A modern, lightweight universal GUI installer for Linux. Effortlessly install .deb, AppImage, Flatpak, and Snap packages with a sleek PySide6 interface.
@@ -2165,7 +2165,7 @@
 
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) – Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) – Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. Since 2018.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) – 💚🇺🇸🗽Secure browser infrastructure for regulated enterprises, AI and agentic microtasks
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) – Archlinux Kernel based on different schedulers and some other performance improvements.
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [Deadboy666/h3adcr-b](https://github.com/Deadboy666/h3adcr-b) – the headcrab approaches..
