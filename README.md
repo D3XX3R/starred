@@ -500,6 +500,7 @@
 - [limo-app/limo](https://github.com/limo-app/limo) – A simple Qt based mod manager
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) – Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [m4dEngi/RemotePlayWhatever](https://github.com/m4dEngi/RemotePlayWhatever) – Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.
+- [maj113/MaiCord](https://github.com/maj113/MaiCord) – Lightweight native Discord client for Windows and Linux. C++23 with Direct3D 11 and OpenGL ES, no Electron, ~6.3 MB. Voice with E2EE, plugins and themes.
 - [marco-calautti/DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) – Delta Patcher is a GUI software that is able to create and apply xdelta patches.
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) – Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) – Cyberpunk 2077 tweaks, hacks and scripting framework
@@ -527,6 +528,7 @@
 - [opentrack/opentrack](https://github.com/opentrack/opentrack) – Head tracking software for MS Windows, Linux, and Apple OSX
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) – OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [ossrs/srs](https://github.com/ossrs/srs) – SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
+- [ouwou/acheron](https://github.com/ouwou/acheron) –  An alternative Discord client with voice support made with C++ and Qt 6 Widgets
 - [phandasm/waveform](https://github.com/phandasm/waveform) – Audio spectral analysis plugin for OBS
 - [praydog/UEVR](https://github.com/praydog/UEVR) – Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [qTox/qTox](https://github.com/qTox/qTox) – qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
@@ -1872,6 +1874,7 @@
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) – NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.
 - [UMCEKO/hush](https://github.com/UMCEKO/hush) – HUSH — pure-Rust NVIDIA Maxine denoiser virtual microphone for Linux (PipeWire)
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) – 3D City Builder without a grid
+- [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein) – Tiny, Performant & 100% Native client for Discord made in Rust
 - [Void-Compute/AMD-Ghost-Enviroment](https://github.com/Void-Compute/AMD-Ghost-Enviroment) – Advanced interoperability middleware for GPGPU acceleration. Facilitates cross vendor hardware abstraction and API translation for parallel computing frameworks. Engineered for research into heterogeneous compute environments and backend agnostic workload execution.
 - [Wervice/zentrox](https://github.com/Wervice/zentrox) – A powerful (home) server admininistration tool written in Rust
 - [Wuild/pttkey](https://github.com/Wuild/pttkey) – pttkey is a lightweight Push‑To‑Talk helper for PipeWire. It listens to a chosen keyboard or mouse button via evdev and mutes/unmutes the default mic (or sets volume levels) while the key is held. Optional on/off sounds use system audio.
