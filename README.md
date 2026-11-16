@@ -1866,6 +1866,7 @@
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) – Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [Steel-Foundation/SteelMC](https://github.com/Steel-Foundation/SteelMC) – A Minecraft server in Rust focused on a strong foundation and performance
 - [StractOrg/stract](https://github.com/StractOrg/stract) – web search done right
+- [SyscallBrain/virsh-tui](https://github.com/SyscallBrain/virsh-tui) – Keyboard-driven terminal UI for libvirt/virsh, with vim keys and live graphs
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) – Most feature-complete Linux GUI power management solution.
 - [TheCactusVert/mpv-sponsorblock](https://github.com/TheCactusVert/mpv-sponsorblock) – MPV plugin that allow you to skip sponsors while watching YouTube videos
 - [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare) – Simple, self-hostable filesharing application with builtin end-to-end encryption
@@ -1996,7 +1997,7 @@
 - [kunkka19xx/look](https://github.com/kunkka19xx/look) – An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳
 - [lalitshankarch/xuniq](https://github.com/lalitshankarch/xuniq) – xuniq is a blazing-fast utility to remove duplicate lines from input
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
-- [lemonxah/zestbay](https://github.com/lemonxah/zestbay) – A PipeWire patchbay for Linux that visualizes your audio graph, hosts LV2, VST2, VST3, and CLAP effects plugins inline, and auto-connects ports with persistent routing rules.
+- [lemonxah/zestbay](https://github.com/lemonxah/zestbay) – A PipeWire patchbay for Linux that visualizes your audio graph, hosts LV2, VST2, VST3, LADSPA, and CLAP effects plugins inline, and auto-connects ports with persistent routing rules.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) – Private front-end for Reddit
 - [linebender/druid](https://github.com/linebender/druid) – A data-first Rust-native UI design toolkit. 
@@ -2415,7 +2416,7 @@
 - [aurickk/SilentDelete-Vencord](https://github.com/aurickk/SilentDelete-Vencord) – Vencord plugin that deletes messages while bypassing Vencord's message logger.
 - [aurickk/SilentEdit-Vencord](https://github.com/aurickk/SilentEdit-Vencord) – Vencord plugin that edit messages without showing the edit tag and bypasses Vencord's message logger.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.
-- [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A decentralized Reddit alternative.
+- [bitsocialnet/seedit](https://github.com/bitsocialnet/seedit) – A decentralized Reddit alternative
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
