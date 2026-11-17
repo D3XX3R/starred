@@ -513,7 +513,7 @@
 - [mikeoliphant/neural-amp-modeler-lv2](https://github.com/mikeoliphant/neural-amp-modeler-lv2) – Neural Amp Modeler LV2 plugin
 - [misyltoad/dxup](https://github.com/misyltoad/dxup) – A d3d9 and d3d10 to d3d11 translation layer.
 - [mod-audio/mod-desktop](https://github.com/mod-audio/mod-desktop) – MOD Audio for the desktop
-- [momo5502/sogen](https://github.com/momo5502/sogen) – 🪅 Windows & Linux userspace emulator 
+- [momo5502/sogen](https://github.com/momo5502/sogen) – 🪅 Userspace emulator for Windows, Linux & macOS
 - [monero-project/monero](https://github.com/monero-project/monero) – Monero: the secure, private, untraceable cryptocurrency
 - [mongoose-os-apps/shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit) – Apple HomeKit firmware for Shelly's
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) – GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -814,7 +814,7 @@
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
-- [netdata/netdata](https://github.com/netdata/netdata) – The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) – Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 800+ integrations
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -986,7 +986,6 @@
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) – The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) – Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [BeepIsla/CSGO-Overwatch-Bot](https://github.com/BeepIsla/CSGO-Overwatch-Bot) – Automatically solve CSGO Overwatch cases
-- [BeepIsla/csgo-nametag-tool](https://github.com/BeepIsla/csgo-nametag-tool) – Bypass client side restrictions for name tags
 - [BeepIsla/valve-region-selector](https://github.com/BeepIsla/valve-region-selector) – Select which region you connect to in various Valve games
 - [BeltaKoda/StarMeld](https://github.com/BeltaKoda/StarMeld) – Cross-platform Star Citizen localization merge tool — combine category-specific language packs into a single global.ini
 - [ChocoMeow/Vocard-Dashboard](https://github.com/ChocoMeow/Vocard-Dashboard) – Vocard Dashboard is a web-based user interface that allows users to control the Vocard music bot directly from their browser. With this dashboard, you can easily manage music playback, create playlists, and interact with the bot in a user-friendly way.
@@ -1077,7 +1076,7 @@
 - [instafluff/ComfyJS](https://github.com/instafluff/ComfyJS) – Comfiest Twitch Chat Library for JavaScript | NodeJS + Browser Support
 - [ioj4/shelter-plugins](https://github.com/ioj4/shelter-plugins) – My plugins for uwu/shelter
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) – Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
-- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) – An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) – [ BEWARE: NO MAINTAINER ] An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
 - [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) – Power Delete Suite for Reddit
 - [jianyu-li/yet-another-media-player](https://github.com/jianyu-li/yet-another-media-player) – YAMP is a Home Assistant media card for controlling multiple entities with highly customizable actions and ui elements
 - [joelacus/RedditEnhancer](https://github.com/joelacus/RedditEnhancer) – A browser extension to tweak the user interface on Reddit
@@ -2309,6 +2308,7 @@
 - [ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift) – Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data through large dumps, an API or web interface.
 - [ArthurHeitmann/photon-reddit](https://github.com/ArthurHeitmann/photon-reddit) – Photon Reddit is a clean and modern reddit desktop client, with some cool features.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
+- [BeepIsla/csgo-nametag-tool](https://github.com/BeepIsla/csgo-nametag-tool) – Bypass client side restrictions for name tags
 - [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) – BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
 - [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) – An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [BlythT/Gratitude-Millennium-Plugin](https://github.com/BlythT/Gratitude-Millennium-Plugin) – A Millennium plugin for your Steam Library that adds a helpful indicator to games you have been gifted.
