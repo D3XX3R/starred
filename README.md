@@ -305,6 +305,7 @@
 - [dexyfex/CodeWalker](https://github.com/dexyfex/CodeWalker)
 - [dichternebel/voice-channel-grabber](https://github.com/dichternebel/voice-channel-grabber) – Sync your StreamKit Browser Source in OBS with your current voice channel from your Discord client.
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) – Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+- [drakmor/fetchpkg-gui](https://github.com/drakmor/fetchpkg-gui)
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) – Store securely encrypted backups in the cloud!
 - [dynamiquel/NVIDIA-Ansel-AI-Enhancer](https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer) – NVIDIA Ansel AI Enhancer is an app I quickly made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to upscale any image to 8K whiles adding further quality.
 - [emoose/DLSSTweaks](https://github.com/emoose/DLSSTweaks) – Tweak DLL for NVIDIA DLSS, force DLAA on DLSS-supported titles, tweak scaling ratios & DLSS 3.1 presets, override DLSS versions without overwriting game files.
@@ -555,7 +556,7 @@
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) – Noise suppression plugin based on Xiph's RNNoise
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) – Frame profiler
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) – An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-- [xPoiler/Reshade-Asynchronous-Reprojection](https://github.com/xPoiler/Reshade-Asynchronous-Reprojection) – This reshade addon enables asynchronous reprojection through reshade, leveraging motion vectors, hud layers and depth buffers when available and estimating them when they aren't. It allows the camera to always move at the display's refresh rate, no matter the game's framerate 
+- [xPoiler/Reshade-Asynchronous-Reprojection](https://github.com/xPoiler/Reshade-Asynchronous-Reprojection) – This reshade addon enables asynchronous reprojection + frame generation through reshade, leveraging motion vectors, hud layers and depth buffers when available and estimating them when they aren't. It allows the camera to always move at the display's refresh rate, no matter the game's framerate 
 - [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) – Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [xodus-gaming/xgameruntime](https://github.com/xodus-gaming/xgameruntime) – Open Source implementation of xgameruntime.dll. Designed for use in Wine with Xodus
 - [xoxfaby/obs-StreamFX](https://github.com/xoxfaby/obs-StreamFX) – StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
@@ -719,7 +720,6 @@
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [DevHatRo/zero-trust-proxy](https://github.com/DevHatRo/zero-trust-proxy) – Zero Trust Reverse proxy over mTLS
-- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – Transparent chat overlay for streamers. Twitch, YouTube, and Kick in one window.
 - [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) – A broadcast, in a box. 
@@ -815,7 +815,7 @@
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) – LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
-- [netdata/netdata](https://github.com/netdata/netdata) – Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 800+ integrations
+- [netdata/netdata](https://github.com/netdata/netdata) – Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 2000+ integrations
 - [nixys/nxs-data-anonymizer](https://github.com/nixys/nxs-data-anonymizer) – A tool for anonymizing PostgreSQL and MySQL databases' dump
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) – Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -1895,6 +1895,7 @@
 - [ash-rs/ash](https://github.com/ash-rs/ash) – Vulkan bindings for Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [avhz/RustQuant](https://github.com/avhz/RustQuant) – Rust library for quantitative finance.
+- [awake-devel/pkg-to-anyps5](https://github.com/awake-devel/pkg-to-anyps5) – Extract PS5 debug packages (FIH/PFS/NAPS/Kraken) into the layout the AnyPS5 relinker expects
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) – 📦 shippable application packaging
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) – 🤖 The Modern Port Scanner 🤖
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -2325,10 +2326,11 @@
 - [DubbieHQ/dubbie](https://github.com/DubbieHQ/dubbie) – Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify)
 - [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK)
 - [Enovale/cinny-electron](https://github.com/Enovale/cinny-electron)
+- [Enubia/ghost-chat](https://github.com/Enubia/ghost-chat) – Transparent chat overlay for streamers. Twitch, YouTube, and Kick in one window.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [EvenAR/node-simconnect](https://github.com/EvenAR/node-simconnect) – Cross-platform SimConnect library for Node.js. No native C++ libraries required.
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) – Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just became the new limit.
-- [Fluid-CAD/FluidCAD](https://github.com/Fluid-CAD/FluidCAD) – Parametric cad modeling with Javascript
+- [Fluid-CAD/FluidCAD](https://github.com/Fluid-CAD/FluidCAD) – FluidCAD is a parametric CAD modeling app that combines both mouse-driven and code driven approaches. Every sketch, extrude and fillet you make with the mouse is written as a line of JavaScript. Change the code and the part rebuilds; change the part and the code follows.
 - [Fredolx/gpu-faker](https://github.com/Fredolx/gpu-faker) – Fake your GPU to access GPU-locked apps and games!
 - [FreeterApp/Freeter](https://github.com/FreeterApp/Freeter) – Freeter – a smarter way to work on your computer
 - [GeoSpoof/geospoof](https://github.com/GeoSpoof/geospoof) – Browser extension and iOS app that spoofs your gps, geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.
