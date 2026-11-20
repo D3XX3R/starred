@@ -831,6 +831,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) – Fast passive subdomain enumeration tool.
 - [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 - [rule110-io/surge](https://github.com/rule110-io/surge) – Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) – a drop-in replacement for Nmap powered by shodan.io
 - [safing/portmaster](https://github.com/safing/portmaster) – 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -984,6 +985,7 @@
 - [0x41c/invisible-chat](https://github.com/0x41c/invisible-chat) – A cool Powercord plugin
 - [Alex313031/apple-music-desktop](https://github.com/Alex313031/apple-music-desktop) – An Electron app that provides a native Apple Music experience for Linux & Windows.
 - [Alex313031/quark-player](https://github.com/Alex313031/quark-player) – An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
+- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) – The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) – Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [BeepIsla/CSGO-Overwatch-Bot](https://github.com/BeepIsla/CSGO-Overwatch-Bot) – Automatically solve CSGO Overwatch cases
@@ -1064,7 +1066,6 @@
 - [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare) – Self host your media and share with unique links
 - [forscht/ddrive](https://github.com/forscht/ddrive) – Discord as a filesystem.
 - [freyja-home-and-magic/sessionless](https://github.com/freyja-home-and-magic/sessionless) – A repo for the sessionless protocol
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth proxies you already have, and runs next to Bermuda or ESPresense. Try it in your browser: padspan.traks.ca/demo
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) – Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) – A chrome extension for suspending all tabs to free up memory
 - [hackademix/noscript](https://github.com/hackademix/noscript) – The popular NoScript Security Suite browser extension.
@@ -1446,7 +1447,6 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS) – This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 - [Akulatraxas/ha-modbusproxy](https://github.com/Akulatraxas/ha-modbusproxy) – Hassio Addon packaging modus-proxy
-- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Alwinator/aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) – An Activity Watch watcher which monitors whether you have set your height-adjustable table to sitting or standing.
 - [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) – An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
@@ -1625,6 +1625,7 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth proxies you already have, and runs next to Bermuda or ESPresense. Try it in your browser: padspan.traks.ca/demo
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, albums, playlists, music videos, and uploaded videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
@@ -2194,7 +2195,7 @@
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) – Proxmox VE Helper-Scripts (Community Edition) 
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) – ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) – Production-ready fullstack but simple mail server running inside a container.
 - [dockur/macos](https://github.com/dockur/macos) – macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) – Windows inside a Docker container.
 - [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker) – Factorio headless server in a Docker container
@@ -2304,7 +2305,6 @@
 - [ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web) – Browser watcher for ActivityWatch
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) – Free Windows, Mac and Linux cleaner, scanner, and more.
-- [Aetherall/tobiifree](https://github.com/Aetherall/tobiifree) – Tobii Eye Tracker 5 For Linux and Web
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) – A Wake on Lan plugin for Homebridge
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) – Fast and elegant file hosting service.
 - [ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift) – Making Reddit data accessible to researchers, moderators and everyone else.  Interact with the data through large dumps, an API or web interface.
@@ -2356,7 +2356,7 @@
 - [Mastershort/neonplan3d](https://github.com/Mastershort/neonplan3d) – The original 3D floor plan for Home Assistant: draw your home in the built-in editor and see and control lights, covers, climate, media, sensors and cameras live in neon 3D – panel and dashboard card, runs on old wall tablets too.
 - [MathMan05/Fermi](https://github.com/MathMan05/Fermi) – Mirror of https://codeberg.org/MelodyChat/Fermi
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) – A simple, modern server dashboard, primarily used by smaller private servers
-- [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab
+- [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) – Download Guitar Pro & MIDI of any Songsterr tab, now with RSE sounds!
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) – :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) – An automatic livestream recorder
 - [MrTopQ/customStream-Vencord](https://github.com/MrTopQ/customStream-Vencord) – Vencord plugin that replaces stream preview
@@ -2561,7 +2561,6 @@
 - [remvze/pswd](https://github.com/remvze/pswd) – Simple secure password generator.
 - [replugged-org/replugged](https://github.com/replugged-org/replugged) – A lightweight Discord client mod focused on simplicity and performance.
 - [ropali/dockyard](https://github.com/ropali/dockyard) – A fast & beautiful Docker GUI client
-- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr)
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) – Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [saalikmubeen/talkhouse](https://github.com/saalikmubeen/talkhouse) – WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
@@ -2579,7 +2578,7 @@
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) – A modern Jellyfin client built with Expo
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) – Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [supabase/supabase](https://github.com/supabase/supabase) – The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) – Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) – A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) – An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [supreme-gg-gg/instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) – Instagram's CLI and TUI client -- The ultimate weapon against brainrot
 - [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) – Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser
@@ -2672,6 +2671,7 @@
 
 ## Zig
 
+- [Aetherall/tobiifree](https://github.com/Aetherall/tobiifree) – Tobii Eye Tracker 5 For Linux and Web
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) – container image to single executable compiler
 
 
