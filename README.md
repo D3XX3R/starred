@@ -830,6 +830,7 @@
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) – A next-generation crawling and spidering framework.
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) – Fast passive subdomain enumeration tool.
+- [rclone/rclone-ui](https://github.com/rclone/rclone-ui) – The cross-platform GUI for rclone & S3.
 - [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) – Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) – A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 - [rule110-io/surge](https://github.com/rule110-io/surge) – Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
@@ -2151,7 +2152,7 @@
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) – The great gaming migration to Linux and macOS
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
-- [yapfast/yapfast](https://github.com/yapfast/yapfast) – A Discord client without the web browser. Native, written in Rust, about 30 MB of RAM idle.
+- [yapfast/yapfast](https://github.com/yapfast/yapfast) – A lightweight Discord client without the web browser. Native, written in Rust, about 30 MB of RAM idle.
 - [yewstack/yew](https://github.com/yewstack/yew) – Rust / Wasm framework for creating reliable and efficient web applications
 - [yomorun/yomo](https://github.com/yomorun/yomo) – 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
@@ -2423,7 +2424,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) – An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) – A Discord mobile app client modification.
-- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) – The modern, local-first platform for professional video surveillance.
+- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) – Local-first camera and NVR platform. Every camera you own. One app.
 - [camila314/vencord-KeywordNotify](https://github.com/camila314/vencord-KeywordNotify) – Vencord third-party plugin to "ping" the user if a message matches custom regular expressions
 - [captableinc/captable](https://github.com/captableinc/captable) – #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) – 😸 Soothing pastel theme for the high-spirited!
@@ -2554,7 +2555,6 @@
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) – Weather condition card (Lovelace) for Home Assistant.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) – Stunning status pages, batteries included!
 - [rbrahul/deno_cron](https://github.com/rbrahul/deno_cron) – A cron Job scheduler for Deno that allows you to write human readable cron syntax with tons of flexibility
-- [rclone/rclone-ui](https://github.com/rclone/rclone-ui) – The cross-platform GUI for rclone & S3.
 - [readest/readest](https://github.com/readest/readest) – Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [relagit/relagit](https://github.com/relagit/relagit) – The elegant solution to graphical version control.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) – 🎥      Make videos programmatically with React
