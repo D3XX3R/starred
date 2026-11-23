@@ -1517,7 +1517,6 @@
 - [Off-World-Live/obs-spout2-plugin](https://github.com/Off-World-Live/obs-spout2-plugin) – A Plugin for OBS Studio to enable Spout2 (https://github.com/leadedge/Spout2) input / output
 - [OscarTienda/SunSync](https://github.com/OscarTienda/SunSync) – Add your Lutris, Steam, Heroic and other launcher games to Sunshine, with a KDE GUI and a virtual display that matches your Moonlight client's resolution.
 - [P-Adamiec/Free-Games-Claimer-Remaster](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) – A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) – Easily train a good VC model with voice data <= 10 mins!
 - [RaccoonTamer/Reddit-Crawler](https://github.com/RaccoonTamer/Reddit-Crawler) – Reddit Media Downloader is a Python application designed to simplify the process of downloading images and GIFs from Reddit. It allows users to specify a subreddit and number of posts to fetch, then automatically retrieves and downloads all available media files.  The app features built-in cache logic, which remembers previously downloaded posts to
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) – Rare is an open source alternative for Epic Games Launcher, using Legendary.
@@ -1577,6 +1576,7 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) – A self-hosted, ad-free, privacy-respecting metasearch engine
 - [berarma/oversteer](https://github.com/berarma/oversteer) – Steering Wheel Manager for GNU/Linux
 - [berezhinskiy/ecoflow_exporter](https://github.com/berezhinskiy/ecoflow_exporter) – Prometheus exporter for EcoFlow portable power stations
+- [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) – 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [bitcart/bitcart](https://github.com/bitcart/bitcart) – Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) – NVR with realtime local object detection for IP cameras
 - [borgbackup/borg](https://github.com/borgbackup/borg) – Deduplicating archiver with compression and authenticated encryption.
@@ -1985,7 +1985,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair) – Generate pair records for iOS and save them
 - [jlpatter/oxidized_git](https://github.com/jlpatter/oxidized_git) – A Git GUI written in Rust!
-- [joamag/boytacean](https://github.com/joamag/boytacean) – A GB emulator that is written in Rust 🦀!
+- [joamag/boytacean](https://github.com/joamag/boytacean) – A GB & GBA emulator that is written in Rust 🦀!
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [jonaylor89/sherlock-rs](https://github.com/jonaylor89/sherlock-rs) – Hunt down social media accounts by username across social networks
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) – Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
@@ -2203,7 +2203,6 @@
 - [fireph/docker-twitch-drops-miner](https://github.com/fireph/docker-twitch-drops-miner) – Unofficial Docker container for Twitch Drops Miner
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) – A fish-shell package to automatically receive notifications when long processes finish.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) – Free & Open source macOS Cursors.
-- [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) – SteamOS 3 (Holo) archiso configuration
 - [homeassistant-apps/app-cloudflared](https://github.com/homeassistant-apps/app-cloudflared) – Connect remotely to your Home Assistant instance without opening any ports using Cloudflared.
 - [ih8d8/archstrap](https://github.com/ih8d8/archstrap) – Scripts to automate my encrypted Arch Linux setup
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) – Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is 
