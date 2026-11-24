@@ -783,7 +783,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) – A self-hosted dashboard that puts all your feeds in one place
 - [gogs/gogs](https://github.com/gogs/gogs) – The painless way to host your own Git service
 - [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker is a WireGuard-powered Zero Trust networking platform for building fast, secure, and scalable virtual networks across clouds, devices, and infrastructure.
 - [hashicorp/vault](https://github.com/hashicorp/vault) – A tool for secrets management, encryption as a service, and privileged access management
 - [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring with historical data, docker stats, and alerts.
 - [home-assistant/os-agent](https://github.com/home-assistant/os-agent) – Daemon allowing to control OS features through D-Bus
@@ -1548,6 +1548,7 @@
 - [TwitchIO/TwitchIO](https://github.com/TwitchIO/TwitchIO) – A fully featured, powerful async Python library for the Twitch API and EventSub.
 - [Unidata/MetPy](https://github.com/Unidata/MetPy) – MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
 - [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) – List of public proxies, and checked to some domain like Google, Facebook, Twitter
+- [Vnnc1/MK8-online](https://github.com/Vnnc1/MK8-online) – Experimental static recompilation of Mario Kart 8 Deluxe 4.0.1 for Windows x64 and Linux amd64. Native Vulkan runtime, Mii creator, online play via Nextendo and Steam rooms. Bring your own game files and keys: no ROMs, assets or keys included.
 - [Vortitron/energy-sensor-generator](https://github.com/Vortitron/energy-sensor-generator) – Add kWh sensors to HA
 - [Warths/Rocksmith-Scene-Switcher](https://github.com/Warths/Rocksmith-Scene-Switcher) – Rocksmith 2014 scene switcher for OBS
 - [Windows200000/TwitchDropsMiner-updated](https://github.com/Windows200000/TwitchDropsMiner-updated) – This was an app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
@@ -1626,7 +1627,7 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence for Home Assistant. Shows which room every iPhone, Android phone, Apple Watch and tag is in, live, on a 3D floor plan of your house. Works with the ESPHome or Shelly Bluetooth proxies you already have, and runs next to Bermuda or ESPresense. Try it in your browser: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall tablet in kiosk mode. Uses the ESPHome or Shelly Bluetooth proxies you already have, next to Bermuda or ESPresense. Demo: padspan.traks.ca/demo
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, albums, playlists, music videos, and uploaded videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
@@ -1834,6 +1835,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A decentralised discussion platform for communities.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) – A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Majora320/steamid-ng](https://github.com/Majora320/steamid-ng) – An easy-to-use steamid type with functions to parse and render steam2 and steam3 IDs.
+- [Marvisak/VIctory](https://github.com/Marvisak/VIctory) – An attempt at running GTA VI on PC
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) – A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
 - [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) – Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features 
@@ -1952,6 +1954,7 @@
 - [floneum/kalosm](https://github.com/floneum/kalosm) – Instant, controllable, local pre-trained AI models in Rust
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [fokshadev/rust-nitro-sniper](https://github.com/fokshadev/rust-nitro-sniper) – Fast and powerful Discord Nitro sniper written in Rust.
+- [freya-rs/freya](https://github.com/freya-rs/freya) – Cross-platform native GUI library for 🦀 Rust
 - [gamedig/rust-gamedig](https://github.com/gamedig/rust-gamedig) – Game Server Query Library.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) – A cross-platform, safe, pure-Rust graphics API.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) – The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -1979,6 +1982,7 @@
 - [imager-io/imager](https://github.com/imager-io/imager) – Automated image compression for efficiently distributing images on the web.
 - [iman-salmani/iplan](https://github.com/iman-salmani/iplan) – Your plan for improving personal life and workflow
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
+- [ivall/xcl](https://github.com/ivall/xcl) – Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 - [jacob-pro/solar-screen-brightness](https://github.com/jacob-pro/solar-screen-brightness) – Automatically adjust monitor / screen brightness at night using sunrise/sunset times
 - [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) – A fast & light weight Discord Client made with love using the Rust programming language.
@@ -2012,7 +2016,6 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) – A FUSE filesystem for your Google calendar
 - [magnesium-uploader/magnesium-oxide](https://github.com/magnesium-uploader/magnesium-oxide) – A blazingly fast, privacy-first ShareX uploader coded in Rust (using actix web) which utilizes the AES256-GCM-SIV encryption standard to securely store uploaded content.
 - [magnetophon/lamb-rs](https://github.com/magnetophon/lamb-rs) – A lookahead compressor/limiter that's soft as a lamb.
-- [marc2332/freya](https://github.com/marc2332/freya) – Cross-platform native GUI library for 🦀 Rust
 - [marhkb/pods](https://github.com/marhkb/pods) – Manage your containers
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) – Official successor to conduwuit
 - [maxomatic458/bedwa-rs](https://github.com/maxomatic458/bedwa-rs) – a bedwars server written in rust
@@ -2563,7 +2566,7 @@
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr)
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) – Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [saalikmubeen/talkhouse](https://github.com/saalikmubeen/talkhouse) – WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.
-- [sansblues/faceitperf](https://github.com/sansblues/faceitperf) – An app that shows any FACEIT player's stats the way HLTV does
+- [sansblues/faceitperf](https://github.com/sansblues/faceitperf) – View any FACEIT player's stats the way HLTV does
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) – Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [seiKiMo-Inc/Laudiolin](https://github.com/seiKiMo-Inc/Laudiolin) – High-quality* music player.
 - [sharknoon/wero-tracker](https://github.com/sharknoon/wero-tracker) – A simple dashboard that shows the adoption of the payment provider Wero by individual banks and online shops
