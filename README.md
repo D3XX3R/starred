@@ -734,6 +734,7 @@
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) – A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) – Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [TheDevMinerTV/package-size-calculator](https://github.com/TheDevMinerTV/package-size-calculator)
+- [TheWoomy27/steelseries-gg-linux](https://github.com/TheWoomy27/steelseries-gg-linux) – Run SteelSeries GG on Linux: Engine, Sonar, Moments, Prism and GameSense, using the official client.
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) – an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [Trugamr/wol](https://github.com/Trugamr/wol) – 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) – Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
@@ -986,7 +987,6 @@
 - [0x41c/invisible-chat](https://github.com/0x41c/invisible-chat) – A cool Powercord plugin
 - [Alex313031/apple-music-desktop](https://github.com/Alex313031/apple-music-desktop) – An Electron app that provides a native Apple Music experience for Linux & Windows.
 - [Alex313031/quark-player](https://github.com/Alex313031/quark-player) – An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
-- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) – The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) – Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [BeepIsla/CSGO-Overwatch-Bot](https://github.com/BeepIsla/CSGO-Overwatch-Bot) – Automatically solve CSGO Overwatch cases
@@ -1108,6 +1108,7 @@
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) – A web-based collaborative LaTeX editor
 - [padloc/padloc](https://github.com/padloc/padloc) – A modern, open source password manager for individuals and teams.
 - [phiilu/mailman](https://github.com/phiilu/mailman) – Mailman is a GUI to help you manage your email accounts stored in a MySQL/MariaDB database.
+- [piskevalee-cpu/OpenSync](https://github.com/piskevalee-cpu/OpenSync) – Bring ownership back, sync your saves
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi) – ClamAV antivirus scanning for Node.js — scan file uploads with a single  function call. Zero dependencies. Typed Symbol verdicts. Local or Docker/clamd.
 - [positive-intentions/chat](https://github.com/positive-intentions/chat) – Decentralized chat
@@ -1364,6 +1365,7 @@
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) – An example of Shelf Cloud ready-to-run docker-compose 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) – :whale: A curated list of Docker resources and projects
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
+- [xodus-gaming/xgameruntime-docs](https://github.com/xodus-gaming/xgameruntime-docs) – Documenting xgameruntime.dll internals
 - [zencq/nomnom](https://github.com/zencq/nomnom) – NomNom is one of the most complete savegame editor for No Man's Sky but also shows additional information around the data you're about to change.
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) – A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
@@ -1448,6 +1450,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS) – This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 - [Akulatraxas/ha-modbusproxy](https://github.com/Akulatraxas/ha-modbusproxy) – Hassio Addon packaging modus-proxy
+- [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) – Flightradar24 integration for Home Assistant
 - [AlienMajik/SnoopR](https://github.com/AlienMajik/SnoopR) – A Python tool to detect and visualize Wi-Fi/Bluetooth snoopers and network security alerts from Kismet logs.
 - [Alwinator/aw-watcher-table](https://github.com/Alwinator/aw-watcher-table) – An Activity Watch watcher which monitors whether you have set your height-adjustable table to sitting or standing.
 - [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) – An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
@@ -1503,7 +1506,6 @@
 - [Le-Maxime/HA-Addons](https://github.com/Le-Maxime/HA-Addons)
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) – Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [LooLzzz/docking-station](https://github.com/LooLzzz/docking-station)
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) – A Grub Theme in the style of Minecraft!
 - [M4TH1EU/HA-EasyComputerManager](https://github.com/M4TH1EU/HA-EasyComputerManager) – An easy to use HomeAssistant integration to control (dualboot) computers.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) – Insular email distribution - mail server as Docker images
 - [MalloyDelacroix/DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) – The Downloader for Reddit is a GUI application with some advanced features to extract and download submitted content from reddit.
@@ -1627,7 +1629,7 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist) – FMHY Filterlist
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) – Free, open source crypto trading bot
-- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – Bluetooth room presence and a live house map for Home Assistant. See which room every iPhone, Android phone, Apple Watch and tag is in, on a floor plan with your lights, in 2D or 3D. Runs on a wall tablet in kiosk mode. Uses the ESPHome or Shelly Bluetooth proxies you already have, next to Bermuda or ESPresense. Demo: padspan.traks.ca/demo
+- [gbroeckling/padspanHA](https://github.com/gbroeckling/padspanHA) – An eminently intuitive control panel for your house, as simple or complex as you need: lights and locks a tap away, each door and alarm in its room, on a live 2D or 3D map on a wall tablet. Shelly or ESPHome Bluetooth proxies show which room every iPhone, Android phone, Apple Watch and tag is in, next to Bermuda or ESPresense. padspan.traks.ca/demo
 - [gillesvangestel/ConvertWhatsAppToSMS](https://github.com/gillesvangestel/ConvertWhatsAppToSMS) – Convert your WhatsApp messages to Signal (Android only!)
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) – A command-line app for downloading Apple Music songs, albums, playlists, music videos, and uploaded videos.
 - [gnhen/midscroll](https://github.com/gnhen/midscroll) – FOSS Middle Mouse Scroll replacement for Linux
@@ -1724,7 +1726,7 @@
 - [spa1teN/Tausendsassa](https://github.com/spa1teN/Tausendsassa) – Multi-purpose Discord bot — RSS/Reddit/Bluesky feeds with CV2 embeds, interactive world map with 3D globe, iCal calendar sync, moderation logging, feedback system, and web admin dashboard.
 - [sparklost/endcord](https://github.com/sparklost/endcord) – The most feature rich Discord TUI client.
 - [sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-](https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-) – Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser.
-- [starman-tech/mousepods](https://github.com/starman-tech/mousepods) – Your AirPods are a mouse: AirPods 3 head tracking on Linux, and the first public documentation of Apple RemoteHID (HID over AACP)
+- [starman-tech/Mousepods](https://github.com/starman-tech/Mousepods) – Your AirPods are a mouse: AirPods 3 head tracking on Linux, and the first public documentation of Apple RemoteHID (HID over AACP)
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) – 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) – A collection of IPA files from many different sources, for TrollStore!
@@ -1798,12 +1800,14 @@
 - [Barafu/IrateGoose](https://github.com/Barafu/IrateGoose) – A GUI to turn on the surround sound capability of Pipewire
 - [Barre/privaxy](https://github.com/Barre/privaxy) – Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
 - [BeechatNetworkSystemsLtd/rns-vpn-rs](https://github.com/BeechatNetworkSystemsLtd/rns-vpn-rs) – VPN over Reticulum mesh network
+- [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD)
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) – bloop is a fast code search engine written in Rust.
 - [Browsers-software/browsers](https://github.com/Browsers-software/browsers) – Open the right browser at the right time
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) – A datetime library for Rust that encourages you to jump into the pit of success.
 - [CCBlueX/LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher) – A custom Minecraft launcher for LiquidBounce
 - [Canleskis/ephemeris-explorer](https://github.com/Canleskis/ephemeris-explorer) – A simulator of gravitationally bound systems.
 - [ChecksumDev/lumen](https://github.com/ChecksumDev/lumen) – Lumen is an astronomically fast ShareX uploader written in Rust using the Actix Web framework
+- [CtrlAssist/CtrlAssist](https://github.com/CtrlAssist/CtrlAssist) – Controller Assist for gaming on Linux
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) – A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
 - [DavorMar/rustautogui](https://github.com/DavorMar/rustautogui) – Highly optimized GUI automation rust library for controlling the mouse and keyboard, with template matching support.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
@@ -1982,7 +1986,6 @@
 - [imager-io/imager](https://github.com/imager-io/imager) – Automated image compression for efficiently distributing images on the web.
 - [iman-salmani/iplan](https://github.com/iman-salmani/iplan) – Your plan for improving personal life and workflow
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
-- [ivall/xcl](https://github.com/ivall/xcl) – Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 - [jacob-pro/solar-screen-brightness](https://github.com/jacob-pro/solar-screen-brightness) – Automatically adjust monitor / screen brightness at night using sunrise/sunset times
 - [janhq/jan](https://github.com/janhq/jan) – Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) – A fast & light weight Discord Client made with love using the Rust programming language.
@@ -2074,7 +2077,6 @@
 - [robotty/recent-messages2](https://github.com/robotty/recent-messages2) – Service to provide historical messages to Twitch chat clients
 - [robotty/twitch-irc-rs](https://github.com/robotty/twitch-irc-rs) – Twitch IRC library for the Rust programming language
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
-- [ruffsl/CtrlAssist](https://github.com/ruffsl/CtrlAssist) – Controller Assist for gaming on Linux
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [rust-lang/book](https://github.com/rust-lang/book) – The Rust Programming Language
 - [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
@@ -2153,6 +2155,7 @@
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) – A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [wiiznokes/fan-control](https://github.com/wiiznokes/fan-control) – Control your fans with different behaviors
 - [word-sys/puls](https://github.com/word-sys/puls) – A unified system monitoring and management tool for Linux
+- [xcl-dev/xcl](https://github.com/xcl-dev/xcl) – Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 - [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus) – The great gaming migration to Linux and macOS
 - [yamadapc/augmented-audio](https://github.com/yamadapc/augmented-audio) – Rust - Augmented Audio Libraries
 - [yapfast/yapfast](https://github.com/yapfast/yapfast) – A lightweight Discord client without the web browser. Native, written in Rust, about 30 MB of RAM idle.
@@ -2186,6 +2189,7 @@
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) – 🌊 The ultimate Fish prompt.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube and other services freely. 
 - [JakubSzark/wardogs-elytra-proton-fix](https://github.com/JakubSzark/wardogs-elytra-proton-fix) – A fix regarding elytra and proton for wardogs playtest
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) – A Grub Theme in the style of Minecraft!
 - [MatthewVance/unbound-docker-rpi](https://github.com/MatthewVance/unbound-docker-rpi) – Run Unbound with latest version of OpenSSL on Raspberry Pi with Docker.
 - [Morzomb/All-jellyfin-media-server](https://github.com/Morzomb/All-jellyfin-media-server) – Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose
 - [OopyDoopy/ReShade-Tools](https://github.com/OopyDoopy/ReShade-Tools)
