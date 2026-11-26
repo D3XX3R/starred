@@ -318,6 +318,7 @@
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) – .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [insomniachi/FluentFin](https://github.com/insomniachi/FluentFin)
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) – Automatically detect and skip intro/credit sequences in Jellyfin
+- [isaac-btw/AmericasLauncher](https://github.com/isaac-btw/AmericasLauncher) – A modern Windows launcher that automatically sets up, updates, builds, and launches Xbox Series X|S (GDK) compatibility layers on Windows — with live port progress tracking built in.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) – The Free Software Media System - Server Backend & API
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)
 - [joshuascript/sbox-public](https://github.com/joshuascript/sbox-public) – s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
@@ -342,6 +343,7 @@
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) – OpenBullet reinvented
 - [pearlxcore/PS5PKGTool](https://github.com/pearlxcore/PS5PKGTool) – A Windows app for managing your PS5 dump and image collection, reading PS5 packages, and building or converting images.
 - [porrasm/csgo-chat-gpt](https://github.com/porrasm/csgo-chat-gpt) – ChatGPT integrated into CS:GO chat.
+- [raynedotstudio/Rise-Media-Player](https://github.com/raynedotstudio/Rise-Media-Player) – One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) – Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
 - [robvdpol/RaceControl](https://github.com/robvdpol/RaceControl) – Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.
@@ -356,7 +358,6 @@
 - [svenmauch/WinSlap](https://github.com/svenmauch/WinSlap) – Swiftly configure a fresh Windows 10 installation with useful tweaks and privacy settings.
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) – Port of macOS Mojave Dynamic Desktop feature to Windows
 - [the-hideout/TarkovMonitor](https://github.com/the-hideout/TarkovMonitor) – Monitor Tarkov log files to help track progress, queues, and groups
-- [theimpactfulcompany/Rise-Media-Player](https://github.com/theimpactfulcompany/Rise-Media-Player) – One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) – The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [void-stack/VMUnprotect](https://github.com/void-stack/VMUnprotect) – VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) – GUI Tool To Remove Ads From Various Places Around Windows 11
@@ -985,6 +986,7 @@
 ## JavaScript
 
 - [0x41c/invisible-chat](https://github.com/0x41c/invisible-chat) – A cool Powercord plugin
+- [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) – Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 - [Alex313031/apple-music-desktop](https://github.com/Alex313031/apple-music-desktop) – An Electron app that provides a native Apple Music experience for Linux & Windows.
 - [Alex313031/quark-player](https://github.com/Alex313031/quark-player) – An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) – The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -2128,7 +2130,7 @@
 - [tommoa/rs-process-memory](https://github.com/tommoa/rs-process-memory) – A rust library that allows you to read/write into the memory of other processes
 - [tonarino/innernet](https://github.com/tonarino/innernet) – A private network system that uses WireGuard under the hood.
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) – 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A safety oriented and memory safe implementation of sudo and su
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) – A modular, reusable university course for Rust
 - [trumank/uesave](https://github.com/trumank/uesave) – Rust library and CLI to read and write Unreal Engine save files
 - [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi) – A simple third-party Jellyfin client for Linux
@@ -2499,7 +2501,7 @@
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) – Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [jesec/flood](https://github.com/jesec/flood) – A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) – A code snippet storage solution written in React & node.js
-- [jpettitt/weather-radar-card](https://github.com/jpettitt/weather-radar-card) – A rain radar card using the tiled images from RainViewer
+- [jpettitt/weather-radar-card](https://github.com/jpettitt/weather-radar-card) – Animated weather radar for Home Assistant: RainViewer, NOAA and DWD radar, with wind, lightning, earthquake, NWS alert and wildfire overlays.
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) – The npm-style script runner for Deno
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) – Blocks all Twitter Blue verified users on twitter.com
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) – Xplorer, a customizable, modern file manager
